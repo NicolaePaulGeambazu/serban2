@@ -90,21 +90,24 @@ const website = {
           var p = new URLSearchParams(location.search);
           var gid = p.get('gclid') || p.get('gbraid') || p.get('wbraid');
           if (gid) localStorage.setItem('vk_gclid', gid);
-          var gclid = localStorage.getItem('vk_gclid');
-          if (!gclid) return;
-          var consent = null;
-          try { consent = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null'); } catch (e) {}
-          if (!consent || !consent.marketing) return; // ad tracking needs marketing consent
-          function tag(a) {
-            var href = a.getAttribute('href');
-            if (!href || href.indexOf('psntrf=') > -1) return;
-            a.setAttribute('href', href + (href.indexOf('?') > -1 ? '&' : '?') + 'psntrf=' + encodeURIComponent(gclid));
+          function hasMarketing() {
+            try { var c = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null'); return !!(c && c.marketing); } catch (e) { return false; }
           }
-          // tag existing affiliate links on load (inspectable) + any clicked later
-          document.querySelectorAll('a[href*="l.profitshare.ro/l/"]').forEach(tag);
-          document.addEventListener('click', function (e) {
+          function tag(a) {
+            var g = localStorage.getItem('vk_gclid');
+            var href = a.getAttribute('href');
+            if (!g || !href || href.indexOf('psntrf=') > -1) return;
+            a.setAttribute('href', href + (href.indexOf('?') > -1 ? '&' : '?') + 'psntrf=' + encodeURIComponent(g));
+          }
+          function run() {
+            if (!localStorage.getItem('vk_gclid') || !hasMarketing()) return;
+            document.querySelectorAll('a[href*="l.profitshare.ro/l/"]').forEach(tag);
+          }
+          run();                                   // on load (if consent already given)
+          window.addEventListener('vk-consent', run); // re-run the moment the user accepts
+          document.addEventListener('click', function (e) {  // fallback on click
             var a = e.target.closest && e.target.closest('a[href*="l.profitshare.ro/l/"]');
-            if (a) tag(a);
+            if (a && hasMarketing()) tag(a);
           }, true);
         } catch (e) {}
       })();

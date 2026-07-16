@@ -86,6 +86,8 @@ const gtmId = site.googleTagManagerId;
         if (gtmId) loadGTM();
         else if (c.analytics) loadGtag();
       }
+      // Let the gclid tagger re-run immediately (no page reload needed).
+      try { window.dispatchEvent(new Event('vk-consent')); } catch (e) {}
     }
     function save(c) {
       c.v = 2; c.ts = new Date().toISOString();
