@@ -6,6 +6,8 @@ export const site = {
   description:
     'Comparăm prețuri, specificații și mii de recenzii de pe eMAG ca să găsești cel mai bun raport calitate-preț. Clasamente obiective pentru electrocasnice, electronice și multe altele.',
   email: 'contact@topalegeri.ro',
+  // Paste your GA4 Measurement ID here (looks like "G-XXXXXXXXXX"). Empty = analytics off.
+  googleAnalyticsId: '',
   locale: 'ro_RO',
   lang: 'ro',
   themeColor: '#0F1B2D',

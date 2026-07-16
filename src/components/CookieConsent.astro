@@ -1,6 +1,8 @@
 ---
 // Custom, self-hosted consent manager — no third-party CMP needed.
 // Scripts for analytics / affiliate tags load ONLY after the matching consent.
+import { site } from '../data/site';
+const gaId = site.googleAnalyticsId;
 ---
 <div class="cookie" id="cookie" hidden role="dialog" aria-label="Consimțământ cookie-uri" aria-live="polite">
   <p><b style="color:#fff">Respectăm alegerea ta.</b> Folosim cookie-uri necesare pentru funcționarea site-ului și, doar cu acordul tău, cookie-uri de analiză și de afiliere. <button class="ck-link" id="ckPolicy1">Politica de cookie-uri</button></p>
@@ -39,7 +41,7 @@
   </div>
 </div>
 
-<script>
+<script define:vars={{ gaId }}>
   (function () {
     var KEY = 'vk_consent_v2';
     var bar = document.getElementById('cookie');
@@ -49,10 +51,23 @@
     var cbM = document.getElementById('ckMarketing');
 
     function read() { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { return null; } }
+    function loadAnalytics() {
+      if (!gaId || window.__ga) return;
+      window.__ga = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', gaId, { anonymize_ip: true });
+    }
     function apply(c) {
       // Load scripts ONLY for accepted categories:
-      if (c && c.analytics) { /* window.loadAnalytics && window.loadAnalytics(); */ }
-      if (c && c.marketing) { /* window.loadAffiliateTag && window.loadAffiliateTag(); */ }
+      if (c && c.analytics) loadAnalytics();
+      // Profitshare tracks via the deeplink click itself — no on-site marketing tag needed.
     }
     function save(c) {
       c.v = 2; c.ts = new Date().toISOString();

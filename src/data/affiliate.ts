@@ -1,35 +1,29 @@
 /**
- * Affiliate deeplink builder.
+ * Affiliate link handling.
  *
- * eMAG's Romanian affiliate program runs through Profitshare (owned by eMAG)
- * and 2Performant. Both give you a "deeplink" / "quicklink" base that wraps a
- * destination URL and attaches your tracking so you get the commission.
+ * Profitshare's "link simplu" is a fixed short link per product and does NOT
+ * accept a ?url= override, so it can't be used as a reusable deeplink base.
+ * The scalable way with Profitshare is their auto-convert SCRIPT: buttons point
+ * to normal eMAG product URLs, and the script (loaded after cookie consent in
+ * CookieConsent.astro) rewrites them into tracked affiliate links at runtime.
  *
- * 1. Pick your network below.
- * 2. Paste your real base from the network dashboard (Profitshare: Tools → Deeplink).
- * Links are built at BUILD TIME (static), so there is no client-side JS and the
- * markup already carries rel="sponsored nofollow".
+ * mode:
+ *  - 'script'   → emit the raw store URL; the Profitshare auto-script converts it. (default)
+ *  - 'deeplink' → wrap each URL in `deeplinkBase` (only for networks that honour ?url=,
+ *                 e.g. a 2Performant quicklink).
  */
 export const AFFILIATE = {
-  network: 'profitshare' as 'profitshare' | '2performant',
-  // Profitshare deeplink base (the id is tied to your account; ?url= sets the destination):
-  profitshareBase: 'https://l.profitshare.ro/l/16182361?url=',
-  // 2Performant quicklink — replace AFF_CODE / UNIQUE with your values:
-  twoPBase:
-    'https://event.2performant.com/events/click?ad_type=quicklink&aff_code=AFF_CODE&unique=UNIQUE&redirect_to=',
-  // While these still contain the placeholders, deeplink() returns the raw eMAG
-  // URL so local/dev links work. Real tracking kicks in once you paste your base.
+  mode: 'script' as 'script' | 'deeplink',
+  // Used only when mode === 'deeplink':
+  deeplinkBase: 'https://event.2performant.com/events/click?ad_type=quicklink&aff_code=AFF_CODE&unique=UNIQUE&redirect_to=',
 };
 
-function isConfigured(base: string): boolean {
-  return !/PROFITSHARE_ID|AFF_CODE|UNIQUE/.test(base);
-}
-
 export function deeplink(dest: string): string {
-  const base =
-    AFFILIATE.network === '2performant' ? AFFILIATE.twoPBase : AFFILIATE.profitshareBase;
-  if (!isConfigured(base)) return dest; // not set up yet → link straight to eMAG
-  return base + encodeURIComponent(dest);
+  // Already an affiliate link? leave it as-is (lets you hand-place a Profitshare
+  // "link simplu" in a product's emagUrl if you ever want to).
+  if (/profitshare\.ro|2performant\.com/.test(dest)) return dest;
+  if (AFFILIATE.mode === 'deeplink') return AFFILIATE.deeplinkBase + encodeURIComponent(dest);
+  return dest; // script mode
 }
 
 /** rel value for every outbound affiliate link (SEO + disclosure best practice). */
