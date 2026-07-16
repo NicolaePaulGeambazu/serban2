@@ -10,6 +10,7 @@ const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b
 const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order).slice(0, 3);
 const fmt = (n: number) => n.toLocaleString('ro-RO');
 
+const nProducts = cats.reduce((n, c) => n + c.data.products.length, 0);
 const featured = cats[0];
 const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0];
 ---
@@ -30,8 +31,8 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
           {cats.map((c) => <a href={`/clasament/${c.id}/`}>{c.data.parent === c.data.h1 ? c.data.h1 : c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</a>)}
         </div>
         <div class="trust-row">
-          <div><span class="n">{site.stats.products}</span><span class="l">produse analizate</span></div>
-          <div><span class="n">{site.stats.rankings}</span><span class="l">clasamente</span></div>
+          <div><span class="n">{nProducts}</span><span class="l">produse comparate</span></div>
+          <div><span class="n">{cats.length}</span><span class="l">categorii</span></div>
           <div><span class="n">independent</span><span class="l">locurile nu se cumpără</span></div>
         </div>
       </div>
@@ -95,17 +96,17 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
     <div class="wrap">
       <div class="s-head">
         <div>
-          <span class="eyebrow">Cum testăm</span>
-          <h2 style="margin-top:10px">Aceiași patru pași, pentru fiecare produs</h2>
-          <p class="sub" style="color:#9DB0C6">Fără păreri plătite. Un produs urcă în clasament doar dacă merită după date — nu după cine plătește mai mult.</p>
+          <span class="eyebrow">Cum lucrăm</span>
+          <h2 style="margin-top:10px">Cum alegem produsele</h2>
+          <p class="sub" style="color:#9DB0C6">Fără păreri plătite. Comparăm specificațiile reale și recenziile publice de pe eMAG — un produs urcă doar dacă merită, nu după cine plătește mai mult.</p>
         </div>
-        <a class="more" href="/cum-testam/" style="color:var(--gold)">Cum testăm →</a>
+        <a class="more" href="/cum-testam/" style="color:var(--gold)">Cum lucrăm →</a>
       </div>
       <div class="steps">
-        <div class="step"><div class="no">01</div><h3>Strângem datele</h3><p>Specificații, preț și istoric, plus toate recenziile publice de pe eMAG.</p></div>
-        <div class="step"><div class="no">02</div><h3>Cântărim obiectiv</h3><p>Un scor pe criterii clare: performanță, fiabilitate, zgomot și raport calitate-preț.</p></div>
-        <div class="step"><div class="no">03</div><h3>Comparăm în context</h3><p>Fiecare model e pus față în față cu rivalii din aceeași gamă de preț.</p></div>
-        <div class="step"><div class="no">04</div><h3>Reverificăm des</h3><p>Prețurile se schimbă. Le urmărim, ca verdictul să rămână corect.</p></div>
+        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și recenziile publice de pe eMAG.</p></div>
+        <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
+        <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
+        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și piața se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
       </div>
       <div class="disclosure">
         <Icon name="info" />

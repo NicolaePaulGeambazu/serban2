@@ -1,7 +1,7 @@
 export const mainNav = [
   { label: 'Categorii', href: '/categorii/' },
   { label: 'Clasamente', href: '/categorii/' },
-  { label: 'Cum testăm', href: '/cum-testam/' },
+  { label: 'Cum lucrăm', href: '/cum-testam/' },
   { label: 'Ghiduri', href: '/ghiduri/' },
 ];
 
@@ -18,7 +18,7 @@ export const footerNav = [
   {
     title: 'TopAlegeri',
     links: [
-      { label: 'Cum testăm', href: '/cum-testam/' },
+      { label: 'Cum lucrăm', href: '/cum-testam/' },
       { label: 'Despre noi', href: '/despre/' },
       { label: 'Ghiduri', href: '/ghiduri/' },
       { label: 'Contact', href: '/despre/#contact' },
