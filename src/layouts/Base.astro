@@ -95,12 +95,16 @@ const website = {
           var consent = null;
           try { consent = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null'); } catch (e) {}
           if (!consent || !consent.marketing) return; // ad tracking needs marketing consent
-          document.addEventListener('click', function (e) {
-            var a = e.target.closest && e.target.closest('a[href*="l.profitshare.ro/l/"]');
-            if (!a) return;
+          function tag(a) {
             var href = a.getAttribute('href');
             if (!href || href.indexOf('psntrf=') > -1) return;
             a.setAttribute('href', href + (href.indexOf('?') > -1 ? '&' : '?') + 'psntrf=' + encodeURIComponent(gclid));
+          }
+          // tag existing affiliate links on load (inspectable) + any clicked later
+          document.querySelectorAll('a[href*="l.profitshare.ro/l/"]').forEach(tag);
+          document.addEventListener('click', function (e) {
+            var a = e.target.closest && e.target.closest('a[href*="l.profitshare.ro/l/"]');
+            if (a) tag(a);
           }, true);
         } catch (e) {}
       })();

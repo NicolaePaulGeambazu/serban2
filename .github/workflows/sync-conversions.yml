@@ -12,7 +12,7 @@ name: Sync affiliate conversions to Google Ads
 
 on:
   schedule:
-    - cron: '0 4 * * *' # every day at 04:00 UTC (~07:00 RO)
+    - cron: '0 * * * *' # every hour, on the hour (UTC)
   workflow_dispatch: {}   # allow manual run from the Actions tab
 
 jobs:
