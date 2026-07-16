@@ -55,4 +55,21 @@ const guides = defineCollection({
   }),
 });
 
-export const collections = { categories, guides };
+const comparisons = defineCollection({
+  type: 'data',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    updated: z.string(),
+    order: z.number().default(100),
+    category: z.string(), // category id (json filename) the two products live in
+    a: z.string(),        // product id
+    b: z.string(),        // product id
+    intro: z.string(),
+    verdictA: z.string(), // when to pick A
+    verdictB: z.string(), // when to pick B
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+  }),
+});
+
+export const collections = { categories, guides, comparisons };

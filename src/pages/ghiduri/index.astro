@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 
 const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
+const comparisons = (await getCollection('comparisons')).sort((a, b) => a.data.order - b.data.order);
 const slugOf = (id: string) => id.replace(/\.md$/, '');
 ---
 <Base title="Ghiduri de cumpărare" description="Ghiduri pe înțelesul tuturor: ce contează cu adevărat înainte să cumperi, fără jargon de fișă tehnică." current="/ghiduri/">
@@ -28,5 +29,29 @@ const slugOf = (id: string) => id.replace(/\.md$/, '');
         ))}
       </div>
     </section>
+
+    {comparisons.length > 0 && (
+      <section style="padding-top:0">
+        <div class="s-head" style="margin-bottom:20px">
+          <div>
+            <span class="eyebrow">Comparații</span>
+            <h2 style="margin-top:10px">Cap la cap: X vs Y</h2>
+            <p class="sub">Două produse populare, față în față — ce alegi și pentru cine.</p>
+          </div>
+        </div>
+        <div class="guides">
+          {comparisons.map((c) => (
+            <a class="guide" href={`/compara/${c.id}/`}>
+              <div class="top"><span class="k">Comparație</span></div>
+              <div class="body">
+                <h3>{c.data.title}</h3>
+                <p>{c.data.description}</p>
+                <span class="rd">Vezi comparația →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
   </div>
 </Base>

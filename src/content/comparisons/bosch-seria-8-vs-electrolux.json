@@ -1,0 +1,16 @@
+{
+  "title": "Bosch Seria 8 vs Electrolux EOF6P76X2 (cuptor cu piroliză)",
+  "description": "Două cuptoare încorporabile cu autocurățare prin piroliză: premium și conectat (Bosch) vs. piroliză la preț mai bun (Electrolux).",
+  "updated": "2026-07-16",
+  "order": 3,
+  "category": "cuptoare-incorporabile",
+  "a": "p2",
+  "b": "p3",
+  "intro": "Ambele cuptoare au piroliză — cea mai comodă autocurățare (arde resturile, doar ștergi cenușa). Bosch Seria 8 e varianta premium, cu 14 funcții și control din aplicație (Home Connect); Electrolux EOF6P76X2 îți dă piroliză și gătit uniform la un preț mai prietenos.",
+  "verdictA": "Dacă vrei maximum de versatilitate — 14 funcții, control din telefon (Home Connect) — și ai buget premium.",
+  "verdictB": "Dacă vrei piroliza (autocurățare completă) și gătit bun la cel mai mic preț, fără funcții smart de care poate nu ai nevoie.",
+  "faq": [
+    { "q": "Ambele se curăță singure complet?", "a": "Da, ambele au piroliză — ard resturile la temperatură mare, iar tu doar ștergi cenușa. E cel mai comod sistem de autocurățare." },
+    { "q": "Merită Home Connect la Bosch?", "a": "E util dacă vrei să pornești/monitorizezi cuptorul din telefon. Nu schimbă calitatea gătitului — dacă nu-ți trebuie, Electrolux îți oferă aceeași piroliză mai ieftin." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "LG OLED C5 vs TCL QD-MiniLED 55C6K",
+  "description": "OLED vs QD-MiniLED la 55 inch: negrul perfect și gaming complet al LG C5 vs. luminozitatea și prețul mult mai bun al TCL.",
+  "updated": "2026-07-16",
+  "order": 2,
+  "category": "televizoare",
+  "a": "p1",
+  "b": "p2",
+  "intro": "E lupta clasică OLED vs MiniLED, la aceeași diagonală de 55\". LG OLED C5 are negru perfect și e regele contrastului; TCL 55C6K e QD-MiniLED — foarte luminos și cu un raport preț-imagine greu de bătut. Ambele au 100Hz pentru gaming.",
+  "verdictA": "Dacă te uiți mult la filme seara, în cameră întunecată, și vrei gaming exigent: contrastul și negrul OLED-ului LG sunt neîntrecute.",
+  "verdictB": "Dacă ai o cameră luminoasă și vrei valoare maximă: TCL îți dă cam 90% din experiență la aproape jumătate de preț, cu o imagine foarte luminoasă.",
+  "faq": [
+    { "q": "Merită diferența de preț pentru OLED?", "a": "Dacă privești în cameră întunecată și ești atent la calitatea imaginii, da. Dacă e cameră luminoasă sau bugetul contează, MiniLED-ul TCL e alegerea mai deșteaptă." },
+    { "q": "Sunt bune amândouă pentru PS5/Xbox?", "a": "Da, ambele au 100Hz. LG C5 are un avantaj la fluiditate și input lag (specific OLED), dar TCL se descurcă foarte bine pentru majoritatea jucătorilor." }
+  ]
+}

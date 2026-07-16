@@ -1,0 +1,16 @@
+{
+  "title": "Samsung QLED 55Q7F2 vs TCL QD-MiniLED 55C6K",
+  "description": "Două televizoare de 55 inch comparate: QLED accesibil Samsung vs. QD-MiniLED cu 100Hz de la TCL. Care e mai bun pentru banii tăi?",
+  "updated": "2026-07-16",
+  "order": 4,
+  "category": "televizoare",
+  "a": "p6",
+  "b": "p2",
+  "intro": "Două televizoare de 55\" în aceeași zonă de preț. Samsung Q7F2 e un QLED accesibil de la un brand mare; TCL 55C6K e QD-MiniLED, cu control mai bun al luminii și 100Hz pentru gaming. Ambele sunt luminoase și bune în camere cu lumină.",
+  "verdictA": "Dacă vrei cel mai mic preț pentru un 55\" QLED de la un brand cunoscut și te uiți mai ales la filme și seriale.",
+  "verdictB": "Dacă vrei imagine mai bună (QD-MiniLED controlează mai fin negrul) și 100Hz pentru gaming, la un preț apropiat.",
+  "faq": [
+    { "q": "Care are imagine mai bună?", "a": "TCL 55C6K, datorită tehnologiei QD-MiniLED (mai multe zone de iluminare, negru mai bun). Samsung Q7F2 rămâne un QLED solid, dar mai simplu." },
+    { "q": "Care e mai bun pentru gaming?", "a": "TCL — are 100Hz. Samsung Q7F2 e la 60Hz, suficient pentru filme dar nu ideal pentru consolele noi." }
+  ]
+}

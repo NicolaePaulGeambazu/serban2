@@ -6,6 +6,7 @@ export const GET: APIRoute = async () => {
   const base = site.url.replace(/\/$/, '');
   const cats = await getCollection('categories');
   const guides = await getCollection('guides');
+  const comparisons = await getCollection('comparisons');
 
   const staticPaths = [
     '/',
@@ -24,6 +25,9 @@ export const GET: APIRoute = async () => {
   cats.forEach((c) => urls.push({ loc: `${base}/clasament/${c.id}/`, lastmod: c.data.updated }));
   guides.forEach((g) =>
     urls.push({ loc: `${base}/ghiduri/${g.id.replace(/\.md$/, '')}/`, lastmod: g.data.updated })
+  );
+  comparisons.forEach((c) =>
+    urls.push({ loc: `${base}/compara/${c.id}/`, lastmod: c.data.updated })
   );
 
   const body =

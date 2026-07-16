@@ -1,0 +1,91 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Icon from '../../components/Icon.astro';
+import AffiliateButton from '../../components/AffiliateButton.astro';
+import Jsonld from '../../components/Jsonld.astro';
+import { site } from '../../data/site';
+
+export async function getStaticPaths() {
+  const comps = await getCollection('comparisons');
+  const cats = await getCollection('categories');
+  const catMap = new Map(cats.map((c) => [c.id, c]));
+  return comps.map((cmp) => {
+    const cat = catMap.get(cmp.data.category);
+    const pa = cat?.data.products.find((p) => p.id === cmp.data.a);
+    const pb = cat?.data.products.find((p) => p.id === cmp.data.b);
+    return { params: { slug: cmp.id }, props: { cmp, cat, pa, pb } };
+  });
+}
+
+const { cmp, cat, pa, pb } = Astro.props;
+const d = cmp.data;
+const shortCat = cat ? cat.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '') : '';
+const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const article = {
+  '@context': 'https://schema.org', '@type': 'Article',
+  headline: d.title, description: d.description,
+  datePublished: d.updated, dateModified: d.updated,
+  author: { '@type': 'Organization', name: `Redacția ${site.name}` },
+  publisher: { '@type': 'Organization', name: site.name },
+};
+const faqSchema = d.faq.length ? {
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+} : null;
+---
+<Base title={d.title} description={d.description} current="/ghiduri/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Comparații', href: '/ghiduri/' }, { label: d.title }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Comparație{shortCat ? ` · ${shortCat}` : ''}</span>
+      <h1>{d.title}</h1>
+      <p class="lede">{d.intro}</p>
+      <div class="meta-row"><span class="author"><span class="av">VR</span> Redacția {site.name}</span><span class="m">Actualizat <b>{updated}</b></span></div>
+    </section>
+
+    {pa && pb && (
+      <div class="vs-grid">
+        <article class="vs-card">
+          <div class="vimg">{pa.image ? <img src={pa.image} alt={pa.name} width="150" height="150" loading="lazy" /> : <Icon name="circle" />}</div>
+          <span class="pc-tag">{pa.tag}</span>
+          <h3 style="margin-top:8px">{pa.name}</h3>
+          {pa.specs.length > 0 && <div class="pc-chips" style="justify-content:center;margin-top:12px">{pa.specs.map((s) => <span>{s.label ? `${s.value} ${s.label}` : s.value}</span>)}</div>}
+          <div style="margin-top:16px"><AffiliateButton url={pa.affiliateUrl || pa.emagUrl} class="btn btn-primary" aria={`Vezi ${pa.name} pe eMAG`} /></div>
+        </article>
+        <div class="vs-mid">VS</div>
+        <article class="vs-card">
+          <div class="vimg">{pb.image ? <img src={pb.image} alt={pb.name} width="150" height="150" loading="lazy" /> : <Icon name="circle" />}</div>
+          <span class="pc-tag">{pb.tag}</span>
+          <h3 style="margin-top:8px">{pb.name}</h3>
+          {pb.specs.length > 0 && <div class="pc-chips" style="justify-content:center;margin-top:12px">{pb.specs.map((s) => <span>{s.label ? `${s.value} ${s.label}` : s.value}</span>)}</div>}
+          <div style="margin-top:16px"><AffiliateButton url={pb.affiliateUrl || pb.emagUrl} class="btn btn-primary" aria={`Vezi ${pb.name} pe eMAG`} /></div>
+        </article>
+      </div>
+    )}
+
+    <section class="article" style="padding-top:8px">
+      <div class="prose">
+        <h2>Care e verdictul?</h2>
+        <div class="vs-verdict">
+          <div class="box"><h4>Alege {pa?.name}</h4><p>{d.verdictA}</p></div>
+          <div class="box"><h4>Alege {pb?.name}</h4><p>{d.verdictB}</p></div>
+        </div>
+        {d.faq.length > 0 && (
+          <>
+            <h2>Întrebări frecvente</h2>
+            {d.faq.map((f) => (
+              <details class="q"><summary>{f.q}<span class="ic"><Icon name="plus" /></span></summary><div class="a">{f.a}</div></details>
+            ))}
+          </>
+        )}
+        {cat && <p style="margin-top:24px"><a href={`/clasament/${cat.id}/`} style="color:var(--emerald);font-weight:700">→ Vezi clasamentul complet de {shortCat}</a></p>}
+      </div>
+    </section>
+  </div>
+
+  <Jsonld schema={article} />
+  {faqSchema && <Jsonld schema={faqSchema} />}
+</Base>
