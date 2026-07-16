@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
+const slugOf = (id: string) => id.replace(/\.md$/, '');
+---
+<Base title="Ghiduri de cumpărare" description="Ghiduri pe înțelesul tuturor: ce contează cu adevărat înainte să cumperi, fără jargon de fișă tehnică." current="/ghiduri/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Ghiduri' }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Ghiduri de cumpărare</span>
+      <h1>Înțelege înainte să cumperi</h1>
+      <p class="lede">Explicăm pe înțelesul tuturor ce contează cu adevărat la fiecare produs — ca să iei o decizie bună, nu una grăbită.</p>
+    </section>
+    <section style="padding-top:20px">
+      <div class="guides">
+        {guides.map((g) => (
+          <a class="guide" href={`/ghiduri/${slugOf(g.id)}/`}>
+            <div class="top"><span class="k">{g.data.kicker}</span></div>
+            <div class="body">
+              <h3>{g.data.title}</h3>
+              <p>{g.data.description}</p>
+              <span class="rd">Citește ghidul →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Base>

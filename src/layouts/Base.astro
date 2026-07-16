@@ -1,0 +1,84 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CampaignStrip from '../components/CampaignStrip.astro';
+import CookieConsent from '../components/CookieConsent.astro';
+import Jsonld from '../components/Jsonld.astro';
+import { site } from '../data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  current?: string;
+  ogImage?: string;
+  noindex?: boolean;
+  bodyClass?: string;
+  showCampaign?: boolean;
+}
+const {
+  title,
+  description = site.description,
+  current,
+  ogImage,
+  noindex = false,
+  bodyClass,
+  showCampaign = true,
+} = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site ?? site.url).href;
+const fullTitle = title ? `${title} — ${site.name}` : `${site.name} — ${site.tagline}`;
+const ogImageUrl = ogImage ? new URL(ogImage, site.url).href : undefined;
+
+const org = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: site.name,
+  url: site.url,
+  description: site.description,
+  email: site.email,
+};
+const website = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: site.name,
+  url: site.url,
+  inLanguage: 'ro-RO',
+};
+---
+<!doctype html>
+<html lang={site.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    <meta name="theme-color" content={site.themeColor} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap.xml" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={site.locale} />
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+
+    <Jsonld schema={[org, website]} />
+  </head>
+  <body class={bodyClass}>
+    <a class="skip" href="#main">Sari la conținut</a>
+    {showCampaign && <CampaignStrip />}
+    <Header current={current} />
+    <main id="main"><slot /></main>
+    <Footer />
+    <slot name="after" />
+    <CookieConsent />
+  </body>
+</html>

@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { site } from '../../data/site';
+---
+<Base title="Politica de cookie-uri" description="Ce cookie-uri folosește Verdikt, de ce, și cum îți poți schimba consimțământul." current="/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Politica de cookie-uri' }]} />
+    <section class="article">
+      <div class="prose">
+        <span class="eyebrow">Legal</span>
+        <h1 style="margin-top:10px">Politica de cookie-uri</h1>
+        <p class="callout" style="margin-top:18px">Model orientativ — completează cu datele firmei tale și cu instrumentele pe care le folosești efectiv. Nu constituie consultanță juridică.</p>
+
+        <p>Cookie-urile sunt fișiere text mici salvate în browserul tău când vizitezi un site. Le folosim pentru ca site-ul să funcționeze corect, pentru a înțelege cum e folosit și pentru a ne atribui corect comisioanele de afiliere.</p>
+
+        <h2>Ce categorii folosim</h2>
+        <table>
+          <thead><tr><th>Cookie</th><th>Scop</th><th>Categorie</th><th>Durată</th></tr></thead>
+          <tbody>
+            <tr><td>vk_consent_v2</td><td>Reține alegerea ta privind cookie-urile</td><td>Necesar</td><td>12 luni</td></tr>
+            <tr><td>vk_camp_closed</td><td>Reține că ai închis bara de campanie</td><td>Necesar</td><td>12 luni</td></tr>
+            <tr><td>_ga, _ga_*</td><td>Statistici de utilizare (Google Analytics)</td><td>Analiză</td><td>până la 24 luni</td></tr>
+            <tr><td>2p / profitshare</td><td>Atribuirea comisionului de afiliere la click</td><td>Afiliere</td><td>~30 zile</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Temeiul legal</h2>
+        <p>Cookie-urile necesare se bazează pe interesul legitim de a-ți oferi un site funcțional. Cele de analiză și de afiliere se plasează <b>doar pe baza consimțământului tău</b> (art. 6(1)(a) GDPR și Legea 506/2004).</p>
+
+        <h2>Cum îți retragi consimțământul</h2>
+        <p>Poți schimba sau retrage acordul oricând din <a href="#" id="ckReopen">Setări cookie-uri</a> sau ștergând cookie-urile din browser. Alegerea ta e salvată local, în browserul tău.</p>
+
+        <h2>Contact</h2>
+        <p>[Numele firmei] · [adresă] · <a href={`mailto:${site.email}`}>{site.email}</a>. Pentru date personale ne poți scrie la [email DPO].</p>
+        <p class="muted" style="color:var(--muted);font-size:.85rem">Ultima actualizare: [data].</p>
+      </div>
+    </section>
+  </div>
+</Base>

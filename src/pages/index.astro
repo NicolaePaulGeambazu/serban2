@@ -1,0 +1,162 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import Seal from '../components/Seal.astro';
+import AffiliateButton from '../components/AffiliateButton.astro';
+import { site } from '../data/site';
+
+const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
+const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order).slice(0, 3);
+const fmt = (n: number) => n.toLocaleString('ro-RO');
+
+const featured = cats[0];
+const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0];
+---
+<Base current="/">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Comparăm · testăm · dăm verdictul</span>
+        <h1>Nu ghici.<br />Vezi <span class="u">verdictul.</span></h1>
+        <p class="lede">Analizăm specificațiile, prețurile și mii de recenzii de pe eMAG, ca tu să alegi în două minute — nu în două seri.</p>
+        <form class="search-big" role="search" action="/categorii/" method="get">
+          <Icon name="search" />
+          <input type="search" name="q" placeholder="Ce vrei să cumperi? ex. aspirator robot" aria-label="Caută un produs sau o categorie" />
+          <button type="submit">Vezi verdictul</button>
+        </form>
+        <div class="pills" aria-label="Categorii populare">
+          {cats.map((c) => <a href={`/clasament/${c.id}/`}>{c.data.parent === c.data.h1 ? c.data.h1 : c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</a>)}
+        </div>
+        <div class="trust-row">
+          <div><span class="n">{site.stats.products}</span><span class="l">produse analizate</span></div>
+          <div><span class="n">{site.stats.rankings}</span><span class="l">clasamente</span></div>
+          <div><span class="n">independent</span><span class="l">locurile nu se cumpără</span></div>
+        </div>
+      </div>
+
+      <!-- Verdict card (signature) -->
+      <div class="verdict" aria-label={`Câștigător · ${featured.data.parent}`}>
+        <span class="tag">Câștigător · {featured.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</span>
+        <Seal id="home" />
+        <div class="v-top">
+          {fp.image
+            ? <img class="v-shot" src={fp.image} alt={fp.name} width="118" height="118" loading="lazy" />
+            : <div class="v-shot"><Icon name="circle" /></div>}
+          <div class="v-meta">
+            <div class="v-cat">{featured.data.parent}</div>
+            <h3 class="v-name">{fp.name}</h3>
+            <div class="v-scorewrap">
+              <span class="dial" style={`--val:${Math.round(fp.score * 10)}`}><b>{fp.score.toFixed(1)}</b></span>
+              <div class="v-score-l">Scor {site.name}<br /><b>{fp.score.toFixed(1)}</b> / 10</div>
+            </div>
+          </div>
+        </div>
+        {fp.specs.length > 0 && (
+          <ul class="v-specs">
+            {fp.specs.slice(0, 4).map((s) => <li><Icon name="check" /> {s.value} {s.label}</li>)}
+          </ul>
+        )}
+        <div class="v-buy">
+          <div class="price">
+            {fp.priceNote && <span class="save">{fp.priceNote}</span>}
+            <span class="now">{fmt(fp.price)} lei</span>
+            {fp.oldPrice && <span class="was">{fmt(fp.oldPrice)} lei</span>}
+          </div>
+          <AffiliateButton url={fp.emagUrl} class="btn btn-primary" />
+        </div>
+        <p class="v-foot"><span class="dot"></span> Link afiliat · prețul nu se schimbă pentru tine</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section id="categorii">
+    <div class="wrap">
+      <div class="s-head">
+        <div>
+          <span class="eyebrow">Pe categorii</span>
+          <h2 style="margin-top:10px">Ce cauți astăzi?</h2>
+          <p class="sub">Fiecare categorie are un clasament actualizat, cu argumente pentru fiecare loc.</p>
+        </div>
+        <a class="more" href="/categorii/">Toate categoriile →</a>
+      </div>
+      <div class="cats">
+        {cats.map((c) => (
+          <a class="cat" href={`/clasament/${c.id}/`}>
+            <span class="ic"><Icon name={c.data.icon} /></span>
+            <h3>{c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</h3>
+            <div class="count">{c.data.productsCount} modele comparate</div>
+          </a>
+        ))}
+        <a class="cat" href="/categorii/">
+          <span class="ic"><Icon name="basket" /></span>
+          <h3>Mai multe categorii</h3>
+          <div class="count">vezi tot</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- METHOD -->
+  <section class="method">
+    <div class="wrap">
+      <div class="s-head">
+        <div>
+          <span class="eyebrow">Cum testăm</span>
+          <h2 style="margin-top:10px">Aceiași patru pași, pentru fiecare produs</h2>
+          <p class="sub" style="color:#9DB0C6">Fără păreri plătite. Un produs urcă în clasament doar dacă merită după date — nu după cine plătește mai mult.</p>
+        </div>
+        <a class="more" href="/cum-testam/" style="color:var(--gold)">Cum testăm →</a>
+      </div>
+      <div class="steps">
+        <div class="step"><div class="no">01</div><h3>Strângem datele</h3><p>Specificații, preț și istoric, plus toate recenziile publice de pe eMAG.</p></div>
+        <div class="step"><div class="no">02</div><h3>Cântărim obiectiv</h3><p>Un scor pe criterii clare: performanță, fiabilitate, zgomot și raport calitate-preț.</p></div>
+        <div class="step"><div class="no">03</div><h3>Comparăm în context</h3><p>Fiecare model e pus față în față cu rivalii din aceeași gamă de preț.</p></div>
+        <div class="step"><div class="no">04</div><h3>Reverificăm des</h3><p>Prețurile se schimbă. Le urmărim, ca verdictul să rămână corect.</p></div>
+      </div>
+      <div class="disclosure">
+        <Icon name="info" />
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name}, primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament.</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- GUIDES -->
+  <section id="ghiduri">
+    <div class="wrap">
+      <div class="s-head">
+        <div>
+          <span class="eyebrow">Ghiduri de cumpărare</span>
+          <h2 style="margin-top:10px">Înțelege înainte să cumperi</h2>
+          <p class="sub">Explicăm pe înțelesul tuturor ce contează cu adevărat — fără jargon de fișă tehnică.</p>
+        </div>
+        <a class="more" href="/ghiduri/">Toate ghidurile →</a>
+      </div>
+      <div class="guides">
+        {guides.map((g) => (
+          <a class="guide" href={`/ghiduri/${g.id.replace(/\.md$/, '')}/`}>
+            <div class="top"><span class="k">{g.data.kicker}</span></div>
+            <div class="body">
+              <h3>{g.data.title}</h3>
+              <p>{g.data.description}</p>
+              <span class="rd">Citește ghidul →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="cta-band">
+        <h2>Gata? Vezi verdictele.</h2>
+        <p>Clasamente actualizate, cu argumente pentru fiecare loc și prețul curent de pe eMAG.</p>
+        <a href="/categorii/">Vezi toate clasamentele <Icon name="arrow" /></a>
+      </div>
+    </div>
+  </section>
+</Base>

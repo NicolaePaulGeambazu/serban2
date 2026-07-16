@@ -1,0 +1,277 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import QuickPicks from '../../components/QuickPicks.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import AffiliateButton from '../../components/AffiliateButton.astro';
+import Icon from '../../components/Icon.astro';
+import Jsonld from '../../components/Jsonld.astro';
+import { site } from '../../data/site';
+import { deeplink, AFFILIATE_REL } from '../../data/affiliate';
+
+export async function getStaticPaths() {
+  const cats = await getCollection('categories');
+  return cats.map((c) => ({ params: { slug: c.id }, props: { cat: c } }));
+}
+
+const { cat } = Astro.props;
+const d = cat.data;
+const fmt = (n: number) => n.toLocaleString('ro-RO');
+const winner = d.products.find((p) => p.win) ?? d.products[0];
+const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: d.h1,
+  itemListElement: d.products.map((p) => ({
+    '@type': 'ListItem',
+    position: p.rank,
+    item: {
+      '@type': 'Product',
+      name: p.name,
+      offers: {
+        '@type': 'Offer',
+        price: p.price,
+        priceCurrency: 'RON',
+        availability: 'https://schema.org/InStock',
+        url: deeplink(p.emagUrl),
+      },
+    },
+  })),
+};
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+<Base title={d.title} description={d.intro} current="/categorii/" bodyClass="has-mcta">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: d.parent, href: '/categorii/' }, { label: d.h1 }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Clasament · actualizat {updated}</span>
+      <h1>{d.h1}</h1>
+      <p class="lede">{d.intro}</p>
+      <div class="meta-row">
+        <span class="m fresh"><Icon name="clock" /> Actualizat <b>{updated}</b></span>
+        <span class="m"><b>{d.productsCount}</b> modele analizate</span>
+        <span class="m"><b>{fmt(d.reviewsRead)}</b> recenzii citite</span>
+        <span class="author"><span class="av">VR</span> Verificat de redacția {site.name}</span>
+      </div>
+    </section>
+
+    <QuickPicks picks={d.quickPicks} products={d.products} />
+  </div>
+
+  <div class="toolbar" id="clasament">
+    <div class="wrap tb-row">
+      <span class="count" id="count">{d.products.length} modele</span>
+      <div class="chips" role="group" aria-label="Filtre preț">
+        {d.priceBuckets.map((b, i) => (
+          <button class="chip" data-price={b.key} aria-pressed={i === 0 ? 'true' : 'false'}>{b.label}</button>
+        ))}
+      </div>
+      <div class="chips" role="group" aria-label="Filtre funcții">
+        {d.featureFilters.map((f) => (
+          <button class="chip" data-feat={f.key} aria-pressed="false">{f.label}</button>
+        ))}
+      </div>
+      <div class="sortbox">
+        <label for="sort">Sortează</label>
+        <select id="sort">
+          <option value="rank">Recomandat</option>
+          <option value="score">Scor (mare → mic)</option>
+          <option value="asc">Preț (mic → mare)</option>
+          <option value="desc">Preț (mare → mic)</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="rank-list" id="rankList">
+      {d.products.map((p) => <ProductCard product={p} />)}
+      <p class="empty" id="empty">Niciun model nu se potrivește cu filtrele alese. <button class="ck-link" id="clearF" style="color:var(--emerald)">Resetează filtrele</button></p>
+    </div>
+  </div>
+
+  <!-- METHOD -->
+  <section class="method">
+    <div class="wrap">
+      <span class="eyebrow">Cum testăm</span>
+      <h2 style="margin-top:10px">Cum am ajuns la acest clasament</h2>
+      <div class="steps">
+        <div class="step"><div class="no">01</div><h3>Strângem datele</h3><p>Specificații, preț și istoric, plus toate recenziile publice de pe eMAG.</p></div>
+        <div class="step"><div class="no">02</div><h3>Cântărim obiectiv</h3><p>Scor pe criterii clare, cu ponderi fixe pentru fiecare categorie.</p></div>
+        <div class="step"><div class="no">03</div><h3>Comparăm în context</h3><p>Fiecare model, față în față cu rivalii din aceeași gamă de preț.</p></div>
+        <div class="step"><div class="no">04</div><h3>Reverificăm</h3><p>Prețul și stocul se schimbă des — actualizăm periodic clasamentul.</p></div>
+      </div>
+      <div class="disclosure">
+        <Icon name="info" />
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- GUIDE -->
+  {d.guide.length > 0 && (
+    <section class="article" id="ghid">
+      <div class="wrap prose">
+        <span class="eyebrow">Ghid de cumpărare</span>
+        <h2>Ce contează când alegi</h2>
+        {d.guide.map((g) => (
+          <>
+            <h3>{g.h3}</h3>
+            <p>{g.body}</p>
+            {g.callout && <div class="callout"><b>Pe scurt:</b> {g.callout}</div>}
+          </>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- FAQ -->
+  {d.faq.length > 0 && (
+    <section style="padding-top:0">
+      <div class="wrap prose">
+        <span class="eyebrow">Întrebări frecvente</span>
+        <h2 style="margin-top:10px;margin-bottom:6px">Ce ne întreabă cititorii</h2>
+        {d.faq.map((f) => (
+          <details class="q">
+            <summary>{f.q}<span class="ic"><Icon name="plus" /></span></summary>
+            <div class="a">{f.a}</div>
+          </details>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- CONCLUSION -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="concluzie">
+        <span class="eyebrow">Concluzie</span>
+        <h2>Care e verdictul?</h2>
+        <p>{d.conclusion}</p>
+        <div class="pick">
+          <div><b>{winner.name}</b><span>Scor {winner.score.toFixed(1)} · câștigătorul testului</span></div>
+          <span class="pr">{fmt(winner.price)} lei</span>
+          <AffiliateButton url={winner.emagUrl} label="Vezi prețul" class="btn btn-gold" icon={false} aria={`Vezi prețul pentru ${winner.name} pe eMAG`} />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- sticky mobile CTA -->
+  <div class="m-cta" slot="after">
+    <div class="p"><b>{fmt(winner.price)} lei</b><span>Câștigător · {winner.name}</span></div>
+    <a href={deeplink(winner.emagUrl)} rel={AFFILIATE_REL} target="_blank" aria-label={`Vezi prețul pentru ${winner.name} pe eMAG`}>Vezi prețul</a>
+  </div>
+
+  <Jsonld schema={itemList} />
+  {d.faq.length > 0 && <Jsonld schema={faqSchema} />}
+</Base>
+
+<script>
+  // filter + sort + quick-pick flash
+  const list = document.getElementById('rankList');
+  if (list) {
+    const cards = Array.from(list.querySelectorAll('.prod-card')) as HTMLElement[];
+    const priceChips = Array.from(document.querySelectorAll('.chip[data-price]'));
+    const featChips = Array.from(document.querySelectorAll('.chip[data-feat]'));
+    const sortSel = document.getElementById('sort') as HTMLSelectElement | null;
+    const countEl = document.getElementById('count');
+    const emptyEl = document.getElementById('empty') as HTMLElement | null;
+    let price = 'all';
+    const feats: Record<string, boolean> = {};
+
+    function inBucket(p: number) {
+      return price === 'all' || (price === 'low' && p < 1500) || (price === 'mid' && p >= 1500 && p <= 2500) || (price === 'high' && p > 2500);
+    }
+    // Note: bucket thresholds here match the default 1500/2500 tiers; adjust per category if needed.
+    function apply() {
+      let shown = 0;
+      cards.forEach((c) => {
+        const p = Number(c.dataset.price);
+        const cf = (c.dataset.feat || '').split(' ');
+        const okP = inBucket(p);
+        const okF = Object.keys(feats).every((k) => !feats[k] || cf.indexOf(k) > -1);
+        const show = okP && okF;
+        c.style.display = show ? '' : 'none';
+        if (show) shown++;
+      });
+      if (countEl) countEl.textContent = shown + (shown === 1 ? ' model' : ' modele');
+      if (emptyEl) emptyEl.style.display = shown ? 'none' : 'block';
+    }
+    function sortNow() {
+      const v = sortSel?.value;
+      const sorted = cards.slice().sort((a, b) => {
+        if (v === 'rank') return Number(a.dataset.rank) - Number(b.dataset.rank);
+        if (v === 'score') return Number(b.dataset.score) - Number(a.dataset.score);
+        if (v === 'asc') return Number(a.dataset.price) - Number(b.dataset.price);
+        if (v === 'desc') return Number(b.dataset.price) - Number(a.dataset.price);
+        return 0;
+      });
+      sorted.forEach((c) => list.appendChild(c));
+      if (emptyEl) list.appendChild(emptyEl);
+    }
+    priceChips.forEach((ch) => ch.addEventListener('click', () => {
+      priceChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
+      ch.setAttribute('aria-pressed', 'true');
+      price = (ch as HTMLElement).dataset.price || 'all';
+      apply();
+    }));
+    featChips.forEach((ch) => ch.addEventListener('click', () => {
+      const f = (ch as HTMLElement).dataset.feat!;
+      const on = ch.getAttribute('aria-pressed') === 'true';
+      ch.setAttribute('aria-pressed', on ? 'false' : 'true');
+      feats[f] = !on;
+      apply();
+    }));
+    sortSel?.addEventListener('change', sortNow);
+    document.getElementById('clearF')?.addEventListener('click', () => {
+      price = 'all';
+      Object.keys(feats).forEach((k) => (feats[k] = false));
+      priceChips.forEach((x) => x.setAttribute('aria-pressed', (x as HTMLElement).dataset.price === 'all' ? 'true' : 'false'));
+      featChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
+      apply();
+    });
+
+    // quick-pick highlight
+    document.querySelectorAll('a[data-flash]').forEach((a) => {
+      a.addEventListener('click', () => {
+        const id = a.getAttribute('href');
+        if (!id) return;
+        setTimeout(() => {
+          const el = document.querySelector(id);
+          if (!el) return;
+          el.classList.remove('flash');
+          void (el as HTMLElement).offsetWidth;
+          el.classList.add('flash');
+        }, 380);
+      });
+    });
+  }
+
+  // animate score dials
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.querySelectorAll('.dial').forEach((d) => {
+      const el = d as HTMLElement;
+      const target = parseInt(getComputedStyle(el).getPropertyValue('--val')) || 0;
+      el.style.setProperty('--val', '0');
+      let n = 0;
+      const step = Math.max(2, Math.round(target / 28));
+      const t = setInterval(() => {
+        n += step;
+        if (n >= target) { n = target; clearInterval(t); }
+        el.style.setProperty('--val', String(n));
+      }, 16);
+    });
+  }
+</script>

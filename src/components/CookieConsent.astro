@@ -1,0 +1,85 @@
+---
+// Custom, self-hosted consent manager — no third-party CMP needed.
+// Scripts for analytics / affiliate tags load ONLY after the matching consent.
+---
+<div class="cookie" id="cookie" hidden role="dialog" aria-label="Consimțământ cookie-uri" aria-live="polite">
+  <p><b style="color:#fff">Respectăm alegerea ta.</b> Folosim cookie-uri necesare pentru funcționarea site-ului și, doar cu acordul tău, cookie-uri de analiză și de afiliere. <button class="ck-link" id="ckPolicy1">Politica de cookie-uri</button></p>
+  <div class="ck-btns">
+    <button class="ck-ok" id="ckAll">Accept toate</button>
+    <button class="ck-alt" id="ckReject">Respinge tot</button>
+    <button class="ck-link" id="ckOpen">Setări</button>
+  </div>
+</div>
+
+<div class="ck-modal" id="ckModal" role="dialog" aria-modal="true" aria-label="Setări cookie-uri">
+  <div class="bg" data-close></div>
+  <div class="ck-panel">
+    <button class="ck-close" data-close aria-label="Închide">×</button>
+    <h3>Setări cookie-uri</h3>
+    <p class="lead">Alege ce categorii accepți. Poți reveni oricând din subsolul paginii.</p>
+
+    <div class="ck-cat">
+      <div class="txt"><h4>Strict necesare</h4><p>Fac site-ul să funcționeze — navigare, securitate și memorarea alegerii tale. Nu pot fi dezactivate.</p></div>
+      <label class="sw"><input type="checkbox" checked disabled aria-label="Necesare (mereu active)" /><span class="track"></span><span class="knob"></span></label>
+    </div>
+    <div class="ck-cat">
+      <div class="txt"><h4>Analiză</h4><p>Ne arată, anonim, ce clasamente sunt citite, ca să le îmbunătățim. Ex.: Google Analytics.</p></div>
+      <label class="sw"><input type="checkbox" id="ckAnalytics" aria-label="Analiză" /><span class="track"></span><span class="knob"></span></label>
+    </div>
+    <div class="ck-cat">
+      <div class="txt"><h4>Afiliere &amp; marketing</h4><p>Permit partenerilor (ex.: Profitshare, 2Performant) să știe că vizita a venit de la noi, ca să primim comisionul. Nu te costă nimic în plus.</p></div>
+      <label class="sw"><input type="checkbox" id="ckMarketing" aria-label="Afiliere și marketing" /><span class="track"></span><span class="knob"></span></label>
+    </div>
+
+    <div class="ck-actions">
+      <button class="primary" id="ckSave">Salvează preferințele</button>
+      <button class="ghost" id="ckAll2">Accept toate</button>
+    </div>
+    <p class="lead" style="margin-top:16px">Detalii complete în <a href="/legal/cookie/" style="color:var(--emerald);text-decoration:underline">Politica de cookie-uri</a>.</p>
+  </div>
+</div>
+
+<script>
+  (function () {
+    var KEY = 'vk_consent_v2';
+    var bar = document.getElementById('cookie');
+    var modal = document.getElementById('ckModal');
+    if (!bar || !modal) return;
+    var cbA = document.getElementById('ckAnalytics');
+    var cbM = document.getElementById('ckMarketing');
+
+    function read() { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { return null; } }
+    function apply(c) {
+      // Load scripts ONLY for accepted categories:
+      if (c && c.analytics) { /* window.loadAnalytics && window.loadAnalytics(); */ }
+      if (c && c.marketing) { /* window.loadAffiliateTag && window.loadAffiliateTag(); */ }
+    }
+    function save(c) {
+      c.v = 2; c.ts = new Date().toISOString();
+      localStorage.setItem(KEY, JSON.stringify(c));
+      bar.hidden = true; closeModal(); apply(c);
+    }
+    function openModal() {
+      var s = read();
+      cbA.checked = s ? !!s.analytics : false;
+      cbM.checked = s ? !!s.marketing : false;
+      modal.classList.add('open');
+    }
+    function closeModal() { modal.classList.remove('open'); }
+
+    var existing = read();
+    if (existing) apply(existing); else bar.hidden = false;
+
+    function acceptAll() { save({ necessary: true, analytics: true, marketing: true }); }
+    document.getElementById('ckAll').addEventListener('click', acceptAll);
+    document.getElementById('ckAll2').addEventListener('click', acceptAll);
+    document.getElementById('ckReject').addEventListener('click', function () { save({ necessary: true, analytics: false, marketing: false }); });
+    document.getElementById('ckSave').addEventListener('click', function () { save({ necessary: true, analytics: cbA.checked, marketing: cbM.checked }); });
+    document.getElementById('ckOpen').addEventListener('click', openModal);
+    document.getElementById('ckPolicy1').addEventListener('click', openModal);
+    var reopen = document.getElementById('ckReopen');
+    if (reopen) reopen.addEventListener('click', function (e) { e.preventDefault(); openModal(); });
+    Array.prototype.forEach.call(modal.querySelectorAll('[data-close]'), function (x) { x.addEventListener('click', closeModal); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+  })();
+</script>

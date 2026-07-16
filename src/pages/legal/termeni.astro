@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { site } from '../../data/site';
+---
+<Base title="Termeni și condiții" description="Termenii de utilizare a site-ului Verdikt." current="/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Termeni' }]} />
+    <section class="article">
+      <div class="prose">
+        <span class="eyebrow">Legal</span>
+        <h1 style="margin-top:10px">Termeni și condiții</h1>
+        <p class="callout" style="margin-top:18px">Model orientativ — adaptează la situația ta și verifică-l juridic înainte de lansare. Nu constituie consultanță juridică.</p>
+
+        <h2>Despre conținut</h2>
+        <p>Informațiile de pe {site.name} sunt oferite cu bună-credință și în scop informativ. Ne străduim să fie corecte și actuale, dar nu garantăm că sunt complete sau lipsite de erori. Prețurile și disponibilitatea produselor se schimbă la magazin — prețul final este cel afișat pe eMAG în momentul cumpărării.</p>
+
+        <h2>Linkuri către terți</h2>
+        <p>Site-ul conține linkuri de afiliere către magazine externe. Nu răspundem pentru conținutul, prețurile, livrarea sau garanția produselor de la aceste magazine — relația de cumpărare e între tine și magazin.</p>
+
+        <h2>Proprietate intelectuală</h2>
+        <p>Textele, clasamentele și designul {site.name} sunt proprietatea operatorului. Nu le reproduce fără acord. Mărcile și denumirile produselor aparțin deținătorilor lor.</p>
+
+        <h2>Răspundere</h2>
+        <p>Decizia de cumpărare îți aparține. Nu răspundem pentru daune rezultate din folosirea informațiilor de pe site.</p>
+
+        <h2>Contact</h2>
+        <p>Întrebări legate de acești termeni: <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+        <p class="muted" style="color:var(--muted);font-size:.85rem">Ultima actualizare: [data].</p>
+      </div>
+    </section>
+  </div>
+</Base>

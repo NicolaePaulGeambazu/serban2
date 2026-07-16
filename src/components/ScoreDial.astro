@@ -1,0 +1,8 @@
+---
+interface Props { score: number; class?: string; }
+const { score, class: klass = '' } = Astro.props;
+const val = Math.max(0, Math.min(100, Math.round(score * 10)));
+---
+<span class={`dial ${klass}`} style={`--val:${val}`} role="img" aria-label={`Scor ${score.toFixed(1)} din 10`}>
+  <b>{score.toFixed(1)}</b>
+</span>

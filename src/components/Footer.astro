@@ -1,0 +1,32 @@
+---
+import { site } from '../data/site';
+import { footerNav } from '../data/navigation';
+const year = 2026;
+---
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="brand" href="/">
+          <span class="mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M4 12.5l5 5L20 5.5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </span>
+          Ver<b style="color:var(--gold)">dikt</b>
+        </a>
+        <p class="foot-p">Comparăm produse din România și dăm un verdict clar, pe baza datelor. Independent, actualizat des.</p>
+      </div>
+      {footerNav.map((col) => (
+        <div>
+          <h2>{col.title}</h2>
+          <ul>
+            {col.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+          </ul>
+        </div>
+      ))}
+    </div>
+    <div class="foot-note">
+      <span>© {year} {site.name}. Nume și date din demo sunt fictive — înlocuiește-le cu produse reale.</span>
+      <span>Link-urile către magazine sunt afiliate. Prețurile pot varia.</span>
+    </div>
+  </div>
+</footer>

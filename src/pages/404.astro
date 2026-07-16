@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+---
+<Base title="Pagina nu a fost găsită" noindex={true} current="/">
+  <section class="article">
+    <div class="wrap prose" style="text-align:center">
+      <span class="eyebrow" style="display:block">Eroare 404</span>
+      <h1 style="margin-top:12px;font-size:clamp(2rem,5vw,3rem)">Pagina asta nu există (încă)</h1>
+      <p>Poate a fost mutată sau linkul e greșit. Hai înapoi la clasamente.</p>
+      <p style="margin-top:24px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
+        <a class="btn btn-primary" href="/">Acasă</a>
+        <a class="btn btn-ghost" href="/categorii/">Vezi clasamentele <Icon name="arrow" /></a>
+      </p>
+    </div>
+  </section>
+</Base>

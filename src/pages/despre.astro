@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import Icon from '../components/Icon.astro';
+import { site } from '../data/site';
+---
+<Base title="Despre noi" description="Cine suntem, ce facem și cum ne poți contacta. Verdikt compară produse din România și dă un verdict clar, pe baza datelor." current="/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Despre noi' }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Despre {site.name}</span>
+      <h1>De ce există {site.name}</h1>
+      <p class="lede">Cumpărăturile online din România înseamnă zeci de modele aproape identice, prețuri care se schimbă zilnic și recenzii în care nu știi ce să crezi. Noi facem munca de documentare în locul tău și dăm un verdict clar.</p>
+    </section>
+  </div>
+
+  <section class="article" style="padding-top:24px">
+    <div class="wrap prose">
+      <h2>Ce facem</h2>
+      <p>Adunăm specificațiile, prețurile și mii de recenzii reale de pe eMAG, le trecem prin aceeași metodă de evaluare și publicăm clasamente pe care te poți baza. Fiecare top vine cu argumente pentru fiecare loc — nu doar o listă.</p>
+      <h3>Cum câștigăm bani</h3>
+      <p>{site.name} e gratuit. Ne susținem din comisioane de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent, fără cost suplimentar pentru tine. Comisionul nu influențează clasamentele — detalii în <a href="/legal/afiliere/">Transparență afiliat</a> și <a href="/cum-testam/">Cum testăm</a>.</p>
+      <h3>Valorile noastre</h3>
+      <ul>
+        <li><b>Independență</b> — locurile din clasament nu se pot cumpăra.</li>
+        <li><b>Transparență</b> — spunem deschis cum câștigăm bani.</li>
+        <li><b>Utilitate</b> — scriem pentru oameni, nu pentru algoritmi.</li>
+      </ul>
+
+      <div class="callout" id="contact">
+        <b>Contact.</b> Ai o întrebare, o corectură sau vrei să propui un produs? Scrie-ne la <a href={`mailto:${site.email}`}>{site.email}</a>. Răspundem în câteva zile lucrătoare.
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap narrow">
+      <div class="cta-band">
+        <h2>Vezi cum lucrăm</h2>
+        <p>Metodologia completă, criteriile de scor și regulile de independență.</p>
+        <a href="/cum-testam/">Cum testăm <Icon name="arrow" /></a>
+      </div>
+    </div>
+  </section>
+</Base>

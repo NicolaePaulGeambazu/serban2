@@ -1,0 +1,47 @@
+---
+import { campaigns } from '../data/campaigns';
+---
+<div class="campaign" id="campaign" hidden>
+  <div class="camp-row">
+    <span class="camp-badge">Campanie eMAG</span>
+    <b class="camp-name" id="campName">—</b>
+    <span class="camp-dates" id="campDates"></span>
+    <span class="camp-status" id="campStatus"></span>
+    <a class="camp-cta" id="campCta" href="#" rel="sponsored nofollow noopener" target="_blank">Vezi ofertele →</a>
+    <button class="camp-x" id="campX" aria-label="Închide anunțul">×</button>
+  </div>
+</div>
+<script define:vars={{ campaigns }}>
+  (function () {
+    var el = document.getElementById('campaign');
+    if (!el || localStorage.getItem('vk_camp_closed') === '1') return;
+    var day = 864e5, now = new Date(); now.setHours(0, 0, 0, 0);
+    function d(s) { var p = s.split('-'); return new Date(+p[0], +p[1] - 1, +p[2]); }
+    var months = ['ian', 'feb', 'mar', 'apr', 'mai', 'iun', 'iul', 'aug', 'sep', 'oct', 'noi', 'dec'];
+    function fmt(s) { var x = d(s); return x.getDate() + ' ' + months[x.getMonth()]; }
+    var active = null, up = null;
+    campaigns.forEach(function (c) {
+      var s = d(c.start), e = d(c.end); e.setHours(23, 59, 59, 0);
+      if (now >= s && now <= e) active = c;
+      else if (now < s && (!up || s < d(up.start))) up = c;
+    });
+    var c = active || up; if (!c) return;
+    document.getElementById('campName').textContent = c.name;
+    document.getElementById('campCta').href = c.url;
+    var dt = document.getElementById('campDates'), st = document.getElementById('campStatus');
+    if (active) {
+      dt.textContent = fmt(c.start) + '–' + fmt(c.end) + ' ' + d(c.end).getFullYear();
+      var left = Math.round((d(c.end) - now) / day);
+      if (left <= 0) { st.textContent = 'Ultima zi'; st.className = 'camp-status last'; }
+      else { st.textContent = 'Se încheie în ' + left + (left === 1 ? ' zi' : ' zile'); st.className = 'camp-status'; }
+    } else {
+      var inn = Math.round((d(c.start) - now) / day);
+      dt.textContent = 'începe ' + fmt(c.start);
+      st.textContent = 'În ' + inn + (inn === 1 ? ' zi' : ' zile');
+    }
+    el.hidden = false;
+    document.getElementById('campX').addEventListener('click', function () {
+      el.hidden = true; localStorage.setItem('vk_camp_closed', '1');
+    });
+  })();
+</script>

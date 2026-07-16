@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Jsonld from '../../components/Jsonld.astro';
+import { site } from '../../data/site';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides');
+  return guides.map((g) => ({ params: { slug: g.id.replace(/\.md$/, '') }, props: { entry: g } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const d = entry.data;
+const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const article = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  datePublished: d.updated,
+  dateModified: d.updated,
+  author: { '@type': 'Organization', name: `Redacția ${site.name}` },
+  publisher: { '@type': 'Organization', name: site.name },
+};
+---
+<Base title={d.title} description={d.description} current="/ghiduri/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Ghiduri', href: '/ghiduri/' }, { label: d.title }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">{d.kicker}</span>
+      <h1>{d.title}</h1>
+      <div class="meta-row">
+        <span class="author"><span class="av">VR</span> Redacția {site.name}</span>
+        <span class="m">Actualizat <b>{updated}</b></span>
+      </div>
+    </section>
+  </div>
+  <section class="article" style="padding-top:24px">
+    <div class="wrap prose">
+      <Content />
+    </div>
+  </section>
+  <Jsonld schema={article} />
+</Base>

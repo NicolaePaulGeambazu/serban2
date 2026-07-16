@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { site } from '../../data/site';
+---
+<Base title="Transparență afiliat" description="Cum câștigă Verdikt bani din linkuri de afiliere și de ce asta nu influențează clasamentele." current="/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Transparență afiliat' }]} />
+    <section class="article">
+      <div class="prose">
+        <span class="eyebrow">Legal</span>
+        <h1 style="margin-top:10px">Transparență afiliat</h1>
+        <p style="margin-top:18px">{site.name} participă în programe de marketing afiliat. Asta înseamnă că unele linkuri către magazine (în special eMAG, prin rețele precum Profitshare sau 2Performant) sunt linkuri de afiliere.</p>
+        <h2>Ce înseamnă pentru tine</h2>
+        <ul>
+          <li>Dacă dai click pe un astfel de link și cumperi, primim un mic comision de la magazin.</li>
+          <li><b>Prețul tău rămâne exact același</b> — comisionul vine din marja magazinului, nu din buzunarul tău.</li>
+          <li>Nu ești obligat să folosești linkurile noastre; poți căuta produsul direct la magazin.</li>
+        </ul>
+        <h2>Cum rămânem obiectivi</h2>
+        <p>Comisionul <b>nu influențează</b> ordinea din clasamente. Nu vindem locuri și nu acceptăm plată pentru a urca un produs. Un produs ajunge pe primul loc doar dacă merită după metoda noastră de evaluare — vezi <a href="/cum-testam/">Cum testăm</a>.</p>
+        <p>Marcăm linkurile de afiliere cu atributul <code>rel="sponsored"</code>, conform recomandărilor motoarelor de căutare și practicilor de transparență.</p>
+        <h2>Contact</h2>
+        <p>Întrebări despre parteneriate sau transparență? Scrie-ne la <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+      </div>
+    </section>
+  </div>
+</Base>

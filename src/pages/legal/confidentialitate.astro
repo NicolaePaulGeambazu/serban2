@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import { site } from '../../data/site';
+---
+<Base title="Politica de confidențialitate" description="Ce date prelucrează Verdikt, în ce scop și ce drepturi ai conform GDPR." current="/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Confidențialitate' }]} />
+    <section class="article">
+      <div class="prose">
+        <span class="eyebrow">Legal</span>
+        <h1 style="margin-top:10px">Politica de confidențialitate</h1>
+        <p class="callout" style="margin-top:18px">Model orientativ — completează cu datele firmei tale și adaptează la instrumentele pe care le folosești. Nu constituie consultanță juridică.</p>
+
+        <h2>Cine suntem</h2>
+        <p>Operatorul acestui site este [Numele firmei], [adresă], contact <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+
+        <h2>Ce date prelucrăm</h2>
+        <ul>
+          <li><b>Date de utilizare</b> (anonimizate) — pagini vizitate, tip de dispozitiv, prin instrumente de analiză, doar cu consimțământul tău.</li>
+          <li><b>Date de contact</b> — dacă ne scrii pe email, păstrăm mesajul ca să-ți putem răspunde.</li>
+          <li>Nu vindem și nu cerem date sensibile. Nu creăm conturi de utilizator.</li>
+        </ul>
+
+        <h2>Temei și scop</h2>
+        <p>Prelucrăm datele pe baza consimțământului tău (analiză, marketing) și a interesului legitim (funcționarea site-ului, răspuns la mesaje), conform GDPR.</p>
+
+        <h2>Terți</h2>
+        <p>Folosim furnizori precum [găzduire], [instrument de analiză] și rețele de afiliere (Profitshare / 2Performant). Aceștia pot prelucra date conform propriilor politici.</p>
+
+        <h2>Drepturile tale</h2>
+        <p>Ai dreptul de acces, rectificare, ștergere, restricționare, portabilitate și opoziție. Ne poți scrie la <a href={`mailto:${site.email}`}>{site.email}</a>. Ai și dreptul de a sesiza ANSPDCP.</p>
+
+        <h2>Cookie-uri</h2>
+        <p>Vezi <a href="/legal/cookie/">Politica de cookie-uri</a> pentru detalii și pentru a-ți gestiona consimțământul.</p>
+        <p class="muted" style="color:var(--muted);font-size:.85rem">Ultima actualizare: [data].</p>
+      </div>
+    </section>
+  </div>
+</Base>

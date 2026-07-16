@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Icon from '../../components/Icon.astro';
+
+const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
+---
+<Base title="Toate categoriile" description="Toate clasamentele Verdikt — alege o categorie și vezi cele mai bune produse, comparate obiectiv." current="/categorii/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Categorii' }]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Categorii</span>
+      <h1>Toate clasamentele</h1>
+      <p class="lede">Alege o categorie și vezi cele mai bune produse, comparate după date și mii de recenzii.</p>
+    </section>
+    <section style="padding-top:20px">
+      <div class="cats">
+        {cats.map((c) => (
+          <a class="cat" href={`/clasament/${c.id}/`}>
+            <span class="ic"><Icon name={c.data.icon} /></span>
+            <h3>{c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</h3>
+            <div class="count">{c.data.productsCount} modele comparate</div>
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Base>

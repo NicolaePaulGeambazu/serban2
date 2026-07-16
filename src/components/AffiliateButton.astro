@@ -1,0 +1,22 @@
+---
+import Icon from './Icon.astro';
+import { deeplink, AFFILIATE_REL } from '../data/affiliate';
+interface Props {
+  url: string;
+  label?: string;
+  class?: string;
+  icon?: boolean;
+  aria?: string;
+}
+const {
+  url,
+  label = 'Vezi prețul pe eMAG',
+  class: klass = 'btn btn-primary',
+  icon = true,
+  aria,
+} = Astro.props;
+const href = deeplink(url);
+---
+<a href={href} class={klass} rel={AFFILIATE_REL} target="_blank" aria-label={aria}>
+  {label}{icon && <Icon name="arrow" />}
+</a>

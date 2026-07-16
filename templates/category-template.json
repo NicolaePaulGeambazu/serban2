@@ -1,0 +1,74 @@
+{
+  "title": "Cele mai bune NUME_CATEGORIE în 2026",
+  "h1": "Cele mai bune NUME_CATEGORIE în 2026",
+  "parent": "Electrocasnice",
+  "icon": "circle",
+  "order": 100,
+  "intro": "Descriere scurtă a clasamentului: ce am comparat și de ce. Apare sub titlu și în rezultatele Google.",
+  "updated": "2026-01-01",
+  "productsCount": 20,
+  "reviewsRead": 1000,
+  "quickPicks": [
+    { "label": "★ Cea mai bună alegere", "productId": "p1", "win": true },
+    { "label": "Cel mai bun preț/calitate", "productId": "p2" },
+    { "label": "Cea mai bună alegere pe buget", "productId": "p3" }
+  ],
+  "priceBuckets": [
+    { "key": "all", "label": "Toate prețurile" },
+    { "key": "low", "label": "sub 1.500 lei" },
+    { "key": "mid", "label": "1.500–2.500 lei" },
+    { "key": "high", "label": "peste 2.500 lei" }
+  ],
+  "featureFilters": [
+    { "key": "feat1", "label": "Funcție 1" },
+    { "key": "feat2", "label": "Funcție 2" }
+  ],
+  "guide": [
+    { "h3": "Primul lucru important", "body": "Explică pe scurt criteriul.", "callout": "Rezumat opțional evidențiat." }
+  ],
+  "faq": [
+    { "q": "O întrebare frecventă?", "a": "Răspunsul clar și scurt." }
+  ],
+  "conclusion": "Recapitulare: pentru majoritatea, X; cu buget mic, Y.",
+  "products": [
+    {
+      "id": "p1", "rank": 1, "name": "Produs Unu", "tag": "★ Cea mai bună alegere", "win": true,
+      "score": 9.4, "price": 2699, "oldPrice": 3299, "priceNote": "−18% acum",
+      "image": "",
+      "features": ["feat1", "feat2"],
+      "specs": [
+        { "value": "Spec A", "label": "detaliu" },
+        { "value": "Spec B", "label": "detaliu" }
+      ],
+      "scores": [
+        { "label": "Criteriu 1", "pct": 96 },
+        { "label": "Criteriu 2", "pct": 90 }
+      ],
+      "pros": ["Un plus important", "Încă un plus"],
+      "cons": ["Un minus onest"],
+      "emagUrl": "https://www.emag.ro/-/pd/CODPRODUS/"
+    },
+    {
+      "id": "p2", "rank": 2, "name": "Produs Doi", "tag": "Cel mai bun preț/calitate",
+      "score": 9.0, "price": 2149,
+      "image": "",
+      "features": ["feat1"],
+      "specs": [{ "value": "Spec A", "label": "detaliu" }],
+      "scores": [{ "label": "Criteriu 1", "pct": 88 }],
+      "pros": ["Un plus"],
+      "cons": ["Un minus"],
+      "emagUrl": "https://www.emag.ro/-/pd/COD2/"
+    },
+    {
+      "id": "p3", "rank": 3, "name": "Produs Trei", "tag": "Cea mai bună alegere pe buget",
+      "score": 8.2, "price": 999,
+      "image": "",
+      "features": [],
+      "specs": [{ "value": "Spec A", "label": "detaliu" }],
+      "scores": [{ "label": "Criteriu 1", "pct": 78 }],
+      "pros": ["Ieftin și bun"],
+      "cons": ["Funcții puține"],
+      "emagUrl": "https://www.emag.ro/-/pd/COD3/"
+    }
+  ]
+}

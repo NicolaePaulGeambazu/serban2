@@ -1,0 +1,44 @@
+---
+import Icon from './Icon.astro';
+import { mainNav } from '../data/navigation';
+interface Props { current?: string; }
+const { current } = Astro.props;
+const isCurrent = (href: string) => current && href === current;
+---
+<header class="site-head">
+  <div class="wrap head-row">
+    <a class="brand" href="/" aria-label="Verdikt — Acasă">
+      <span class="mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M4 12.5l5 5L20 5.5" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      Ver<b>dikt</b>
+    </a>
+    <nav class="nav" aria-label="Principal">
+      {mainNav.map((i) => (
+        <a href={i.href} aria-current={isCurrent(i.href) ? 'page' : undefined}>{i.label}</a>
+      ))}
+    </nav>
+    <div class="head-right">
+      <form class="head-search" role="search" action="/categorii/" method="get">
+        <Icon name="search" />
+        <input type="search" name="q" placeholder="Caută un produs…" aria-label="Caută un produs" />
+      </form>
+      <button class="burger" id="burger" aria-label="Deschide meniul" aria-expanded="false">
+        <Icon name="menu" />
+      </button>
+    </div>
+  </div>
+  <nav class="m-menu" id="mMenu" aria-label="Meniu mobil">
+    {mainNav.map((i) => <a href={i.href}>{i.label}</a>)}
+  </nav>
+</header>
+<script>
+  const b = document.getElementById('burger');
+  const m = document.getElementById('mMenu');
+  if (b && m) {
+    b.addEventListener('click', () => {
+      const open = m.classList.toggle('open');
+      b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  }
+</script>
