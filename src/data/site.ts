@@ -1,7 +1,7 @@
 export const site = {
   name: 'Verdikt',
   domain: 'topalegeri.ro',
-  url: 'https://topalegeri.ro',
+  url: 'https://www.topalegeri.ro',
   tagline: 'Comparăm. Testăm. Dăm verdictul.',
   description:
     'Comparăm prețuri, specificații și mii de recenzii de pe eMAG ca să găsești cel mai bun raport calitate-preț. Clasamente obiective pentru electrocasnice, electronice și multe altele.',
