@@ -3,6 +3,7 @@
 // Scripts for analytics / affiliate tags load ONLY after the matching consent.
 import { site } from '../data/site';
 const gaId = site.googleAnalyticsId;
+const gtmId = site.googleTagManagerId;
 ---
 <div class="cookie" id="cookie" hidden role="dialog" aria-label="Consimțământ cookie-uri" aria-live="polite">
   <p><b style="color:#fff">Respectăm alegerea ta.</b> Folosim cookie-uri necesare pentru funcționarea site-ului și, doar cu acordul tău, cookie-uri de analiză și de afiliere. <button class="ck-link" id="ckPolicy1">Politica de cookie-uri</button></p>
@@ -41,7 +42,7 @@ const gaId = site.googleAnalyticsId;
   </div>
 </div>
 
-<script define:vars={{ gaId }}>
+<script define:vars={{ gaId, gtmId }}>
   (function () {
     var KEY = 'vk_consent_v2';
     var bar = document.getElementById('cookie');
@@ -51,9 +52,9 @@ const gaId = site.googleAnalyticsId;
     var cbM = document.getElementById('ckMarketing');
 
     function read() { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { return null; } }
-    function loadAnalytics() {
-      if (!gaId || window.__ga) return;
-      window.__ga = true;
+    function loadGtag() {
+      if (!gaId || window.__tags) return;
+      window.__tags = true;
       var s = document.createElement('script');
       s.async = true;
       s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
@@ -64,10 +65,27 @@ const gaId = site.googleAnalyticsId;
       gtag('js', new Date());
       gtag('config', gaId, { anonymize_ip: true });
     }
+    function loadGTM() {
+      if (!gtmId || window.__tags) return;
+      window.__tags = true;
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = document.getElementsByTagName('script')[0];
+      var j = document.createElement('script');
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + gtmId;
+      f.parentNode.insertBefore(j, f);
+    }
     function apply(c) {
-      // Load scripts ONLY for accepted categories:
-      if (c && c.analytics) loadAnalytics();
-      // Profitshare tracks via the deeplink click itself — no on-site marketing tag needed.
+      if (!c) return;
+      // Expose consent signals so GTM triggers can gate individual tags (Consent Mode friendly).
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'vk_consent', analytics_consent: !!c.analytics, ad_consent: !!c.marketing });
+      // Load the tag container only AFTER consent, and only once.
+      if (c.analytics || c.marketing) {
+        if (gtmId) loadGTM();
+        else if (c.analytics) loadGtag();
+      }
     }
     function save(c) {
       c.v = 2; c.ts = new Date().toISOString();

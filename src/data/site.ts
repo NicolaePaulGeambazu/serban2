@@ -6,7 +6,9 @@ export const site = {
   description:
     'Comparăm prețuri, specificații și mii de recenzii de pe eMAG ca să găsești cel mai bun raport calitate-preț. Clasamente obiective pentru electrocasnice, electronice și multe altele.',
   email: 'contact@topalegeri.ro',
-  // Paste your GA4 Measurement ID here (looks like "G-XXXXXXXXXX"). Empty = analytics off.
+  // Google Tag Manager container id ("GTM-XXXXXXX"). If set, GTM is used (manage GA4/Ads inside GTM).
+  googleTagManagerId: 'GTM-MJZLLCZC',
+  // GA4 Measurement ID ("G-XXXXXXXXXX") — used ONLY if GTM id above is empty. Empty = analytics off.
   googleAnalyticsId: '',
   // Paste the token from Google Search Console (HTML tag verification method). Empty = no tag.
   googleSiteVerification: '',
