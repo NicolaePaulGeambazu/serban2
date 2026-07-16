@@ -9,9 +9,9 @@ export const footerNav = [
   {
     title: 'Categorii',
     links: [
-      { label: 'Aspiratoare robot', href: '/clasament/aspiratoare-robot/' },
-      { label: 'Mașini de spălat', href: '/clasament/masini-de-spalat/' },
-      { label: 'Espressoare', href: '/clasament/espressoare/' },
+      { label: 'Aer condiționat', href: '/clasament/aer-conditionat/' },
+      { label: 'Televizoare', href: '/clasament/televizoare/' },
+      { label: 'Cuptoare încorporabile', href: '/clasament/cuptoare-incorporabile/' },
       { label: 'Toate categoriile', href: '/categorii/' },
     ],
   },

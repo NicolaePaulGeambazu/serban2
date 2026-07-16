@@ -28,4 +28,4 @@ Pascalii măsoară forța cu care robotul trage aerul — deci cât de bine ridi
 
 ## Concluzie
 
-Nu cumpăra după cel mai mare număr de Pa. Întâi uită-te la ce tip de podea ai, apoi alege pragul potrivit și pune restul bugetului pe navigație bună și o perie care nu se încurcă. Găsești modelele pe care le recomandăm în [clasamentul de aspiratoare robot](/clasament/aspiratoare-robot/).
+Nu cumpăra după cel mai mare număr de Pa. Întâi uită-te la ce tip de podea ai, apoi alege pragul potrivit și pune restul bugetului pe navigație bună și o perie care nu se încurcă. Vezi toate clasamentele noastre actualizate în [pagina de categorii](/categorii/).

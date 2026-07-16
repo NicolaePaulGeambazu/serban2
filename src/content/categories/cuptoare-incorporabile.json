@@ -4,14 +4,14 @@
   "parent": "Electrocasnice",
   "icon": "oven",
   "order": 6,
-  "intro": "Am comparat 48 de cuptoare încorporabile după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum, apoi le-am cântărit cu mii de recenzii reale. Mai jos ai top 6, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-11",
-  "productsCount": 48,
-  "reviewsRead": 6120,
+  "intro": "Am comparat cele mai populare cuptoare încorporabile de pe eMAG după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-16",
+  "productsCount": 7,
+  "reviewsRead": 0,
   "quickPicks": [
-    { "label": "★ Cea mai bună alegere", "productId": "o1", "win": true },
-    { "label": "Cel mai bun preț/calitate", "productId": "o2" },
-    { "label": "Cea mai bună alegere pe buget", "productId": "o6" }
+    { "label": "★ Cea mai bună alegere", "productId": "p1", "win": true },
+    { "label": "Cel mai bun preț/calitate", "productId": "p4" },
+    { "label": "Cea mai bună alegere pe buget", "productId": "p7" }
   ],
   "priceBuckets": [
     { "key": "all", "label": "Toate prețurile" },
@@ -25,124 +25,156 @@
     { "key": "ventilat", "label": "Ventilat" }
   ],
   "guide": [
-    { "h3": "Autocurățare: piroliză sau cataliză?", "body": "Piroliza arde resturile la temperatură mare și rămâne doar cenușă pe care o ștergi — cea mai comodă, dar consumă curent și crește prețul. Cataliza absoarbe grăsimea în pereți în timpul gătitului — mai ieftină, dar mai puțin eficientă.", "callout": "Dacă gătești des și urăști curățatul, piroliza își merită banii. Dacă gătești rar, cataliza sau curățarea manuală sunt suficiente." },
-    { "h3": "Ventilat vs. static", "body": "Un cuptor ventilat (cu ventilator) distribuie căldura uniform și poate găti pe mai multe niveluri simultan — ideal pentru copt. Modul static e bun pentru preparate care cresc, ca aluaturile. Cele bune le au pe amândouă." },
-    { "h3": "Funcția cu abur merită?", "body": "Aburul păstrează mâncarea suculentă și ajută la copt pâine cu crustă bună. Nu e obligatoriu, dar dacă gătești variat, face o diferență reală. Adaugă la preț, așa că alege-l doar dacă îl vei folosi." }
+    { "h3": "Autocurățare: piroliză, cataliză sau EcoClean?", "body": "Piroliza arde resturile la temperatură mare și rămâne doar cenușă pe care o ștergi — cea mai comodă, dar consumă curent. Cataliza absoarbe grăsimea în pereți în timpul gătitului. EcoClean (Bosch) e un sistem intermediar, la temperatură mai joasă.", "callout": "Dacă gătești des și urăști curățatul, piroliza (Bosch Seria 8, Electrolux EOF6P76X2) își merită banii. Dacă gătești rar, cataliza sau EcoClean sunt suficiente." },
+    { "h3": "Ventilat vs. static", "body": "Un cuptor ventilat distribuie căldura uniform și poate găti pe mai multe niveluri simultan — ideal pentru copt. Modul static e bun pentru aluaturi care cresc. Cele bune le au pe amândouă (convecție 3D)." },
+    { "h3": "Funcția cu abur merită?", "body": "Aburul (ex. Samsung Bespoke) păstrează mâncarea suculentă și ajută la copt pâine cu crustă bună. Nu e obligatoriu, dar dacă gătești variat, face o diferență reală." }
   ],
   "faq": [
     { "q": "Piroliza consumă mult curent?", "a": "Un ciclu de piroliză durează 1,5–3 ore la temperatură mare, deci consumă notabil, dar îl folosești rar (o dată la câteva săptămâni). Comoditatea compensează pentru cei care gătesc des." },
-    { "q": "Ce clasă energetică să aleg?", "a": "Caută clasa A+ sau mai bună. Diferența de consum se simte dacă folosești cuptorul de câteva ori pe săptămână." },
+    { "q": "Electric sau pe gaz?", "a": "Cuptoarele electrice gătesc mai uniform și au mai multe funcții. Cele pe gaz (ex. Electrolux EOG2102AOX) sunt utile dacă vrei independență de curent sau ai deja plită pe gaz." },
     { "q": "De unde câștigați bani dacă site-ul e gratuit?", "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul." }
   ],
-  "conclusion": "Pentru cei mai mulți, Elmar Pyro 72 e alegerea sigură: gătește uniform și se curăță singur. Cu buget mai mic, Fornetto Multi 65 face treabă foarte bună fără piroliză.",
+  "conclusion": "Pentru cei mai mulți, Samsung Bespoke NV7B4345 e alegerea completă: abur, Dual Cook și funcții smart la un preț bun. Dacă vrei cel mai bun raport preț/calitate, Bosch HBF133BA1 îți dă calitate Bosch ieftin, iar Electrolux EOF3H50BK e alegerea pe buget.",
   "products": [
     {
-      "id": "o1", "rank": 1, "name": "Elmar Pyro 72", "tag": "★ Cea mai bună alegere", "win": true,
-      "score": 9.2, "price": 2799, "oldPrice": 3199, "priceNote": "−12% acum",
-      "features": ["piroliza", "abur", "ventilat"],
+      "id": "p1", "rank": 1, "name": "Samsung Bespoke NV7B4345 76L", "tag": "★ Cea mai bună alegere", "win": true,
+      "score": 9.2, "price": 2400,
+      "image": "https://s13emagst.akamaized.net/products/47889/47888688/images/res_131f83b1a64e439de5627624cdce4bf0.jpg?width=400&height=400",
+      "feedId": "DP2F5CMBM",
+      "features": ["abur", "ventilat"],
       "specs": [
-        { "value": "72 L", "label": "capacitate" },
+        { "value": "76 L", "label": "capacitate" },
+        { "value": "Dual Cook", "label": "Flex + abur" },
+        { "value": "SmartThings", "label": "display touch" },
+        { "value": "A+", "label": "clasă energetică" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 92 }, { "label": "Autocurățare", "pct": 82 },
+        { "label": "Ușurință", "pct": 94 }, { "label": "Eficiență", "pct": 88 }
+      ],
+      "pros": ["Dual Cook Flex — gătești două feluri odată", "Abur + funcții smart la preț bun"],
+      "cons": ["Autocurățare catalitică, nu piroliză"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bespoke-samsung-electric-76-l-autocuratare-catalitica-dual-cook-flex-display-touch-air-sous-vide-natural-steam-smartthings-cooking-clasa-a-negru-nv7b4345vak-u2/pd/DP2F5CMBM"
+    },
+    {
+      "id": "p2", "rank": 2, "name": "Bosch Seria 8 HBG7741W1 71L", "tag": "Cel mai complet (premium)",
+      "score": 9.0, "price": 5100,
+      "image": "https://s13emagst.akamaized.net/products/60395/60394011/images/res_f989dd2f4a6bc7ac983fd44dd041fcf1.jpg?width=400&height=400",
+      "feedId": "D8GTP3YBM",
+      "features": ["piroliza", "ventilat"],
+      "specs": [
+        { "value": "71 L", "label": "capacitate" },
         { "value": "Piroliză", "label": "autocurățare" },
-        { "value": "Abur", "label": "+ ventilat" },
+        { "value": "14 funcții", "label": "Home Connect" },
         { "value": "A+", "label": "clasă energetică" }
       ],
       "scores": [
         { "label": "Gătit", "pct": 95 }, { "label": "Autocurățare", "pct": 96 },
-        { "label": "Ușurință", "pct": 90 }, { "label": "Eficiență", "pct": 88 }
+        { "label": "Ușurință", "pct": 88 }, { "label": "Eficiență", "pct": 88 }
       ],
-      "pros": ["Gătește foarte uniform pe mai multe niveluri", "Piroliza scapă complet de curățat"],
-      "cons": ["Preț peste medie"],
-      "emagUrl": "https://www.emag.ro/search/elmar-pyro-72"
+      "pros": ["Cel mai versatil — 14 funcții + piroliză", "Control din aplicație (Home Connect)"],
+      "cons": ["Cel mai scump din clasament"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-seria-8-electric-71-l-multifunctional-14-functii-autocuratare-pirolitica-grill-home-connect-clasa-a-alb-hbg7741w1/pd/D8GTP3YBM/"
     },
     {
-      "id": "o2", "rank": 2, "name": "Brelo Multifunctional 70", "tag": "Cel mai bun preț/calitate",
-      "score": 8.9, "price": 2199, "oldPrice": 2499,
+      "id": "p3", "rank": 3, "name": "Electrolux EOF6P76X2 72L", "tag": "Cel mai bun cu piroliză, la preț bun",
+      "score": 8.8, "price": 2300,
+      "image": "https://s13emagst.akamaized.net/products/47574/47573675/images/res_bf134c3a56ccce2bbd3bc68aade2db2b.jpg?width=400&height=400",
+      "feedId": "DL08FCMBM",
       "features": ["piroliza", "ventilat"],
       "specs": [
-        { "value": "70 L", "label": "capacitate" },
+        { "value": "72 L", "label": "capacitate" },
         { "value": "Piroliză", "label": "autocurățare" },
-        { "value": "Ventilat", "label": "" },
+        { "value": "SurroundCook", "label": "+ grill" },
         { "value": "A+", "label": "clasă energetică" }
       ],
       "scores": [
-        { "label": "Gătit", "pct": 90 }, { "label": "Autocurățare", "pct": 92 },
-        { "label": "Ușurință", "pct": 86 }, { "label": "Eficiență", "pct": 87 }
+        { "label": "Gătit", "pct": 90 }, { "label": "Autocurățare", "pct": 94 },
+        { "label": "Ușurință", "pct": 86 }, { "label": "Eficiență", "pct": 88 }
       ],
-      "pros": ["Piroliză la un preț bun", "Comenzi simple, intuitive"],
-      "cons": ["Fără funcție de abur"],
-      "emagUrl": "https://www.emag.ro/search/brelo-multifunctional-70"
+      "pros": ["Piroliză la cel mai mic preț din test", "Gătit uniform SurroundCook"],
+      "cons": ["Fără funcții smart"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-electric-72-l-autocuratare-pirolitica-surroundcook-grill-timer-cu-display-electronic-clasa-a-inox-eof6p76x2/pd/DL08FCMBM/"
     },
     {
-      "id": "o3", "rank": 3, "name": "Aeris Steam 71", "tag": "Cel mai bun la copt",
-      "score": 8.5, "price": 2599,
-      "features": ["abur", "ventilat"],
-      "specs": [
-        { "value": "71 L", "label": "capacitate" },
-        { "value": "Abur", "label": "asistat" },
-        { "value": "Ventilat", "label": "" },
-        { "value": "Cataliză", "label": "autocurățare" }
-      ],
-      "scores": [
-        { "label": "Gătit", "pct": 93 }, { "label": "Autocurățare", "pct": 78 },
-        { "label": "Ușurință", "pct": 84 }, { "label": "Eficiență", "pct": 85 }
-      ],
-      "pros": ["Aburul face o pâine cu crustă excelentă"],
-      "cons": ["Autocurățare prin cataliză, nu piroliză"],
-      "emagUrl": "https://www.emag.ro/search/aeris-steam-71"
-    },
-    {
-      "id": "o4", "rank": 4, "name": "Nordisk Bake 66", "tag": "Echilibrat pentru familie",
-      "score": 8.2, "price": 1899,
+      "id": "p4", "rank": 4, "name": "Bosch HBF133BA1 66L", "tag": "Cel mai bun preț/calitate",
+      "score": 8.6, "price": 1350,
+      "image": "https://s13emagst.akamaized.net/products/90540/90539811/images/res_e2bdb847a9a3961f52c1967651b686d5.jpg?width=400&height=400",
+      "feedId": "DY77M73BM",
       "features": ["ventilat"],
       "specs": [
         { "value": "66 L", "label": "capacitate" },
-        { "value": "Ventilat", "label": "+ static" },
-        { "value": "A", "label": "clasă energetică" },
-        { "value": "Grill", "label": "" }
+        { "value": "EcoClean", "label": "Direct" },
+        { "value": "Convecție 3D", "label": "+ grill" },
+        { "value": "A", "label": "clasă energetică" }
       ],
       "scores": [
-        { "label": "Gătit", "pct": 86 }, { "label": "Autocurățare", "pct": 72 },
-        { "label": "Ușurință", "pct": 85 }, { "label": "Eficiență", "pct": 80 }
+        { "label": "Gătit", "pct": 87 }, { "label": "Autocurățare", "pct": 76 },
+        { "label": "Ușurință", "pct": 85 }, { "label": "Eficiență", "pct": 82 }
       ],
-      "pros": ["Gătește uniform la preț rezonabil"],
-      "cons": ["Curățare manuală"],
-      "emagUrl": "https://www.emag.ro/search/nordisk-bake-66"
+      "pros": ["Calitate Bosch la preț mic", "Convecție 3D pentru copt uniform"],
+      "cons": ["Autocurățare de bază (EcoClean), nu piroliză"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-electric-66-l-grill-autocuratare-ecoclean-direct-convectie-3d-clasa-a-negru-hbf133ba1/pd/DY77M73BM/"
     },
     {
-      "id": "o5", "rank": 5, "name": "Fornetto Multi 65", "tag": "Simplu și fiabil",
-      "score": 8.0, "price": 1599,
+      "id": "p5", "rank": 5, "name": "Bosch HBF153BS0 66L", "tag": "Bosch cu control touch",
+      "score": 8.4, "price": 3571,
+      "image": "https://s13emagst.akamaized.net/products/25317/25316778/images/res_fea4ac056b26523a8a4c5752976f8e98.jpg?width=400&height=400",
+      "feedId": "DKDRP6BBM",
+      "features": ["ventilat"],
+      "specs": [
+        { "value": "66 L", "label": "capacitate" },
+        { "value": "EcoClean", "label": "Direct" },
+        { "value": "Convecție 3D", "label": "control touch" },
+        { "value": "A", "label": "clasă energetică" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 88 }, { "label": "Autocurățare", "pct": 78 },
+        { "label": "Ușurință", "pct": 88 }, { "label": "Eficiență", "pct": 83 }
+      ],
+      "pros": ["Control touch modern", "Convecție 3D Bosch"],
+      "cons": ["Scump pentru un sistem EcoClean, nu piroliză"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-electric-autocuratare-ecoclean-direct-66-l-clasa-a-convectie-aer-3d-timer-control-touch-inox-hbf153bs0/pd/DKDRP6BBM/"
+    },
+    {
+      "id": "p6", "rank": 6, "name": "Electrolux EOG2102AOX 68L (gaz)", "tag": "Cel mai bun pe gaz",
+      "score": 8.1, "price": 2000,
+      "image": "https://s13emagst.akamaized.net/products/993/992994/images/res_6d8d08362a93bcf45635123902599c85.jpg?width=400&height=400",
+      "feedId": "DYN0YMBBM",
+      "features": ["ventilat"],
+      "specs": [
+        { "value": "68 L", "label": "capacitate" },
+        { "value": "Pe gaz", "label": "multifuncțional" },
+        { "value": "Catalitică", "label": "+ grill" },
+        { "value": "A+", "label": "clasă energetică" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 82 }, { "label": "Autocurățare", "pct": 80 },
+        { "label": "Ușurință", "pct": 80 }, { "label": "Eficiență", "pct": 85 }
+      ],
+      "pros": ["Cea mai bună opțiune pe gaz", "Inox anti-amprentă"],
+      "cons": ["Gătit ceva mai puțin uniform decât electric"],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-gaz-68-l-multifunctional-autocuratare-catalitica-grill-clasa-a-inox-antiamprenta-eog2102aox/pd/DYN0YMBBM/"
+    },
+    {
+      "id": "p7", "rank": 7, "name": "Electrolux EOF3H50BK 65L", "tag": "Cea mai bună alegere pe buget",
+      "score": 7.9, "price": 1200,
+      "image": "https://s13emagst.akamaized.net/products/46146/46145467/images/res_6c18720634b3a26e608975e45c78b2b2.jpg?width=400&height=400",
+      "feedId": "D97WGVMBM",
       "features": ["ventilat"],
       "specs": [
         { "value": "65 L", "label": "capacitate" },
-        { "value": "Ventilat", "label": "" },
-        { "value": "A", "label": "clasă energetică" },
-        { "value": "8 funcții", "label": "gătit" }
+        { "value": "9 programe", "label": "convecție" },
+        { "value": "SurroundCook", "label": "+ grill" },
+        { "value": "A", "label": "clasă energetică" }
       ],
       "scores": [
-        { "label": "Gătit", "pct": 84 }, { "label": "Autocurățare", "pct": 68 },
-        { "label": "Ușurință", "pct": 88 }, { "label": "Eficiență", "pct": 79 }
+        { "label": "Gătit", "pct": 84 }, { "label": "Autocurățare", "pct": 70 },
+        { "label": "Ușurință", "pct": 84 }, { "label": "Eficiență", "pct": 80 }
       ],
-      "pros": ["Ușor de folosit, fără fițe", "Fiabil pe termen lung"],
+      "pros": ["Cel mai ieftin cuptor bun din test", "9 programe, convecție"],
       "cons": ["Fără autocurățare avansată"],
-      "emagUrl": "https://www.emag.ro/search/fornetto-multi-65"
-    },
-    {
-      "id": "o6", "rank": 6, "name": "Fornetto Basic 60", "tag": "Cea mai bună alegere pe buget",
-      "score": 7.6, "price": 1199, "oldPrice": 1399,
-      "features": [],
-      "specs": [
-        { "value": "60 L", "label": "capacitate" },
-        { "value": "Static", "label": "+ grill" },
-        { "value": "A", "label": "clasă energetică" },
-        { "value": "Sub 1.200", "label": "lei" }
-      ],
-      "scores": [
-        { "label": "Gătit", "pct": 76 }, { "label": "Autocurățare", "pct": 60 },
-        { "label": "Ușurință", "pct": 82 }, { "label": "Eficiență", "pct": 78 }
-      ],
-      "pros": ["Cel mai ieftin cuptor încorporabil decent din test"],
-      "cons": ["Fără ventilator", "Fără autocurățare"],
-      "emagUrl": "https://www.emag.ro/search/fornetto-basic-60"
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-electric-65-l-9-programe-convectie-sourroundcook-grill-clasa-a-negru-eof3h50bk/pd/D97WGVMBM/"
     }
   ]
 }

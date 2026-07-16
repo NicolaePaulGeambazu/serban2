@@ -30,4 +30,4 @@ Ia consumul afișat (kWh / 100 cicluri), împarte la 100 și înmulțește cu nu
 
 ## Concluzie
 
-Nu cumpăra o clasă în plus doar de dragul literei. Calculează economia pe consumul afișat și pe cât de des speli — apoi pune diferența în fiabilitate și programe utile. Vezi modelele recomandate în [clasamentul de mașini de spălat](/clasament/masini-de-spalat/).
+Nu cumpăra o clasă în plus doar de dragul literei. Calculează economia pe consumul afișat și pe cât de des speli — apoi pune diferența în fiabilitate și programe utile. Vezi toate clasamentele noastre actualizate în [pagina de categorii](/categorii/).
