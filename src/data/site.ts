@@ -8,6 +8,8 @@ export const site = {
   email: 'contact@topalegeri.ro',
   // Paste your GA4 Measurement ID here (looks like "G-XXXXXXXXXX"). Empty = analytics off.
   googleAnalyticsId: '',
+  // Paste the token from Google Search Console (HTML tag verification method). Empty = no tag.
+  googleSiteVerification: '',
   locale: 'ro_RO',
   lang: 'ro',
   themeColor: '#0F1B2D',
