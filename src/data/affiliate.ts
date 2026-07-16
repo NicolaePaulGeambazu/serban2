@@ -12,8 +12,8 @@
  */
 export const AFFILIATE = {
   network: 'profitshare' as 'profitshare' | '2performant',
-  // Profitshare deeplink base — replace PROFITSHARE_ID with your account id:
-  profitshareBase: 'https://l.profitshare.ro/l/PROFITSHARE_ID?url=',
+  // Profitshare deeplink base (the id is tied to your account; ?url= sets the destination):
+  profitshareBase: 'https://l.profitshare.ro/l/16182361?url=',
   // 2Performant quicklink — replace AFF_CODE / UNIQUE with your values:
   twoPBase:
     'https://event.2performant.com/events/click?ad_type=quicklink&aff_code=AFF_CODE&unique=UNIQUE&redirect_to=',
