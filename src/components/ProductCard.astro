@@ -7,13 +7,11 @@ import type { CollectionEntry } from 'astro:content';
 type Product = CollectionEntry<'categories'>['data']['products'][number];
 interface Props { product: Product; }
 const { product: p } = Astro.props;
-const fmt = (n: number) => n.toLocaleString('ro-RO');
 ---
 <article
   class:list={['prod-card', p.win && 'win']}
   id={p.id}
   data-rank={p.rank}
-  data-score={p.score}
   data-price={p.price}
   data-feat={p.features.join(' ')}
 >
@@ -21,50 +19,22 @@ const fmt = (n: number) => n.toLocaleString('ro-RO');
     <div class="pc-rank">{p.rank}</div>
     {p.win && <Seal id={p.id} class="pc-seal" />}
     {p.image
-      ? <img class="pc-shot" src={p.image} alt={p.name} width="120" height="120" loading="lazy" decoding="async" />
+      ? <img class="pc-shot" src={p.image} alt={p.name} width="180" height="168" loading="lazy" decoding="async" />
       : <div class="pc-shot"><Icon name="circle" /></div>}
   </div>
 
   <div class="pc-body">
     <span class="pc-tag">{p.tag}</span>
     <h3 class="pc-name">{p.name}</h3>
-
-    <div class="pc-scorewrap">
-      <span class="dial" style={`--val:${Math.round(p.score * 10)}`} role="img" aria-label={`Scor ${p.score.toFixed(1)} din 10`}><b>{p.score.toFixed(1)}</b></span>
-      <div class="bars">
-        {p.scores.map((s) => (
-          <div class="bar"><span class="bl">{s.label}</span><span class="bt"><span class="bf" style={`width:${s.pct}%`}></span></span></div>
-        ))}
-      </div>
-    </div>
-
     {p.specs.length > 0 && (
-      <ul class="pc-specs">
-        {p.specs.map((s) => (
-          <li><Icon name="check" /><span class="k">{s.value}</span> {s.label}</li>
-        ))}
-      </ul>
-    )}
-
-    {(p.pros.length > 0 || p.cons.length > 0) && (
-      <div class="proscons">
-        <div class="pros">
-          <h4>Ce ne-a plăcut</h4>
-          <ul>{p.pros.map((x) => <li><Icon name="check" />{x}</li>)}</ul>
-        </div>
-        <div class="cons">
-          <h4>De reținut</h4>
-          <ul>{p.cons.map((x) => <li><Icon name="x" />{x}</li>)}</ul>
-        </div>
+      <div class="pc-chips">
+        {p.specs.map((s) => <span>{s.label ? `${s.value} ${s.label}` : s.value}</span>)}
       </div>
     )}
   </div>
 
   <div class="pc-buy">
-    {p.priceNote && <span class="save">{p.priceNote}</span>}
-    <span class="now">{fmt(p.price)} lei</span>
-    {p.oldPrice && <span class="was">{fmt(p.oldPrice)} lei</span>}
     <AffiliateButton url={p.affiliateUrl || p.emagUrl} class="btn btn-primary" aria={`Vezi prețul pentru ${p.name} pe eMAG`} />
-    <span class="ver"><span class="dot"></span>Preț orientativ — cel exact e pe eMAG</span>
+    <span class="ver"><span class="dot"></span>Prețul curent îl vezi pe eMAG</span>
   </div>
 </article>

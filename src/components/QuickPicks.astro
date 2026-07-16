@@ -4,7 +4,6 @@ type Data = CollectionEntry<'categories'>['data'];
 interface Props { picks: Data['quickPicks']; products: Data['products']; }
 const { picks, products } = Astro.props;
 const byId = new Map(products.map((p) => [p.id, p]));
-const fmt = (n: number) => n.toLocaleString('ro-RO');
 ---
 <div class="quick" aria-label="Alegeri rapide">
   {picks.map((pick) => {
@@ -14,9 +13,7 @@ const fmt = (n: number) => n.toLocaleString('ro-RO');
       <div class:list={['qp', pick.win && 'win']}>
         <span class="lbl">{pick.label}</span>
         <h3>{p.name}</h3>
-        <span class="sc">Scor {p.score.toFixed(1)} / 10</span>
-        <span class="pr">{fmt(p.price)} lei</span>
-        <a class="mini" href={`#${p.id}`} data-flash aria-label={`Vezi de ce ${p.name} e ${pick.label.replace('★ ', '').toLowerCase()}`}>Vezi de ce →</a>
+        <a class="mini" href={`#${p.id}`} data-flash aria-label={`Vezi ${p.name}`}>Vezi produsul →</a>
       </div>
     );
   })}

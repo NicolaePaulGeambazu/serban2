@@ -31,13 +31,7 @@ const itemList = {
     item: {
       '@type': 'Product',
       name: p.name,
-      offers: {
-        '@type': 'Offer',
-        price: p.price,
-        priceCurrency: 'RON',
-        availability: 'https://schema.org/InStock',
-        url: deeplink(p.emagUrl),
-      },
+      url: deeplink(p.affiliateUrl || p.emagUrl),
     },
   })),
 };
@@ -72,24 +66,10 @@ const faqSchema = {
   <div class="toolbar" id="clasament">
     <div class="wrap tb-row">
       <span class="count" id="count">{d.products.length} modele</span>
-      <div class="chips" role="group" aria-label="Filtre preț">
-        {d.priceBuckets.map((b, i) => (
-          <button class="chip" data-price={b.key} data-min={b.min ?? ''} data-max={b.max ?? ''} aria-pressed={i === 0 ? 'true' : 'false'}>{b.label}</button>
-        ))}
-      </div>
       <div class="chips" role="group" aria-label="Filtre funcții">
         {d.featureFilters.map((f) => (
           <button class="chip" data-feat={f.key} aria-pressed="false">{f.label}</button>
         ))}
-      </div>
-      <div class="sortbox">
-        <label for="sort">Sortează</label>
-        <select id="sort">
-          <option value="rank">Recomandat</option>
-          <option value="score">Scor (mare → mic)</option>
-          <option value="asc">Preț (mic → mare)</option>
-          <option value="desc">Preț (mare → mic)</option>
-        </select>
       </div>
     </div>
   </div>
@@ -160,9 +140,8 @@ const faqSchema = {
         <h2>Care e verdictul?</h2>
         <p>{d.conclusion}</p>
         <div class="pick">
-          <div><b>{winner.name}</b><span>Scor {winner.score.toFixed(1)} · câștigătorul testului</span></div>
-          <span class="pr">{fmt(winner.price)} lei</span>
-          <AffiliateButton url={winner.affiliateUrl || winner.emagUrl} label="Vezi prețul" class="btn btn-gold" icon={false} aria={`Vezi prețul pentru ${winner.name} pe eMAG`} />
+          <div><b>{winner.name}</b><span>câștigătorul clasamentului</span></div>
+          <AffiliateButton url={winner.affiliateUrl || winner.emagUrl} label="Vezi prețul pe eMAG" class="btn btn-gold" icon={false} aria={`Vezi prețul pentru ${winner.name} pe eMAG`} />
         </div>
       </div>
     </div>
@@ -170,7 +149,7 @@ const faqSchema = {
 
   <!-- sticky mobile CTA -->
   <div class="m-cta" slot="after">
-    <div class="p"><b>{fmt(winner.price)} lei</b><span>Câștigător · {winner.name}</span></div>
+    <div class="p"><b>Câștigător</b><span>{winner.name}</span></div>
     <a href={deeplink(winner.affiliateUrl || winner.emagUrl)} rel={AFFILIATE_REL} target="_blank" aria-label={`Vezi prețul pentru ${winner.name} pe eMAG`}>Vezi prețul</a>
   </div>
 

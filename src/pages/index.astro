@@ -45,12 +45,8 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
             ? <img class="v-shot" src={fp.image} alt={fp.name} width="118" height="118" loading="lazy" />
             : <div class="v-shot"><Icon name="circle" /></div>}
           <div class="v-meta">
-            <div class="v-cat">{featured.data.parent}</div>
+            <div class="v-cat">{featured.data.parent} · Alegerea noastră</div>
             <h3 class="v-name">{fp.name}</h3>
-            <div class="v-scorewrap">
-              <span class="dial" style={`--val:${Math.round(fp.score * 10)}`}><b>{fp.score.toFixed(1)}</b></span>
-              <div class="v-score-l">Scor {site.name}<br /><b>{fp.score.toFixed(1)}</b> / 10</div>
-            </div>
           </div>
         </div>
         {fp.specs.length > 0 && (
@@ -59,14 +55,9 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
           </ul>
         )}
         <div class="v-buy">
-          <div class="price">
-            {fp.priceNote && <span class="save">{fp.priceNote}</span>}
-            <span class="now">{fmt(fp.price)} lei</span>
-            {fp.oldPrice && <span class="was">{fmt(fp.oldPrice)} lei</span>}
-          </div>
           <AffiliateButton url={fp.affiliateUrl || fp.emagUrl} class="btn btn-primary" />
         </div>
-        <p class="v-foot"><span class="dot"></span> Link afiliat · prețul nu se schimbă pentru tine</p>
+        <p class="v-foot"><span class="dot"></span> Link afiliat · prețul curent îl vezi pe eMAG</p>
       </div>
     </div>
   </section>
