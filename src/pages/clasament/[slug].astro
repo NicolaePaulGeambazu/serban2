@@ -162,7 +162,7 @@ const faqSchema = {
         <div class="pick">
           <div><b>{winner.name}</b><span>Scor {winner.score.toFixed(1)} · câștigătorul testului</span></div>
           <span class="pr">{fmt(winner.price)} lei</span>
-          <AffiliateButton url={winner.emagUrl} label="Vezi prețul" class="btn btn-gold" icon={false} aria={`Vezi prețul pentru ${winner.name} pe eMAG`} />
+          <AffiliateButton url={winner.affiliateUrl || winner.emagUrl} label="Vezi prețul" class="btn btn-gold" icon={false} aria={`Vezi prețul pentru ${winner.name} pe eMAG`} />
         </div>
       </div>
     </div>
@@ -171,7 +171,7 @@ const faqSchema = {
   <!-- sticky mobile CTA -->
   <div class="m-cta" slot="after">
     <div class="p"><b>{fmt(winner.price)} lei</b><span>Câștigător · {winner.name}</span></div>
-    <a href={deeplink(winner.emagUrl)} rel={AFFILIATE_REL} target="_blank" aria-label={`Vezi prețul pentru ${winner.name} pe eMAG`}>Vezi prețul</a>
+    <a href={deeplink(winner.affiliateUrl || winner.emagUrl)} rel={AFFILIATE_REL} target="_blank" aria-label={`Vezi prețul pentru ${winner.name} pe eMAG`}>Vezi prețul</a>
   </div>
 
   <Jsonld schema={itemList} />

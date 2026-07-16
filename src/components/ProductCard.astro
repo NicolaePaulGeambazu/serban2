@@ -64,7 +64,7 @@ const fmt = (n: number) => n.toLocaleString('ro-RO');
     {p.priceNote && <span class="save">{p.priceNote}</span>}
     <span class="now">{fmt(p.price)} lei</span>
     {p.oldPrice && <span class="was">{fmt(p.oldPrice)} lei</span>}
-    <AffiliateButton url={p.emagUrl} class="btn btn-primary" aria={`Vezi prețul pentru ${p.name} pe eMAG`} />
+    <AffiliateButton url={p.affiliateUrl || p.emagUrl} class="btn btn-primary" aria={`Vezi prețul pentru ${p.name} pe eMAG`} />
     <span class="ver"><span class="dot"></span>Preț orientativ — cel exact e pe eMAG</span>
   </div>
 </article>

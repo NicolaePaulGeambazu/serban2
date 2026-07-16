@@ -9,232 +9,673 @@
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
-    { "label": "★ Cea mai bună alegere", "productId": "p1", "win": true },
-    { "label": "Cel mai bun preț/calitate", "productId": "p2" },
-    { "label": "Cea mai bună alegere pe buget", "productId": "p9" }
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p2"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
   ],
   "priceBuckets": [
-    { "key": "all", "label": "Toate prețurile" },
-    { "key": "low", "label": "sub 2.000 lei", "max": 1999 },
-    { "key": "mid", "label": "2.000–4.000 lei", "min": 2000, "max": 4000 },
-    { "key": "high", "label": "peste 4.000 lei", "min": 4001 }
+    {
+      "key": "all",
+      "label": "Toate prețurile"
+    },
+    {
+      "key": "low",
+      "label": "sub 2.000 lei",
+      "max": 1999
+    },
+    {
+      "key": "mid",
+      "label": "2.000–4.000 lei",
+      "min": 2000,
+      "max": 4000
+    },
+    {
+      "key": "high",
+      "label": "peste 4.000 lei",
+      "min": 4001
+    }
   ],
   "featureFilters": [
-    { "key": "oled", "label": "OLED" },
-    { "key": "gaming", "label": "Gaming 100Hz" },
-    { "key": "mare", "label": "55\"+" }
+    {
+      "key": "oled",
+      "label": "OLED"
+    },
+    {
+      "key": "gaming",
+      "label": "Gaming 100Hz"
+    },
+    {
+      "key": "mare",
+      "label": "55\"+"
+    }
   ],
   "guide": [
-    { "h3": "Ce diagonală pentru camera ta?", "body": "Regula practică: stai la o distanță de ~1,5× diagonala pentru 4K. La 2,5 m de canapea, un 55\" e ideal; la 3,5 m, mergi spre 65\". Un TV prea mic într-o cameră mare e cea mai frecventă regretare.", "callout": "Nu-ți fie teamă de diagonală mare — la 4K stai mai aproape fără să vezi pixeli. Mai degrabă un 65\" bun decât un 50\" scump." },
-    { "h3": "OLED, QLED/MiniLED sau LED?", "body": "OLED (LG, Philips) = cel mai bun negru și contrast, perfect pentru filme în cameră întunecată. QLED și QD-MiniLED (Samsung, TCL) = foarte luminoase și vii, excelente în camere cu lumină și un raport preț/imagine imbatabil. LED clasic (Sony Bravia 3) = accesibil, bun pentru uz zilnic." },
-    { "h3": "Contează pentru gaming?", "body": "Dacă ai PS5/Xbox Series sau PC, caută 100–120Hz, HDMI 2.1 și VRR/ALLM. OLED-urile LG C5 și panourile MiniLED TCL le au; modelele QLED de intrare rămân la 60Hz." }
+    {
+      "h3": "Ce diagonală pentru camera ta?",
+      "body": "Regula practică: stai la o distanță de ~1,5× diagonala pentru 4K. La 2,5 m de canapea, un 55\" e ideal; la 3,5 m, mergi spre 65\". Un TV prea mic într-o cameră mare e cea mai frecventă regretare.",
+      "callout": "Nu-ți fie teamă de diagonală mare — la 4K stai mai aproape fără să vezi pixeli. Mai degrabă un 65\" bun decât un 50\" scump."
+    },
+    {
+      "h3": "OLED, QLED/MiniLED sau LED?",
+      "body": "OLED (LG, Philips) = cel mai bun negru și contrast, perfect pentru filme în cameră întunecată. QLED și QD-MiniLED (Samsung, TCL) = foarte luminoase și vii, excelente în camere cu lumină și un raport preț/imagine imbatabil. LED clasic (Sony Bravia 3) = accesibil, bun pentru uz zilnic."
+    },
+    {
+      "h3": "Contează pentru gaming?",
+      "body": "Dacă ai PS5/Xbox Series sau PC, caută 100–120Hz, HDMI 2.1 și VRR/ALLM. OLED-urile LG C5 și panourile MiniLED TCL le au; modelele QLED de intrare rămân la 60Hz."
+    }
   ],
   "faq": [
-    { "q": "Merită OLED sau iau QLED/MiniLED?", "a": "Dacă te uiți mult la filme seara, în cameră întunecată, OLED-ul e superior la contrast. Dacă e cameră luminoasă și vrei imagine vie ziua la un preț mai bun, un QD-MiniLED (ex. TCL) e alegerea mai deșteaptă." },
-    { "q": "Câți Hz îmi trebuie?", "a": "Pentru filme și seriale, 60Hz sunt suficienți. Pentru gaming pe consolă nouă sau PC, alege 100–120Hz cu HDMI 2.1." },
-    { "q": "De unde câștigați bani dacă site-ul e gratuit?", "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul." }
+    {
+      "q": "Merită OLED sau iau QLED/MiniLED?",
+      "a": "Dacă te uiți mult la filme seara, în cameră întunecată, OLED-ul e superior la contrast. Dacă e cameră luminoasă și vrei imagine vie ziua la un preț mai bun, un QD-MiniLED (ex. TCL) e alegerea mai deșteaptă."
+    },
+    {
+      "q": "Câți Hz îmi trebuie?",
+      "a": "Pentru filme și seriale, 60Hz sunt suficienți. Pentru gaming pe consolă nouă sau PC, alege 100–120Hz cu HDMI 2.1."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
   ],
   "conclusion": "Pentru imaginea cea mai bună și gaming complet, LG OLED evo C5 e alegerea de top. Dacă vrei cel mai bun raport preț/calitate, TCL QD-MiniLED 55C6K îți dă o imagine excelentă la jumătate de preț, iar Samsung 50Q7F2 e alegerea inteligentă pe buget.",
   "products": [
     {
-      "id": "p1", "rank": 1, "name": "LG OLED evo 55C5 (55C52LA)", "tag": "★ Cea mai bună alegere", "win": true,
-      "score": 9.4, "price": 5000,
+      "id": "p1",
+      "rank": 1,
+      "name": "LG OLED evo 55C5 (55C52LA)",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.4,
+      "price": 5000,
       "image": "https://s13emagst.akamaized.net/products/91151/91150885/images/res_5d5ad8b6b3bf455f0aa66c9f3078742e.jpg?width=400&height=400",
       "feedId": "DVMLL73BM",
-      "features": ["oled", "gaming", "mare"],
+      "features": [
+        "oled",
+        "gaming",
+        "mare"
+      ],
       "specs": [
-        { "value": "55\" OLED evo", "label": "4K" },
-        { "value": "100 Hz", "label": "HDMI 2.1" },
-        { "value": "Gaming", "label": "VRR/ALLM" },
-        { "value": "Smart", "label": "webOS" }
+        {
+          "value": "55\" OLED evo",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": "HDMI 2.1"
+        },
+        {
+          "value": "Gaming",
+          "label": "VRR/ALLM"
+        },
+        {
+          "value": "Smart",
+          "label": "webOS"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 97 }, { "label": "Sunet", "pct": 84 },
-        { "label": "Smart", "pct": 90 }, { "label": "Gaming", "pct": 95 }
+        {
+          "label": "Imagine",
+          "pct": 97
+        },
+        {
+          "label": "Sunet",
+          "pct": 84
+        },
+        {
+          "label": "Smart",
+          "pct": 90
+        },
+        {
+          "label": "Gaming",
+          "pct": 95
+        }
       ],
-      "pros": ["Cel mai bun contrast și negru din test", "Gaming 100Hz complet (HDMI 2.1)"],
-      "cons": ["Preț premium", "Sunetul cere o soundbar"],
-      "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-55c52la-139-cm-smart-4k-ultra-hd-100-hz-clasa-f-oled55c52la/pd/DVMLL73BM/"
+      "pros": [
+        "Cel mai bun contrast și negru din test",
+        "Gaming 100Hz complet (HDMI 2.1)"
+      ],
+      "cons": [
+        "Preț premium",
+        "Sunetul cere o soundbar"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-55c52la-139-cm-smart-4k-ultra-hd-100-hz-clasa-f-oled55c52la/pd/DVMLL73BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182485"
     },
     {
-      "id": "p2", "rank": 2, "name": "TCL QD-MiniLED 55C6K", "tag": "Cel mai bun preț/calitate",
-      "score": 9.1, "price": 2300,
+      "id": "p2",
+      "rank": 2,
+      "name": "TCL QD-MiniLED 55C6K",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 9.1,
+      "price": 2300,
       "image": "https://s13emagst.akamaized.net/products/85933/85932263/images/res_6a14262f621d8b64e467b6ccf835af00.jpg?width=400&height=400",
       "feedId": "DF4FMB3BM",
-      "features": ["gaming", "mare"],
+      "features": [
+        "gaming",
+        "mare"
+      ],
       "specs": [
-        { "value": "55\" QD-MiniLED", "label": "4K" },
-        { "value": "100 Hz", "label": "" },
-        { "value": "Google TV", "label": "" },
-        { "value": "Foarte", "label": "luminos" }
+        {
+          "value": "55\" QD-MiniLED",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": ""
+        },
+        {
+          "value": "Google TV",
+          "label": ""
+        },
+        {
+          "value": "Foarte",
+          "label": "luminos"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 90 }, { "label": "Sunet", "pct": 80 },
-        { "label": "Smart", "pct": 86 }, { "label": "Gaming", "pct": 88 }
+        {
+          "label": "Imagine",
+          "pct": 90
+        },
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        },
+        {
+          "label": "Gaming",
+          "pct": 88
+        }
       ],
-      "pros": ["Imagine MiniLED excelentă la jumătate din prețul unui OLED", "100Hz pentru gaming"],
-      "cons": ["Negrul nu e chiar la nivel de OLED"],
-      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-139-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-55c6k/pd/DF4FMB3BM"
+      "pros": [
+        "Imagine MiniLED excelentă la jumătate din prețul unui OLED",
+        "100Hz pentru gaming"
+      ],
+      "cons": [
+        "Negrul nu e chiar la nivel de OLED"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-139-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-55c6k/pd/DF4FMB3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182486"
     },
     {
-      "id": "p3", "rank": 3, "name": "Philips 48OLED820 Ambilight", "tag": "Cea mai bună pentru filme",
-      "score": 9.0, "price": 5000,
+      "id": "p3",
+      "rank": 3,
+      "name": "Philips 48OLED820 Ambilight",
+      "tag": "Cea mai bună pentru filme",
+      "score": 9,
+      "price": 5000,
       "image": "https://s13emagst.akamaized.net/products/96441/96440663/images/res_bb6ee16367766a3da2b44f8cb29ce35f.jpg?width=400&height=400",
       "feedId": "D2FTXH3BM",
-      "features": ["oled", "gaming"],
+      "features": [
+        "oled",
+        "gaming"
+      ],
       "specs": [
-        { "value": "48\" OLED", "label": "4K" },
-        { "value": "100 Hz", "label": "Google TV" },
-        { "value": "Ambilight", "label": "3 laturi" },
-        { "value": "Gaming", "label": "HDMI 2.1" }
+        {
+          "value": "48\" OLED",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": "Google TV"
+        },
+        {
+          "value": "Ambilight",
+          "label": "3 laturi"
+        },
+        {
+          "value": "Gaming",
+          "label": "HDMI 2.1"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 95 }, { "label": "Sunet", "pct": 85 },
-        { "label": "Smart", "pct": 88 }, { "label": "Gaming", "pct": 90 }
+        {
+          "label": "Imagine",
+          "pct": 95
+        },
+        {
+          "label": "Sunet",
+          "pct": 85
+        },
+        {
+          "label": "Smart",
+          "pct": 88
+        },
+        {
+          "label": "Gaming",
+          "pct": 90
+        }
       ],
-      "pros": ["Ambilight-ul face experiența de film unică", "Contrast OLED perfect"],
-      "cons": ["Diagonală mai mică (48\")"],
-      "emagUrl": "https://www.emag.ro/televizor-philips-ambilight-tv-oled-48oled820-121-cm-google-tv-4k-ultra-hd-100hz-clasa-g-48oled820-12/pd/D2FTXH3BM/"
+      "pros": [
+        "Ambilight-ul face experiența de film unică",
+        "Contrast OLED perfect"
+      ],
+      "cons": [
+        "Diagonală mai mică (48\")"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-philips-ambilight-tv-oled-48oled820-121-cm-google-tv-4k-ultra-hd-100hz-clasa-g-48oled820-12/pd/D2FTXH3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182487"
     },
     {
-      "id": "p4", "rank": 4, "name": "TCL QD-MiniLED 65C6K", "tag": "Cel mai bun ecran mare pe buget",
-      "score": 8.9, "price": 2600,
+      "id": "p4",
+      "rank": 4,
+      "name": "TCL QD-MiniLED 65C6K",
+      "tag": "Cel mai bun ecran mare pe buget",
+      "score": 8.9,
+      "price": 2600,
       "image": "https://s13emagst.akamaized.net/products/85933/85932264/images/res_057ce7068c81dafe61e6365a9d191dfc.jpg?width=400&height=400",
       "feedId": "DJ4FMB3BM",
-      "features": ["gaming", "mare"],
+      "features": [
+        "gaming",
+        "mare"
+      ],
       "specs": [
-        { "value": "65\" QD-MiniLED", "label": "4K" },
-        { "value": "100 Hz", "label": "" },
-        { "value": "Google TV", "label": "" },
-        { "value": "65\"", "label": "la preț mic" }
+        {
+          "value": "65\" QD-MiniLED",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": ""
+        },
+        {
+          "value": "Google TV",
+          "label": ""
+        },
+        {
+          "value": "65\"",
+          "label": "la preț mic"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 89 }, { "label": "Sunet", "pct": 80 },
-        { "label": "Smart", "pct": 86 }, { "label": "Gaming", "pct": 88 }
+        {
+          "label": "Imagine",
+          "pct": 89
+        },
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        },
+        {
+          "label": "Gaming",
+          "pct": 88
+        }
       ],
-      "pros": ["65\" QD-MiniLED la un preț greu de bătut", "Ideal pentru living mare"],
-      "cons": ["Are nevoie de spațiu și distanță"],
-      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-164-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-65c6k/pd/DJ4FMB3BM"
+      "pros": [
+        "65\" QD-MiniLED la un preț greu de bătut",
+        "Ideal pentru living mare"
+      ],
+      "cons": [
+        "Are nevoie de spațiu și distanță"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-164-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-65c6k/pd/DJ4FMB3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182488"
     },
     {
-      "id": "p5", "rank": 5, "name": "LG OLED evo 48C5 (48C52LA)", "tag": "Cel mai bun OLED compact",
-      "score": 8.8, "price": 4000,
+      "id": "p5",
+      "rank": 5,
+      "name": "LG OLED evo 48C5 (48C52LA)",
+      "tag": "Cel mai bun OLED compact",
+      "score": 8.8,
+      "price": 4000,
       "image": "https://s13emagst.akamaized.net/products/93782/93781722/images/res_4a7d28a9a1ab2d8b4c2e6c6ee7b8bb5f.jpg?width=400&height=400",
       "feedId": "D54WJK3BM",
-      "features": ["oled", "gaming"],
+      "features": [
+        "oled",
+        "gaming"
+      ],
       "specs": [
-        { "value": "48\" OLED evo", "label": "4K" },
-        { "value": "100 Hz", "label": "HDMI 2.1" },
-        { "value": "Gaming", "label": "VRR/ALLM" },
-        { "value": "Smart", "label": "webOS" }
+        {
+          "value": "48\" OLED evo",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": "HDMI 2.1"
+        },
+        {
+          "value": "Gaming",
+          "label": "VRR/ALLM"
+        },
+        {
+          "value": "Smart",
+          "label": "webOS"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 96 }, { "label": "Sunet", "pct": 82 },
-        { "label": "Smart", "pct": 90 }, { "label": "Gaming", "pct": 94 }
+        {
+          "label": "Imagine",
+          "pct": 96
+        },
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Smart",
+          "pct": 90
+        },
+        {
+          "label": "Gaming",
+          "pct": 94
+        }
       ],
-      "pros": ["OLED perfect pentru birou/gaming pe monitor mare", "Fluiditate excelentă"],
-      "cons": ["48\" poate fi mic pentru un living mare"],
-      "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-48c52la-121-cm-smart-4k-ultra-hd-100-hz-clasa-g-oled48c52la/pd/D54WJK3BM/"
+      "pros": [
+        "OLED perfect pentru birou/gaming pe monitor mare",
+        "Fluiditate excelentă"
+      ],
+      "cons": [
+        "48\" poate fi mic pentru un living mare"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-48c52la-121-cm-smart-4k-ultra-hd-100-hz-clasa-g-oled48c52la/pd/D54WJK3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182489"
     },
     {
-      "id": "p6", "rank": 6, "name": "Samsung QLED 55Q7F2", "tag": "Cel mai bun QLED accesibil 55\"",
-      "score": 8.4, "price": 1700,
+      "id": "p6",
+      "rank": 6,
+      "name": "Samsung QLED 55Q7F2",
+      "tag": "Cel mai bun QLED accesibil 55\"",
+      "score": 8.4,
+      "price": 1700,
       "image": "https://s13emagst.akamaized.net/products/93125/93124844/images/res_bd84d16fbfe8404fb117dfc6afdc9ab4.jpg?width=400&height=400",
       "feedId": "DT3GRT3BM",
-      "features": ["mare"],
+      "features": [
+        "mare"
+      ],
       "specs": [
-        { "value": "55\" QLED", "label": "4K" },
-        { "value": "Smart", "label": "Tizen" },
-        { "value": "Quantum", "label": "Dot" },
-        { "value": "55\"", "label": "sub 1.800 lei" }
+        {
+          "value": "55\" QLED",
+          "label": "4K"
+        },
+        {
+          "value": "Smart",
+          "label": "Tizen"
+        },
+        {
+          "value": "Quantum",
+          "label": "Dot"
+        },
+        {
+          "value": "55\"",
+          "label": "sub 1.800 lei"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 84 }, { "label": "Sunet", "pct": 78 },
-        { "label": "Smart", "pct": 85 }, { "label": "Gaming", "pct": 68 }
+        {
+          "label": "Imagine",
+          "pct": 84
+        },
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Smart",
+          "pct": 85
+        },
+        {
+          "label": "Gaming",
+          "pct": 68
+        }
       ],
-      "pros": ["55\" QLED la preț foarte bun", "Culori vii, bun în camere luminoase"],
-      "cons": ["Fără 100Hz pentru gaming"],
-      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-55q7f2-138-cm-smart-4k-ultra-hd-clasa-g-qe55q7f2auxxh/pd/DT3GRT3BM/"
+      "pros": [
+        "55\" QLED la preț foarte bun",
+        "Culori vii, bun în camere luminoase"
+      ],
+      "cons": [
+        "Fără 100Hz pentru gaming"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-55q7f2-138-cm-smart-4k-ultra-hd-clasa-g-qe55q7f2auxxh/pd/DT3GRT3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182490"
     },
     {
-      "id": "p7", "rank": 7, "name": "Sony Bravia 3 50S39", "tag": "Cea mai bună procesare Sony",
-      "score": 8.3, "price": 2700,
+      "id": "p7",
+      "rank": 7,
+      "name": "Sony Bravia 3 50S39",
+      "tag": "Cea mai bună procesare Sony",
+      "score": 8.3,
+      "price": 2700,
       "image": "https://s13emagst.akamaized.net/products/93430/93429227/images/res_4d6c2b17c071cea4b3c57f2395def505.jpg?width=400&height=400",
       "feedId": "D2527K3BM",
       "features": [],
       "specs": [
-        { "value": "50\" LED", "label": "4K" },
-        { "value": "Google TV", "label": "" },
-        { "value": "Sony", "label": "procesare imagine" },
-        { "value": "Smart", "label": "" }
+        {
+          "value": "50\" LED",
+          "label": "4K"
+        },
+        {
+          "value": "Google TV",
+          "label": ""
+        },
+        {
+          "value": "Sony",
+          "label": "procesare imagine"
+        },
+        {
+          "value": "Smart",
+          "label": ""
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 85 }, { "label": "Sunet", "pct": 82 },
-        { "label": "Smart", "pct": 86 }, { "label": "Gaming", "pct": 66 }
+        {
+          "label": "Imagine",
+          "pct": 85
+        },
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        },
+        {
+          "label": "Gaming",
+          "pct": 66
+        }
       ],
-      "pros": ["Procesarea Sony scoate mult dintr-un panou LED", "Google TV fluid"],
-      "cons": ["LED clasic, nu QLED/OLED", "60Hz"],
-      "emagUrl": "https://www.emag.ro/televizor-sony-bravia-3-led-50s39-126-cm-smart-google-tv-4k-ultra-hd-clasa-e-k50s39b-cei/pd/D2527K3BM/"
+      "pros": [
+        "Procesarea Sony scoate mult dintr-un panou LED",
+        "Google TV fluid"
+      ],
+      "cons": [
+        "LED clasic, nu QLED/OLED",
+        "60Hz"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-sony-bravia-3-led-50s39-126-cm-smart-google-tv-4k-ultra-hd-clasa-e-k50s39b-cei/pd/D2527K3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182491"
     },
     {
-      "id": "p8", "rank": 8, "name": "TCL QD-MiniLED 50C7K", "tag": "MiniLED accesibil la 50\"",
-      "score": 8.2, "price": 2000,
+      "id": "p8",
+      "rank": 8,
+      "name": "TCL QD-MiniLED 50C7K",
+      "tag": "MiniLED accesibil la 50\"",
+      "score": 8.2,
+      "price": 2000,
       "image": "https://s13emagst.akamaized.net/products/85933/85932253/images/res_45acbe523b554c6c3085f691f7f743e0.jpg?width=400&height=400",
       "feedId": "D74FMB3BM",
-      "features": ["gaming"],
+      "features": [
+        "gaming"
+      ],
       "specs": [
-        { "value": "50\" QD-MiniLED", "label": "4K" },
-        { "value": "100 Hz", "label": "" },
-        { "value": "Google TV", "label": "" },
-        { "value": "MiniLED", "label": "la 2.000 lei" }
+        {
+          "value": "50\" QD-MiniLED",
+          "label": "4K"
+        },
+        {
+          "value": "100 Hz",
+          "label": ""
+        },
+        {
+          "value": "Google TV",
+          "label": ""
+        },
+        {
+          "value": "MiniLED",
+          "label": "la 2.000 lei"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 87 }, { "label": "Sunet", "pct": 78 },
-        { "label": "Smart", "pct": 85 }, { "label": "Gaming", "pct": 86 }
+        {
+          "label": "Imagine",
+          "pct": 87
+        },
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Smart",
+          "pct": 85
+        },
+        {
+          "label": "Gaming",
+          "pct": 86
+        }
       ],
-      "pros": ["MiniLED + 100Hz la un preț mic", "Bun și pentru gaming"],
-      "cons": ["50\" pentru cine vrea mai mare"],
-      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-126-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-50c7k/pd/D74FMB3BM/"
+      "pros": [
+        "MiniLED + 100Hz la un preț mic",
+        "Bun și pentru gaming"
+      ],
+      "cons": [
+        "50\" pentru cine vrea mai mare"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-126-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-50c7k/pd/D74FMB3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182492"
     },
     {
-      "id": "p9", "rank": 9, "name": "Samsung QLED 50Q7F2", "tag": "Cea mai bună alegere pe buget",
-      "score": 8.0, "price": 1600,
+      "id": "p9",
+      "rank": 9,
+      "name": "Samsung QLED 50Q7F2",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 8,
+      "price": 1600,
       "image": "https://s13emagst.akamaized.net/products/93125/93124846/images/res_6f60c0330dea93a9f6ba8c519d2d75ae.jpg?width=400&height=400",
       "feedId": "DN3GRT3BM",
       "features": [],
       "specs": [
-        { "value": "50\" QLED", "label": "4K" },
-        { "value": "Smart", "label": "Tizen" },
-        { "value": "Quantum", "label": "Dot" },
-        { "value": "Sub 1.700", "label": "lei" }
+        {
+          "value": "50\" QLED",
+          "label": "4K"
+        },
+        {
+          "value": "Smart",
+          "label": "Tizen"
+        },
+        {
+          "value": "Quantum",
+          "label": "Dot"
+        },
+        {
+          "value": "Sub 1.700",
+          "label": "lei"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 82 }, { "label": "Sunet", "pct": 76 },
-        { "label": "Smart", "pct": 85 }, { "label": "Gaming", "pct": 66 }
+        {
+          "label": "Imagine",
+          "pct": 82
+        },
+        {
+          "label": "Sunet",
+          "pct": 76
+        },
+        {
+          "label": "Smart",
+          "pct": 85
+        },
+        {
+          "label": "Gaming",
+          "pct": 66
+        }
       ],
-      "pros": ["Cel mai ieftin QLED bun din test", "Culori vii pentru preț"],
-      "cons": ["Fără 100Hz", "Sunet mediu"],
-      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-50q7f2-125-cm-smart-4k-ultra-hd-clasa-g-qe50q7f2auxxh/pd/DN3GRT3BM/"
+      "pros": [
+        "Cel mai ieftin QLED bun din test",
+        "Culori vii pentru preț"
+      ],
+      "cons": [
+        "Fără 100Hz",
+        "Sunet mediu"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-50q7f2-125-cm-smart-4k-ultra-hd-clasa-g-qe50q7f2auxxh/pd/DN3GRT3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182493"
     },
     {
-      "id": "p10", "rank": 10, "name": "Samsung QLED 98Q7F", "tag": "Cel mai mare ecran (98\")",
-      "score": 8.1, "price": 6000,
+      "id": "p10",
+      "rank": 10,
+      "name": "Samsung QLED 98Q7F",
+      "tag": "Cel mai mare ecran (98\")",
+      "score": 8.1,
+      "price": 6000,
       "image": "https://s13emagst.akamaized.net/products/117731/117730650/images/res_b448f653f9c769fafe9e97497ef4e3e4.jpg?width=400&height=400",
       "feedId": "D896932BM",
-      "features": ["mare"],
+      "features": [
+        "mare"
+      ],
       "specs": [
-        { "value": "98\" QLED", "label": "4K" },
-        { "value": "Smart", "label": "Tizen" },
-        { "value": "247 cm", "label": "diagonală" },
-        { "value": "Cinema", "label": "acasă" }
+        {
+          "value": "98\" QLED",
+          "label": "4K"
+        },
+        {
+          "value": "Smart",
+          "label": "Tizen"
+        },
+        {
+          "value": "247 cm",
+          "label": "diagonală"
+        },
+        {
+          "value": "Cinema",
+          "label": "acasă"
+        }
       ],
       "scores": [
-        { "label": "Imagine", "pct": 86 }, { "label": "Sunet", "pct": 82 },
-        { "label": "Smart", "pct": 85 }, { "label": "Gaming", "pct": 70 }
+        {
+          "label": "Imagine",
+          "pct": 86
+        },
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Smart",
+          "pct": 85
+        },
+        {
+          "label": "Gaming",
+          "pct": 70
+        }
       ],
-      "pros": ["Efect de cinema la 98\"", "Impresionant pentru living-uri foarte mari"],
-      "cons": ["Are nevoie de spațiu și distanță considerabile", "Preț mare"],
-      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-98q7f-247-cm-smart-4k-ultra-hd-clasa-g-qe98q7faauxxh/pd/D896932BM/"
+      "pros": [
+        "Efect de cinema la 98\"",
+        "Impresionant pentru living-uri foarte mari"
+      ],
+      "cons": [
+        "Are nevoie de spațiu și distanță considerabile",
+        "Preț mare"
+      ],
+      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-98q7f-247-cm-smart-4k-ultra-hd-clasa-g-qe98q7faauxxh/pd/D896932BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16182494"
     }
   ]
 }

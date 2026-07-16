@@ -18,7 +18,8 @@ const product = z.object({
   scores: z.array(z.object({ label: z.string(), pct: z.number() })).default([]),
   pros: z.array(z.string()).default([]),
   cons: z.array(z.string()).default([]),
-  emagUrl: z.string(),             // real product URL on eMAG (wrapped in affiliate deeplink at build)
+  emagUrl: z.string(),             // real product URL on eMAG
+  affiliateUrl: z.string().optional(), // tracked Profitshare link, filled by scripts/sync-links.mjs
 });
 
 const categories = defineCollection({

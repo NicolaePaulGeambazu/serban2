@@ -64,7 +64,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
             <span class="now">{fmt(fp.price)} lei</span>
             {fp.oldPrice && <span class="was">{fmt(fp.oldPrice)} lei</span>}
           </div>
-          <AffiliateButton url={fp.emagUrl} class="btn btn-primary" />
+          <AffiliateButton url={fp.affiliateUrl || fp.emagUrl} class="btn btn-primary" />
         </div>
         <p class="v-foot"><span class="dot"></span> Link afiliat · prețul nu se schimbă pentru tine</p>
       </div>
