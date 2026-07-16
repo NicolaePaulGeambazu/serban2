@@ -81,5 +81,29 @@ const website = {
     <Footer />
     <slot name="after" />
     <CookieConsent />
+    <script>
+      // Google Ads attribution: capture gclid and pass it into Profitshare links
+      // (so a commission can be matched back to the ad click). Only when the visitor
+      // has accepted marketing cookies.
+      (function () {
+        try {
+          var p = new URLSearchParams(location.search);
+          var gid = p.get('gclid') || p.get('gbraid') || p.get('wbraid');
+          if (gid) localStorage.setItem('vk_gclid', gid);
+          var gclid = localStorage.getItem('vk_gclid');
+          if (!gclid) return;
+          var consent = null;
+          try { consent = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null'); } catch (e) {}
+          if (!consent || !consent.marketing) return; // ad tracking needs marketing consent
+          document.addEventListener('click', function (e) {
+            var a = e.target.closest && e.target.closest('a[href*="l.profitshare.ro/l/"]');
+            if (!a) return;
+            var href = a.getAttribute('href');
+            if (!href || href.indexOf('psntrf=') > -1) return;
+            a.setAttribute('href', href + (href.indexOf('?') > -1 ? '&' : '?') + 'psntrf=' + encodeURIComponent(gclid));
+          }, true);
+        } catch (e) {}
+      })();
+    </script>
   </body>
 </html>
