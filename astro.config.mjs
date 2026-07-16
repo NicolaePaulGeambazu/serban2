@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 // Update this to your real domain before deploying.
-export const SITE = 'https://verdikt.ro';
+export const SITE = 'https://topalegeri.ro';
 
 export default defineConfig({
   site: SITE,

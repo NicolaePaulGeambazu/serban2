@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://verdikt.ro/sitemap.xml
+Sitemap: https://topalegeri.ro/sitemap.xml
