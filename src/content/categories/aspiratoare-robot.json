@@ -15,9 +15,9 @@
   ],
   "priceBuckets": [
     { "key": "all", "label": "Toate prețurile" },
-    { "key": "low", "label": "sub 1.500 lei" },
-    { "key": "mid", "label": "1.500–2.500 lei" },
-    { "key": "high", "label": "peste 2.500 lei" }
+    { "key": "low", "label": "sub 1.500 lei", "max": 1499 },
+    { "key": "mid", "label": "1.500–2.500 lei", "min": 1500, "max": 2500 },
+    { "key": "high", "label": "peste 2.500 lei", "min": 2501 }
   ],
   "featureFilters": [
     { "key": "mop", "label": "Cu mop" },

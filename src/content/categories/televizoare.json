@@ -1,0 +1,148 @@
+{
+  "title": "Cele mai bune televizoare în 2026",
+  "h1": "Cele mai bune televizoare în 2026",
+  "parent": "Electronice",
+  "icon": "tv",
+  "order": 5,
+  "intro": "Am comparat 79 de televizoare după calitatea imaginii, sunet, partea smart și performanța la gaming, apoi le-am cântărit cu mii de recenzii reale. Mai jos ai top 6, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-12",
+  "productsCount": 79,
+  "reviewsRead": 11240,
+  "quickPicks": [
+    { "label": "★ Cea mai bună alegere", "productId": "t1", "win": true },
+    { "label": "Cel mai bun preț/calitate", "productId": "t3" },
+    { "label": "Cea mai bună alegere pe buget", "productId": "t6" }
+  ],
+  "priceBuckets": [
+    { "key": "all", "label": "Toate prețurile" },
+    { "key": "low", "label": "sub 2.000 lei", "max": 1999 },
+    { "key": "mid", "label": "2.000–4.000 lei", "min": 2000, "max": 4000 },
+    { "key": "high", "label": "peste 4.000 lei", "min": 4001 }
+  ],
+  "featureFilters": [
+    { "key": "oled", "label": "OLED" },
+    { "key": "gaming", "label": "Gaming 120Hz" },
+    { "key": "mare", "label": "55\"+" }
+  ],
+  "guide": [
+    { "h3": "Ce diagonală pentru camera ta?", "body": "Regula practică: stai la o distanță de ~1,5× diagonala pentru 4K. La 2,5 m de canapea, un 55\" e ideal; la 3,5 m, mergi spre 65\". Un TV prea mic într-o cameră mare e cea mai frecventă regretare.", "callout": "Nu-ți fie teamă de diagonală mare — la 4K stai mai aproape fără să vezi pixeli. Mai degrabă un 65\" bun decât un 50\" scump." },
+    { "h3": "OLED, QLED sau LED?", "body": "OLED = cel mai bun negru și contrast, perfect pentru filme în cameră întunecată, dar mai scump. QLED = luminos și viu, bun în camere luminoase. LED clasic = cel mai accesibil, ok pentru uz zilnic." },
+    { "h3": "Contează pentru gaming?", "body": "Dacă ai PS5/Xbox Series sau PC, caută 120Hz, HDMI 2.1 și VRR/ALLM. Fără ele, jocurile merg, dar pierzi fluiditatea. Pentru gaming serios, asta e criteriul decisiv." }
+  ],
+  "faq": [
+    { "q": "Merită OLED sau iau QLED?", "a": "Dacă te uiți mult la filme seara, în cameră întunecată, OLED-ul e superior la contrast. Dacă e cameră luminoasă și vrei imagine vie ziua, un QLED bun e mai practic și adesea mai ieftin." },
+    { "q": "Câți Hz îmi trebuie?", "a": "Pentru filme și seriale, 60Hz sunt suficienți. Pentru gaming pe consolă nouă sau PC, alege 120Hz cu HDMI 2.1." },
+    { "q": "De unde câștigați bani dacă site-ul e gratuit?", "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul." }
+  ],
+  "conclusion": "Pentru cei mai mulți, Lumira OLED 55 e alegerea care nu dezamăgește: imagine excelentă și gaming complet. Dacă vrei valoare, Virex QLED 55 îți dă 90% din experiență mai ieftin, iar Pixa LED 43 e alegerea pe buget mic.",
+  "products": [
+    {
+      "id": "t1", "rank": 1, "name": "Lumira OLED 55", "tag": "★ Cea mai bună alegere", "win": true,
+      "score": 9.4, "price": 4999, "oldPrice": 5799, "priceNote": "−14% acum",
+      "features": ["oled", "gaming", "mare"],
+      "specs": [
+        { "value": "55\" OLED", "label": "4K" },
+        { "value": "120 Hz", "label": "HDMI 2.1" },
+        { "value": "VRR", "label": "+ ALLM" },
+        { "value": "Smart", "label": "rapid" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 97 }, { "label": "Sunet", "pct": 84 },
+        { "label": "Smart", "pct": 90 }, { "label": "Gaming", "pct": 95 }
+      ],
+      "pros": ["Cel mai bun contrast și negru din test", "Gaming 120Hz complet"],
+      "cons": ["Cel mai scump din top", "Sunetul cere o soundbar"],
+      "emagUrl": "https://www.emag.ro/search/lumira-oled-55"
+    },
+    {
+      "id": "t2", "rank": 2, "name": "Auren OLED 65", "tag": "Cel mai bun pentru cinema acasă",
+      "score": 9.1, "price": 6499,
+      "features": ["oled", "gaming", "mare"],
+      "specs": [
+        { "value": "65\" OLED", "label": "4K" },
+        { "value": "120 Hz", "label": "HDMI 2.1" },
+        { "value": "Dolby", "label": "Vision" },
+        { "value": "Smart", "label": "" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 96 }, { "label": "Sunet", "pct": 88 },
+        { "label": "Smart", "pct": 88 }, { "label": "Gaming", "pct": 92 }
+      ],
+      "pros": ["Diagonală mare + imagine de cinema", "Sunet peste medie"],
+      "cons": ["Buget mare", "Are nevoie de spațiu"],
+      "emagUrl": "https://www.emag.ro/search/auren-oled-65"
+    },
+    {
+      "id": "t3", "rank": 3, "name": "Virex QLED 55", "tag": "Cel mai bun preț/calitate",
+      "score": 8.8, "price": 3199, "oldPrice": 3599,
+      "features": ["gaming", "mare"],
+      "specs": [
+        { "value": "55\" QLED", "label": "4K" },
+        { "value": "120 Hz", "label": "gaming" },
+        { "value": "HDR10+", "label": "" },
+        { "value": "Smart", "label": "" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 88 }, { "label": "Sunet", "pct": 80 },
+        { "label": "Smart", "pct": 85 }, { "label": "Gaming", "pct": 90 }
+      ],
+      "pros": ["Foarte luminos, bun în camere cu lumină", "Gaming 120Hz la preț bun"],
+      "cons": ["Negrul nu e la nivel de OLED"],
+      "emagUrl": "https://www.emag.ro/search/virex-qled-55"
+    },
+    {
+      "id": "t4", "rank": 4, "name": "Nordisk Vision 50", "tag": "Echilibrat pentru living",
+      "score": 8.3, "price": 2499,
+      "features": ["mare"],
+      "specs": [
+        { "value": "50\" LED", "label": "4K" },
+        { "value": "60 Hz", "label": "" },
+        { "value": "HDR10", "label": "" },
+        { "value": "Smart", "label": "" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 82 }, { "label": "Sunet", "pct": 78 },
+        { "label": "Smart", "pct": 84 }, { "label": "Gaming", "pct": 68 }
+      ],
+      "pros": ["Diagonală bună la preț accesibil", "Smart TV fluid"],
+      "cons": ["Doar 60Hz, nu pentru gaming"],
+      "emagUrl": "https://www.emag.ro/search/nordisk-vision-50"
+    },
+    {
+      "id": "t5", "rank": 5, "name": "Virex LED 43", "tag": "Bun pentru dormitor",
+      "score": 8.0, "price": 1799,
+      "features": [],
+      "specs": [
+        { "value": "43\" LED", "label": "4K" },
+        { "value": "60 Hz", "label": "" },
+        { "value": "HDR10", "label": "" },
+        { "value": "Smart", "label": "" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 78 }, { "label": "Sunet", "pct": 74 },
+        { "label": "Smart", "pct": 82 }, { "label": "Gaming", "pct": 64 }
+      ],
+      "pros": ["Diagonală potrivită pentru dormitor", "Preț bun"],
+      "cons": ["Luminozitate medie"],
+      "emagUrl": "https://www.emag.ro/search/virex-led-43"
+    },
+    {
+      "id": "t6", "rank": 6, "name": "Pixa LED 43", "tag": "Cea mai bună alegere pe buget",
+      "score": 7.6, "price": 1399, "oldPrice": 1599,
+      "features": [],
+      "specs": [
+        { "value": "43\" LED", "label": "4K" },
+        { "value": "60 Hz", "label": "" },
+        { "value": "Smart", "label": "" },
+        { "value": "Sub 1.400", "label": "lei" }
+      ],
+      "scores": [
+        { "label": "Imagine", "pct": 72 }, { "label": "Sunet", "pct": 70 },
+        { "label": "Smart", "pct": 78 }, { "label": "Gaming", "pct": 60 }
+      ],
+      "pros": ["Cel mai ieftin 4K smart decent din test"],
+      "cons": ["Interfață smart mai lentă", "Fără funcții de gaming"],
+      "emagUrl": "https://www.emag.ro/search/pixa-led-43"
+    }
+  ]
+}

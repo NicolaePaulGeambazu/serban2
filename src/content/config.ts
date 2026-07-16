@@ -11,6 +11,8 @@ const product = z.object({
   oldPrice: z.number().optional(),
   priceNote: z.string().optional(),
   image: z.string().optional(),    // product photo URL (falls back to an icon if empty)
+  feedId: z.string().optional(),   // eMAG product id — used by scripts/sync-products.mjs to auto-update price/image/stock
+  inStock: z.boolean().optional(), // updated by the feed sync (true/false)
   features: z.array(z.string()).default([]), // e.g. ["mop","autogolire","silentios"]
   specs: z.array(z.object({ value: z.string(), label: z.string() })).default([]),
   scores: z.array(z.object({ label: z.string(), pct: z.number() })).default([]),
@@ -32,7 +34,7 @@ const categories = defineCollection({
     productsCount: z.number(),
     reviewsRead: z.number(),
     quickPicks: z.array(z.object({ label: z.string(), productId: z.string(), win: z.boolean().optional() })).default([]),
-    priceBuckets: z.array(z.object({ key: z.string(), label: z.string() })).default([]),
+    priceBuckets: z.array(z.object({ key: z.string(), label: z.string(), min: z.number().optional(), max: z.number().optional() })).default([]),
     featureFilters: z.array(z.object({ key: z.string(), label: z.string() })).default([]),
     guide: z.array(z.object({ h3: z.string(), body: z.string(), callout: z.string().optional() })).default([]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),

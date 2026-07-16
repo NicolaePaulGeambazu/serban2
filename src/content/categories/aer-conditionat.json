@@ -1,0 +1,240 @@
+{
+  "title": "Cele mai bune aparate de aer condiționat în 2026",
+  "h1": "Cele mai bune aparate de aer condiționat în 2026",
+  "parent": "Electrocasnice",
+  "icon": "ac",
+  "order": 4,
+  "intro": "Am comparat cele mai populare 10 aparate de aer condiționat de pe eMAG după putere de răcire, consum, zgomot și funcții. Mai jos ai clasamentul, cu argumente pentru fiecare loc și pentru fiecare mărime de cameră.",
+  "updated": "2026-07-16",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    { "label": "★ Cea mai bună alegere", "productId": "p1", "win": true },
+    { "label": "Cel mai bun preț/calitate", "productId": "p2" },
+    { "label": "Cea mai bună alegere pe buget", "productId": "p9" }
+  ],
+  "priceBuckets": [
+    { "key": "all", "label": "Toate prețurile" },
+    { "key": "low", "label": "sub 1.800 lei", "max": 1799 },
+    { "key": "mid", "label": "1.800–3.000 lei", "min": 1800, "max": 3000 },
+    { "key": "high", "label": "peste 3.000 lei", "min": 3001 }
+  ],
+  "featureFilters": [
+    { "key": "inverter", "label": "Inverter" },
+    { "key": "wifi", "label": "Wi-Fi" },
+    { "key": "silentios", "label": "Silențios" }
+  ],
+  "guide": [
+    { "h3": "Câți BTU îți trebuie, de fapt?", "body": "Regula simplă: ~1.000 BTU pentru fiecare 3–4 mp. Pentru un dormitor de 15 mp ajung 9.000–12.000 BTU; pentru un living de 25–30 mp vrei 12.000 BTU; peste 35 mp, 18.000 BTU.", "callout": "Un aparat prea mare pornește și se oprește des, consumă inutil și dezumidifică prost. Alege puterea pentru camera ta, nu „cât mai mult”." },
+    { "h3": "Inverter sau on/off?", "body": "Inverterul ajustează continuu puterea, deci consumă mult mai puțin și e mai silențios. Toate modelele de top din clasament sunt cu inverter — pe termen lung, diferența la factură merită." },
+    { "h3": "Clasa energetică, zgomotul și montajul", "body": "Uită-te la clasa de răcire (A++ sau mai bună) și la zgomotul unității interioare (sub 24 dB e foarte silențios, contează în dormitor). Atenție: unele aparate vin cu kit de instalare inclus (țevi), dar manopera montajului o plătești separat, la un tehnician autorizat." }
+  ],
+  "faq": [
+    { "q": "9.000, 12.000 sau 18.000 BTU?", "a": "Pentru un dormitor sub 18 mp, 9.000–12.000 BTU. Pentru living-uri de 25–30 mp, 12.000 BTU. Peste 35 mp sau open space, 18.000 BTU." },
+    { "q": "Kitul de instalare inclus înseamnă montaj gratuit?", "a": "Nu. Kitul inclus înseamnă țevile și accesoriile; manopera montajului se plătește separat, la un tehnician autorizat." },
+    { "q": "De unde câștigați bani dacă site-ul e gratuit?", "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul." }
+  ],
+  "conclusion": "Pentru o cameră obișnuită, Gree Pulsar 12000 BTU e alegerea sigură: A++/A+, inverter, Wi-Fi și kit de instalare inclus la un preț bun. Dacă vrei cel mai bun raport preț/calitate, LG Dualcool Pro îți dă calitate LG la buget mic, iar pentru camere mari Daikin Sensira 18000 e varianta de încredere.",
+  "products": [
+    {
+      "id": "p1", "rank": 1, "name": "Gree Pulsar 12000 BTU", "tag": "★ Cea mai bună alegere", "win": true,
+      "score": 9.2, "price": 1949, "priceNote": "kit de instalare inclus",
+      "image": "https://s13emagst.akamaized.net/products/36329/36328903/images/res_4008f52819307c677fcce9df5d001032.jpg?width=400&height=400",
+      "feedId": "D3T90KMBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++/A+", "label": "clasă energetică" },
+        { "value": "Inverter", "label": "+ Wi-Fi" },
+        { "value": "Kit", "label": "instalare inclus" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 92 }, { "label": "Zgomot", "pct": 88 },
+        { "label": "Eficiență", "pct": 90 }, { "label": "Funcții", "pct": 88 }
+      ],
+      "pros": ["Kit de instalare inclus — economisești la accesorii", "A++/A+ + Cold Plasma pentru aer curat"],
+      "cons": ["Manopera montajului tot separat"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-pulsar-gwh12agbxb-k6dna1a-12000-btu-a-a-wi-fi-inverter-cold-plasma-auto-clean-i-feel-kit-instalare-inclus-alb-gwh12agb-k6dna1a-gwh12agb-k6dna1a/pd/D3T90KMBM"
+    },
+    {
+      "id": "p2", "rank": 2, "name": "LG Dualcool Pro 12000 BTU", "tag": "Cel mai bun preț/calitate",
+      "score": 9.0, "price": 1600,
+      "image": "https://s13emagst.akamaized.net/products/68129/68128028/images/res_5ceaac2d4a1764152af6dee17dff519a.jpg?width=400&height=400",
+      "feedId": "DH551HYBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "R32", "label": "Fast cooling" },
+        { "value": "Inverter", "label": "LG" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 90 }, { "label": "Zgomot", "pct": 86 },
+        { "label": "Eficiență", "pct": 90 }, { "label": "Funcții", "pct": 80 }
+      ],
+      "pros": ["Preț excelent pentru un LG A++", "Fiabilitate LG"],
+      "cons": ["Fără kit de instalare inclus"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-pro-12000-btu-clasa-a-fast-cooling-fast-heating-r32-alb-w12te-neu-w12te-ueu/pd/DH551HYBM"
+    },
+    {
+      "id": "p3", "rank": 3, "name": "Daikin Sensira 18000 BTU", "tag": "Cea mai bună pentru camere mari",
+      "score": 8.9, "price": 3780,
+      "image": "https://s13emagst.akamaized.net/products/85703/85702443/images/res_b9036fdde40bc500e90d6a830ffe45e7.jpg?width=400&height=400",
+      "feedId": "DMFQQWYBM",
+      "features": ["inverter"],
+      "specs": [
+        { "value": "18000 BTU", "label": "răcire" },
+        { "value": "Inverter", "label": "Bluevolution" },
+        { "value": "Daikin", "label": "fiabilitate" },
+        { "value": "Camere", "label": "mari" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 93 }, { "label": "Zgomot", "pct": 94 },
+        { "label": "Eficiență", "pct": 88 }, { "label": "Funcții", "pct": 78 }
+      ],
+      "pros": ["Fiabilitate Daikin, ideal pentru living-uri mari", "Foarte silențios"],
+      "cons": ["Preț premium", "Fără Wi-Fi din fabrică"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daikin-sensira-bluevolution-inverter-18000-btu-ftxc50e-rxc50e/pd/DMFQQWYBM"
+    },
+    {
+      "id": "p4", "rank": 4, "name": "Gree Cosmo 12000 BTU", "tag": "Echilibrată, anti-mucegai",
+      "score": 8.5, "price": 2200,
+      "image": "https://s13emagst.akamaized.net/products/66401/66400373/images/res_2091f0773a184fd526be952ba0c60630.jpg?width=400&height=400",
+      "feedId": "DJY66NYBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "X-Fan", "label": "anti-mucegai" },
+        { "value": "R32", "label": "+ Wi-Fi" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 88 }, { "label": "Zgomot", "pct": 85 },
+        { "label": "Eficiență", "pct": 86 }, { "label": "Funcții", "pct": 84 }
+      ],
+      "pros": ["Funcție X-Fan anti-mucegai", "Auto-curățare în 4 pași"],
+      "cons": ["Fără kit de instalare inclus"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-cosmo-12000-btu-clasa-a-x-fan-anti-mucegai-wifi-auto-curatare-in-4-pasi-auto-diagnoza-soft-start-timer-auto-restart-r32-gwh12awbxb-k6dna3d/pd/DJY66NYBM"
+    },
+    {
+      "id": "p5", "rank": 5, "name": "Samsung AR35 12000 BTU", "tag": "Cea mai bună pentru somn liniștit",
+      "score": 8.4, "price": 1749,
+      "image": "https://s13emagst.akamaized.net/products/40861/40860511/images/res_ee75027cddd33d233037c6f199c07cb5.jpg?width=400&height=400",
+      "feedId": "D21STXMBM",
+      "features": ["inverter", "silentios"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "Good Sleep", "label": "mod noapte" },
+        { "value": "Fast", "label": "cooling" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 89 }, { "label": "Zgomot", "pct": 90 },
+        { "label": "Eficiență", "pct": 85 }, { "label": "Funcții", "pct": 78 }
+      ],
+      "pros": ["Mod Good Sleep, silențios noaptea", "Răcire rapidă"],
+      "cons": ["Fără Wi-Fi"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-samsung-ar35-12000-btu-clasa-a-fast-cooling-good-sleep-alb-ar12txhqasineu-ar12txhqasixeu/pd/D21STXMBM"
+    },
+    {
+      "id": "p6", "rank": 6, "name": "Gree Bora A4 12000 BTU", "tag": "Alternativă solidă",
+      "score": 8.2, "price": 1911,
+      "image": "https://s13emagst.akamaized.net/products/20431/20430315/images/res_b7f7c73ba4100dd032d0df30a44bbe66.jpg?width=400&height=400",
+      "feedId": "DXXQ3ZBBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "G10", "label": "Inverter" },
+        { "value": "Turbo", "label": "+ Wi-Fi" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 87 }, { "label": "Zgomot", "pct": 84 },
+        { "label": "Eficiență", "pct": 86 }, { "label": "Funcții", "pct": 85 }
+      ],
+      "pros": ["Inverter G10 eficient", "Buton turbo + Wi-Fi"],
+      "cons": ["Fără kit de instalare inclus"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-bora-a4-silver-r32-inverter-12000-btu-clasa-a-g10-inverter-buton-turbo-auto-diagnoza-wi-fi-display-gwh12aab-k6dna4a/pd/DXXQ3ZBBM"
+    },
+    {
+      "id": "p7", "rank": 7, "name": "LG Dualcool Deluxe 18000 BTU", "tag": "Premium pentru camere mari",
+      "score": 8.1, "price": 5500,
+      "image": "https://s13emagst.akamaized.net/products/85741/85740553/images/res_68c8223247e4a1bf777dbc298972b6cb.jpg?width=400&height=400",
+      "feedId": "DT2Y5WYBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "18000 BTU", "label": "răcire" },
+        { "value": "A++/A+", "label": "clasă energetică" },
+        { "value": "Dual Inverter", "label": "HeatPump" },
+        { "value": "Ionizer", "label": "+ Wi-Fi" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 95 }, { "label": "Zgomot", "pct": 92 },
+        { "label": "Eficiență", "pct": 85 }, { "label": "Funcții", "pct": 92 }
+      ],
+      "pros": ["Dual Inverter + ionizer Plasmaster", "Control umiditate, camere mari"],
+      "cons": ["Cel mai scump din top"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-deluxe-18000-btu-wifi-clasa-a-a-dual-inverter-heatpump-compressor-control-umiditate-plasmaster-ionizer-alb-h18s1da-ns1-h18s1da-u18/pd/DT2Y5WYBM"
+    },
+    {
+      "id": "p8", "rank": 8, "name": "Daewoo 18000 BTU Pro", "tag": "Camere mari pe buget",
+      "score": 7.8, "price": 2700, "priceNote": "kit de instalare inclus",
+      "image": "https://s13emagst.akamaized.net/products/93805/93804676/images/res_690cc8a510a4e28a5fc23e32ac21f124.jpg?width=400&height=400",
+      "feedId": "DPJ1SK3BM",
+      "features": ["wifi"],
+      "specs": [
+        { "value": "18000 BTU", "label": "răcire" },
+        { "value": "A++/A+", "label": "clasă energetică" },
+        { "value": "Kit", "label": "instalare inclus" },
+        { "value": "Ioni", "label": "de argint + Wi-Fi" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 90 }, { "label": "Zgomot", "pct": 80 },
+        { "label": "Eficiență", "pct": 80 }, { "label": "Funcții", "pct": 82 }
+      ],
+      "pros": ["18000 BTU cu kit inclus, la preț mic", "Filtre cu ioni de argint"],
+      "cons": ["Brand mai puțin premium"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daewoo-18000-btu-wi-fi-pro-bk-a-a-kit-de-instalare-inclus-3m-gentle-cool-wind-filtre-cu-ioni-de-argint-functie-ifeel-negru-dac-18probk/pd/DPJ1SK3BM"
+    },
+    {
+      "id": "p9", "rank": 9, "name": "Daewoo DAC-12CHSDB 12000 BTU", "tag": "Cea mai bună alegere pe buget",
+      "score": 7.6, "price": 1320,
+      "image": "https://s13emagst.akamaized.net/products/76846/76845484/images/res_27937a660164b8cf1cb65a65d27a0522.jpg?width=400&height=400",
+      "feedId": "DCYFDLYBM",
+      "features": ["wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "Wi-Fi", "label": "+ iFeel" },
+        { "value": "Sub 1.400", "label": "lei" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 84 }, { "label": "Zgomot", "pct": 80 },
+        { "label": "Eficiență", "pct": 82 }, { "label": "Funcții", "pct": 78 }
+      ],
+      "pros": ["Cel mai ieftin A++ cu Wi-Fi din clasament"],
+      "cons": ["Fără kit de instalare inclus", "Brand mai puțin cunoscut"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daewoo-12000-btu-wi-fi-a-filtre-cu-ioni-de-argint-eco-mode-ifeel-negru-dac-12chsdb-nk/pd/DCYFDLYBM"
+    },
+    {
+      "id": "p10", "rank": 10, "name": "LG Standard 12000 BTU", "tag": "LG cu funcție de încălzire",
+      "score": 7.5, "price": 7103,
+      "image": "https://s13emagst.akamaized.net/products/29178/29177171/images/res_e2d53bedd27bd61b38bdc2a750323d0d.jpg?width=400&height=400",
+      "feedId": "DYKPVBMBM",
+      "features": ["inverter", "wifi"],
+      "specs": [
+        { "value": "12000 BTU", "label": "răcire" },
+        { "value": "A++", "label": "clasă energetică" },
+        { "value": "Dual Inverter", "label": "+ încălzire" },
+        { "value": "R32", "label": "+ Wi-Fi" }
+      ],
+      "scores": [
+        { "label": "Răcire", "pct": 88 }, { "label": "Zgomot", "pct": 88 },
+        { "label": "Eficiență", "pct": 85 }, { "label": "Funcții", "pct": 80 }
+      ],
+      "pros": ["Dual Inverter LG + funcție de încălzire", "Control activ al energiei"],
+      "cons": ["Cel mai scump 12000 BTU din listă"],
+      "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-standard-wi-fi-12000-btu-clasa-a-functie-incalzire-filtru-protectie-dual-controlul-energiei-active-s12et-s12ec-dual-inverter-r32-s12et-nsj-s12et-ua3/pd/DYKPVBMBM"
+    }
+  ]
+}

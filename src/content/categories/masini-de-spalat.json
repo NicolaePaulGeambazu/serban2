@@ -15,9 +15,9 @@
   ],
   "priceBuckets": [
     { "key": "all", "label": "Toate prețurile" },
-    { "key": "low", "label": "sub 1.800 lei" },
-    { "key": "mid", "label": "1.800–2.800 lei" },
-    { "key": "high", "label": "peste 2.800 lei" }
+    { "key": "low", "label": "sub 1.800 lei", "max": 1799 },
+    { "key": "mid", "label": "1.800–2.800 lei", "min": 1800, "max": 2800 },
+    { "key": "high", "label": "peste 2.800 lei", "min": 2801 }
   ],
   "featureFilters": [
     { "key": "abur", "label": "Cu abur" },

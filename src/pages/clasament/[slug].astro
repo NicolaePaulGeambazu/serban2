@@ -60,8 +60,8 @@ const faqSchema = {
       <p class="lede">{d.intro}</p>
       <div class="meta-row">
         <span class="m fresh"><Icon name="clock" /> Actualizat <b>{updated}</b></span>
-        <span class="m"><b>{d.productsCount}</b> modele analizate</span>
-        <span class="m"><b>{fmt(d.reviewsRead)}</b> recenzii citite</span>
+        <span class="m"><b>{d.productsCount}</b> modele comparate</span>
+        {d.reviewsRead > 0 && <span class="m"><b>{fmt(d.reviewsRead)}</b> recenzii citite</span>}
         <span class="author"><span class="av">VR</span> Verificat de redacția {site.name}</span>
       </div>
     </section>
@@ -74,7 +74,7 @@ const faqSchema = {
       <span class="count" id="count">{d.products.length} modele</span>
       <div class="chips" role="group" aria-label="Filtre preț">
         {d.priceBuckets.map((b, i) => (
-          <button class="chip" data-price={b.key} aria-pressed={i === 0 ? 'true' : 'false'}>{b.label}</button>
+          <button class="chip" data-price={b.key} data-min={b.min ?? ''} data-max={b.max ?? ''} aria-pressed={i === 0 ? 'true' : 'false'}>{b.label}</button>
         ))}
       </div>
       <div class="chips" role="group" aria-label="Filtre funcții">
@@ -188,13 +188,13 @@ const faqSchema = {
     const sortSel = document.getElementById('sort') as HTMLSelectElement | null;
     const countEl = document.getElementById('count');
     const emptyEl = document.getElementById('empty') as HTMLElement | null;
-    let price = 'all';
+    let priceMin: number | null = null;
+    let priceMax: number | null = null;
     const feats: Record<string, boolean> = {};
 
     function inBucket(p: number) {
-      return price === 'all' || (price === 'low' && p < 1500) || (price === 'mid' && p >= 1500 && p <= 2500) || (price === 'high' && p > 2500);
+      return (priceMin === null || p >= priceMin) && (priceMax === null || p <= priceMax);
     }
-    // Note: bucket thresholds here match the default 1500/2500 tiers; adjust per category if needed.
     function apply() {
       let shown = 0;
       cards.forEach((c) => {
@@ -224,7 +224,9 @@ const faqSchema = {
     priceChips.forEach((ch) => ch.addEventListener('click', () => {
       priceChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
       ch.setAttribute('aria-pressed', 'true');
-      price = (ch as HTMLElement).dataset.price || 'all';
+      const el = ch as HTMLElement;
+      priceMin = el.dataset.min ? Number(el.dataset.min) : null;
+      priceMax = el.dataset.max ? Number(el.dataset.max) : null;
       apply();
     }));
     featChips.forEach((ch) => ch.addEventListener('click', () => {
@@ -236,7 +238,7 @@ const faqSchema = {
     }));
     sortSel?.addEventListener('change', sortNow);
     document.getElementById('clearF')?.addEventListener('click', () => {
-      price = 'all';
+      priceMin = null; priceMax = null;
       Object.keys(feats).forEach((k) => (feats[k] = false));
       priceChips.forEach((x) => x.setAttribute('aria-pressed', (x as HTMLElement).dataset.price === 'all' ? 'true' : 'false'));
       featChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));

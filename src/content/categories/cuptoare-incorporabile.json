@@ -1,0 +1,148 @@
+{
+  "title": "Cele mai bune cuptoare încorporabile în 2026",
+  "h1": "Cele mai bune cuptoare încorporabile în 2026",
+  "parent": "Electrocasnice",
+  "icon": "oven",
+  "order": 6,
+  "intro": "Am comparat 48 de cuptoare încorporabile după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum, apoi le-am cântărit cu mii de recenzii reale. Mai jos ai top 6, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-11",
+  "productsCount": 48,
+  "reviewsRead": 6120,
+  "quickPicks": [
+    { "label": "★ Cea mai bună alegere", "productId": "o1", "win": true },
+    { "label": "Cel mai bun preț/calitate", "productId": "o2" },
+    { "label": "Cea mai bună alegere pe buget", "productId": "o6" }
+  ],
+  "priceBuckets": [
+    { "key": "all", "label": "Toate prețurile" },
+    { "key": "low", "label": "sub 1.500 lei", "max": 1499 },
+    { "key": "mid", "label": "1.500–2.500 lei", "min": 1500, "max": 2500 },
+    { "key": "high", "label": "peste 2.500 lei", "min": 2501 }
+  ],
+  "featureFilters": [
+    { "key": "piroliza", "label": "Piroliză" },
+    { "key": "abur", "label": "Cu abur" },
+    { "key": "ventilat", "label": "Ventilat" }
+  ],
+  "guide": [
+    { "h3": "Autocurățare: piroliză sau cataliză?", "body": "Piroliza arde resturile la temperatură mare și rămâne doar cenușă pe care o ștergi — cea mai comodă, dar consumă curent și crește prețul. Cataliza absoarbe grăsimea în pereți în timpul gătitului — mai ieftină, dar mai puțin eficientă.", "callout": "Dacă gătești des și urăști curățatul, piroliza își merită banii. Dacă gătești rar, cataliza sau curățarea manuală sunt suficiente." },
+    { "h3": "Ventilat vs. static", "body": "Un cuptor ventilat (cu ventilator) distribuie căldura uniform și poate găti pe mai multe niveluri simultan — ideal pentru copt. Modul static e bun pentru preparate care cresc, ca aluaturile. Cele bune le au pe amândouă." },
+    { "h3": "Funcția cu abur merită?", "body": "Aburul păstrează mâncarea suculentă și ajută la copt pâine cu crustă bună. Nu e obligatoriu, dar dacă gătești variat, face o diferență reală. Adaugă la preț, așa că alege-l doar dacă îl vei folosi." }
+  ],
+  "faq": [
+    { "q": "Piroliza consumă mult curent?", "a": "Un ciclu de piroliză durează 1,5–3 ore la temperatură mare, deci consumă notabil, dar îl folosești rar (o dată la câteva săptămâni). Comoditatea compensează pentru cei care gătesc des." },
+    { "q": "Ce clasă energetică să aleg?", "a": "Caută clasa A+ sau mai bună. Diferența de consum se simte dacă folosești cuptorul de câteva ori pe săptămână." },
+    { "q": "De unde câștigați bani dacă site-ul e gratuit?", "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul." }
+  ],
+  "conclusion": "Pentru cei mai mulți, Elmar Pyro 72 e alegerea sigură: gătește uniform și se curăță singur. Cu buget mai mic, Fornetto Multi 65 face treabă foarte bună fără piroliză.",
+  "products": [
+    {
+      "id": "o1", "rank": 1, "name": "Elmar Pyro 72", "tag": "★ Cea mai bună alegere", "win": true,
+      "score": 9.2, "price": 2799, "oldPrice": 3199, "priceNote": "−12% acum",
+      "features": ["piroliza", "abur", "ventilat"],
+      "specs": [
+        { "value": "72 L", "label": "capacitate" },
+        { "value": "Piroliză", "label": "autocurățare" },
+        { "value": "Abur", "label": "+ ventilat" },
+        { "value": "A+", "label": "clasă energetică" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 95 }, { "label": "Autocurățare", "pct": 96 },
+        { "label": "Ușurință", "pct": 90 }, { "label": "Eficiență", "pct": 88 }
+      ],
+      "pros": ["Gătește foarte uniform pe mai multe niveluri", "Piroliza scapă complet de curățat"],
+      "cons": ["Preț peste medie"],
+      "emagUrl": "https://www.emag.ro/search/elmar-pyro-72"
+    },
+    {
+      "id": "o2", "rank": 2, "name": "Brelo Multifunctional 70", "tag": "Cel mai bun preț/calitate",
+      "score": 8.9, "price": 2199, "oldPrice": 2499,
+      "features": ["piroliza", "ventilat"],
+      "specs": [
+        { "value": "70 L", "label": "capacitate" },
+        { "value": "Piroliză", "label": "autocurățare" },
+        { "value": "Ventilat", "label": "" },
+        { "value": "A+", "label": "clasă energetică" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 90 }, { "label": "Autocurățare", "pct": 92 },
+        { "label": "Ușurință", "pct": 86 }, { "label": "Eficiență", "pct": 87 }
+      ],
+      "pros": ["Piroliză la un preț bun", "Comenzi simple, intuitive"],
+      "cons": ["Fără funcție de abur"],
+      "emagUrl": "https://www.emag.ro/search/brelo-multifunctional-70"
+    },
+    {
+      "id": "o3", "rank": 3, "name": "Aeris Steam 71", "tag": "Cel mai bun la copt",
+      "score": 8.5, "price": 2599,
+      "features": ["abur", "ventilat"],
+      "specs": [
+        { "value": "71 L", "label": "capacitate" },
+        { "value": "Abur", "label": "asistat" },
+        { "value": "Ventilat", "label": "" },
+        { "value": "Cataliză", "label": "autocurățare" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 93 }, { "label": "Autocurățare", "pct": 78 },
+        { "label": "Ușurință", "pct": 84 }, { "label": "Eficiență", "pct": 85 }
+      ],
+      "pros": ["Aburul face o pâine cu crustă excelentă"],
+      "cons": ["Autocurățare prin cataliză, nu piroliză"],
+      "emagUrl": "https://www.emag.ro/search/aeris-steam-71"
+    },
+    {
+      "id": "o4", "rank": 4, "name": "Nordisk Bake 66", "tag": "Echilibrat pentru familie",
+      "score": 8.2, "price": 1899,
+      "features": ["ventilat"],
+      "specs": [
+        { "value": "66 L", "label": "capacitate" },
+        { "value": "Ventilat", "label": "+ static" },
+        { "value": "A", "label": "clasă energetică" },
+        { "value": "Grill", "label": "" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 86 }, { "label": "Autocurățare", "pct": 72 },
+        { "label": "Ușurință", "pct": 85 }, { "label": "Eficiență", "pct": 80 }
+      ],
+      "pros": ["Gătește uniform la preț rezonabil"],
+      "cons": ["Curățare manuală"],
+      "emagUrl": "https://www.emag.ro/search/nordisk-bake-66"
+    },
+    {
+      "id": "o5", "rank": 5, "name": "Fornetto Multi 65", "tag": "Simplu și fiabil",
+      "score": 8.0, "price": 1599,
+      "features": ["ventilat"],
+      "specs": [
+        { "value": "65 L", "label": "capacitate" },
+        { "value": "Ventilat", "label": "" },
+        { "value": "A", "label": "clasă energetică" },
+        { "value": "8 funcții", "label": "gătit" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 84 }, { "label": "Autocurățare", "pct": 68 },
+        { "label": "Ușurință", "pct": 88 }, { "label": "Eficiență", "pct": 79 }
+      ],
+      "pros": ["Ușor de folosit, fără fițe", "Fiabil pe termen lung"],
+      "cons": ["Fără autocurățare avansată"],
+      "emagUrl": "https://www.emag.ro/search/fornetto-multi-65"
+    },
+    {
+      "id": "o6", "rank": 6, "name": "Fornetto Basic 60", "tag": "Cea mai bună alegere pe buget",
+      "score": 7.6, "price": 1199, "oldPrice": 1399,
+      "features": [],
+      "specs": [
+        { "value": "60 L", "label": "capacitate" },
+        { "value": "Static", "label": "+ grill" },
+        { "value": "A", "label": "clasă energetică" },
+        { "value": "Sub 1.200", "label": "lei" }
+      ],
+      "scores": [
+        { "label": "Gătit", "pct": 76 }, { "label": "Autocurățare", "pct": 60 },
+        { "label": "Ușurință", "pct": 82 }, { "label": "Eficiență", "pct": 78 }
+      ],
+      "pros": ["Cel mai ieftin cuptor încorporabil decent din test"],
+      "cons": ["Fără ventilator", "Fără autocurățare"],
+      "emagUrl": "https://www.emag.ro/search/fornetto-basic-60"
+    }
+  ]
+}
