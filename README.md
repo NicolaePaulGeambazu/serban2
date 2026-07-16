@@ -1,4 +1,4 @@
-# Verdikt
+# TopAlegeri
 
 A fast, SEO-first **product-comparison affiliate site** for the Romanian market (eMAG), built with [Astro](https://astro.build). Static output, zero JavaScript by default, content-driven — everything you edit day-to-day lives in simple data files.
 

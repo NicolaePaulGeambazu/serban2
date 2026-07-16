@@ -6,7 +6,7 @@ import Icon from '../../components/Icon.astro';
 
 const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
 ---
-<Base title="Toate categoriile" description="Toate clasamentele Verdikt — alege o categorie și vezi cele mai bune produse, comparate obiectiv." current="/categorii/">
+<Base title="Toate categoriile" description="Toate clasamentele TopAlegeri — alege o categorie și vezi cele mai bune produse, comparate obiectiv." current="/categorii/">
   <div class="wrap">
     <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Categorii' }]} />
     <section class="cat-hero">

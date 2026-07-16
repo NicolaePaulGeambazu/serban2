@@ -16,7 +16,7 @@ export const footerNav = [
     ],
   },
   {
-    title: 'Verdikt',
+    title: 'TopAlegeri',
     links: [
       { label: 'Cum testăm', href: '/cum-testam/' },
       { label: 'Despre noi', href: '/despre/' },

@@ -1,5 +1,5 @@
 export const site = {
-  name: 'Verdikt',
+  name: 'TopAlegeri',
   domain: 'topalegeri.ro',
   url: 'https://www.topalegeri.ro',
   tagline: 'Comparăm. Testăm. Dăm verdictul.',
