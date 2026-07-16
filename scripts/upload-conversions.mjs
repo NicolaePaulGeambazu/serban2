@@ -20,7 +20,7 @@
  */
 import { psRequest } from './ps-api.mjs';
 
-const API_VERSION = 'v18'; // bump if Google deprecates it
+const API_VERSION = 'v21'; // confirmed working via verify-google.mjs; bump if Google deprecates it
 const {
   GOOGLE_ADS_DEVELOPER_TOKEN, GOOGLE_OAUTH_CLIENT_ID, GOOGLE_OAUTH_CLIENT_SECRET,
   GOOGLE_OAUTH_REFRESH_TOKEN, GOOGLE_ADS_CUSTOMER_ID, GOOGLE_ADS_CONVERSION_ACTION_ID,
