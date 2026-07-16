@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+
+const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
+const shortTitle = (h1: string) => h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '');
+
+// build-time search index: categories + products
+const index: { t: string; u: string; k: string }[] = [];
+for (const c of cats) {
+  index.push({ t: shortTitle(c.data.h1), u: `/clasament/${c.id}/`, k: 'Categorie' });
+  for (const p of c.data.products) {
+    index.push({ t: p.name, u: `/clasament/${c.id}/#${p.id}`, k: shortTitle(c.data.h1) });
+  }
+}
+---
+<Base title="Căutare" description="Caută produse și categorii pe TopAlegeri." current="/" noindex={true}>
+  <div class="wrap">
+    <section class="cat-hero">
+      <span class="eyebrow">Căutare</span>
+      <h1>Caută un produs sau o categorie</h1>
+      <form class="search-big" role="search" action="/cauta/" method="get" style="box-shadow:var(--shadow);border:1px solid var(--line)">
+        <Icon name="search" />
+        <input id="q" type="search" name="q" placeholder="ex. aer condiționat, LG OLED, Bosch…" aria-label="Caută" autocomplete="off" />
+        <button type="submit">Caută</button>
+      </form>
+      <div id="results" class="search-results"></div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .search-results{margin:26px 0 40px;display:grid;gap:8px;max-width:640px}
+  .search-results .hint{color:var(--muted)}
+  .sr{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--paper-2);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .sr:hover{border-color:#c9c2b4}
+  .sr-t{font-weight:700}
+  .sr-k{font-family:var(--mono);font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}
+</style>
+
+<script define:vars={{ index }}>
+  (function () {
+    var input = document.getElementById('q');
+    var box = document.getElementById('results');
+    if (!input || !box) return;
+    var norm = function (s) { return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); };
+    var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+
+    function render(query) {
+      var nq = norm((query || '').trim());
+      if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs sau o categorie — ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
+      var hits = index.filter(function (it) { return norm(it.t).indexOf(nq) > -1; }).slice(0, 40);
+      if (!hits.length) { box.innerHTML = '<p class="hint">Niciun rezultat pentru „' + esc(query) + '". Încearcă alt cuvânt.</p>'; return; }
+      box.innerHTML = hits.map(function (it) {
+        return '<a class="sr" href="' + it.u + '"><span class="sr-t">' + esc(it.t) + '</span><span class="sr-k">' + esc(it.k) + '</span></a>';
+      }).join('');
+    }
+
+    var params = new URLSearchParams(location.search);
+    var q0 = params.get('q') || '';
+    input.value = q0;
+    render(q0);
+    input.addEventListener('input', function (e) { render(e.target.value); });
+  })();
+</script>
