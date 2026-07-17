@@ -238,6 +238,21 @@ const faqSchema = {
         }, 380);
       });
     });
+
+    // flash the target card when arriving directly via #anchor (e.g. from search)
+    function flashHash() {
+      const h = location.hash;
+      if (!h || h.length < 2) return;
+      let el: Element | null = null;
+      try { el = document.querySelector(h); } catch (e) { return; }
+      if (el && el.classList.contains('prod-card')) {
+        el.classList.remove('flash');
+        void (el as HTMLElement).offsetWidth;
+        el.classList.add('flash');
+      }
+    }
+    setTimeout(flashHash, 300);
+    window.addEventListener('hashchange', flashHash);
   }
 
   // animate score dials
