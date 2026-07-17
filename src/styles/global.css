@@ -338,6 +338,14 @@ details.q .a{padding:0 18px 16px;color:#25313f;line-height:1.65}
 .team .role{font-family:var(--mono);font-size:.76rem;color:var(--emerald);text-transform:uppercase;letter-spacing:.06em;margin-top:3px}
 .team p{color:#25313f;margin-top:12px;line-height:1.6;font-size:.93rem}
 
+/* ---------- search results ---------- */
+.search-results{margin:26px 0 44px;display:grid;gap:8px;max-width:660px}
+.search-results .hint{color:var(--muted);font-size:.9rem;margin:0 0 4px}
+.sr{display:flex;justify-content:space-between;align-items:center;gap:14px;background:var(--paper-2);border:1px solid var(--line);border-radius:12px;padding:14px 16px;transition:border-color .15s,transform .15s}
+.sr:hover{border-color:#c9c2b4;transform:translateY(-1px)}
+.sr-t{font-weight:700;letter-spacing:-.01em}
+.sr-k{font-family:var(--mono);font-size:.68rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap;background:#F1EEE7;border:1px solid var(--line);padding:4px 9px;border-radius:999px}
+
 /* ---------- comparison (X vs Y) ---------- */
 .vs-grid{display:grid;grid-template-columns:1fr auto 1fr;gap:18px;align-items:stretch;margin:26px 0}
 .vs-card{background:var(--paper-2);border:1px solid var(--line);border-radius:16px;padding:20px;display:flex;flex-direction:column;text-align:center;box-shadow:var(--shadow)}

@@ -4,18 +4,27 @@ import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 
 const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
+const guides = await getCollection('guides');
+const comparisons = await getCollection('comparisons');
 const shortTitle = (h1: string) => h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '');
 
-// build-time search index: categories + products
-const index: { t: string; u: string; k: string }[] = [];
+// build-time search index: {t: display, u: url, k: kind, s: searchable text}
+const index: { t: string; u: string; k: string; s: string }[] = [];
 for (const c of cats) {
-  index.push({ t: shortTitle(c.data.h1), u: `/clasament/${c.id}/`, k: 'Categorie' });
+  const st = shortTitle(c.data.h1);
+  index.push({ t: st, u: `/clasament/${c.id}/`, k: 'Categorie', s: st });
   for (const p of c.data.products) {
-    index.push({ t: p.name, u: `/clasament/${c.id}/#${p.id}`, k: shortTitle(c.data.h1) });
+    index.push({ t: p.name, u: `/clasament/${c.id}/#${p.id}`, k: st, s: `${p.name} ${st}` });
   }
 }
+for (const g of guides) {
+  index.push({ t: g.data.title, u: `/ghiduri/${g.id.replace(/\.md$/, '')}/`, k: 'Ghid', s: `${g.data.title} ${g.data.kicker}` });
+}
+for (const cmp of comparisons) {
+  index.push({ t: cmp.data.title, u: `/compara/${cmp.id}/`, k: 'Comparație', s: cmp.data.title });
+}
 ---
-<Base title="Căutare" description="Caută produse și categorii pe TopAlegeri." current="/" noindex={true}>
+<Base title="Căutare" description="Caută produse, categorii și ghiduri pe TopAlegeri." current="/" noindex={true}>
   <div class="wrap">
     <section class="cat-hero">
       <span class="eyebrow">Căutare</span>
@@ -30,15 +39,6 @@ for (const c of cats) {
   </div>
 </Base>
 
-<style>
-  .search-results{margin:26px 0 40px;display:grid;gap:8px;max-width:640px}
-  .search-results .hint{color:var(--muted)}
-  .sr{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--paper-2);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
-  .sr:hover{border-color:#c9c2b4}
-  .sr-t{font-weight:700}
-  .sr-k{font-family:var(--mono);font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}
-</style>
-
 <script define:vars={{ index }}>
   (function () {
     var input = document.getElementById('q');
@@ -49,10 +49,10 @@ for (const c of cats) {
 
     function render(query) {
       var nq = norm((query || '').trim());
-      if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs sau o categorie — ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
-      var hits = index.filter(function (it) { return norm(it.t).indexOf(nq) > -1; }).slice(0, 40);
+      if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs, o categorie sau un ghid — ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
+      var hits = index.filter(function (it) { return norm(it.s).indexOf(nq) > -1; }).slice(0, 40);
       if (!hits.length) { box.innerHTML = '<p class="hint">Niciun rezultat pentru „' + esc(query) + '". Încearcă alt cuvânt.</p>'; return; }
-      box.innerHTML = hits.map(function (it) {
+      box.innerHTML = '<p class="hint">' + hits.length + ' rezultate</p>' + hits.map(function (it) {
         return '<a class="sr" href="' + it.u + '"><span class="sr-t">' + esc(it.t) + '</span><span class="sr-k">' + esc(it.k) + '</span></a>';
       }).join('');
     }
