@@ -8,20 +8,20 @@ const guides = await getCollection('guides');
 const comparisons = await getCollection('comparisons');
 const shortTitle = (h1: string) => h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '');
 
-// build-time search index: {t: display, u: url, k: kind, s: searchable text}
-const index: { t: string; u: string; k: string; s: string }[] = [];
+// build-time search index: {t: display, u: url, k: kind label, s: searchable text, g: group}
+const index: { t: string; u: string; k: string; s: string; g: string }[] = [];
 for (const c of cats) {
   const st = shortTitle(c.data.h1);
-  index.push({ t: st, u: `/clasament/${c.id}/`, k: 'Categorie', s: st });
+  index.push({ t: st, u: `/clasament/${c.id}/`, k: 'Categorie', s: st, g: 'Categorii' });
   for (const p of c.data.products) {
-    index.push({ t: p.name, u: `/clasament/${c.id}/#${p.id}`, k: st, s: `${p.name} ${st}` });
+    index.push({ t: p.name, u: `/clasament/${c.id}/#${p.id}`, k: st, s: `${p.name} ${st}`, g: 'Produse' });
   }
 }
 for (const g of guides) {
-  index.push({ t: g.data.title, u: `/ghiduri/${g.id.replace(/\.md$/, '')}/`, k: 'Ghid', s: `${g.data.title} ${g.data.kicker}` });
+  index.push({ t: g.data.title, u: `/ghiduri/${g.id.replace(/\.md$/, '')}/`, k: g.data.kicker, s: `${g.data.title} ${g.data.kicker}`, g: 'Ghiduri' });
 }
 for (const cmp of comparisons) {
-  index.push({ t: cmp.data.title, u: `/compara/${cmp.id}/`, k: 'Comparație', s: cmp.data.title });
+  index.push({ t: cmp.data.title, u: `/compara/${cmp.id}/`, k: 'Comparație', s: cmp.data.title, g: 'Comparații' });
 }
 ---
 <Base title="Căutare" description="Caută produse, categorii și ghiduri pe TopAlegeri." current="/" noindex={true}>
@@ -50,11 +50,21 @@ for (const cmp of comparisons) {
     function render(query) {
       var nq = norm((query || '').trim());
       if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs, o categorie sau un ghid — ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
-      var hits = index.filter(function (it) { return norm(it.s).indexOf(nq) > -1; }).slice(0, 40);
+      var hits = index.filter(function (it) { return norm(it.s).indexOf(nq) > -1; }).slice(0, 60);
       if (!hits.length) { box.innerHTML = '<p class="hint">Niciun rezultat pentru „' + esc(query) + '". Încearcă alt cuvânt.</p>'; return; }
-      box.innerHTML = '<p class="hint">' + hits.length + ' rezultate</p>' + hits.map(function (it) {
+      var groups = {};
+      hits.forEach(function (it) { (groups[it.g] = groups[it.g] || []).push(it); });
+      var order = ['Categorii', 'Produse', 'Comparații', 'Ghiduri'];
+      var card = function (it) {
         return '<a class="sr" href="' + it.u + '"><span class="sr-t">' + esc(it.t) + '</span><span class="sr-k">' + esc(it.k) + '</span></a>';
-      }).join('');
+      };
+      var html = '<p class="hint">' + hits.length + ' rezultate</p>';
+      order.forEach(function (g) {
+        var arr = groups[g];
+        if (!arr || !arr.length) return;
+        html += '<h2 class="sr-group">' + g + ' (' + arr.length + ')</h2>' + arr.map(card).join('');
+      });
+      box.innerHTML = html;
     }
 
     var params = new URLSearchParams(location.search);

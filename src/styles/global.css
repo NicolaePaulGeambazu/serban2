@@ -343,6 +343,7 @@ details.q .a{padding:0 18px 16px;color:#25313f;line-height:1.65}
 .search-results .hint{color:var(--muted);font-size:.9rem;margin:0 0 4px}
 .sr{display:flex;justify-content:space-between;align-items:center;gap:14px;background:var(--paper-2);border:1px solid var(--line);border-radius:12px;padding:14px 16px;transition:border-color .15s,transform .15s}
 .sr:hover{border-color:#c9c2b4;transform:translateY(-1px)}
+.sr-group{font-family:var(--mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:var(--emerald);font-weight:700;margin:20px 0 2px}
 .sr-t{font-weight:700;letter-spacing:-.01em}
 .sr-k{font-family:var(--mono);font-size:.68rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap;background:#F1EEE7;border:1px solid var(--line);padding:4px 9px;border-radius:999px}
 
