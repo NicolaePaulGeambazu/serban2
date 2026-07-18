@@ -11,7 +11,9 @@ export const site = {
   // GA4 Measurement ID ("G-XXXXXXXXXX") — used ONLY if GTM id above is empty. Empty = analytics off.
   googleAnalyticsId: '',
   // Paste the token from Google Search Console (HTML tag verification method). Empty = no tag.
-  googleSiteVerification: '',
+  googleSiteVerification: 'omUxFErR4arMpS6M7HAf7BwmIldeFfU0YslovrOYgao',
+  // Profitshare affiliate site-ownership verification id. Empty = no tag.
+  profitshareId: 'a90e38a5e9cbb43e94c236ddb50ea3f8',
   locale: 'ro_RO',
   lang: 'ro',
   themeColor: '#0F1B2D',
