@@ -9,9 +9,13 @@ export const footerNav = [
   {
     title: 'Categorii',
     links: [
+      { label: 'Mașini de spălat', href: '/clasament/masini-de-spalat/' },
+      { label: 'Roboți de aspirare', href: '/clasament/roboti-aspirare/' },
+      { label: 'Espressoare', href: '/clasament/espressoare/' },
+      { label: 'Laptopuri', href: '/clasament/laptopuri/' },
+      { label: 'Monitoare gaming', href: '/clasament/monitoare-gaming/' },
       { label: 'Aer condiționat', href: '/clasament/aer-conditionat/' },
       { label: 'Televizoare', href: '/clasament/televizoare/' },
-      { label: 'Cuptoare încorporabile', href: '/clasament/cuptoare-incorporabile/' },
       { label: 'Toate categoriile', href: '/categorii/' },
     ],
   },

@@ -1,0 +1,651 @@
+{
+  "title": "Cele mai bune benzi de alergat în 2026",
+  "h1": "Cele mai bune benzi de alergat în 2026",
+  "parent": "Sport & Fitness",
+  "icon": "treadmill",
+  "order": 15,
+  "intro": "Am comparat cele mai populare benzi de alergat electrice de pe eMAG după puterea motorului, viteza maximă, înclinarea automată, amortizare și conectivitatea cu aplicații. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-18",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p5"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p10"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "inclinare",
+      "label": "Înclinare automată"
+    },
+    {
+      "key": "pliabila",
+      "label": "Pliabilă"
+    },
+    {
+      "key": "bluetooth",
+      "label": "Bluetooth / apps"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "De câți CP ai nevoie la motor?",
+      "body": "Motorul e cea mai importantă piesă. Pentru mers și alergare ușoară ajung 2–2,5 CP. Dacă alergi susținut sau ești mai greu, mergi pe 3,5–4 CP — motorul nu se supraîncălzește și durează ani buni. Sub 2 CP e doar pentru mers.",
+      "callout": "Pentru alergare reală, alege minimum 3 CP. GO4FIT FIT2000 și FitTronic Delta 550 (ambele 4 CP) duc antrenamente intense fără efort."
+    },
+    {
+      "h3": "Înclinare automată vs. manuală",
+      "body": "Înclinarea automată se reglează din consolă sau din aplicație și simulează urcarea, crescând intensitatea fără să mărești viteza. Cea manuală se pune fix din suporturi și e incomodă. Dacă vrei antrenamente variate, merită o bandă cu înclinare automată."
+    },
+    {
+      "h3": "Amortizare și suprafață de alergare",
+      "body": "O suprafață lungă (peste 120 cm) și un sistem bun de amortizare protejează genunchii și articulațiile. Verifică și greutatea maximă suportată: alege una cu marjă de 15–20 kg peste greutatea ta, ca banda să nu forțeze."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce viteză maximă îmi trebuie?",
+      "a": "Pentru mers rapid și jogging sunt suficienți 10–12 km/h. Dacă faci alergare susținută sau intervale, caută 16–20 km/h. Modelele premium din test (FIT2000, Delta 550, FIT700) ajung la 18–20 km/h."
+    },
+    {
+      "q": "Merită o bandă pliabilă?",
+      "a": "Da, dacă ai spațiu limitat. Aproape toate modelele din clasament se pliază, iar unele au și cilindru sau pliere hidraulică pentru rabatare ușoară. O bandă pliabilă ocupă mult mai puțin loc între antrenamente."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, GO4FIT FIT2000 e alegerea completă: motor de 4 CP, viteză până la 20 km/h, înclinare automată și suport pentru aplicații. Dacă vrei cel mai bun raport preț/calitate, FitTronic Delta 100 îți dă motor decent, amortizare bună și aplicații, iar Orion Sprint C1 e alegerea pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "GO4FIT FIT2000 Premium, motor 4 CP, 1-20 km/h",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "image": "https://s13emagst.akamaized.net/products/50917/50916201/images/res_7b2d65f889c6eb43d328d71c57be05be.jpg?width=400&height=400",
+      "feedId": "D3J32QMBM",
+      "inStock": true,
+      "features": [
+        "inclinare",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "4 CP",
+          "label": "motor"
+        },
+        {
+          "value": "20 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "150 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "Automată 15%",
+          "label": "înclinare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 97
+        },
+        {
+          "label": "Suprafață",
+          "pct": 90
+        },
+        {
+          "label": "Amortizare",
+          "pct": 84
+        },
+        {
+          "label": "Funcții",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Motor puternic de 4 CP, până la 20 km/h",
+        "Suportă până la 150 kg + aplicații"
+      ],
+      "cons": [
+        "Preț de gamă premium"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergare-electrica-go4fitr-premium-model-fit2000-motor-4-cp-viteza-1-20-km-h-inclinare-automata-15-greutate-maxima-utilizator-150-kg-bluetooth-aplicatii-cheie-siguranta-ab-165/pd/D3J32QMBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "FitTronic Delta 550, motor 4.0 CP, înclinare 18%, 18 km/h",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/3186/3185862/images/res_9b6cdb2b8e5f0784a2defb7895eb16e5.jpg?width=400&height=400",
+      "feedId": "D12GX3BBM",
+      "inStock": true,
+      "features": [
+        "inclinare",
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "4.0 CP",
+          "label": "motor"
+        },
+        {
+          "value": "18 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "140 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "3 aplicații",
+          "label": "Kinomap/Zwift"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 96
+        },
+        {
+          "label": "Suprafață",
+          "pct": 88
+        },
+        {
+          "label": "Amortizare",
+          "pct": 82
+        },
+        {
+          "label": "Funcții",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Motor 4 CP + înclinare automată până la 18%",
+        "3 aplicații (Kinomap, Zwift, Newrunway)"
+      ],
+      "cons": [
+        "Ocupă mai mult spațiu chiar și pliată"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-550-putere-motor-4-0-cp-greutate-suportata-140-kg-acum-3-aplicatii-kinomap-zwift-newrunway-inclinatie-automata-18-viteza-pana-la-18km-h-pliabila-intrare-usb/pd/D12GX3BBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "GO4FIT FIT700, motor 3.5 CP, înclinare automată 15 nivele, 18 km/h",
+      "tag": "Cel mai bun echilibrat",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/120723/120722575/images/res_b6c452f0adc5d21d46c3965f2250f800.jpg?width=400&height=400",
+      "feedId": "D4RNZD2BM",
+      "inStock": true,
+      "features": [
+        "inclinare",
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "3.5 CP",
+          "label": "motor"
+        },
+        {
+          "value": "18 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "120 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "15 programe",
+          "label": "Bluetooth"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 90
+        },
+        {
+          "label": "Suprafață",
+          "pct": 84
+        },
+        {
+          "label": "Amortizare",
+          "pct": 80
+        },
+        {
+          "label": "Funcții",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Înclinare automată pe 15 nivele + 15 programe",
+        "Pliere hidraulică comodă"
+      ],
+      "cons": [
+        "Greutate maximă mai mică (120 kg)"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-go4fitr-model-fit700-viteza-maxima-18-km-h-motor-3-5-cp-inclinare-automata-15-nivele-pliere-hidraulica-15-programe-bluetooth-greutate-utilizator-120-kg-ecran-led-cheie-de-siguranta-ro/pd/D4RNZD2BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "BodyFit A5000, motor 3.25 CP, înclinare automată, 16 km/h",
+      "tag": "Bună pentru alergare regulată",
+      "score": 8.5,
+      "image": "https://s13emagst.akamaized.net/products/27145/27144878/images/res_f0eb3f3bddcb5c2e6cb40405119f3df2.jpg?width=400&height=400",
+      "feedId": "DTF7PGBBM",
+      "inStock": true,
+      "features": [
+        "inclinare",
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "3.25 CP",
+          "label": "motor"
+        },
+        {
+          "value": "16 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "Automată",
+          "label": "înclinare"
+        },
+        {
+          "value": "Fitshow",
+          "label": "aplicație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 87
+        },
+        {
+          "label": "Suprafață",
+          "pct": 80
+        },
+        {
+          "label": "Amortizare",
+          "pct": 78
+        },
+        {
+          "label": "Funcții",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Motor 3.25 CP + înclinare automată",
+        "Aplicație Fitshow, intrare MP3 și USB"
+      ],
+      "cons": [
+        "Fără specificarea greutății maxime suportate"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-bodyfitr-motor-3-25-cp-aplicatia-fitshow-viteza-pana-la-16-km-h-inclinatie-automata-intrare-mp3-si-usb-pliabila-a5000/pd/DTF7PGBBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "FitTronic Delta 100, motor 2.5 CP, Bluetooth, amortizare 6 puncte",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/2722/2721299/images/res_d95067d86739d090d0bd52b08a39c413.jpg?width=400&height=400",
+      "feedId": "D5Z0GYBBM",
+      "inStock": true,
+      "features": [
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "2.5 CP",
+          "label": "motor"
+        },
+        {
+          "value": "6 puncte",
+          "label": "amortizare"
+        },
+        {
+          "value": "Self oil",
+          "label": "ungere auto"
+        },
+        {
+          "value": "Kinomap/Zwift",
+          "label": "aplicații"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 76
+        },
+        {
+          "label": "Suprafață",
+          "pct": 76
+        },
+        {
+          "label": "Amortizare",
+          "pct": 86
+        },
+        {
+          "label": "Funcții",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Amortizare în 6 puncte + arcuri, blândă cu articulațiile",
+        "Ungere automată + aplicații (Kinomap, Zwift)"
+      ],
+      "cons": [
+        "Fără înclinare automată"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-100-motor-2-5-cp-bluetooth-kinomap-zwift-newrunway-self-oil-ungere-automata-sistem-de-amortizare-in-6-puncte-arcuri-pliabila-cu-cilindru-intrare-mp3-si-usb-/pd/D5Z0GYBBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Energy Fit MT10A, înclinare automată, boxe încorporate, 12 km/h",
+      "tag": "Cu înclinare automată la preț mediu",
+      "score": 7.9,
+      "image": "https://s13emagst.akamaized.net/products/2032/2031921/images/res_8e677454282c0ebb2459d054204eb421.jpg?width=400&height=400",
+      "feedId": "D4KNF3BBM",
+      "inStock": true,
+      "features": [
+        "inclinare",
+        "pliabila"
+      ],
+      "specs": [
+        {
+          "value": "Automată",
+          "label": "înclinare"
+        },
+        {
+          "value": "12 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "130 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "Boxe",
+          "label": "MP3 + USB"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 72
+        },
+        {
+          "label": "Suprafață",
+          "pct": 82
+        },
+        {
+          "label": "Amortizare",
+          "pct": 74
+        },
+        {
+          "label": "Funcții",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Înclinare automată + suportă 130 kg",
+        "Boxe încorporate, MP3 și USB"
+      ],
+      "cons": [
+        "Viteză maximă limitată la 12 km/h"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-alergare-cu-inclinare-automata-energy-fit-viteza-maxima-12km-h-greutate-maxima-utilizator-130kg-mp3-input-usb-boxe-incorporate-pliabila-pe-cilindru-roti-transport-mt10a/pd/D4KNF3BBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "TECHFIT MT125N, motor 2.5 CP, Bluetooth, SoftDrop",
+      "tag": "Compactă pentru acasă",
+      "score": 7.7,
+      "image": "https://s13emagst.akamaized.net/products/55815/55814698/images/res_2b1818d25111c3134d63a60342c8942b.jpg?width=400&height=400",
+      "feedId": "D2RJXGMBM",
+      "inStock": true,
+      "features": [
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "2.5 CP",
+          "label": "motor"
+        },
+        {
+          "value": "110 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "SoftDrop",
+          "label": "siguranță"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "MP3"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 76
+        },
+        {
+          "label": "Suprafață",
+          "pct": 74
+        },
+        {
+          "label": "Amortizare",
+          "pct": 76
+        },
+        {
+          "label": "Funcții",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Sistem SoftDrop de pliere în siguranță",
+        "Bluetooth, MP3 și suport tabletă"
+      ],
+      "cons": [
+        "Fără înclinare automată"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-alergare-techfit-mt125n-motor-2-5-cp-greutate-utilizator-110-kg-bluetooth-mp3-suport-tableta-smartphone-sistem-de-siguranta-softdrop-pliabila-0669014857262/pd/D2RJXGMBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "FitTronic Delta 2000, motor 2.0 CP, suprafață 122x42 cm, 12 km/h",
+      "tag": "Pentru mers și jogging ușor",
+      "score": 7.4,
+      "image": "https://s13emagst.akamaized.net/products/30249/30248536/images/res_821fe9a77b7a3ca79a8e03e75167dbc1.jpg?width=400&height=400",
+      "feedId": "DT3H1MMBM",
+      "inStock": true,
+      "features": [
+        "pliabila"
+      ],
+      "specs": [
+        {
+          "value": "2.0 CP",
+          "label": "motor"
+        },
+        {
+          "value": "122x42 cm",
+          "label": "suprafață"
+        },
+        {
+          "value": "12 km/h",
+          "label": "viteză max"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 68
+        },
+        {
+          "label": "Suprafață",
+          "pct": 76
+        },
+        {
+          "label": "Amortizare",
+          "pct": 70
+        },
+        {
+          "label": "Funcții",
+          "pct": 62
+        }
+      ],
+      "pros": [
+        "Suprafață de alergare decentă (122x42 cm)",
+        "Simplă și ușor de folosit"
+      ],
+      "cons": [
+        "Motor mic (2 CP), fără aplicații"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-2000-putere-max-motor-2-0-cp-suprafata-de-alergare-122x42-cm-viteza-12-km-h-d2000/pd/DT3H1MMBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Lotto Runex R3, motor 2 CP, aplicații, 100% pliabilă, 12 km/h",
+      "tag": "Ușor de depozitat",
+      "score": 7.2,
+      "image": "https://s13emagst.akamaized.net/products/112639/112638010/images/res_37db4552618094e4d4bda9f34a197f32.jpg?width=400&height=400",
+      "feedId": "DD7GG83BM",
+      "inStock": true,
+      "features": [
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "2 CP",
+          "label": "motor"
+        },
+        {
+          "value": "12 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "100 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "105x40 cm",
+          "label": "suprafață"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 66
+        },
+        {
+          "label": "Suprafață",
+          "pct": 68
+        },
+        {
+          "label": "Amortizare",
+          "pct": 68
+        },
+        {
+          "label": "Funcții",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "100% pliabilă, ocupă foarte puțin loc",
+        "Aplicații Fitshow/Kinomap/Zwift prin Bluetooth"
+      ],
+      "cons": [
+        "Doar înclinare manuală"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-lotto-runex-r3-inclinare-manuala-bluetooth-fitshow-kinomap-zwift-viteza-maxima-12-km-h-motor-2cp-greutate-maxima-suportata-100kg-100-pliabila-suprafata-alergare-105x40-cm-ru/pd/DD7GG83BM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Orion Sprint C1, Bluetooth, 12 programe, pliabilă, 12 km/h",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7,
+      "image": "https://s13emagst.akamaized.net/products/26747/26746475/images/res_18413c8ca9812717cd3173820a3d8fb9.jpg?width=400&height=400",
+      "feedId": "D6SWG8BBM",
+      "inStock": true,
+      "features": [
+        "pliabila",
+        "bluetooth"
+      ],
+      "specs": [
+        {
+          "value": "12 km/h",
+          "label": "viteză max"
+        },
+        {
+          "value": "100 kg",
+          "label": "greutate max"
+        },
+        {
+          "value": "12 programe",
+          "label": "presetate"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "aplicații"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Motor",
+          "pct": 64
+        },
+        {
+          "label": "Suprafață",
+          "pct": 66
+        },
+        {
+          "label": "Amortizare",
+          "pct": 66
+        },
+        {
+          "label": "Funcții",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Cea mai accesibilă din test, pliabilă",
+        "12 programe + aplicații Fitshow/Kinomap/Zwift"
+      ],
+      "cons": [
+        "Fără înclinare automată, motor modest"
+      ],
+      "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-orion-sprint-c1-bluetooth-fitshow-kinomap-zwift-viteza-maxima-12-km-h-greutate-maxima-suportata-100kg-pliabila-12-programe-presetate-sprintc1/pd/D6SWG8BBM/"
+    }
+  ]
+}

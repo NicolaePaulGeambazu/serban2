@@ -1,0 +1,468 @@
+{
+  "title": "Cele mai bune uscătoare de rufe în 2026",
+  "h1": "Cele mai bune uscătoare de rufe în 2026",
+  "parent": "Electrocasnice",
+  "icon": "dryer",
+  "order": 8,
+  "intro": "Am comparat cele mai populare uscătoare de rufe cu pompă de căldură de pe eMAG după clasa energetică, capacitate, calitatea uscării și zgomot. Toate consumă puțin curent — mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-18",
+  "productsCount": 7,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p3"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p7"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "abur",
+      "label": "Cu abur"
+    },
+    {
+      "key": "smart",
+      "label": "Smart / Wi-Fi"
+    },
+    {
+      "key": "mare",
+      "label": "9 kg+"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Clasa energetică contează cel mai mult",
+      "body": "Toate uscătoarele bune de azi au pompă de căldură — consumă de 2–3 ori mai puțin decât cele cu rezistență. Diferența o face clasa: A+++ e cea mai economică, iar de la B în jos consumul crește vizibil. Pe termen lung, o clasă mai bună își scoate banii.",
+      "callout": "Dacă usci rufe de câteva ori pe săptămână, o clasă superioară (Bosch Seria 8, clasa B) se amortizează în câțiva ani prin factura la curent mai mică."
+    },
+    {
+      "h3": "Ce capacitate îți trebuie?",
+      "body": "Pentru 1–2 persoane, 7 kg e suficient. O familie de 3–4 persoane e mai relaxată cu 8 kg, iar la 9 kg (Bosch WQB246, Samsung DV90) usci o plapumă sau un maldăr de prosoape dintr-o singură tură. Capacitatea mai mare înseamnă mai puține cicluri."
+    },
+    {
+      "h3": "Abur și funcții smart — merită?",
+      "body": "Funcția cu abur (Beko SteamCure) relaxează cutele și reduce călcatul. Conectivitatea Wi-Fi (Home Connect, SmartThings) îți lasă să pornești programul din telefon și să primești notificare când e gata. Nu sunt obligatorii, dar cresc confortul de zi cu zi."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Uscătorul cu pompă de căldură consumă mult?",
+      "a": "Nu — e cel mai economic tip. Un ciclu la un model de clasă bună consumă mult mai puțin decât un uscător clasic cu rezistență. De aceea toate modelele din clasament folosesc pompă de căldură."
+    },
+    {
+      "q": "Trebuie racord la canalizare?",
+      "a": "Nu. Uscătoarele cu pompă de căldură colectează apa într-un rezervor pe care îl golești manual, sau pot fi conectate opțional la scurgere dacă ai priză de evacuare aproape. Nu au nevoie de tub de aerisire spre exterior."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, Bosch Seria 8 WQB246DNBY e alegerea completă: clasa B, 9 kg, Home Connect și uscare silențioasă. Dacă vrei cel mai bun raport preț/calitate, Beko B3T42242 îți dă clasa C și 8 kg la un preț mic, iar Heinner HHPD-V7T1CHA++ e alegerea pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Bosch Seria 8 WQB246DNBY 9 kg",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "image": "https://s13emagst.akamaized.net/products/100880/100879616/images/res_81abeb20cbcb405c69d2dcf4e9d4cba1.jpg?width=400&amp;height=80",
+      "feedId": "D7VTTJ3BM",
+      "inStock": true,
+      "features": [
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa B",
+          "label": "eficiență"
+        },
+        {
+          "value": "Home Connect",
+          "label": "14 programe"
+        },
+        {
+          "value": "EcoSilence",
+          "label": "motor silențios"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 94
+        },
+        {
+          "label": "Eficiență",
+          "pct": 92
+        },
+        {
+          "label": "Silențios",
+          "pct": 93
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Cea mai bună clasă energetică din test (B) la 9 kg",
+        "Home Connect + Smart Dry, control din aplicație"
+      ],
+      "cons": [
+        "Cel mai scump din clasament"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-bosch-seria-8-pompa-de-caldura-9-kg-14-programe-autodry-condensator-cu-autocuratare-iluminare-interioara-touch-control-smart-dry-ecosilence-drive-home-connect-clasa-b-alb-wqb246dnby/pd/D7VTTJ3BM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Samsung DV90DG52A0 9 kg (negru)",
+      "tag": "Cel mai bun pentru familii mari",
+      "score": 9.0,
+      "image": "https://s13emagst.akamaized.net/products/87590/87589351/images/res_5207c9a150af68888ebde9dabf3b2c46.jpg?width=400&amp;height=80",
+      "feedId": "DGG35M3BM",
+      "inStock": true,
+      "features": [
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "SmartThings",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "Quick Dry",
+          "label": "Optimal Dry"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 92
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        },
+        {
+          "label": "Silențios",
+          "pct": 88
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "9 kg — usci multe rufe dintr-o tură",
+        "SmartThings Wi-Fi și Optimal Dry"
+      ],
+      "cons": [
+        "Clasa C, mai puțin economic decât Bosch"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-samsung-pompa-de-caldura-9-kg-clasa-c-smart-things-quick-dry-optimal-dry-wifi-negru-dv90dg52a0able/pd/DGG35M3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Beko B3T42242 8 kg",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.6,
+      "image": "https://s13emagst.akamaized.net/products/44377/44376788/images/res_df2df79be0a4cea0023bb57b164e823b.jpg?width=400&height=400",
+      "feedId": "DNZVMSMBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "ProSmart",
+          "label": "motor inverter"
+        },
+        {
+          "value": "OptiSense",
+          "label": "senzori umiditate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 88
+        },
+        {
+          "label": "Eficiență",
+          "pct": 85
+        },
+        {
+          "label": "Silențios",
+          "pct": 87
+        },
+        {
+          "label": "Ușurință",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Clasa C și 8 kg la cel mai mic preț din test",
+        "Motor ProSmart Inverter, fiabil și silențios"
+      ],
+      "cons": [
+        "Fără conectivitate Wi-Fi"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-pompa-de-caldura-8-kg-15-programe-clasa-c-recycleddry-motor-prosmarttm-inverter-optisense-aquawaver-alb-b3t42242/pd/DNZVMSMBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Bosch WTH8520BBY 8 kg",
+      "tag": "Fiabilitate Bosch",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/90540/90539817/images/res_633b50e116bad25b18eecc5a60bf0f84.jpg?width=400&amp;height=80",
+      "feedId": "DK77M73BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa D",
+          "label": "eficiență"
+        },
+        {
+          "value": "AutoDry",
+          "label": "15 programe"
+        },
+        {
+          "value": "AntiVibration",
+          "label": "funcționare stabilă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 87
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Silențios",
+          "pct": 88
+        },
+        {
+          "label": "Ușurință",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Construcție Bosch cu AntiVibration",
+        "Filtru EasyClean, ușor de întreținut"
+      ],
+      "cons": [
+        "Clasa D — consum mai mare decât rivalii de sus"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-bosch-pompa-de-caldura-8-kg-15-programe-autodry-technology-antivibration-filtru-easyclean-clasa-d-alb-negru-wth8520bby/pd/DK77M73BM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Beko B3T67230 7 kg",
+      "tag": "Cel mai bun cu abur",
+      "score": 8.0,
+      "image": "https://s13emagst.akamaized.net/products/43459/43458026/images/res_2dbfdaa3768bfc707229b863b9ba2a2f.png?width=400&height=400",
+      "feedId": "DRC1MJMBM",
+      "inStock": true,
+      "features": [
+        "abur"
+      ],
+      "specs": [
+        {
+          "value": "7 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa D",
+          "label": "eficiență"
+        },
+        {
+          "value": "SteamCure",
+          "label": "funcție abur"
+        },
+        {
+          "value": "Hygienic Dry",
+          "label": "igienizare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 86
+        },
+        {
+          "label": "Eficiență",
+          "pct": 76
+        },
+        {
+          "label": "Silențios",
+          "pct": 83
+        },
+        {
+          "label": "Ușurință",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "SteamCure cu abur — reduce cutele și călcatul",
+        "Program Hygienic Dry pentru igienizare"
+      ],
+      "cons": [
+        "Doar 7 kg și clasa D"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-7-kg-clasa-d-pompa-de-caldura-steamcure-hygienic-dry-recycled-dry-alb-b3t67230/pd/DRC1MJMBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Samsung DV80CGC0B0AHLE 8 kg",
+      "tag": "Cel mai smart",
+      "score": 7.7,
+      "image": "https://s13emagst.akamaized.net/products/62007/62006310/images/res_440490f19008f2d62f0af644f0aa2d84.jpg?width=400&amp;height=80",
+      "feedId": "DSLH27YBM",
+      "inStock": true,
+      "features": [
+        "smart"
+      ],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa E",
+          "label": "eficiență"
+        },
+        {
+          "value": "SmartThings",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "AI Energy",
+          "label": "Wrinkle Prevent"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 85
+        },
+        {
+          "label": "Eficiență",
+          "pct": 72
+        },
+        {
+          "label": "Silențios",
+          "pct": 82
+        },
+        {
+          "label": "Ușurință",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "SmartThings Wi-Fi și AI Energy Mode",
+        "Wrinkle Prevent — mai puține cute"
+      ],
+      "cons": [
+        "Clasa E, cel mai puțin economic din test"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-samsung-pompa-de-caldura-8-kg-clasa-e-optimal-dry-wrinkle-prevent-wifi-smartthings-ai-energy-alb-dv80cgc0b0ahle/pd/DSLH27YBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Heinner HHPD-V7T1CHA++ 7 kg",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.4,
+      "image": "https://s13emagst.akamaized.net/products/51343/51342218/images/res_043e33f1acb77a392c095e8256d9a30d.jpg?width=400&amp;height=80",
+      "feedId": "DVRPVQMBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "7 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A+",
+          "label": "eficiență"
+        },
+        {
+          "value": "15 programe",
+          "label": "Display LED"
+        },
+        {
+          "value": "Blocare",
+          "label": "acces copii"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 82
+        },
+        {
+          "label": "Eficiență",
+          "pct": 80
+        },
+        {
+          "label": "Silențios",
+          "pct": 78
+        },
+        {
+          "label": "Ușurință",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil uscător cu pompă de căldură din test",
+        "Display LED, indicatori filtru și rezervor"
+      ],
+      "cons": [
+        "Doar 7 kg și fără conectivitate"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-heinner-pompa-de-caldura-7-kg-15-programe-clasa-a-e-display-led-lumina-cuva-indicator-curatare-filtru-scame-indicator-rezervor-colectare-apa-plin-blocare-acces-copii-alb-hhpd-v7t1cha/pd/DVRPVQMBM/"
+    }
+  ]
+}

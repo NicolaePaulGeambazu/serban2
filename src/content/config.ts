@@ -7,7 +7,7 @@ const product = z.object({
   tag: z.string(),
   win: z.boolean().optional(),
   score: z.number(),               // 0–10
-  price: z.number(),               // lei
+  price: z.number().optional(),    // lei — omitted for newer categories (we don't store prices; eMAG shows live price)
   oldPrice: z.number().optional(),
   priceNote: z.string().optional(),
   image: z.string().optional(),    // product photo URL (falls back to an icon if empty)

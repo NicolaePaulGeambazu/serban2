@@ -1,0 +1,594 @@
+{
+  "title": "Cele mai bune espressoare automate în 2026",
+  "h1": "Cele mai bune espressoare automate în 2026",
+  "parent": "Electrocasnice",
+  "icon": "coffee",
+  "order": 11,
+  "intro": "Am comparat cele mai populare espressoare automate de pe eMAG după calitatea cafelei, sistemul de spumare a laptelui, varietatea băuturilor și ușurința de întreținere. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-18",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p3"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p8"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "lapte",
+      "label": "Spumare automată lapte"
+    },
+    {
+      "key": "touch",
+      "label": "Ecran tactil"
+    },
+    {
+      "key": "carafa",
+      "label": "Carafă de lapte"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Sistemul de lapte: carafă, LatteGO sau LatteCrema?",
+      "body": "Dacă bei cappuccino sau latte, sistemul de lapte contează cel mai mult. Carafele LatteCrema (De'Longhi) și LatteGO (Philips) fac spumă automat, la o singură atingere. LatteGO se demontează în două piese și se spală imediat, iar carafele De'Longhi se pun la frigider între utilizări.",
+      "callout": "Vrei cappuccino perfect fără efort? Alege un model cu spumare automată (LatteGO sau LatteCrema). Sistemele cu duză manuală cer exercițiu și timp."
+    },
+    {
+      "h3": "Câte tipuri de băuturi îți trebuie?",
+      "body": "Modelele de bază fac 4–6 băuturi (espresso, lungo, cappuccino). Cele premium ajung la 20–50+ rețete cu profile salvate pe utilizator. Dacă în casă fiecare bea altceva, un ecran tactil cu profile și băuturi multiple face diferența la comoditate."
+    },
+    {
+      "h3": "Râșnița și presiunea contează?",
+      "body": "Aproape toate au 15 bari, suficient pentru un espresso corect. Mai importantă e râșnița: cea ceramică (Philips) se tocește greu și e silențioasă, iar cea cu mai multe setări (Krups, De'Longhi) reglează fin grosimea măcinării pentru gustul dorit."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Cât de des trebuie detartrat un espressor automat?",
+      "a": "Depinde de duritatea apei și de câte cafele faci, dar de obicei la fiecare 1–3 luni. Aparatele bune te anunță singure când e nevoie și au program automat de detartrare. Folosirea filtrului de apă rărește operațiunea."
+    },
+    {
+      "q": "LatteGO sau carafă De'Longhi — care e mai bun?",
+      "a": "LatteGO (Philips) e mai ușor de curățat: doar două piese, fără tuburi, se spală în câteva secunde. Carafele De'Longhi (LatteCrema) dau o spumă foarte densă și pot fi puse direct la frigider. Ambele fac spumă automat la o atingere."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, De'Longhi Eletta Explore ECAM 450.65.S e alegerea completă: 50+ băuturi, două carafe LatteCrema și extracție la rece. Dacă vrei cel mai bun raport preț/calitate, Philips EP5546 seria 5500 îți dă 20 de băuturi, LatteGO și ecran tactil, iar Philips seria 2300 EP2330 e alegerea pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "De'Longhi Eletta Explore ECAM 450.65.S",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.4,
+      "image": "https://s13emagst.akamaized.net/products/61617/61616542/images/res_c0b8e426a9601a9c85c60bf4af785ddf.jpg?width=400&height=80",
+      "feedId": "DP3NZ2YBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch",
+        "carafa"
+      ],
+      "specs": [
+        {
+          "value": "50+ băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "2 carafe",
+          "label": "LatteCrema Hot & Cool"
+        },
+        {
+          "value": "Cold Brew",
+          "label": "extracție la rece"
+        },
+        {
+          "value": "19 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 96
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        },
+        {
+          "label": "Băuturi",
+          "pct": 98
+        },
+        {
+          "label": "Întreținere",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "50+ rețete și extracție la rece (Cold Brew)",
+        "Două carafe LatteCrema, cald și rece, cu spumă densă"
+      ],
+      "cons": [
+        "Cel mai scump din clasament"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-eletta-explore-ecam-450-65-s-50-tipuri-de-bauturi-2-carafe-cu-tehnologie-lattecrema-hot-cool-tehnologie-de-extractie-la-rece-rasnita-cu-tehnologie-bean-adapt-coffee-link-ap/pd/DP3NZ2YBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "De'Longhi Dinamica Plus ECAM 380.95.TB",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/61617/61616540/images/res_0f1db9d496262ee82a42e57bcc83b917.jpg?width=400&height=80",
+      "feedId": "D03NZ2YBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch",
+        "carafa"
+      ],
+      "specs": [
+        {
+          "value": "24 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "2 carafe",
+          "label": "LatteCrema"
+        },
+        {
+          "value": "1450 W",
+          "label": "putere"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 94
+        },
+        {
+          "label": "Ușurință",
+          "pct": 90
+        },
+        {
+          "label": "Băuturi",
+          "pct": 90
+        },
+        {
+          "label": "Întreținere",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "24 de băuturi și două carafe LatteCrema",
+        "Ecran tactil intuitiv, cu profile de utilizator"
+      ],
+      "cons": [
+        "Preț premium ridicat"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-dinamica-plus-ecam-380-95-tb-24-tipuri-de-bauturi-15-bari-2-carafe-pentru-lapte-tehnologie-lattecrema-1450-w-negru-gri-inchis-ro0132215486/pd/D03NZ2YBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Philips EP5546/70 seria 5500 LatteGO",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/67591/67590526/images/res_b0e1296df3b5baa5071073ba31319afc.jpg?width=400&height=80",
+      "feedId": "DSJR7HYBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch"
+      ],
+      "specs": [
+        {
+          "value": "20 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "LatteGO",
+          "label": "spumare lapte"
+        },
+        {
+          "value": "Ceramică",
+          "label": "râșniță"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 90
+        },
+        {
+          "label": "Ușurință",
+          "pct": 94
+        },
+        {
+          "label": "Băuturi",
+          "pct": 88
+        },
+        {
+          "label": "Întreținere",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "20 de băuturi și ecran tactil, la preț corect",
+        "LatteGO se spală în câteva secunde (doar 2 piese)"
+      ],
+      "cons": [
+        "Fără carafă cald/rece ca la De'Longhi"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-5500-presiune-15-bari-solutie-de-lapte-lattego-20-tipuri-de-bauturi-ecran-tactil-tehnologie-noua-silentbrew-preparare-silentioasa-rasnita-ceramica-functie-quickstart-je/pd/DSJR7HYBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Philips EP4449/70 seria 4400 LatteGO",
+      "tag": "Echilibru bun preț/dotări",
+      "score": 8.6,
+      "image": "https://s13emagst.akamaized.net/products/67591/67590523/images/res_420ba8449ecd292e581b2c7fdc675d0e.jpg?width=400&height=80",
+      "feedId": "D9JR7HYBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch"
+      ],
+      "specs": [
+        {
+          "value": "12 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "LatteGO",
+          "label": "spumare lapte"
+        },
+        {
+          "value": "Ceramică",
+          "label": "râșniță"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 89
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        },
+        {
+          "label": "Băuturi",
+          "pct": 82
+        },
+        {
+          "label": "Întreținere",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "12 băuturi și LatteGO ușor de curățat",
+        "Ecran tactil intuitiv și râșniță ceramică"
+      ],
+      "cons": [
+        "Mai puține rețete decât seria 5500"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-4400-presiune-15-bari-solutie-de-lapte-lattego-12-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-pentru-preparare-silentioasa-rasnita-ceramica-funct/pd/D9JR7HYBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Krups Evidence EA890110",
+      "tag": "One-Touch Cappuccino",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/13454/13453085/images/res_c4b9c01f4688ac5eb52776977bee7dc2.jpg?width=400&height=80",
+      "feedId": "DFMVS9BBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "carafa"
+      ],
+      "specs": [
+        {
+          "value": "15 rețete",
+          "label": "băuturi"
+        },
+        {
+          "value": "One-Touch",
+          "label": "Cappuccino"
+        },
+        {
+          "value": "3 setări",
+          "label": "râșniță"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 88
+        },
+        {
+          "label": "Ușurință",
+          "pct": 85
+        },
+        {
+          "label": "Băuturi",
+          "pct": 84
+        },
+        {
+          "label": "Întreținere",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "15 rețete și funcție One-Touch Cappuccino",
+        "Rezervor mare de apă (2,3 L) și boabe (260 g)"
+      ],
+      "cons": [
+        "Fără ecran tactil, comenzi cu taste"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-krups-evidence-1450w-15-bari-rasnita-cu-3-setari-15-retete-de-bauturi-rezervor-boabe-260g-rezervor-apa-detasabil-2-3l-functie-one-touch-cappuccino-alb-ea890110/pd/DFMVS9BBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Philips EP3341/50 seria 3300 LatteGO",
+      "tag": "Philips accesibil cu LatteGO",
+      "score": 8.1,
+      "image": "https://s13emagst.akamaized.net/products/58702/58701141/images/res_f7e339afdbd3158d746ad52513c9606e.jpg?width=400&height=80",
+      "feedId": "DDPXSMYBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch"
+      ],
+      "specs": [
+        {
+          "value": "6 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "LatteGO",
+          "label": "spumare lapte"
+        },
+        {
+          "value": "Ceramică",
+          "label": "râșniță"
+        },
+        {
+          "value": "HomeID",
+          "label": "aplicație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 87
+        },
+        {
+          "label": "Ușurință",
+          "pct": 90
+        },
+        {
+          "label": "Băuturi",
+          "pct": 74
+        },
+        {
+          "label": "Întreținere",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "LatteGO și ecran tactil la preț accesibil",
+        "Râșniță ceramică silențioasă (SilentBrew)"
+      ],
+      "cons": [
+        "Doar 6 tipuri de băuturi"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-3300-lattego-6-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-pentru-preparare-silentioasa-aplicatie-homeid-rasnita-ceramica-negru-ep3341-50/pd/DDPXSMYBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "De'Longhi Magnifica Start Milk ECAM223.61.GB",
+      "tag": "Carafă LatteCrema pe buget",
+      "score": 7.9,
+      "image": "https://s13emagst.akamaized.net/products/100798/100797981/images/res_0fd27310df48ffcf06edd5647c81cc17.jpg?width=400&height=80",
+      "feedId": "DQ4F2J3BM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "carafa"
+      ],
+      "specs": [
+        {
+          "value": "5 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "LatteCrema",
+          "label": "carafă lapte"
+        },
+        {
+          "value": "13 setări",
+          "label": "râșniță"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 86
+        },
+        {
+          "label": "Ușurință",
+          "pct": 84
+        },
+        {
+          "label": "Băuturi",
+          "pct": 72
+        },
+        {
+          "label": "Întreținere",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Carafă LatteCrema cu spumă densă la preț bun",
+        "Râșniță cu 13 setări de măcinare"
+      ],
+      "cons": [
+        "Doar 5 băuturi și fără ecran tactil"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-magnifica-start-milk-5-bauturi-tehnologie-lattecrema-rasnita-integrata-cu-13-setari-1450w-15-bar-negru-ecam223-61-gb/pd/DQ4F2J3BM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Philips EP2330/10 seria 2300 LatteGO",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.6,
+      "image": "https://s13emagst.akamaized.net/products/58702/58701138/images/res_9ac4ef3d77054707198c7db0c602879a.jpg?width=400&height=80",
+      "feedId": "D3PXSMYBM",
+      "inStock": true,
+      "features": [
+        "lapte",
+        "touch"
+      ],
+      "specs": [
+        {
+          "value": "4 băuturi",
+          "label": "rețete"
+        },
+        {
+          "value": "LatteGO",
+          "label": "spumare lapte"
+        },
+        {
+          "value": "Ceramică",
+          "label": "râșniță"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 84
+        },
+        {
+          "label": "Ușurință",
+          "pct": 88
+        },
+        {
+          "label": "Băuturi",
+          "pct": 68
+        },
+        {
+          "label": "Întreținere",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil Philips cu LatteGO automat",
+        "Ecran tactil și râșniță ceramică"
+      ],
+      "cons": [
+        "Doar 4 tipuri de băuturi"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-2300-lattego-4-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-aplicatie-homeid-rasnita-ceramica-negru-mat-ep2330-10/pd/D3PXSMYBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Krups Espresseria Automatic EA8108",
+      "tag": "Cel mai ieftin espressor automat",
+      "score": 7.3,
+      "image": "https://s13emagst.akamaized.net/products/582/581709/images/res_2b180440fee0b21d2ce8fbba637ca9f9.jpg?width=400&height=80",
+      "feedId": "DRNJ4BBBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "1,6 L",
+          "label": "rezervor apă"
+        },
+        {
+          "value": "3 nivele",
+          "label": "râșniță"
+        },
+        {
+          "value": "1450 W",
+          "label": "putere"
+        },
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 80
+        },
+        {
+          "label": "Ușurință",
+          "pct": 76
+        },
+        {
+          "label": "Băuturi",
+          "pct": 62
+        },
+        {
+          "label": "Întreținere",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Cel mai ieftin espressor automat din test",
+        "Râșniță cu 3 nivele și presiune 15 bar"
+      ],
+      "cons": [
+        "Duză manuală de lapte, fără spumare automată"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-krups-espresseria-automatic-1450w-15-bar-rezervor-apa-1-6-l-rasnita-3-nivele-negru-ea8108/pd/DRNJ4BBBM/"
+    }
+  ]
+}

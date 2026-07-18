@@ -1,0 +1,645 @@
+{
+  "title": "Cele mai bune aspiratoare verticale în 2026",
+  "h1": "Cele mai bune aspiratoare verticale în 2026",
+  "parent": "Electrocasnice",
+  "icon": "vacuum",
+  "order": 9,
+  "intro": "Am comparat cele mai populare aspiratoare verticale fără fir de pe eMAG după puterea de aspirare, autonomia bateriei, manevrabilitate și calitatea filtrării. Mai jos ai clasamentul complet, cu argumente pentru fiecare loc și buget.",
+  "updated": "2026-07-18",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p6"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p10"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "spalare",
+      "label": "Cu spălare"
+    },
+    {
+      "key": "led",
+      "label": "Perie cu LED"
+    },
+    {
+      "key": "autonomie",
+      "label": "Autonomie 60 min+"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Câtă putere de aspirare îți trebuie?",
+      "body": "Puterea se exprimă în AW (air watts), Pa sau W. Peste 150 AW (Dyson) sau 20.000 Pa acoperi covoare și păr de animale fără efort. Pentru gresie și parchet cu praf fin, chiar și 18.000 Pa (Xiaomi) sunt suficiente.",
+      "callout": "Nu te lăsa păcălit de watții motorului (W): contează puterea de aspirare reală (AW sau Pa). Un Dyson de 545 W trage mai bine decât multe modele cu W nominal mai mare."
+    },
+    {
+      "h3": "Autonomie și baterie",
+      "body": "Un aspirator vertical bun ține 45–90 de minute pe modul eco, dar pe treapta maximă coboară la 8–12 minute. Pentru un apartament de 2–3 camere, 45 min ajung; pentru case mari, caută 60 min+ sau baterie interschimbabilă (Bosch Unlimited)."
+    },
+    {
+      "h3": "Cu spălare sau doar aspirare?",
+      "body": "Modelele umed-uscat (Dreame R20, Rowenta X-Clean) aspiră și spală podeaua în aceeași trecere — ideal pe gresie și parchet rezistent. Costă mai mult și sunt mai grele, dar înlocuiesc mopul. Dacă ai mochetă multă, un aspirator clasic e mai potrivit."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Perie cu LED chiar ajută?",
+      "a": "Da, mai mult decât pare. Farurile LED de pe perie scot la iveală praful fin și firele de păr invizibile pe parchet închis la culoare, așa că nu ratezi zone. E un plus real de precizie, mai ales seara."
+    },
+    {
+      "q": "Funcția de spălare merită?",
+      "a": "Dacă ai gresie și parchet, un model umed-uscat (Dreame R20, Rowenta X-Clean 4) îți economisește timp — aspiri și speli dintr-o mișcare. Pe mochetă și covoare groase însă e inutilă; acolo alege un vertical clasic cu aspirare puternică."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, Dyson V12 Slim Detect Absolute e alegerea completă: aspirare de top, laser pentru praf, 60 min autonomie și cea mai bună filtrare. Dacă vrei cel mai bun raport preț/calitate, Proscenic P15 oferă 60 kPa, recipient mare și faruri LED la un preț mic, iar Xiaomi G20 Lite e alegerea pe buget pentru curățenie ușoară de întreținere.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Dyson V12 Slim Detect Absolute 2023 448884-01",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "image": "https://s13emagst.akamaized.net/products/60452/60451247/images/res_02537f3e97922d1153af1ffce1bb8e35.png?width=400&height=80",
+      "feedId": "DTJ793YBM",
+      "inStock": true,
+      "features": [
+        "led",
+        "autonomie"
+      ],
+      "specs": [
+        {
+          "value": "545 W",
+          "label": "putere"
+        },
+        {
+          "value": "60 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.35 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "Laser",
+          "label": "detectare praf"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 92
+        },
+        {
+          "label": "Autonomie",
+          "pct": 84
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 96
+        },
+        {
+          "label": "Filtrare",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Laser verde care scoate la iveală tot praful fin",
+        "Ușor, echilibrat și cel mai bine filtrat din test"
+      ],
+      "cons": [
+        "Recipient de praf mic (0.35 L)"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-dyson-v12-slim-detect-absolute-2023-545-w-0-35-l-autonomie-60-min-iluminare-3-moduri-de-curatare-negru-galben-448884-01/pd/DTJ793YBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Dreame R20 Ultra AquaCycle VRV57F-AC (umed-uscat)",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/110514/110513786/images/res_8c532486513db7653370acd56c35eb4e.jpg?width=400&height=80",
+      "feedId": "D5Z4C53BM",
+      "inStock": true,
+      "features": [
+        "spalare",
+        "led",
+        "autonomie"
+      ],
+      "specs": [
+        {
+          "value": "200 AW",
+          "label": "aspirare"
+        },
+        {
+          "value": "90 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.6 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "Mop",
+          "label": "funcție spălare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 96
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 86
+        },
+        {
+          "label": "Filtrare",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Aspiră și spală podeaua în aceeași trecere",
+        "90 min autonomie și display LED clar"
+      ],
+      "cons": [
+        "Mai greu decât un vertical clasic"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-umed-uscat-dreame-r20-ultra-aquacycle-functie-iluminare-praf-140-putere-200aw-autonomie-90-min-rezervor-praf-0-6l-display-led-functie-mop-2-20-kg-negru-vrv57f-ac/pd/D5Z4C53BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Dyson V10 Cyclone Submarine 594446-01",
+      "tag": "Cea mai puternică aspirare",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/111997/111996676/images/res_d2068de2c0b3888db8203211f97eee42.jpg?width=400&height=80",
+      "feedId": "DBRPK83BM",
+      "inStock": true,
+      "features": [
+        "spalare",
+        "autonomie"
+      ],
+      "specs": [
+        {
+          "value": "150 AW",
+          "label": "aspirare"
+        },
+        {
+          "value": "525 W",
+          "label": "putere"
+        },
+        {
+          "value": "60 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "Submarine",
+          "label": "rolă spălare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 95
+        },
+        {
+          "label": "Autonomie",
+          "pct": 84
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 88
+        },
+        {
+          "label": "Filtrare",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "150 AW — aspirare de top pe covoare și păr",
+        "Rolă Submarine pentru spălarea podelei"
+      ],
+      "cons": [
+        "Fără perie cu iluminare LED"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-dyson-v10-cyclone-submarinetm-525w-putere-aspirare-150aw-autonomie-pana-la-60-minute-3-moduri-de-curatare-2-perii-2-accesorii-nichel-cupru-594446-01/pd/DBRPK83BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Rowenta X-Force Flex 13.60 RH9A32WO",
+      "tag": "Cel mai bun Rowenta",
+      "score": 8.6,
+      "image": "https://s13emagst.akamaized.net/products/78686/78685837/images/res_ce8fef57e592f53f2bbf8c6f16ef5378.jpg?width=400&height=80",
+      "feedId": "DR3KD1YBM",
+      "inStock": true,
+      "features": [
+        "led",
+        "autonomie"
+      ],
+      "specs": [
+        {
+          "value": "380 W",
+          "label": "putere"
+        },
+        {
+          "value": "60 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.65 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "99,9%",
+          "label": "filtrare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 86
+        },
+        {
+          "label": "Autonomie",
+          "pct": 84
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 88
+        },
+        {
+          "label": "Filtrare",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Tub flexibil pentru curățat sub mobilă",
+        "60 min autonomie și recipient generos (0.65 L)"
+      ],
+      "cons": [
+        "Ceva mai greu în varianta cu baterie mare"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-rowenta-x-force-flex-13-60-380w-autonomie-60-min-perie-cu-led-panou-smart-control-display-filtrare-99-9-recipient-praf-0-65l-argintiu-verde-rh9a32wo/pd/DR3KD1YBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Rowenta X-Clean 4 GZ5037WO (cu spălare)",
+      "tag": "Cel mai bun cu spălare accesibil",
+      "score": 8.4,
+      "image": "https://s13emagst.akamaized.net/products/77957/77956965/images/res_381e2cf4caa64950ddb2bfd1c4747b65.jpg?width=400&height=80",
+      "feedId": "DRCQPZYBM",
+      "inStock": true,
+      "features": [
+        "spalare"
+      ],
+      "specs": [
+        {
+          "value": "200 W",
+          "label": "putere"
+        },
+        {
+          "value": "50 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "Spălare",
+          "label": "funcție mop"
+        },
+        {
+          "value": "Autocurățare",
+          "label": "bază încărcare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 82
+        },
+        {
+          "label": "Filtrare",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Aspiră și spală, cu funcție de autocurățare",
+        "Compatibil cu detergent, ecran LED informativ"
+      ],
+      "cons": [
+        "Aspirare mai modestă decât modelele premium"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-cu-spalare-rowenta-x-clean-4-200w-425-rpm-pana-la-50-min-autonomie-ecran-led-functie-autocuratare-baza-de-incarcare-cu-suport-accesorii-compatibil-cu-detergent-gri-negru-gz/pd/DRCQPZYBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Proscenic P15",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.2,
+      "image": "https://s13emagst.akamaized.net/products/98503/98502191/images/res_a959513d54c2eb057c2d283c63bc45fd.jpg?width=400&height=80",
+      "feedId": "DMLXCX3BM",
+      "inStock": true,
+      "features": [
+        "led",
+        "autonomie"
+      ],
+      "specs": [
+        {
+          "value": "60 kPa",
+          "label": "aspirare"
+        },
+        {
+          "value": "70 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "1.5 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "Faruri LED",
+          "label": "verzi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 88
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 80
+        },
+        {
+          "label": "Filtrare",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "60 kPa și recipient mare (1.5 L) la preț mic",
+        "70 min autonomie și faruri LED pe perie"
+      ],
+      "cons": [
+        "Filtrare și finisaje sub nivelul premium"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-proscenic-580w-60-kpa-recipient-praf-1-5l-70-min-faruri-led-verzi-p15/pd/DMLXCX3BM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Rowenta X-Force Flex 9.60 Allergy RH2038WO",
+      "tag": "Cel mai bun pentru alergii",
+      "score": 8.0,
+      "image": "https://s13emagst.akamaized.net/products/53210/53209085/images/res_ee3981ddf70f71e0f0e1489ef36ee1c9.jpg?width=400&height=80",
+      "feedId": "D39Y45MBM",
+      "inStock": true,
+      "features": [
+        "led"
+      ],
+      "specs": [
+        {
+          "value": "250 W",
+          "label": "putere"
+        },
+        {
+          "value": "45 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.44 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "99,9%",
+          "label": "filtrare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 86
+        },
+        {
+          "label": "Filtrare",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Filtrare 99,9% — bun pentru alergici",
+        "Tub flexibil și perie cu iluminare LED"
+      ],
+      "cons": [
+        "Autonomie doar 45 min și recipient mic"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-rowenta-x-force-flex-9-60-allergy-250w-18-5v-autonomie-45-min-filtrare-99-9-recipient-praf-0-44-l-tub-flexibil-perie-cu-iluminare-led-panou-smartcontrol-suport-de-perete-cu/pd/D39Y45MBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Rowenta X-Pert 6.60 Animal Care RH6878WO",
+      "tag": "Bun pentru păr de animale",
+      "score": 7.8,
+      "image": "https://s13emagst.akamaized.net/products/41279/41278810/images/res_70caa3eebb519ac3c345783bbc898cee.jpg?width=400&height=80",
+      "feedId": "DJB4LXMBM",
+      "inStock": true,
+      "features": [
+        "led"
+      ],
+      "specs": [
+        {
+          "value": "100 W",
+          "label": "putere"
+        },
+        {
+          "value": "45 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.55 L",
+          "label": "recipient praf"
+        },
+        {
+          "value": "94%",
+          "label": "filtrare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 72
+        },
+        {
+          "label": "Autonomie",
+          "pct": 72
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 84
+        },
+        {
+          "label": "Filtrare",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Accesorii Animal Care pentru păr de animale",
+        "Perie cu iluminare LED și funcție boost"
+      ],
+      "cons": [
+        "Putere de aspirare modestă"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-rowenta-x-pert-6-60-animal-care-100w-18v-autonomie-45-min-filtrare-94-perie-cu-iluminare-led-recipient-praf-0-55-l-accesorii-animal-care-functie-boost-rosu-gri-rh6878wo/pd/DJB4LXMBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Bosch Unlimited BCS61113",
+      "tag": "Cea mai bună baterie interschimbabilă",
+      "score": 7.6,
+      "image": "https://s13emagst.akamaized.net/products/25808/25807848/images/res_3f9078b7e3245a6525587378fe8a5432.jpg?width=400&height=80",
+      "feedId": "DTDNG6BBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "18 V",
+          "label": "acumulator"
+        },
+        {
+          "value": "2.5 Ah",
+          "label": "baterie"
+        },
+        {
+          "value": "AllFloor",
+          "label": "perie motorizată"
+        },
+        {
+          "value": "XL",
+          "label": "recipient praf"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 76
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 78
+        },
+        {
+          "label": "Filtrare",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Acumulator interschimbabil — autonomie extensibilă",
+        "Perie AllFloor și recipient XL"
+      ],
+      "cons": [
+        "Fără perie cu LED sau funcție de spălare"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-multifunctional-bosch-unlimited-acumulator-interschimbabil-de-18-v-2-5ah-perie-motorizata-allfloor-filtru-igenic-volum-recipient-xl-alb-negru-bcs61113/pd/DTDNG6BBM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Xiaomi G20 Lite EU BHR8195EU",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.4,
+      "image": "https://s13emagst.akamaized.net/products/71762/71761621/images/res_e3d06aef2a8adb5ae81a6561b156f45d.jpg?width=400&height=80",
+      "feedId": "DB8RLFYBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "18.000 Pa",
+          "label": "aspirare"
+        },
+        {
+          "value": "215 W",
+          "label": "putere"
+        },
+        {
+          "value": "45 min",
+          "label": "autonomie"
+        },
+        {
+          "value": "0.55 L",
+          "label": "recipient praf"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 72
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 82
+        },
+        {
+          "label": "Filtrare",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil aspirator vertical din test",
+        "18.000 Pa și filtrare în cinci etape"
+      ],
+      "cons": [
+        "Fără perie cu LED sau funcție de spălare"
+      ],
+      "emagUrl": "https://www.emag.ro/aspirator-vertical-xiaomi-g20-lite-eu-215w-autonomie-pana-la-45-min-volum-recipient-praf-0-55-l-215w-18-000pa-filtrare-in-cinci-etape-2200mah-alb-bhr8195eu/pd/DB8RLFYBM/"
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "icon": "oven",
   "order": 6,
   "intro": "Am comparat cele mai populare cuptoare încorporabile de pe eMAG după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-16",
-  "productsCount": 7,
+  "updated": "2026-07-18",
+  "productsCount": 8,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -327,8 +327,65 @@
       "affiliateUrl": "https://l.profitshare.ro/l/16182481"
     },
     {
-      "id": "p5",
+      "id": "p8",
       "rank": 5,
+      "name": "Beko BBIM14300WMS 72L",
+      "tag": "Cel mai spațios la preț bun",
+      "score": 8.5,
+      "image": "https://s13emagst.akamaized.net/products/33935/33934011/images/res_eb55b4ced3c09495375e3fb8ea898732.jpg?width=400&height=400",
+      "feedId": "DJ2Y17MBM",
+      "inStock": true,
+      "features": [
+        "ventilat"
+      ],
+      "specs": [
+        {
+          "value": "72 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Catalitică",
+          "label": "+ SteamShine"
+        },
+        {
+          "value": "3D Cooking",
+          "label": "AeroPerfect"
+        },
+        {
+          "value": "A",
+          "label": "clasă energetică"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gătit",
+          "pct": 89
+        },
+        {
+          "label": "Autocurățare",
+          "pct": 82
+        },
+        {
+          "label": "Ușurință",
+          "pct": 86
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "72 L — printre cele mai spațioase din test",
+        "Curățare catalitică + SteamShine, la preț accesibil"
+      ],
+      "cons": [
+        "Fără piroliză și fără funcții smart"
+      ],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-beko-electric-multifunctional-aeroperfect-autocuratare-catalitica-steamshine-cleaning-grill-3d-cooking-72-l-clasa-a-alb-bbim14300wms/pd/DJ2Y17MBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 6,
       "name": "Bosch HBF153BS0 66L",
       "tag": "Bosch cu control touch",
       "score": 8.4,
@@ -386,7 +443,7 @@
     },
     {
       "id": "p6",
-      "rank": 6,
+      "rank": 7,
       "name": "Electrolux EOG2102AOX 68L (gaz)",
       "tag": "Cel mai bun pe gaz",
       "score": 8.1,
@@ -444,7 +501,7 @@
     },
     {
       "id": "p7",
-      "rank": 7,
+      "rank": 8,
       "name": "Electrolux EOF3H50BK 65L",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.9,

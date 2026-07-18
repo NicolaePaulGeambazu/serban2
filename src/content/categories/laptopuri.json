@@ -1,0 +1,583 @@
+{
+  "title": "Cele mai bune laptopuri în 2026",
+  "h1": "Cele mai bune laptopuri în 2026",
+  "parent": "Electronice",
+  "icon": "laptop",
+  "order": 12,
+  "intro": "Am comparat cele mai căutate laptopuri de birou și productivitate de pe eMAG după performanță, calitatea ecranului, autonomie și construcție. Mai jos ai clasamentul, cu argumente clare pentru fiecare loc și buget, de la ultrabook premium la variante accesibile.",
+  "updated": "2026-07-18",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p4"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p8"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "oled",
+      "label": "Ecran OLED"
+    },
+    {
+      "key": "amd",
+      "label": "AMD Ryzen"
+    },
+    {
+      "key": "1tb",
+      "label": "SSD 1 TB"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce procesor îți trebuie de fapt?",
+      "body": "Pentru birou, browsing și Office, un Intel Core i5 sau Ryzen 5 e suficient. Pentru multitasking greu, editare foto sau lucru cu multe file, alege i7 sau Intel Core Ultra 7. Chipurile Ultra (Lunar Lake) oferă cea mai bună autonomie.",
+      "callout": "Nu te lăsa păcălit de un i9 într-o carcasă ieftină: fără răcire bună, procesorul se sufocă. Un Core Ultra 7 sau i7 bine răcit e mai util în practică decât un i9 zgomotos."
+    },
+    {
+      "h3": "RAM și SSD: cât e destul?",
+      "body": "16 GB RAM e minimul rezonabil azi și acoperă majoritatea nevoilor. 32 GB merită doar dacă lucrezi cu multe aplicații grele simultan. La stocare, un SSD de 512 GB e ok, dar 1 TB îți dă liniște pe termen lung fără să faci curățenie constant."
+    },
+    {
+      "h3": "Ecranul contează mai mult decât crezi",
+      "body": "Te uiți la el ore întregi, deci alege bine. Un IPS Full HD e onest, un WUXGA (16:10) îți dă mai mult spațiu vertical util. OLED-ul are negru perfect și culori vii, ideal pentru media și editare — dar consumă ceva mai mult."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Merită un laptop cu ecran OLED?",
+      "a": "Da, dacă te uiți mult la filme, editezi foto sau vrei pur și simplu cea mai bună imagine. OLED-ul are contrast și culori superioare unui IPS. Dezavantajele sunt prețul mai mare și un consum ușor crescut la luminozitate maximă."
+    },
+    {
+      "q": "Intel sau AMD pentru un laptop de birou?",
+      "a": "Ambele merg foarte bine pentru birou. Procesoarele AMD Ryzen oferă adesea un raport preț/performanță excelent, în timp ce Intel Core Ultra excelează la autonomie și eficiență. Contează mai mult modelul concret decât brandul."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, Lenovo Yoga Slim 9 e alegerea completă: Core Ultra 7, 32 GB RAM și un ecran 4K OLED superb într-o construcție premium. Dacă vrei cel mai bun raport preț/calitate, Lenovo IdeaPad Slim 3 cu i7-13620H îți dă multă putere ieftin, iar Lenovo V15 G4 e alegerea solidă pe buget, cu SSD de 1 TB.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Lenovo Yoga Slim 9 14ILL10 (Ultra 7 258V, 32GB, 1TB, 4K OLED)",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.4,
+      "image": "https://s13emagst.akamaized.net/products/92504/92503770/images/res_69ff26f5de44e4154be6a119c6299470.jpg?width=400&height=80",
+      "feedId": "DVRY7T3BM",
+      "inStock": true,
+      "features": [
+        "oled",
+        "1tb"
+      ],
+      "specs": [
+        {
+          "value": "Ultra 7 258V",
+          "label": "procesor"
+        },
+        {
+          "value": "32GB",
+          "label": "RAM LPDDR5x"
+        },
+        {
+          "value": "1TB",
+          "label": "SSD"
+        },
+        {
+          "value": "14\" 4K OLED",
+          "label": "120Hz touch"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 90
+        },
+        {
+          "label": "Ecran",
+          "pct": 98
+        },
+        {
+          "label": "Autonomie",
+          "pct": 94
+        },
+        {
+          "label": "Construcție",
+          "pct": 96
+        }
+      ],
+      "pros": [
+        "Ecran 4K OLED 120Hz spectaculos",
+        "Ultra 7 + 32 GB RAM, autonomie excelentă"
+      ],
+      "cons": [
+        "Cel mai scump din clasament"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-lenovo-yoga-slim-9-14ill10-cu-procesor-intelr-coretm-ultra-7-258v-pana-la-4-8ghz-14-4k-wquxga-oled-120hz-touch-32gb-lpddr5x-1tb-ssd-intelr-arctm-graphics-windowsr-11-home-tidal-teal-3y-on-site-/pd/DVRY7T3BM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Lenovo Yoga 7 2-in-1 14ILL10 (Ultra 7 256V, 16GB, 1TB, OLED touch)",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/94842/94841943/images/res_be13328c2cd568660d159115e0cbfa54.jpg?width=400&height=80",
+      "feedId": "DRYKFF3BM",
+      "inStock": true,
+      "features": [
+        "oled",
+        "1tb"
+      ],
+      "specs": [
+        {
+          "value": "Ultra 7 256V",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM LPDDR5x"
+        },
+        {
+          "value": "1TB",
+          "label": "SSD"
+        },
+        {
+          "value": "14\" WUXGA OLED",
+          "label": "2-in-1 touch"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 87
+        },
+        {
+          "label": "Ecran",
+          "pct": 92
+        },
+        {
+          "label": "Autonomie",
+          "pct": 92
+        },
+        {
+          "label": "Construcție",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Convertibil 2-in-1 cu ecran OLED touch",
+        "Autonomie mare și Windows 11 Pro"
+      ],
+      "cons": [
+        "16 GB RAM lipită, nu se poate extinde"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-lenovo-yoga-7-2-in-1-14ill10-cu-procesor-intelr-core-ultra-7-256v-pana-la-4-8ghz-14-wuxga-oled-touch-16gb-lpddr5x-ram-1tb-ssd-intelr-arctm-graphics-windows-11-pro-luna-grey-3y-on-site-premium-c/pd/DRYKFF3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Acer Aspire Go 16 (i9-13900H, 16GB, 512GB, 120Hz)",
+      "tag": "Cel mai puternic procesor",
+      "score": 8.7,
+      "image": "https://s13emagst.akamaized.net/products/109164/109163670/images/res_d239530f9e3017a1c4f8e96526f22f42.png?width=400&height=80",
+      "feedId": "DZRNDR3BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "i9-13900H",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR5"
+        },
+        {
+          "value": "512GB",
+          "label": "SSD"
+        },
+        {
+          "value": "16\" WUXGA",
+          "label": "IPS 120Hz"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 91
+        },
+        {
+          "label": "Ecran",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 68
+        },
+        {
+          "label": "Construcție",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Procesor i9 puternic la un preț bun",
+        "Ecran 16\" 120Hz fluid"
+      ],
+      "cons": [
+        "Autonomie modestă din cauza i9-ului"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-acer-aspire-go-16-cu-procesor-intelr-coretm-i9-13900h-pana-la-5-4-ghz-16-wuxga-ips-120hz-16gb-ddr5-512gb-ssd-intelr-uhd-graphics-no-os-pure-silver-nx-jv0ex-00e/pd/DZRNDR3BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Lenovo IdeaPad Slim 3 16IRH10 (i7-13620H, 16GB, 512GB, aluminiu)",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.5,
+      "image": "https://s13emagst.akamaized.net/products/92504/92503758/images/res_f15c7e797ee835de9d425be20fbaaec2.jpg?width=400&height=80",
+      "feedId": "DDRY7T3BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "i7-13620H",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR5"
+        },
+        {
+          "value": "512GB",
+          "label": "SSD"
+        },
+        {
+          "value": "16\" WUXGA",
+          "label": "IPS, aluminiu"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 86
+        },
+        {
+          "label": "Ecran",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Construcție",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "i7 + 16 GB DDR5 la preț foarte bun",
+        "Ecran mare 16\" WUXGA și carcasă din aluminiu"
+      ],
+      "cons": [
+        "Vine fără sistem de operare"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-lenovo-ideapad-slim-3-16irh10-cu-procesor-intelr-coretm-i7-13620h-pana-la-4-9ghz-16-wuxga-ips-16gb-ddr5-ram-512gb-ssd-intelr-uhd-graphics-no-os-cosmic-blue-aluminiu-83k2003mrm/pd/DDRY7T3BM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Lenovo IdeaPad Slim 5 16ARP10 (Ryzen 5 7535HS, 16GB, 512GB)",
+      "tag": "Cea mai bună alegere AMD",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/97173/97172811/images/res_98f9883d1a009616051d7b1953fb0d23.png?width=400&height=80",
+      "feedId": "DR0RDP3BM",
+      "inStock": true,
+      "features": [
+        "amd"
+      ],
+      "specs": [
+        {
+          "value": "Ryzen 5 7535HS",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR5"
+        },
+        {
+          "value": "512GB",
+          "label": "SSD"
+        },
+        {
+          "value": "16\" WUXGA",
+          "label": "IPS"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 82
+        },
+        {
+          "label": "Ecran",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Construcție",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Ryzen 5 echilibrat, eficient energetic",
+        "Grafică Radeon 660M peste media Intel UHD"
+      ],
+      "cons": [
+        "Vine fără sistem de operare"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-lenovo-ideapad-slim-5-16arp10-cu-procesor-amd-ryzentm-5-7535hs-pana-4-55ghz-16-wuxga-ips-16gb-ddr5-ram-512gb-ssd-amd-radeontm-660m-graphics-no-os-luna-grey-83hu0027rm/pd/DR0RDP3BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "ASUS Vivobook S16 M3607HA (Ryzen 5 220, 16GB, 1TB, 144Hz)",
+      "tag": "Cel mai mult spațiu de stocare",
+      "score": 8,
+      "image": "https://s13emagst.akamaized.net/products/94332/94331868/images/res_3562b71e77d1fcc597e7d46b65e1ff76.png?width=400&height=80",
+      "feedId": "DJ392N3BM",
+      "inStock": true,
+      "features": [
+        "amd",
+        "1tb"
+      ],
+      "specs": [
+        {
+          "value": "Ryzen 5 220",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR5"
+        },
+        {
+          "value": "1TB",
+          "label": "SSD"
+        },
+        {
+          "value": "16\" WUXGA",
+          "label": "IPS 144Hz"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 78
+        },
+        {
+          "label": "Ecran",
+          "pct": 84
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Construcție",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "SSD generos de 1 TB și ecran 144Hz",
+        "Platformă AMD accesibilă"
+      ],
+      "cons": [
+        "Ryzen 5 220 e din gama de intrare"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-asus-vivobook-s16-m3607ha-cu-procesor-amd-ryzen-5-220-pana-la-4-9ghz-16-wuxga-ips-144hz-16gb-ddr5-ram-1tb-ssd-amd-radeon-graphics-no-os-matte-gray-m3607ha-rp048/pd/DJ392N3BM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "HP 15-fd0014nq (i7-1355U, 16GB, 1TB, Full HD)",
+      "tag": "Bun pentru mobilitate",
+      "score": 7.8,
+      "image": "https://s13emagst.akamaized.net/products/62870/62869277/images/res_c3ea5057b29e36c0294aaac048aef162.jpg?width=400&height=80",
+      "feedId": "DFL0YDYBM",
+      "inStock": true,
+      "features": [
+        "1tb"
+      ],
+      "specs": [
+        {
+          "value": "i7-1355U",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR4"
+        },
+        {
+          "value": "1TB",
+          "label": "SSD"
+        },
+        {
+          "value": "15.6\" FHD",
+          "label": "Iris Xe"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 76
+        },
+        {
+          "label": "Ecran",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 82
+        },
+        {
+          "label": "Construcție",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Procesor U eficient, autonomie bună",
+        "SSD de 1 TB și grafică Iris Xe"
+      ],
+      "cons": [
+        "i7-1355U e mai lent decât variantele H"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-hp-15-fd0014nq-cu-procesor-intelr-coretm-i7-1355u-pana-la-5-0-ghz-15-6-full-hd-16gb-ddr4-ram-1tb-ssd-intelr-irisr-xe-graphics-free-dos-warm-gold-99v18ea/pd/DFL0YDYBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Lenovo V15 G4 IRU (i5-13420H, 16GB, 1TB, Full HD)",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.6,
+      "image": "https://s13emagst.akamaized.net/products/62513/62512826/images/res_5ed5b3469e174c7ff8f4aee17b5d1435.jpg?width=400&height=80",
+      "feedId": "DFY4YJYBM",
+      "inStock": true,
+      "features": [
+        "1tb"
+      ],
+      "specs": [
+        {
+          "value": "i5-13420H",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR4"
+        },
+        {
+          "value": "1TB",
+          "label": "SSD"
+        },
+        {
+          "value": "15.6\" FHD",
+          "label": "IPS"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 74
+        },
+        {
+          "label": "Ecran",
+          "pct": 72
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        },
+        {
+          "label": "Construcție",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "SSD de 1 TB la preț de buget",
+        "i5-13420H suficient pentru birou"
+      ],
+      "cons": [
+        "Design sobru, de business, fără fițe"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-lenovo-v15-g4-iru-cu-procesor-lntelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-1tb-ssd-intelr-uhd-graphics-no-os-business-black-83a100eyrm/pd/DFY4YJYBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "ASUS Vivobook 15 A1502VA (i5-13420H, 16GB, 512GB, Full HD)",
+      "tag": "Accesibil pentru uz zilnic",
+      "score": 7.4,
+      "image": "https://s13emagst.akamaized.net/products/100907/100906749/images/res_7899aa27349c1cbf46f7cec63468f59d.png?width=400&height=80",
+      "feedId": "D1R2KJ3BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "i5-13420H",
+          "label": "procesor"
+        },
+        {
+          "value": "16GB",
+          "label": "RAM DDR4"
+        },
+        {
+          "value": "512GB",
+          "label": "SSD"
+        },
+        {
+          "value": "15.6\" FHD",
+          "label": "IPS"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 73
+        },
+        {
+          "label": "Ecran",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        },
+        {
+          "label": "Construcție",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Vine cu Windows 11 preinstalat",
+        "Ecran IPS Full HD decent pentru uz zilnic"
+      ],
+      "cons": [
+        "SSD de doar 512 GB și RAM DDR4"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-asus-vivobook-15-a1502va-cu-procesor-intelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-512gb-ssd-intelr-uhd-graphics-windows-11-home-quiet-blue-a1502va-bq1287w/pd/D1R2KJ3BM/"
+    }
+  ]
+}

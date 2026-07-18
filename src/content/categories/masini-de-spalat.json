@@ -1,0 +1,704 @@
+{
+  "title": "Cele mai bune mașini de spălat rufe în 2026",
+  "h1": "Cele mai bune mașini de spălat rufe în 2026",
+  "parent": "Electrocasnice",
+  "icon": "washer",
+  "order": 7,
+  "intro": "Am comparat cele mai căutate mașini de spălat rufe de pe eMAG după calitatea spălării, consumul de energie, nivelul de zgomot și programele utile. Mai jos ai clasamentul, cu argumente pentru fiecare loc, capacitate și buget.",
+  "updated": "2026-07-18",
+  "productsCount": 11,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p4"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p11"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "abur",
+      "label": "Cu abur"
+    },
+    {
+      "key": "smart",
+      "label": "Smart / Wi-Fi"
+    },
+    {
+      "key": "mare",
+      "label": "9 kg+"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "De câtă capacitate ai nevoie?",
+      "body": "Pentru 1–2 persoane, 7 kg ajung. O familie de 3–4 persoane e cel mai confortabil cu 8–9 kg, iar dacă speli des plapume și prosoape, o mașină de 11 kg spală totul dintr-o singură tură. Capacitatea mai mare nu înseamnă consum mai mare dacă respecți clasa energetică.",
+      "callout": "Pentru majoritatea familiilor, 8–9 kg Clasa A e echilibrul ideal între spălare, consum și preț. Treci la 11 kg doar dacă ai rufe voluminoase des."
+    },
+    {
+      "h3": "Clasa energetică contează cu adevărat",
+      "body": "Diferența dintre Clasa A și Clasa C se simte pe factură an de an, pentru că mașina o folosești de sute de ori. Modelele Clasa A cu motor inverter (Bosch, Samsung, Beko) consumă vizibil mai puțin și sunt și mai silențioase decât cele Clasa C."
+    },
+    {
+      "h3": "Funcția cu abur și cea smart merită?",
+      "body": "Aburul relaxează cutele și igienizează rufele, util pentru alergici și pentru haine care nu trebuie călcate mult. Wi-Fi-ul (SmartThings, Home Connect) îți lasă să pornești sau să programezi de pe telefon — un plus real dacă ai tarif de noapte la curent."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce înseamnă o mașină „2-în-1” (cu uscător)?",
+      "a": "Spală și usucă rufele în același tambur, fără să le muți. E foarte comodă în spații mici, dar capacitatea de uscare e mai mică decât cea de spălare (ex. spală 10 kg, dar usucă 6 kg) și consumă mai mult la uscare decât un uscător separat cu pompă de căldură."
+    },
+    {
+      "q": "1400 RPM sau mai mult?",
+      "a": "1400 de rotații pe minut stoarce foarte bine pentru uzul casnic — rufele ies aproape uscate. Peste 1400 RPM aduce un plus mic la stoarcere, dar și mai mult zgomot și vibrații. Pentru majoritatea, 1400 RPM e alegerea corectă."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, Samsung WW11DG5B25 e alegerea completă: 11 kg, Clasa A, abur și AI Ecobubble la un preț surprinzător de bun. Dacă vrei cel mai bun raport preț/calitate, Samsung WW80CGC04 îți dă 8 kg Clasa A cu Wi-Fi ieftin, iar Beko BM3WFSU47415WB, compactă de 7 kg, e alegerea pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Samsung WW11DG5B25ABLE 11 kg",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "image": "https://s13emagst.akamaized.net/products/69129/69128945/images/res_b26740727d36d0d3982ca80d9081d44a.jpg?width=400&amp;height=80",
+      "feedId": "DWH95PYBM",
+      "inStock": true,
+      "features": [
+        "abur",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "11 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "Hygiene Steam",
+          "label": "cu abur"
+        },
+        {
+          "value": "39 min",
+          "label": "Super Speed"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 94
+        },
+        {
+          "label": "Eficiență",
+          "pct": 92
+        },
+        {
+          "label": "Silențios",
+          "pct": 88
+        },
+        {
+          "label": "Programe",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "11 kg — speli tot, inclusiv plapume, dintr-o tură",
+        "Clasa A cu abur și Super Speed 39 min"
+      ],
+      "cons": [
+        "E mai adâncă, are nevoie de spațiu"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-samsung-11-kg-1400-rpm-clasa-a-ai-ecobubble-super-speed-39-min-spacemax-hygiene-steam-negru-ww11dg5b25able/pd/DWH95PYBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Bosch Seria 8 WGB24400BY 9 kg",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/55101/55100457/images/res_490fc8c339bdcce9c5423b3635bc31c4.jpg?width=400&amp;height=80",
+      "feedId": "D2VSC8MBM",
+      "inStock": true,
+      "features": [
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "Home Connect",
+          "label": "smart"
+        },
+        {
+          "value": "EcoSilence",
+          "label": "motor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 95
+        },
+        {
+          "label": "Eficiență",
+          "pct": 93
+        },
+        {
+          "label": "Silențios",
+          "pct": 95
+        },
+        {
+          "label": "Programe",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Motor EcoSilence Drive — foarte silențioasă",
+        "Control din aplicație (Home Connect) + Iron Assist"
+      ],
+      "cons": [
+        "Preț premium față de restul de 9 kg"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-bosch-seria-8-9-kg-1400-rpm-ecosilence-drive-home-connect-iron-assist-iluminare-interioara-clasa-a-60-cm-alb-wgb24400by/pd/D2VSC8MBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Samsung WW90DG6U25 9 kg",
+      "tag": "Cea mai bună 9 kg smart",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/71757/71756404/images/res_d2ca9a3325c05d8d8e1f84832944b378.jpg?width=400&amp;height=80",
+      "feedId": "DZ9CLFYBM",
+      "inStock": true,
+      "features": [
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "SmartThings",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "AI Ecobubble",
+          "label": "spălare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 92
+        },
+        {
+          "label": "Eficiență",
+          "pct": 92
+        },
+        {
+          "label": "Silențios",
+          "pct": 87
+        },
+        {
+          "label": "Programe",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "AI Control și AI Energy — optimizează consumul",
+        "9 kg Clasa A cu SmartThings la preț corect"
+      ],
+      "cons": [
+        "Fără funcție dedicată cu abur"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-samsung-9-kg-1400-rpm-ai-ecobubble-ai-control-ai-energy-smartthings-digital-inverter-clasa-a-alb-ww90dg6u25lku4/pd/DZ9CLFYBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Samsung WW80CGC04DAELE 8 kg",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.7,
+      "image": "https://s13emagst.akamaized.net/products/62007/62006314/images/res_225cad1bca9eb29ca2288f7f24ed7836.jpg?width=400&amp;height=80",
+      "feedId": "DLLH27YBM",
+      "inStock": true,
+      "features": [
+        "smart"
+      ],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "WiFi SmartThings",
+          "label": "smart"
+        },
+        {
+          "value": "Eco Bubble",
+          "label": "spălare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 89
+        },
+        {
+          "label": "Eficiență",
+          "pct": 91
+        },
+        {
+          "label": "Silențios",
+          "pct": 86
+        },
+        {
+          "label": "Programe",
+          "pct": 87
+        }
+      ],
+      "pros": [
+        "8 kg Clasa A cu Wi-Fi la cel mai bun preț",
+        "Motor Digital Inverter, garanție lungă"
+      ],
+      "cons": [
+        "Fără abur dedicat"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-samsung-8-kg-1400-rpm-clasa-a-motor-digital-inverter-eco-bubble-wifi-smartthings-ai-energy-alb-ww80cgc04daele/pd/DLLH27YBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Samsung WW90DG5G34 slim 9 kg",
+      "tag": "Cea mai bună slim de 9 kg",
+      "score": 8.5,
+      "image": "https://s13emagst.akamaized.net/products/89616/89615512/images/res_c0b65f03b24a339007a0e0096d738b40.jpg?width=400&amp;height=80",
+      "feedId": "DW02M23BM",
+      "inStock": true,
+      "features": [
+        "abur",
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "Hygiene Steam",
+          "label": "cu abur"
+        },
+        {
+          "value": "Slim",
+          "label": "gabarit redus"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 90
+        },
+        {
+          "label": "Eficiență",
+          "pct": 90
+        },
+        {
+          "label": "Silențios",
+          "pct": 85
+        },
+        {
+          "label": "Programe",
+          "pct": 89
+        }
+      ],
+      "pros": [
+        "9 kg într-un corp slim — încape în spații mici",
+        "Abur, SmartThings și Super Speed 39 min"
+      ],
+      "cons": [
+        "Corpul îngust vibrează ceva mai mult la stoarcere"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-slim-samsung-9-kg-1400-rpm-clasa-a-ai-ecobubble-super-speed-39-spacemax-hygiene-steam-smart-things-digital-inverter-motor-negru-ww90dg5g34able/pd/DW02M23BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Bosch WAN28164BY 8 kg",
+      "tag": "Cea mai silențioasă de 8 kg",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/63816/63815753/images/res_0d87764fec7bc6b3e7ef4185645bfe8d.jpg?width=400&amp;height=80",
+      "feedId": "DLS33TYBM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "EcoSilence",
+          "label": "motor"
+        },
+        {
+          "value": "Iron Assist",
+          "label": "anti-cute"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 91
+        },
+        {
+          "label": "Eficiență",
+          "pct": 90
+        },
+        {
+          "label": "Silențios",
+          "pct": 94
+        },
+        {
+          "label": "Programe",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Motor EcoSilence Drive — foarte liniștită",
+        "Iron Assist reduce cutele, calci mai puțin"
+      ],
+      "cons": [
+        "Fără Wi-Fi și fără abur dedicat"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-bosch-8-kg-1400-rpm-iron-assist-ecosilence-drive-60-cm-clasa-a-alb-wan28164by/pd/DLS33TYBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Bosch WAN2826SBY 8 kg",
+      "tag": "Bosch cu control touch",
+      "score": 8.1,
+      "image": "https://s13emagst.akamaized.net/products/116628/116627485/images/res_0b3127b875d2e392cdeaf385e2465467.png?width=400&amp;height=80",
+      "feedId": "DGJ5KY2BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "Hygiene Plus",
+          "label": "igienizare"
+        },
+        {
+          "value": "Touch",
+          "label": "control"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 90
+        },
+        {
+          "label": "Eficiență",
+          "pct": 89
+        },
+        {
+          "label": "Silențios",
+          "pct": 93
+        },
+        {
+          "label": "Programe",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Control electronic touch și Speed Perfect",
+        "Program Hygiene Plus pentru igienizare la cald"
+      ],
+      "cons": [
+        "Fără conectivitate Wi-Fi"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-bosch-8-kg-1400-rpm-iron-assist-hygiene-plus-ecosilence-drive-control-electronic-touch-speed-perfect-program-dark-colors-clasa-a-60-cm-alb-antracit-wan2826sby/pd/DGJ5KY2BM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Electrolux PerfectCare900 EW9WN161BCE (spălare + uscare)",
+      "tag": "Cea mai bună 2-în-1 (spălare+uscare)",
+      "score": 7.9,
+      "image": "https://s13emagst.akamaized.net/products/90118/90117988/images/res_9ecc17d086b72802a4a56294ab31700c.jpg?width=400&amp;height=80",
+      "feedId": "D6DBV23BM",
+      "inStock": true,
+      "features": [
+        "abur",
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "10/6 kg",
+          "label": "spălare/uscare"
+        },
+        {
+          "value": "Pompă căldură",
+          "label": "uscare"
+        },
+        {
+          "value": "SteamCare",
+          "label": "cu abur"
+        },
+        {
+          "value": "Wi-Fi",
+          "label": "smart"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 92
+        },
+        {
+          "label": "Eficiență",
+          "pct": 80
+        },
+        {
+          "label": "Silențios",
+          "pct": 86
+        },
+        {
+          "label": "Programe",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Spală și usucă în același tambur, cu pompă de căldură",
+        "SteamCare, DualCare și Wi-Fi — foarte completă"
+      ],
+      "cons": [
+        "Clasa B și preț ridicat față de o mașină simplă"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-electrolux-perfectcare900-pompa-de-caldura-spalare-10-kg-uscare-6-kg-1600-rpm-clasa-b-wi-fi-motor-inverter-dualcare-sensicare-steamcare-alb-ew9wn161bce/pd/D6DBV23BM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "LG WT1210EGF (spălare + uscare)",
+      "tag": "2-în-1 cu cea mai mare capacitate",
+      "score": 7.7,
+      "image": "https://s13emagst.akamaized.net/products/78559/78558270/images/res_6ed754f930c888203786e6b46f4c31e5.jpg?width=400&amp;height=80",
+      "feedId": "D1HWM1YBM",
+      "inStock": true,
+      "features": [
+        "abur",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "12/10 kg",
+          "label": "spălare/uscare"
+        },
+        {
+          "value": "Clasa A/C",
+          "label": "spălare/uscare"
+        },
+        {
+          "value": "Steam",
+          "label": "cu abur"
+        },
+        {
+          "value": "TurboWash 360",
+          "label": "rapid"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 91
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Silențios",
+          "pct": 84
+        },
+        {
+          "label": "Programe",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Cea mai mare capacitate — spală 12 kg, usucă 10 kg",
+        "TurboWash 360 și abur pentru cicluri rapide"
+      ],
+      "cons": [
+        "Voluminoasă și cu preț mare"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-cu-uscator-lg-spalare-12-kg-uscare-10-kg-1400-rpm-steam-turbowash-360-clasa-a-c-verde-bej-wt1210egf/pd/D1HWM1YBM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Whirlpool FreshCare+ FFD8648BVEE 8 kg",
+      "tag": "Cu abur și stoarcere puternică",
+      "score": 7.5,
+      "image": "https://s13emagst.akamaized.net/products/48964/48963831/images/res_ef2b85495b9a4e767b8b73e8d9ba3102.jpg?width=400&height=400",
+      "feedId": "DX8SBZMBM",
+      "inStock": true,
+      "features": [
+        "abur"
+      ],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "1600 RPM",
+          "label": "stoarcere"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "Steam Hygiene",
+          "label": "cu abur"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 88
+        },
+        {
+          "label": "Eficiență",
+          "pct": 74
+        },
+        {
+          "label": "Silențios",
+          "pct": 82
+        },
+        {
+          "label": "Programe",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Stoarcere 1600 RPM — rufe aproape uscate",
+        "Steam Refresh și Steam Hygiene pentru igienizare"
+      ],
+      "cons": [
+        "Clasa C — consumă mai mult decât rivalele Clasa A"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-8-kg-1600-rpm-clasa-c-steam-refresh-steam-hygiene-tehnologia-al-6lea-simt-motor-inverter-display-lcd-alb-ffd8648bvee/pd/DX8SBZMBM/"
+    },
+    {
+      "id": "p11",
+      "rank": 11,
+      "name": "Beko BM3WFSU47415WB 7 kg",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.3,
+      "image": "https://s13emagst.akamaized.net/products/68577/68576896/images/res_3028ac361fba07c14b6fc0ea2a103778.jpg?width=400&amp;height=80",
+      "feedId": "DG88TPYBM",
+      "inStock": true,
+      "features": [
+        "abur"
+      ],
+      "specs": [
+        {
+          "value": "7 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa A",
+          "label": "eficiență"
+        },
+        {
+          "value": "SteamCure",
+          "label": "cu abur"
+        },
+        {
+          "value": "ProSmart",
+          "label": "motor inverter"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Spălare",
+          "pct": 85
+        },
+        {
+          "label": "Eficiență",
+          "pct": 88
+        },
+        {
+          "label": "Silențios",
+          "pct": 83
+        },
+        {
+          "label": "Programe",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Compactă de 7 kg, Clasa A la cel mai mic preț",
+        "Motor ProSmart Inverter și SteamCure"
+      ],
+      "cons": [
+        "7 kg pot fi puțini pentru o familie mare"
+      ],
+      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-beko-7-kg-1400-rpm-clasa-a-motor-prosmart-inverter-steamcure-addxtra-energyspin-coldwash-alb-bm3wfsu47415wb/pd/DG88TPYBM/"
+    }
+  ]
+}

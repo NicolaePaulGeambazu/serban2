@@ -1,0 +1,583 @@
+{
+  "title": "Cele mai bune laptopuri de gaming în 2026",
+  "h1": "Cele mai bune laptopuri de gaming în 2026",
+  "parent": "Electronice",
+  "icon": "laptop",
+  "order": 13,
+  "intro": "Am comparat cele mai populare laptopuri de gaming de pe eMAG după placa video, procesor, ecran și răcire. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget — de la modele RTX seria 50 premium, la variante RTX 40 accesibile pentru gaming la FHD.",
+  "updated": "2026-07-18",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p4"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "rtx50",
+      "label": "RTX seria 50"
+    },
+    {
+      "key": "amd",
+      "label": "AMD Ryzen"
+    },
+    {
+      "key": "17inch",
+      "label": "Ecran 17\"+"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce placă video aleg pentru gaming?",
+      "body": "RTX 5090 și RTX 4070 sunt ligile premium, pentru gaming la calitate maximă și rezoluții peste FHD. RTX 5060 și RTX 5050 acoperă gaming FHD la 144Hz+ fără compromisuri majore. RTX 4050 și RTX 3050 rămân opțiuni de intrare, suficiente pentru jocuri esport sau setări medii.",
+      "callout": "Dacă bugetul permite, un RTX 5060 oferă cel mai bun echilibru performanță/preț. RTX 5090 și RTX 4070 sunt pentru cei care vor tot ce e mai bun, indiferent de cost."
+    },
+    {
+      "h3": "144Hz, 165Hz sau 240Hz — contează refresh rate-ul?",
+      "body": "La 144Hz simți deja o diferență uriașă față de un monitor obișnuit de 60Hz. 165Hz și 240Hz aduc un plus real doar dacă placa video poate genera atâtea cadre — de aceea le găsești mai ales pe laptopurile cu RTX 4070/5090. Pentru shootere competitive, refresh rate-ul contează la fel de mult ca GPU-ul."
+    },
+    {
+      "h3": "Ecran mare (17\"+) sau 15,6\" mai portabil?",
+      "body": "Un ecran de 17\"-18\" oferă imersiune mai bună și, de regulă, un șasiu mai mare cu răcire superioară — util pentru sesiuni lungi la sarcină maximă. În schimb, un 15,6\" e mai ușor de cărat. AMD Ryzen tinde să ofere autonomie ceva mai bună decât Intel HX în aceeași clasă."
+    }
+  ],
+  "faq": [
+    {
+      "q": "RTX 50 e mult mai bun decât RTX 40?",
+      "a": "Depinde de model: RTX 5090 e net peste orice altă placă mobilă de pe piață. Dar la nivel de intrare, RTX 5050/5060 nu depășesc dramatic un RTX 4070 — verifică mereu VRAM-ul (6 vs 8GB) și puterea consumată (TGP), nu doar numărul din nume."
+    },
+    {
+      "q": "AMD Ryzen sau Intel pentru gaming?",
+      "a": "Performanța în jocuri e similară la putere echivalentă — GPU-ul contează mai mult decât CPU-ul. AMD Ryzen tinde să fie ceva mai eficient energetic, deci autonomie puțin mai bună față de chipurile Intel HX de top."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru cei care vor tot ce e mai bun, ASUS ROG Strix SCAR 18 (RTX 5090) e alegerea supremă, fără compromisuri. Dacă vrei cel mai bun raport preț/performanță, Lenovo LOQ Essential 15ARP11 (RTX 5060, AMD) oferă gaming la FHD 144Hz la un preț mult mai accesibil, iar ASUS TUF F16 (RTX 3050) e alegerea pe buget pentru cei care vor doar să intre în gaming.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "ASUS ROG Strix SCAR 18 G835LX (RTX 5090)",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.6,
+      "image": "https://s13emagst.akamaized.net/products/89868/89867391/images/res_e45a14f6c9bc778d17f017d08749027e.png?width=400&height=400",
+      "feedId": "DT9VN23BM",
+      "inStock": true,
+      "features": [
+        "rtx50",
+        "17inch"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5090 24GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core Ultra 9 275HX",
+          "label": "procesor"
+        },
+        {
+          "value": "18\" Mini LED 240Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "64GB / 2TB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 98
+        },
+        {
+          "label": "Ecran",
+          "pct": 97
+        },
+        {
+          "label": "Răcire",
+          "pct": 90
+        },
+        {
+          "label": "Autonomie",
+          "pct": 62
+        }
+      ],
+      "pros": [
+        "RTX 5090 — cea mai puternică placă video de gaming mobil",
+        "Ecran Mini LED 18\" 240Hz cu G-Sync, cel mai bun din clasament"
+      ],
+      "cons": [
+        "Preț de flagship — cel mai scump laptop din test"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-18-g835lx-cu-procesor-intelr-coretm-ultra-9-275hx-pana-la-5-4ghz-18-2-5k-wqxga-mini-led-240hz-g-sync-64gb-ddr5-2tb-ssd-nvidiar-geforce-rtxtm-5090-24gb-gddr7-windows-1/pd/DT9VN23BM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Dell Alienware m16 R2 (RTX 4070)",
+      "tag": "Cel mai complet (premium)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/93048/93047486/images/res_eef08c0a47dea9497440c22f94ae68eb.jpg?width=400&height=400",
+      "feedId": "DRV01T3BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "RTX 4070",
+          "label": "placă video"
+        },
+        {
+          "value": "Core Ultra 9 185H",
+          "label": "procesor"
+        },
+        {
+          "value": "16\" QHD+ 240Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "2,61 kg",
+          "label": "greutate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 91
+        },
+        {
+          "label": "Ecran",
+          "pct": 90
+        },
+        {
+          "label": "Răcire",
+          "pct": 85
+        },
+        {
+          "label": "Autonomie",
+          "pct": 65
+        }
+      ],
+      "pros": [
+        "RTX 4070 + 240Hz — performanță premium la un preț sub SCAR 18",
+        "Sistem de răcire Alienware Cryo-tech, eficient la sarcină maximă"
+      ],
+      "cons": [
+        "Mai greu (2,61 kg) decât rivalii de 15,6\""
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-dell-alienware-m16-r2-intel-core-ultra-9-185h-32gb-ram-1tb-ssd-qhd-16-rtx-4070-240hz-2-61kg-negru-17290688963/pd/DRV01T3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Acer Nitro V15 ANV15-52-95UT (RTX 5060)",
+      "tag": "Cel mai puternic procesor",
+      "score": 8.8,
+      "image": "https://s13emagst.akamaized.net/products/104247/104246149/images/res_82ed6ebe584368ab2fc8d3c209696ad1.png?width=400&height=400",
+      "feedId": "DB1T643BM",
+      "inStock": true,
+      "features": [
+        "rtx50"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5060 8GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core i9-13900H",
+          "label": "procesor"
+        },
+        {
+          "value": "15.6\" FHD IPS 165Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 87
+        },
+        {
+          "label": "Ecran",
+          "pct": 80
+        },
+        {
+          "label": "Răcire",
+          "pct": 78
+        },
+        {
+          "label": "Autonomie",
+          "pct": 68
+        }
+      ],
+      "pros": [
+        "Cel mai puternic procesor din test (i9-13900H)",
+        "165Hz — cel mai rapid ecran dintre modelele cu RTX 5060"
+      ],
+      "cons": [
+        "Ecran doar FHD, fără variantă QHD"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-acer-nitro-v15-anv15-52-95ut-cu-procesor-intelr-coretm-i9-13900h-pana-la-5-40-ghz-15-6-fullhd-ips-165hz-16gb-ddr4-ram-512gb-ssd-nvidiar-geforce-rtxtm-5060-8gb-gddr7-no-os-obsidian-black-/pd/DB1T643BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Lenovo LOQ Essential 15ARP11 (RTX 5060, AMD)",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.6,
+      "image": "https://s13emagst.akamaized.net/products/117937/117936814/images/res_f8dd67edabe00bc8db840e722d624b87.jpg?width=400&height=400",
+      "feedId": "D9BRL32BM",
+      "inStock": true,
+      "features": [
+        "rtx50",
+        "amd"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5060 8GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Ryzen 7 170",
+          "label": "procesor"
+        },
+        {
+          "value": "15.6\" FHD IPS 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB DDR5 / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 86
+        },
+        {
+          "label": "Ecran",
+          "pct": 78
+        },
+        {
+          "label": "Răcire",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "RTX 5060 la preț de model AMD — cel mai bun raport preț/performanță din gamă",
+        "Procesor AMD Ryzen eficient, autonomie mai bună"
+      ],
+      "cons": [
+        "Ecran 144Hz, sub cei 165Hz ai Acer Nitro V15"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-lenovo-loq-essential-15arp11-cu-procesor-amd-ryzentm-7-170-pana-la-4-75ghz-15-6-full-hd-ips-144hz-16gb-ddr5-ram-512gb-ssd-nvidia-geforce-rtxtm-5060-8gb-gddr7-no-os-luna-grey-3y-courier-8/pd/D9BRL32BM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Lenovo LOQ 15IRX10 (RTX 5050)",
+      "tag": "Echilibru solid RTX 5050",
+      "score": 8.3,
+      "image": "https://s13emagst.akamaized.net/products/99458/99457648/images/res_b63d5d6e5db2a1f9b72300fed79aa51a.jpg?width=400&height=400",
+      "feedId": "DPBRL32BM",
+      "inStock": true,
+      "features": [
+        "rtx50"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5050 8GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core i7-13645HX",
+          "label": "procesor"
+        },
+        {
+          "value": "15.6\" FHD IPS 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB DDR5 / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 82
+        },
+        {
+          "label": "Ecran",
+          "pct": 76
+        },
+        {
+          "label": "Răcire",
+          "pct": 78
+        },
+        {
+          "label": "Autonomie",
+          "pct": 68
+        }
+      ],
+      "pros": [
+        "RTX 5050 + i7-13645HX, echilibru solid pentru gaming la FHD",
+        "RAM DDR5 și SSD rapid de 512GB"
+      ],
+      "cons": [
+        "Fără ecran QHD sau refresh peste 144Hz"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-lenovo-loq-15irx10-cu-procesor-intel-coretm-i7-13645hx-pana-la-4-9ghz-15-6-full-hd-ips-144hz-16gb-ddr5-ram-512gb-ssd-nvidia-geforce-rtxtm-5050-8gb-gddr7-no-os-luna-grey-3y-courier-83je01/pd/DPBRL32BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "MSI Cyborg 15 B13WEKG (RTX 5050)",
+      "tag": "Cel mai accesibil RTX 5050",
+      "score": 8.0,
+      "image": "https://s13emagst.akamaized.net/products/108636/108635681/images/res_e71c879a23668b1784b17a6c1b0c522a.jpg?width=400&height=400",
+      "feedId": "DRPV4Q3BM",
+      "inStock": true,
+      "features": [
+        "rtx50"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5050 8GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core i7-13620H",
+          "label": "procesor"
+        },
+        {
+          "value": "15.6\" FHD 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 80
+        },
+        {
+          "label": "Ecran",
+          "pct": 74
+        },
+        {
+          "label": "Răcire",
+          "pct": 75
+        },
+        {
+          "label": "Autonomie",
+          "pct": 66
+        }
+      ],
+      "pros": [
+        "RTX 5050 la unul dintre cele mai mici prețuri din clasament",
+        "Configurație solidă pentru gaming la FHD 144Hz"
+      ],
+      "cons": [
+        "Fără sistem de operare inclus (Free DOS)"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-msi-cyborg-15-b13wekg-cu-procesor-intelr-coretm-i7-13620h-pana-la-4-90-ghz-15-6-full-hd-144hz-16gb-ram-512gb-ssd-nvidia-geforce-rtx-5050-8gb-free-dos-9s7-15q342-611/pd/DRPV4Q3BM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "ASUS TUF A17 FA707NUG (RTX 4050, AMD)",
+      "tag": "Cel mai bun ecran 17\"+",
+      "score": 7.8,
+      "image": "https://s13emagst.akamaized.net/products/121432/121431004/images/res_b9ee4b7da21f143bf8ff4a5e7ac78f8b.png?width=400&height=400",
+      "feedId": "DTB3FT2BM",
+      "inStock": true,
+      "features": [
+        "amd",
+        "17inch"
+      ],
+      "specs": [
+        {
+          "value": "RTX 4050 6GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Ryzen 7 7445HS",
+          "label": "procesor"
+        },
+        {
+          "value": "17.3\" FHD 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB DDR5 / 1TB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 76
+        },
+        {
+          "label": "Ecran",
+          "pct": 75
+        },
+        {
+          "label": "Răcire",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Ecran mare de 17,3\", ideal pentru imersiune",
+        "Șasiu TUF rezistent, cu spațiu bun pentru răcire"
+      ],
+      "cons": [
+        "RTX 4050 rămâne sub nivelul modelelor RTX seria 50"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-asus-tuf-a17-fa707nug-cu-procesor-amd-ryzentm-7-7445hs-pana-la-4-70-ghz-17-3-fhd-144hz-16gb-ddr5-1tb-ssd-geforce-rtx-4050-6gb-no-os-mecha-gray-fa707nug-hx159/pd/DTB3FT2BM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Lenovo LOQ 15IRX9 (RTX 4050)",
+      "tag": "RTX 4050 la preț bun",
+      "score": 7.5,
+      "image": "https://s13emagst.akamaized.net/products/64317/64316468/images/res_7a0ad9421d16ceffdb6af5c44a520de9.jpg?width=400&height=400",
+      "feedId": "DKBRL32BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "RTX 4050 6GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core i7-13645HX",
+          "label": "procesor"
+        },
+        {
+          "value": "15.6\" FHD IPS 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "16GB DDR5 / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 74
+        },
+        {
+          "label": "Ecran",
+          "pct": 74
+        },
+        {
+          "label": "Răcire",
+          "pct": 76
+        },
+        {
+          "label": "Autonomie",
+          "pct": 66
+        }
+      ],
+      "pros": [
+        "Procesor i7-13645HX puternic, memorie DDR5 rapidă",
+        "Preț accesibil pentru un i7 + RTX 4050"
+      ],
+      "cons": [
+        "Generație anterioară de GPU față de LOQ 15IRX10"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-lenovo-loq-15irx9-cu-procesor-intel-coretm-i7-13645hx-pana-la-4-9ghz-15-6-full-hd-ips-144hz-16gb-ddr5-ram-512gb-ssd-nvidia-geforce-rtxtm-4050-6gb-gddr6-no-os-luna-grey-3y-courier-83dv01h/pd/DKBRL32BM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "ASUS TUF F16 FX607VJ (RTX 3050)",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.1,
+      "image": "https://s13emagst.akamaized.net/products/100907/100906738/images/res_5fe3b1ec8380ae7a15897b3ab6f7f322.png?width=400&height=400",
+      "feedId": "DYR2KJ3BM",
+      "inStock": true,
+      "features": [],
+      "specs": [
+        {
+          "value": "RTX 3050 6GB",
+          "label": "placă video"
+        },
+        {
+          "value": "Core 5 210H",
+          "label": "procesor"
+        },
+        {
+          "value": "16\" WUXGA IPS 144Hz",
+          "label": "ecran"
+        },
+        {
+          "value": "32GB / 512GB SSD",
+          "label": "memorie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 68
+        },
+        {
+          "label": "Ecran",
+          "pct": 76
+        },
+        {
+          "label": "Răcire",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "32GB RAM din fabrică — cel mai mult din clasament",
+        "Preț de acces în gaming, cel mai ieftin din test"
+      ],
+      "cons": [
+        "RTX 3050 este cea mai slabă placă video din clasament"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-asus-tuf-f16-fx607vj-cu-procesor-intelr-coretm-5-210h-pana-la-4-8ghz-16-full-hd-wuxga-144hz-ips-32gb-ddr4-ram-512gb-ssd-nvidiar-geforce-rtxtm-3050-6gb-gddr6-no-os-mecha-gray-fx607vj-rl08/pd/DYR2KJ3BM/"
+    }
+  ]
+}
