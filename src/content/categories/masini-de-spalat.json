@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "washer",
   "order": 7,
-  "intro": "Am comparat cele mai căutate mașini de spălat rufe de pe eMAG după calitatea spălării, consumul de energie, nivelul de zgomot și programele utile. Mai jos ai clasamentul, cu argumente pentru fiecare loc, capacitate și buget.",
+  "intro": "Am comparat cele mai căutate mașini de spălat rufe de pe eMAG după calitatea spălării, clasa energetică, nivelul de zgomot, stoarcere și programele care contează cu adevărat. Mai jos ai clasamentul, plus un ghid care te ajută să alegi capacitatea, motorul și funcțiile potrivite pentru gospodăria ta, fără să plătești pentru extra pe care nu le folosești.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -40,16 +40,29 @@
   "guide": [
     {
       "h3": "De câtă capacitate ai nevoie?",
-      "body": "Pentru 1–2 persoane, 7 kg ajung. O familie de 3–4 persoane e cel mai confortabil cu 8–9 kg, iar dacă speli des plapume și prosoape, o mașină de 11 kg spală totul dintr-o singură tură. Capacitatea mai mare nu înseamnă consum mai mare dacă respecți clasa energetică.",
-      "callout": "Pentru majoritatea familiilor, 8–9 kg Clasa A e echilibrul ideal între spălare, consum și preț. Treci la 11 kg doar dacă ai rufe voluminoase des."
+      "body": "Pentru 1–2 persoane, 7 kg sunt suficienți, ca la Beko de 7 kg. O familie de 3–4 persoane e cel mai confortabilă cu 8–9 kg (Samsung WW80CGC04 sau WW90DG6U25), iar dacă speli des plapume și prosoape, un tambur de 11 kg precum Samsung WW11DG5B25 spală totul dintr-o singură tură. Capacitatea mai mare nu înseamnă automat consum mai mare, dacă respecți clasa energetică.",
+      "callout": "Pentru majoritatea familiilor, 8–9 kg Clasa A e echilibrul ideal între spălare, consum și gabarit."
     },
     {
-      "h3": "Clasa energetică contează cu adevărat",
-      "body": "Diferența dintre Clasa A și Clasa C se simte pe factură an de an, pentru că mașina o folosești de sute de ori. Modelele Clasa A cu motor inverter (Bosch, Samsung, Beko) consumă vizibil mai puțin și sunt și mai silențioase decât cele Clasa C."
+      "h3": "Clasa energetică se simte pe factură",
+      "body": "Mașina o folosești de sute de ori pe an, așa că diferența dintre Clasa A și Clasa C se adună vizibil. Modelele Clasa A cu motor inverter (Bosch EcoSilence, Samsung Digital Inverter, Beko) consumă mai puțin și sunt și mai silențioase. Un model Clasa C precum Whirlpool FFD8648BVEE spală bine și stoarce puternic, dar te costă mai mult la întreținere în timp."
     },
     {
-      "h3": "Funcția cu abur și cea smart merită?",
-      "body": "Aburul relaxează cutele și igienizează rufele, util pentru alergici și pentru haine care nu trebuie călcate mult. Wi-Fi-ul (SmartThings, Home Connect) îți lasă să pornești sau să programezi de pe telefon — un plus real dacă ai tarif de noapte la curent."
+      "h3": "Motorul inverter și stoarcerea",
+      "body": "Motoarele inverter (fără perii) sunt mai durabile, mai silențioase și au garanție extinsă. La stoarcere, 1400 RPM scoate rufele aproape uscate pentru uzul casnic; peste 1400 RPM, ca la Whirlpool cu 1600 RPM, câștigi puțin la umiditate, dar cu mai mult zgomot și vibrații. Bosch WAN28164BY arată cât de liniștită poate fi o mașină bine construită la 1400 RPM.",
+      "callout": "1400 RPM e alegerea corectă pentru majoritatea; treci la 1600 doar dacă usuci mult la calorifer sau uscător."
+    },
+    {
+      "h3": "Aburul și funcțiile smart merită?",
+      "body": "Aburul (Hygiene Steam la Samsung, Steam Hygiene la Whirlpool) relaxează cutele și igienizează rufele, util pentru alergici și pentru haine care nu vrei să le calci mult. Wi-Fi-ul (SmartThings, Home Connect) îți lasă să pornești sau să programezi de pe telefon și e un plus real dacă ai tarif de noapte la curent. Niciuna nu e obligatorie, dar amândouă adaugă confort zilnic."
+    },
+    {
+      "h3": "Slim, standard sau 2-în-1?",
+      "body": "Dacă ai spațiu limitat, un model slim precum Samsung WW90DG5G34 îți dă 9 kg într-un corp mai îngust. Mașinile 2-în-1 cu uscător (Electrolux PerfectCare900, LG WT1210EGF) spală și usucă în același tambur, ideal când nu ai loc de un uscător separat, dar usucă mai puțin decât spală și consumă mai mult la uscare."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu alege capacitatea maximă „ca să fii sigur” dacă speli des încărcături mici — o mașină plină pe jumătate risipește apă și curent. Nu ignora adâncimea: modelele de 11 kg sunt mai adânci și cer spațiu. Și nu plăti pentru un teanc de programe pe care nu le vei folosi niciodată; contează spălarea de bază, clasa energetică și fiabilitatea motorului."
     }
   ],
   "faq": [
@@ -59,7 +72,31 @@
     },
     {
       "q": "1400 RPM sau mai mult?",
-      "a": "1400 de rotații pe minut stoarce foarte bine pentru uzul casnic — rufele ies aproape uscate. Peste 1400 RPM aduce un plus mic la stoarcere, dar și mai mult zgomot și vibrații. Pentru majoritatea, 1400 RPM e alegerea corectă."
+      "a": "1400 de rotații pe minut stoarce foarte bine pentru uzul casnic — rufele ies aproape uscate. Peste 1400 RPM, ca la Whirlpool FFD8648BVEE cu 1600 RPM, aduce un plus mic la stoarcere, dar și mai mult zgomot și vibrații. Pentru majoritatea, 1400 RPM e alegerea corectă."
+    },
+    {
+      "q": "Samsung, Bosch sau Beko — ce marcă aleg?",
+      "a": "Bosch se remarcă la silențiozitate și construcție solidă (EcoSilence Drive), Samsung oferă cel mai des abur și funcții smart la preț bun (Ecobubble, SmartThings), iar Beko dă cel mai bun raport preț pe modelele compacte. Toate au motoare inverter cu garanție lungă pe versiunile Clasa A."
+    },
+    {
+      "q": "Ce capacitate îmi trebuie pentru o familie?",
+      "a": "Pentru 1–2 persoane ajung 7 kg. O familie de 3–4 persoane e confortabilă cu 8–9 kg, cum sunt Samsung WW80CGC04 sau WW90DG6U25. Dacă speli des rufe voluminoase (plapume, prosoape), 11 kg precum Samsung WW11DG5B25 le spală dintr-o tură, dar cere mai mult spațiu."
+    },
+    {
+      "q": "Funcția cu abur merită banii?",
+      "a": "Aburul relaxează cutele și igienizează rufele, fiind util pentru alergici, pentru hainele bebelușilor și pentru cele pe care nu vrei să le calci mult. Nu e obligatoriu, dar dacă speli variat, face o diferență reală în confort. Îl găsești ca Hygiene Steam la Samsung sau Steam Hygiene la Whirlpool."
+    },
+    {
+      "q": "Ce este motorul inverter și de ce contează?",
+      "a": "Motorul inverter nu are perii care se uzează, deci e mai durabil, mai silențios și mai eficient energetic decât un motor clasic. De aceea modelele Bosch EcoSilence și Samsung Digital Inverter sunt mai liniștite și vin cu garanție extinsă pe motor, adesea 10–20 de ani."
+    },
+    {
+      "q": "O mașină slim spală la fel de bine?",
+      "a": "Da, un model slim precum Samsung WW90DG5G34 îți dă 9 kg și aceleași programe într-un corp mai îngust, ideal pentru bucătării sau băi mici. Singurul compromis e că un corp mai îngust poate vibra ceva mai mult la stoarcere decât o mașină standard, dar spălarea rămâne la fel de bună."
+    },
+    {
+      "q": "Wi-Fi-ul chiar folosește la ceva?",
+      "a": "Da, dacă ai tarif de noapte la energie sau un program încărcat. Cu SmartThings sau Home Connect pornești, programezi și primești notificări de la telefon, plus diagnoză a erorilor. Nu îmbunătățește spălarea în sine, dar adaugă confort real în folosirea zilnică, mai ales pentru pornirea la ore avantajoase."
     },
     {
       "q": "De unde câștigați bani dacă site-ul e gratuit?",
@@ -633,5 +670,44 @@
       ],
       "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-8-kg-1600-rpm-clasa-c-steam-refresh-steam-hygiene-tehnologia-al-6lea-simt-motor-inverter-display-lcd-alb-ffd8648bvee/pd/DX8SBZMBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Mașină simplă vs. mașină cu uscător (2-în-1): ce alegi?",
+    "intro": "Alegi între o mașină care doar spală și o combinată care spală și usucă în același tambur. Iată cum se compară pe criteriile care contează la folosirea zilnică.",
+    "aLabel": "Doar spălare",
+    "bLabel": "Spălare + uscare",
+    "rows": [
+      {
+        "criteriu": "Spațiu ocupat",
+        "a": "Un singur aparat, compact",
+        "b": "Un singur aparat, dar mai adânc"
+      },
+      {
+        "criteriu": "Capacitate utilă la uscare",
+        "a": "Nu usucă",
+        "b": "Mai mică decât la spălare"
+      },
+      {
+        "criteriu": "Consum",
+        "a": "Mai mic, mai ales Clasa A",
+        "b": "Crește mult la uscare"
+      },
+      {
+        "criteriu": "Complexitate / întreținere",
+        "a": "Simplă, mai puține defecte",
+        "b": "Mai complexă, întreținere mai atentă"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Cost de achiziție mai mic",
+        "b": "Cost de achiziție mai mare"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Cine are loc de uscat rufe",
+        "b": "Spații mici, fără loc de uscător"
+      }
+    ],
+    "verdict": "Alege 2-în-1 (Electrolux PerfectCare900, LG WT1210EGF) dacă spațiul e prioritar și vrei rufe uscate fără al doilea aparat. Dacă ai unde întinde rufele, o mașină simplă Clasa A precum Samsung WW11DG5B25 e mai ieftină, mai eficientă și mai fiabilă."
+  }
 }

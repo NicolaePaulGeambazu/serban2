@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "oven",
   "order": 6,
-  "intro": "Am comparat cele mai populare cuptoare încorporabile de pe eMAG după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "intro": "Cuptorul încorporabil e electrocasnicul care îți influențează cel mai mult rezultatele la gătit și confortul zilnic în bucătărie. Am comparat modelele populare de pe eMAG după calitatea gătitului, sistemul de autocurățare, ușurința în folosire și consum, de la premium precum Bosch Seria 8 până la variante accesibile ca Electrolux EOF3H50BK.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -45,11 +45,25 @@
     },
     {
       "h3": "Ventilat vs. static",
-      "body": "Un cuptor ventilat distribuie căldura uniform și poate găti pe mai multe niveluri simultan — ideal pentru copt. Modul static e bun pentru aluaturi care cresc. Cele bune le au pe amândouă (convecție 3D)."
+      "body": "Un cuptor ventilat distribuie căldura uniform și poate găti pe mai multe niveluri simultan — ideal pentru copt. Modul static e bun pentru aluaturi care cresc. Cele bune le au pe amândouă (convecție 3D, ca la Bosch HBF133BA1 sau Whirlpool WOI78PT1SXA)."
     },
     {
       "h3": "Funcția cu abur merită?",
-      "body": "Aburul (ex. Samsung Bespoke) păstrează mâncarea suculentă și ajută la copt pâine cu crustă bună. Nu e obligatoriu, dar dacă gătești variat, face o diferență reală."
+      "body": "Aburul (ex. Samsung Bespoke, Beko BBIS13300XMSE) păstrează mâncarea suculentă și ajută la copt pâine cu crustă bună. Nu e obligatoriu, dar dacă gătești variat, face o diferență reală între o friptură uscată și una fragedă."
+    },
+    {
+      "h3": "Ce capacitate alegi?",
+      "body": "Volumul se măsoară în litri și contează pentru câte tăvi încap simultan. Sub 66 L e potrivit pentru un cuplu sau gospodării mici. Între 70 și 76 L (Samsung Bespoke, Whirlpool, cele două Beko de 72 L) e ideal pentru familii care gătesc mult sau coc de sărbători, când ai nevoie de mai multe niveluri.",
+      "callout": "Nișa standard de mobilier e de 60 cm lățime; verifică adâncimea și înălțimea locașului înainte de comandă."
+    },
+    {
+      "h3": "Funcții smart și control: chiar le folosești?",
+      "body": "Conectivitatea (SmartThings la Samsung, Home Connect la Bosch Seria 8) îți permite să pornești sau să monitorizezi cuptorul din telefon. E utilă dacă vrei notificări și rețete ghidate, dar nu schimbă calitatea gătitului. Un display touch clar și butoane intuitive contează mai mult în practica de zi cu zi decât aplicația."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu plăti premium pentru funcții pe care nu le vei folosi și nu ignora sistemul de curățare — e ce vei simți zilnic. Verifică clasa energetică (A sau A+), tipul de alimentare (electric vs. gaz, ex. Electrolux EOG2102AOX) și compatibilitatea cu plita. O eroare comună e să alegi doar după preț și să regreți autocurățarea de bază.",
+      "callout": "Cumpără cuptorul și plita de la același producător doar dacă vrei design uniform — funcțional nu e obligatoriu."
     }
   ],
   "faq": [
@@ -60,6 +74,30 @@
     {
       "q": "Electric sau pe gaz?",
       "a": "Cuptoarele electrice gătesc mai uniform și au mai multe funcții. Cele pe gaz (ex. Electrolux EOG2102AOX) sunt utile dacă vrei independență de curent sau ai deja plită pe gaz."
+    },
+    {
+      "q": "Ce capacitate în litri îmi trebuie?",
+      "a": "Pentru 1–2 persoane, 65–66 L (Bosch HBF133BA1, Electrolux EOF3H50BK) sunt suficienți. Familiile care gătesc mult sau coc de sărbători se simt mai bine cu 72–76 L, ca la Samsung Bespoke sau cele două modele Beko de 72 L, unde încap mai multe tăvi."
+    },
+    {
+      "q": "Merită funcția cu abur?",
+      "a": "Da, dacă gătești variat. Aburul păstrează carnea fragedă și dă crustă bună pâinii. Modele precum Samsung Bespoke sau Beko BBIS13300XMSE oferă gătit asistat de abur. Dacă faci mai ales mâncăruri simple, poți economisi alegând un model fără abur."
+    },
+    {
+      "q": "Ce diferență e între Bosch, Samsung și Electrolux?",
+      "a": "Bosch excelează la construcție și autocurățare (Seria 8 cu piroliză). Samsung mizează pe funcții smart și Dual Cook Flex, care gătește două feluri odată. Electrolux oferă piroliză la preț competitiv (EOF6P76X2) și opțiuni bune pe buget. Alege în funcție de ce prețuiești mai mult."
+    },
+    {
+      "q": "Ce înseamnă clasa energetică A+?",
+      "a": "Este o măsură a eficienței: cu cât litera e mai bună, cu atât consumă mai puțin la aceeași utilizare. Majoritatea modelelor din clasament sunt A sau A+. Diferența de consum între ele e mică, așa că nu ar trebui să fie criteriul principal de alegere."
+    },
+    {
+      "q": "Cuptorul încorporabil se potrivește în orice mobilier?",
+      "a": "Standardul e nișa de 60 cm lățime, dar verifică întotdeauna adâncimea, înălțimea și ventilarea locașului din specificațiile modelului. Un cuptor prea adânc sau fără spațiu de aerisire nu se montează corect. Măsoară locașul înainte de a comanda."
+    },
+    {
+      "q": "Convecția 3D chiar contează?",
+      "a": "Da. Convecția 3D (Bosch HBF133BA1, HBF153BS0) folosește un ventilator și rezistență suplimentară pentru a distribui căldura uniform pe toate nivelurile. Coci simultan mai multe tăvi fără să rotești, iar rezultatele sunt constante. E o funcție care se simte în practică, nu doar pe hârtie."
     },
     {
       "q": "De unde câștigați bani dacă site-ul e gratuit?",
@@ -641,5 +679,49 @@
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-electric-65-l-9-programe-convectie-sourroundcook-grill-clasa-a-negru-eof3h50bk/pd/D97WGVMBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182484"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Piroliză vs. Cataliză: ce autocurățare alegi?",
+    "intro": "Cele două sisteme de autocurățare cele mai răspândite funcționează complet diferit. Iată cum se compară pentru un utilizator obișnuit.",
+    "aLabel": "Piroliză",
+    "bLabel": "Cataliză",
+    "rows": [
+      {
+        "criteriu": "Eficiență curățare",
+        "a": "Excelentă, arde tot",
+        "b": "Parțială, doar grăsimi"
+      },
+      {
+        "criteriu": "Comoditate",
+        "a": "Ștergi doar cenușa",
+        "b": "Intervenție manuală ocazională"
+      },
+      {
+        "criteriu": "Consum",
+        "a": "Ridicat pe ciclu",
+        "b": "Fără consum suplimentar"
+      },
+      {
+        "criteriu": "Preț achiziție",
+        "a": "Cost mai mare",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Durabilitate strat",
+        "a": "Permanentă, nu se uzează",
+        "b": "Se poate epuiza în timp"
+      },
+      {
+        "criteriu": "Acoperire suprafețe",
+        "a": "Întreaga cavitate",
+        "b": "Doar pereții tratați"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Cei ce gătesc des",
+        "b": "Utilizare ocazională"
+      }
+    ],
+    "verdict": "Alege piroliza dacă gătești frecvent și vrei curățare fără efort (Bosch Seria 8, Electrolux EOF6P76X2, Whirlpool WOI78PT1SXA). Cataliza e suficientă și mai accesibilă dacă gătești moderat și nu te deranjează o ștergere ocazională."
+  }
 }

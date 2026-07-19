@@ -38,6 +38,15 @@ const categories = defineCollection({
     priceBuckets: z.array(z.object({ key: z.string(), label: z.string(), min: z.number().optional(), max: z.number().optional() })).default([]),
     featureFilters: z.array(z.object({ key: z.string(), label: z.string() })).default([]),
     guide: z.array(z.object({ h3: z.string(), body: z.string(), callout: z.string().optional() })).default([]),
+    // head-to-head "A vs B" comparison table (e.g. Piroliză vs. Cataliză)
+    comparison: z.object({
+      title: z.string(),
+      intro: z.string().optional(),
+      aLabel: z.string(),
+      bLabel: z.string(),
+      rows: z.array(z.object({ criteriu: z.string(), a: z.string(), b: z.string() })).default([]),
+      verdict: z.string().optional(),
+    }).optional(),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     conclusion: z.string(),
     products: z.array(product),

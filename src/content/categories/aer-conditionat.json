@@ -4,8 +4,8 @@
   "parent": "Electrocasnice",
   "icon": "ac",
   "order": 4,
-  "intro": "Am comparat cele mai populare 10 aparate de aer condiționat de pe eMAG după putere de răcire, consum, zgomot și funcții. Mai jos ai clasamentul, cu argumente pentru fiecare loc și pentru fiecare mărime de cameră.",
-  "updated": "2026-07-16",
+  "intro": "Un aer condiționat bun se alege după camera ta, nu după cel mai mare număr de BTU. Am comparat cele 10 modele populare de pe eMAG după putere de răcire, consum, zgomot și funcții, de la Gree Pulsar și LG Dualcool până la Daikin Sensira pentru camere mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -40,26 +40,64 @@
   "guide": [
     {
       "h3": "Câți BTU îți trebuie, de fapt?",
-      "body": "Regula simplă: ~1.000 BTU pentru fiecare 3–4 mp. Pentru un dormitor de 15 mp ajung 9.000–12.000 BTU; pentru un living de 25–30 mp vrei 12.000 BTU; peste 35 mp, 18.000 BTU.",
+      "body": "Regula simplă: aproximativ 1.000 BTU pentru fiecare 3–4 mp. Un dormitor de 15 mp cere 9.000–12.000 BTU, un living de 25–30 mp vrea 12.000 BTU, iar peste 35 mp sau open space treci la 18.000 BTU, ca la Daikin Sensira sau LG Dualcool Deluxe. Ține cont și de expunerea la soare și de câți pereți dau afară.",
       "callout": "Un aparat prea mare pornește și se oprește des, consumă inutil și dezumidifică prost. Alege puterea pentru camera ta, nu „cât mai mult”."
     },
     {
-      "h3": "Inverter sau on/off?",
-      "body": "Inverterul ajustează continuu puterea, deci consumă mult mai puțin și e mai silențios. Toate modelele de top din clasament sunt cu inverter — pe termen lung, diferența la factură merită."
+      "h3": "Inverter vs. on/off: de ce contează",
+      "body": "Inverterul ajustează continuu turația compresorului, deci menține temperatura constant, consumă mult mai puțin și e vizibil mai silențios. Un aparat on/off pornește la maxim și se oprește brusc, ceea ce oscilează temperatura și crește factura. Aproape toate modelele de top din clasament — Gree Pulsar, LG Dualcool, Samsung AR35 — sunt cu inverter.",
+      "callout": "Pentru folosire zilnică, inverterul își amortizează diferența de preț prin economia la curent."
     },
     {
-      "h3": "Clasa energetică, zgomotul și montajul",
-      "body": "Uită-te la clasa de răcire (A++ sau mai bună) și la zgomotul unității interioare (sub 24 dB e foarte silențios, contează în dormitor). Atenție: unele aparate vin cu kit de instalare inclus (țevi), dar manopera montajului o plătești separat, la un tehnician autorizat."
+      "h3": "Clasa energetică și zgomotul",
+      "body": "Uită-te la clasa de răcire: A++ sau mai bună înseamnă consum mic pe termen lung. La zgomot, unitatea interioară sub 24 dB e foarte silențioasă și contează enorm în dormitor — aici Daikin Sensira și Samsung AR35 cu mod Good Sleep excelează. Agentul frigorific R32, prezent la majoritatea modelelor noi, e mai eficient și mai prietenos cu mediul."
+    },
+    {
+      "h3": "Funcții care chiar merită",
+      "body": "Wi-Fi-ul (Gree, LG, Daewoo) îți lasă să pornești răcirea de pe telefon înainte să ajungi acasă. Funcțiile anti-mucegai precum X-Fan de la Gree Cosmo usucă unitatea internă și previn mirosul. Modul iFeel citește temperatura de la telecomandă, iar auto-curățarea și filtrele cu ioni de argint mențin aerul curat cu efort minim."
+    },
+    {
+      "h3": "Montajul: ce e inclus și ce nu",
+      "body": "Atenție la formularea „kit de instalare inclus” — la Gree Pulsar sau Daewoo Pro asta înseamnă țevile și accesoriile, nu manopera. Montajul îl plătești separat, la un tehnician autorizat, care face vidul instalației și verifică etanșeitatea. Un montaj corect e esențial: dacă e făcut prost, pierzi din eficiență și rișcă garanția."
+    },
+    {
+      "h3": "Întreținere pentru un aer curat",
+      "body": "Curăță filtrele interioare la 2–4 săptămâni în sezon — se scot ușor și se spală cu apă. Folosește periodic funcția de auto-curățare sau X-Fan ca să eviți mucegaiul și mirosul. O revizie anuală, cu verificarea agentului frigorific și curățarea unității externe, menține răcirea la parametri și prelungește viața compresorului.",
+      "callout": "Filtre înfundate = răcire slabă și consum mai mare. E cea mai ieftină „reparație” pe care o poți face singur."
     }
   ],
   "faq": [
     {
       "q": "9.000, 12.000 sau 18.000 BTU?",
-      "a": "Pentru un dormitor sub 18 mp, 9.000–12.000 BTU. Pentru living-uri de 25–30 mp, 12.000 BTU. Peste 35 mp sau open space, 18.000 BTU."
+      "a": "Pentru un dormitor sub 18 mp alege 9.000–12.000 BTU. Pentru living-uri de 25–30 mp, 12.000 BTU este echilibrul bun. Peste 35 mp sau open space treci la 18.000 BTU, ca la Daikin Sensira sau LG Dualcool Deluxe. Ține cont și de expunerea la soare."
+    },
+    {
+      "q": "Merită diferența de preț pentru inverter?",
+      "a": "Da, dacă folosești aparatul zilnic. Inverterul consumă semnificativ mai puțin și menține temperatura constant, deci diferența de preț se recuperează la factură într-un sezon-două. Non-inverterul are sens doar pentru folosire ocazională sau buget foarte strâns."
+    },
+    {
+      "q": "Gree, LG, Daikin sau Samsung — ce brand aleg?",
+      "a": "Daikin e reperul pentru fiabilitate și silențiozitate, ideal la camere mari. LG oferă Dual Inverter eficient și un bun raport preț/calitate. Gree e echilibrat, cu multe funcții la preț bun. Samsung se remarcă prin modul Good Sleep, perfect pentru dormitor."
     },
     {
       "q": "Kitul de instalare inclus înseamnă montaj gratuit?",
-      "a": "Nu. Kitul inclus înseamnă țevile și accesoriile; manopera montajului se plătește separat, la un tehnician autorizat."
+      "a": "Nu. Kitul inclus înseamnă țevile și accesoriile de montaj, ca la Gree Pulsar sau Daewoo Pro. Manopera — vidul instalației, fixarea unităților și verificarea etanșeității — se plătește separat, la un tehnician autorizat. Bugetează-o de la început."
+    },
+    {
+      "q": "Cât de silențios trebuie să fie pentru dormitor?",
+      "a": "Sub 24 dB la unitatea interioară e foarte silențios și nu te deranjează noaptea. Modele ca Daikin Sensira sau Samsung AR35 cu mod Good Sleep sunt gândite exact pentru asta, reducând turația ventilatorului și luminozitatea display-ului pe timpul nopții."
+    },
+    {
+      "q": "Ce înseamnă R32 și de ce contează?",
+      "a": "R32 este agentul frigorific din generația nouă, prezent la majoritatea modelelor din clasament. Răcește mai eficient decât vechiul R410A, cu impact mai mic asupra mediului. Nu trebuie să faci nimic special — e un plus de eficiență și conformitate cu normele actuale."
+    },
+    {
+      "q": "Wi-Fi și funcțiile smart chiar folosesc?",
+      "a": "Da, dacă vrei confort: pornești răcirea de pe telefon înainte să ajungi acasă și setezi programe pe ore. Gree, LG și Daewoo oferă control din aplicație. Nu e obligatoriu, dar la o diferență mică de preț adaugă comoditate reală pe termen lung."
+    },
+    {
+      "q": "Aparatul de aer condiționat încălzește iarna?",
+      "a": "Majoritatea modelelor inverter au pompă de căldură și pot încălzi eficient până la temperaturi moderate sub zero. LG Standard, de exemplu, are funcție de încălzire dedicată. Poate fi o sursă de căldură economică în sezonul rece, dar la geruri mari eficiența scade."
     },
     {
       "q": "De unde câștigați bani dacă site-ul e gratuit?",
@@ -643,5 +681,44 @@
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-standard-wi-fi-12000-btu-clasa-a-functie-incalzire-filtru-protectie-dual-controlul-energiei-active-s12et-s12ec-dual-inverter-r32-s12et-nsj-s12et-ua3/pd/DYKPVBMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182477"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Inverter vs. Non-inverter: ce aer condiționat alegi?",
+    "intro": "Cele două tehnologii răcesc la fel de bine, dar diferă radical la consum, confort și zgomot. Iată cum se compară pe criteriile care contează.",
+    "aLabel": "Inverter",
+    "bLabel": "Non-inverter (On/Off)",
+    "rows": [
+      {
+        "criteriu": "Consum de energie",
+        "a": "Scăzut, ajustat continuu",
+        "b": "Mai mare, în pornire/oprire"
+      },
+      {
+        "criteriu": "Zgomot",
+        "a": "Foarte silențios",
+        "b": "Mai zgomotos la pornire"
+      },
+      {
+        "criteriu": "Confort temperatură",
+        "a": "Constant, fără oscilații",
+        "b": "Variază vizibil"
+      },
+      {
+        "criteriu": "Preț de achiziție",
+        "a": "Cost inițial mai mare",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Durabilitate",
+        "a": "Uzură redusă a compresorului",
+        "b": "Cicluri dese, uzură mai mare"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Folosire zilnică, dormitor",
+        "b": "Folosire ocazională, buget mic"
+      }
+    ],
+    "verdict": "Pentru folosire zilnică și pentru dormitor, alege inverter — economisești la factură și dormi mai liniștit. Non-inverterul are sens doar dacă bugetul inițial e strâns și folosești aparatul rar."
+  }
 }

@@ -87,24 +87,6 @@ const faqSchema = {
     </div>
   </div>
 
-  <!-- METHOD -->
-  <section class="method">
-    <div class="wrap">
-      <span class="eyebrow">Cum lucrăm</span>
-      <h2 style="margin-top:10px">Cum am ales produsele din acest clasament</h2>
-      <div class="steps">
-        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și recenziile publice de pe eMAG.</p></div>
-        <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
-        <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
-        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
-      </div>
-      <div class="disclosure">
-        <Icon name="info" />
-        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
-      </div>
-    </div>
-  </section>
-
   <!-- GUIDE -->
   {d.guide.length > 0 && (
     <section class="article" id="ghid">
@@ -118,6 +100,30 @@ const faqSchema = {
             {g.callout && <div class="callout"><b>Pe scurt:</b> {g.callout}</div>}
           </>
         ))}
+      </div>
+    </section>
+  )}
+
+  <!-- COMPARISON TABLE -->
+  {d.comparison && (
+    <section class="article" style="padding-top:0" id="comparatie">
+      <div class="wrap prose">
+        <span class="eyebrow">Comparație</span>
+        <h2>{d.comparison.title}</h2>
+        {d.comparison.intro && <p>{d.comparison.intro}</p>}
+        <div class="cmp-wrap">
+          <table class="cmp">
+            <thead>
+              <tr><th>Criteriu</th><th>{d.comparison.aLabel}</th><th>{d.comparison.bLabel}</th></tr>
+            </thead>
+            <tbody>
+              {d.comparison.rows.map((r) => (
+                <tr><td class="cmp-crit">{r.criteriu}</td><td>{r.a}</td><td>{r.b}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {d.comparison.verdict && <div class="callout"><b>Verdict:</b> {d.comparison.verdict}</div>}
       </div>
     </section>
   )}
@@ -137,6 +143,24 @@ const faqSchema = {
       </div>
     </section>
   )}
+
+  <!-- METHOD -->
+  <section class="method method-soft">
+    <div class="wrap">
+      <span class="eyebrow">Cum lucrăm</span>
+      <h2 style="margin-top:10px">Cum am ales produsele din acest clasament</h2>
+      <div class="steps">
+        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și recenziile publice de pe eMAG.</p></div>
+        <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
+        <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
+        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
+      </div>
+      <div class="disclosure">
+        <Icon name="info" />
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
+      </div>
+    </div>
+  </section>
 
   <!-- CONCLUSION -->
   <section style="padding-top:0">

@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "robot",
   "order": 10,
-  "intro": "Am comparat cei mai populari roboți de aspirare de pe eMAG după puterea de aspirare (Pa), sistemul de mop, dotările stației și cât de bine navighează prin casă. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "intro": "Am comparat cei mai populari roboți de aspirare de pe eMAG după puterea de aspirare (Pa), sistemul de mop, dotările stației și cât de bine navighează prin casă. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget, plus un ghid care te ajută să alegi între modele cu și fără stație de autogolire.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -40,16 +40,29 @@
   "guide": [
     {
       "h3": "Aspirare (Pa): cât contează cu adevărat?",
-      "body": "Puterea de aspirare se măsoară în Pa. Sub 4.000 Pa e suficient pentru praf pe gresie și parchet. Peste 7.000 Pa scoate mizeria din covoare și părul de animale. Modelele de top (20.000–35.000 Pa) ridică inclusiv murdăria intrată adânc în fibre.",
-      "callout": "Dacă ai covoare groase sau animale de companie, nu coborî sub 8.000 Pa. Roborock Qrevo Edge 2 Pro (25.000 Pa) și Dreame X60 Ultra (35.000 Pa) sunt în altă ligă."
+      "body": "Puterea de aspirare se măsoară în Pa. Sub 4.000 Pa e suficient pentru praf pe gresie și parchet, dar peste 7.000 Pa scoate mizeria din covoare și părul de animale. Modelele de top (20.000–35.000 Pa) ridică inclusiv murdăria intrată adânc în fibre. Nu te lăsa impresionat doar de cifră: peria și navigația contează la fel de mult ca puterea brută.",
+      "callout": "Dacă ai covoare groase sau animale, nu coborî sub 8.000 Pa. Roborock Qrevo Edge 2 Pro (25.000 Pa) și Dreame X60 Ultra (35.000 Pa) sunt în altă ligă."
     },
     {
       "h3": "Mop și stație: autogolire, spălare și uscare",
-      "body": "Un mop bun se ridică pe covor și se spală singur în stație. Stațiile premium spală lavetele cu apă fierbinte (75–100°C) și le usucă cu aer cald, ca să nu miroasă. Autogolirea prafului îți lasă robotul câteva săptămâni fără să te atingi de el."
+      "body": "Un mop bun se ridică pe covor și se spală singur în stație. Stațiile premium spală lavetele cu apă fierbinte (75–100°C) și le usucă cu aer cald, ca să nu miroasă a mucegai. Autogolirea prafului îți lasă robotul câteva săptămâni fără să te atingi de el. Diferența dintre un mop simplu și unul rotativ sau FlexiArm se vede pe pete uscate și pe margini."
     },
     {
       "h3": "Navigație: LiDAR vs. senzori simpli",
-      "body": "Navigația LiDAR (LDS) sau dToF scanează camera cu laser și face hărți precise, curăță sistematic și evită obstacolele mult mai bine decât roboții cu senzori simpli. Merită diferența dacă ai o casă cu multe camere sau mobilă joasă."
+      "body": "Navigația LiDAR (LDS) sau dToF scanează camera cu laser și face hărți precise, curăță sistematic pe rânduri și evită obstacolele mult mai bine decât roboții cu senzori simpli, care merg mai haotic. Merită diferența dacă ai o casă cu multe camere, praguri sau mobilă joasă. Roborock Qrevo 5AE aduce LiDAR la un preț accesibil, iar Rowenta S75S se bazează pe 7 senzori și 4 hărți salvate.",
+      "callout": "Pentru apartamente cu multe camere sau două etaje, LiDAR-ul cu hărți multiple economisește timp la fiecare curățare."
+    },
+    {
+      "h3": "Cum îți alegi robotul după casa ta",
+      "body": "Pentru case cu mult parchet și gresie, prioritizează mopul bun și stația care spală lavetele. Dacă ai covoare și animale, contează aspirarea mare și peria anti-încurcare. Pentru un apartament mic, un model fără stație precum Xiaomi S20+ e suficient. Dacă vrei să uiți complet de întreținere, mergi pe o stație completă gen Qrevo Edge 2 Pro sau Dreame X60 Ultra."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu cumpăra doar după cifra de Pa: un robot de 6.000 Pa cu navigație bună curăță mai bine decât unul puternic care ratează zone. Nu ignora înălțimea robotului dacă ai mobilă joasă. Nu uita de întreținerea recurentă: filtre, perii și laveta de mop se schimbă periodic. Iar dacă ai praguri înalte, verifică pragul maxim pe care robotul îl poate depăși."
+    },
+    {
+      "h3": "Întreținere: ce trebuie să faci periodic",
+      "body": "Chiar și cu autogolire, sacul de praf al stației se schimbă la câteva săptămâni, iar rezervoarele de apă curată și murdară se clătesc regulat. Peria principală și cea laterală se curăță de păr, iar filtrul HEPA se spală sau se înlocuiește. La modelele cu spălare la cald, întreținerea lavetei e minimă, dar tot verifici periodic tava stației de resturi."
     }
   ],
   "faq": [
@@ -59,7 +72,31 @@
     },
     {
       "q": "Merită o stație cu autogolire?",
-      "a": "Da, dacă vrei să uiți de robot săptămâni întregi. Stația golește singură recipientul de praf și, la modelele premium, spală și usucă lavetele cu apă fierbinte. Costă mai mult, dar reduce mult întreținerea manuală."
+      "a": "Da, dacă vrei să uiți de robot săptămâni întregi. Stația golește singură recipientul de praf și, la modelele premium, spală și usucă lavetele cu apă fierbinte. Costă mai mult, dar reduce mult întreținerea manuală și ține praful sigilat."
+    },
+    {
+      "q": "Roborock, Dreame sau Xiaomi — ce marcă aleg?",
+      "a": "Roborock și Dreame domină vârful de gamă cu aspirare mare, navigație precisă și stații complete, precum Qrevo Edge 2 Pro sau X60 Ultra. Xiaomi oferă cel mai bun raport preț/calitate, cu X20+ care aduce stație de golire la un preț accesibil. Rowenta e o alegere solidă pe buget."
+    },
+    {
+      "q": "Câți Pa îmi trebuie dacă am animale de companie?",
+      "a": "Pentru păr de animale și covoare, țintește minimum 8.000 Pa, ideal peste 12.000 Pa. Modele precum Roborock Qrevo Curv 2 Flow (20.000 Pa) sau Dreame X60 Ultra (35.000 Pa) scot părul din fibre. Contează și peria anti-încurcare, care nu se blochează cu păr lung."
+    },
+    {
+      "q": "Cât de bine navighează un robot fără LiDAR?",
+      "a": "Roboții cu senzori simpli curăță mai haotic și pot rata zone sau se pot lovi mai des de mobilă. Cei cu LiDAR sau dToF fac hărți precise și curăță pe rânduri, sistematic. Pentru o casă cu multe camere, diferența e mare; pentru o garsonieră, un model mai simplu se descurcă."
+    },
+    {
+      "q": "Robotul poate urca pe covoare și trece praguri?",
+      "a": "Majoritatea trec praguri de 2 cm, iar unele modele premium au sisteme de ridicare care depășesc praguri mai înalte. Pe covoare, roboții buni cresc automat puterea de aspirare și ridică mopul ca să nu îl ude. Verifică specificația de prag maxim dacă ai denivelări în casă."
+    },
+    {
+      "q": "Ce întreținere presupune un robot de aspirare?",
+      "a": "Cureți periodic peria principală și cea laterală de păr, speli sau înlocuiești filtrul și golești recipientul de praf. La modelele cu stație, schimbi sacul de praf la câteva săptămâni și clătești rezervoarele de apă. Lavetele de mop se spală sau se înlocuiesc când se uzează."
+    },
+    {
+      "q": "Un robot ieftin merită sau e bani aruncați?",
+      "a": "Un model accesibil precum Rowenta X-Plorer S75S sau Xiaomi S20+ face treabă bună într-un apartament cu suprafețe dure și puține covoare. Renunți la aspirare foarte mare și la stația de autogolire, dar câștigi curățare automată zilnică la un cost de achiziție mic."
     },
     {
       "q": "De unde câștigați bani dacă site-ul e gratuit?",
@@ -641,5 +678,44 @@
       ],
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-rowenta-x-plorer-s75s-animal-allergy-aspirator-si-mop-31w-2700-pa-120-min-2600-mah-7-senzori-4-harti-recipient-praf-0-4l-recipient-apa-300-ml-statie-de-incarcare-curatare-4-in-1-mop-/pd/DF4RTLMBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Cu stație de autogolire vs. fără stație: ce robot alegi?",
+    "intro": "Stația de autogolire scumpește robotul, dar reduce drastic cât te ocupi de el. Iată ce câștigi și la ce renunți cu fiecare variantă.",
+    "aLabel": "Cu stație (autogolire/spălare)",
+    "bLabel": "Fără stație",
+    "rows": [
+      {
+        "criteriu": "Intervenție manuală",
+        "a": "Foarte rară, la câteva săptămâni",
+        "b": "Golești recipientul des"
+      },
+      {
+        "criteriu": "Igienă",
+        "a": "Praf sigilat, laveta spălată la cald",
+        "b": "Contact direct cu praful"
+      },
+      {
+        "criteriu": "Spațiu ocupat",
+        "a": "Stație voluminoasă",
+        "b": "Docare compactă"
+      },
+      {
+        "criteriu": "Întreținere mop",
+        "a": "Spălare și uscare automată",
+        "b": "Speli laveta manual"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Cost de achiziție mai mare",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Case mari, animale, ocupați",
+        "b": "Apartamente mici, buget redus"
+      }
+    ],
+    "verdict": "Alege un model cu stație precum Roborock Qrevo Edge 2 Pro dacă vrei întreținere minimă și igienă maximă. Un model fără stație gen Xiaomi S20+ e suficient pentru un apartament mic sau un buget strâns."
+  }
 }

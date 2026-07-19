@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "laptop",
   "order": 13,
-  "intro": "Am comparat cele mai populare laptopuri de gaming de pe eMAG după placa video, procesor, ecran și răcire. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget — de la modele RTX seria 50 premium, la variante RTX 40 accesibile pentru gaming la FHD.",
+  "intro": "Am comparat cele mai populare laptopuri de gaming de pe eMAG după placa video, procesor, ecran și sistemul de răcire. Mai jos ai clasamentul cu argumente pentru fiecare loc și buget — de la modele RTX seria 50 premium precum ASUS ROG Strix SCAR 18, până la variante RTX 4050 sau RTX 3050 accesibile pentru gaming la FHD.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -40,26 +40,63 @@
   "guide": [
     {
       "h3": "Ce placă video aleg pentru gaming?",
-      "body": "RTX 5090 și RTX 4070 sunt ligile premium, pentru gaming la calitate maximă și rezoluții peste FHD. RTX 5060 și RTX 5050 acoperă gaming FHD la 144Hz+ fără compromisuri majore. RTX 4050 și RTX 3050 rămân opțiuni de intrare, suficiente pentru jocuri esport sau setări medii.",
-      "callout": "Dacă bugetul permite, un RTX 5060 oferă cel mai bun echilibru performanță/preț. RTX 5090 și RTX 4070 sunt pentru cei care vor tot ce e mai bun, indiferent de cost."
+      "body": "GPU-ul decide totul într-un laptop de gaming. RTX 5090 (din SCAR 18) și RTX 4070 (Alienware m16 R2) sunt liga premium, pentru calitate maximă peste rezoluția FHD. RTX 5060 și RTX 5050 acoperă perfect gaming la FHD 144Hz+, iar RTX 4050 sau RTX 3050 rămân opțiuni de intrare, bune pentru esport sau setări medii. Verifică mereu VRAM-ul și puterea consumată (TGP), nu doar numărul din nume.",
+      "callout": "Pentru cel mai bun echilibru performanță/preț, un RTX 5060 precum cel din Lenovo LOQ Essential este alegerea sigură."
+    },
+    {
+      "h3": "Ce înseamnă DLSS și generarea de cadre?",
+      "body": "DLSS este tehnologia NVIDIA care crește numărul de cadre randând jocul la rezoluție mai mică și mărind imaginea prin AI, fără pierdere vizibilă de calitate. Seria 50 aduce Multi Frame Generation, care generează mai multe cadre suplimentare decât seria 40, deci un plus real de fluiditate în jocurile compatibile. E motivul principal pentru care un RTX 5060 poate depăși simțitor un RTX 4060 la aceeași putere brută.",
+      "callout": "Dacă joci titluri AAA recente, suportul pentru generarea de cadre din seria 50 face o diferență palpabilă."
     },
     {
       "h3": "144Hz, 165Hz sau 240Hz — contează refresh rate-ul?",
-      "body": "La 144Hz simți deja o diferență uriașă față de un monitor obișnuit de 60Hz. 165Hz și 240Hz aduc un plus real doar dacă placa video poate genera atâtea cadre — de aceea le găsești mai ales pe laptopurile cu RTX 4070/5090. Pentru shootere competitive, refresh rate-ul contează la fel de mult ca GPU-ul."
+      "body": "La 144Hz simți deja o diferență uriașă față de un monitor obișnuit de 60Hz. 165Hz (Acer Nitro V15, LOQ 17IRX10) și 240Hz (SCAR 18, Alienware m16 R2) aduc un plus real doar dacă placa video poate genera atâtea cadre. Pentru shootere competitive, refresh rate-ul contează la fel de mult ca GPU-ul; pentru jocuri single-player, un panou bun de 144Hz este mai mult decât suficient."
     },
     {
       "h3": "Ecran mare (17\"+) sau 15,6\" mai portabil?",
-      "body": "Un ecran de 17\"-18\" oferă imersiune mai bună și, de regulă, un șasiu mai mare cu răcire superioară — util pentru sesiuni lungi la sarcină maximă. În schimb, un 15,6\" e mai ușor de cărat. AMD Ryzen tinde să ofere autonomie ceva mai bună decât Intel HX în aceeași clasă."
+      "body": "Un ecran de 17\"-18\" (LOQ 17IRX10, ASUS TUF A17) oferă imersiune mai bună și, de regulă, un șasiu mai mare cu răcire superioară — util pentru sesiuni lungi la sarcină maximă. În schimb, un 15,6\" e mai ușor de cărat zilnic la birou sau facultate. Alege diagonala mare dacă laptopul stă mai mult pe birou și cea compactă dacă îl porți des cu tine."
+    },
+    {
+      "h3": "AMD Ryzen sau Intel pentru gaming?",
+      "body": "În jocuri, la putere echivalentă, performanța este similară — GPU-ul contează mai mult decât procesorul. AMD Ryzen (Lenovo LOQ Essential, ASUS TUF A17) tinde să fie ceva mai eficient energetic, deci oferă autonomie puțin mai bună. Intel HX (Core i7/i9, Core Ultra) rămâne imbatabil la sarcini grele multi-core precum editare sau streaming în timp ce joci."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu te uita doar la numele GPU-ului: un RTX cu TGP mic poate fi mai lent decât un model din generația anterioară cu consum mai mare. Nu ignora RAM-ul și SSD-ul — 16GB și un SSD de cel puțin 512GB sunt minimul confortabil azi. Nu subestima răcirea: un laptop care se supraîncălzește își scade automat performanța (throttling), oricât de puternică ar fi placa video."
     }
   ],
   "faq": [
     {
       "q": "RTX 50 e mult mai bun decât RTX 40?",
-      "a": "Depinde de model: RTX 5090 e net peste orice altă placă mobilă de pe piață. Dar la nivel de intrare, RTX 5050/5060 nu depășesc dramatic un RTX 4070 — verifică mereu VRAM-ul (6 vs 8GB) și puterea consumată (TGP), nu doar numărul din nume."
+      "a": "Depinde de model: RTX 5090 e net peste orice altă placă mobilă. Dar la intrare, RTX 5050/5060 nu depășesc dramatic un RTX 4070 în putere brută — avantajul mare al seriei 50 este generarea multiplă de cadre (DLSS). Verifică mereu VRAM-ul și TGP-ul, nu doar numărul din nume."
     },
     {
       "q": "AMD Ryzen sau Intel pentru gaming?",
-      "a": "Performanța în jocuri e similară la putere echivalentă — GPU-ul contează mai mult decât CPU-ul. AMD Ryzen tinde să fie ceva mai eficient energetic, deci autonomie puțin mai bună față de chipurile Intel HX de top."
+      "a": "În jocuri, performanța e similară la putere echivalentă, pentru că GPU-ul contează mai mult decât procesorul. AMD Ryzen (LOQ Essential, TUF A17) tinde să fie ceva mai eficient energetic, deci autonomie puțin mai bună. Intel HX câștigă la editare video, streaming și alte sarcini grele multi-core."
+    },
+    {
+      "q": "Cât VRAM îmi trebuie pe un laptop de gaming?",
+      "a": "Pentru gaming la FHD, 8GB VRAM (RTX 5050/5060) sunt confortabili și pe termen mediu. Modelele cu 6GB (RTX 4050, RTX 3050) fac față jocurilor la setări medii, dar te pot limita în titluri AAA recente cu texturi mari. Peste FHD sau pentru longevitate, caută minimum 8GB."
+    },
+    {
+      "q": "De ce refresh rate să iau: 144Hz sau mai mult?",
+      "a": "144Hz este pragul unde diferența față de 60Hz devine evidentă și acoperă majoritatea nevoilor. 165Hz și 240Hz merită doar dacă placa video generează atâtea cadre și joci competitiv. Pentru jocuri single-player, un panou bun de 144Hz precum cel din LOQ Essential este pe deplin suficient."
+    },
+    {
+      "q": "Merită un ecran de 17\" sau 18\"?",
+      "a": "Da, dacă laptopul stă mai mult pe birou: diagonala mare (LOQ 17IRX10, SCAR 18) oferă imersiune superioară și, de obicei, răcire mai bună într-un șasiu spațios. Dezavantajul este portabilitatea — sunt mai grele și mai voluminoase. Pentru transport zilnic, un 15,6\" este alegerea practică."
+    },
+    {
+      "q": "Câtă memorie RAM și ce SSD sunt suficiente?",
+      "a": "16GB RAM (ideal DDR5) sunt minimul confortabil pentru gaming azi, iar 32GB (ASUS TUF F16) ajută la multitasking și streaming. La stocare, un SSD NVMe de cel puțin 512GB este necesar, dar jocurile moderne ocupă mult, așa că 1TB (LOQ 17IRX10, TUF A17) oferă mai mult confort pe termen lung."
+    },
+    {
+      "q": "De ce unele laptopuri vin fără sistem de operare?",
+      "a": "Multe modele (MSI Cyborg 15, majoritatea Lenovo LOQ) se livrează cu No OS sau Free DOS pentru a reduce prețul. Vei avea nevoie să instalezi Windows separat, cu o licență proprie. Dacă nu ești familiar cu instalarea, alege un model care include deja sistemul de operare."
+    },
+    {
+      "q": "Cât de importantă e răcirea la un laptop de gaming?",
+      "a": "Esențială. Un sistem de răcire slab duce la throttling — laptopul își reduce automat performanța pentru a nu se supraîncălzi, așa că nu mai profiți de placa video. Șasiurile mai mari (SCAR 18, Alienware m16 R2, TUF A17) și cele cu mai multe ventilatoare gestionează mai bine sesiunile lungi la sarcină maximă."
     },
     {
       "q": "De unde câștigați bani dacă site-ul e gratuit?",
@@ -627,5 +664,49 @@
       ],
       "emagUrl": "https://www.emag.ro/laptop-gaming-asus-tuf-f16-fx607vj-cu-procesor-intelr-coretm-5-210h-pana-la-4-8ghz-16-full-hd-wuxga-144hz-ips-32gb-ddr4-ram-512gb-ssd-nvidiar-geforce-rtxtm-3050-6gb-gddr6-no-os-mecha-gray-fx607vj-rl08/pd/DYR2KJ3BM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "RTX seria 50 vs. seria 40: ce placă video de laptop alegi?",
+    "intro": "Seria 50 (Blackwell) e cea nouă, seria 40 (Ada) rămâne solidă și adesea mai accesibilă. Iată diferențele care contează la cumpărare.",
+    "aLabel": "RTX seria 50",
+    "bLabel": "RTX seria 40",
+    "rows": [
+      {
+        "criteriu": "Performanță raster",
+        "a": "Superioară per clasă",
+        "b": "Solidă, dar în urmă"
+      },
+      {
+        "criteriu": "DLSS (generare cadre)",
+        "a": "Multi Frame Generation",
+        "b": "Frame Generation clasic"
+      },
+      {
+        "criteriu": "Eficiență/consum",
+        "a": "Mai bună per watt",
+        "b": "Bună, generație matură"
+      },
+      {
+        "criteriu": "VRAM",
+        "a": "GDDR7 rapidă",
+        "b": "GDDR6, adesea 6GB la intrare"
+      },
+      {
+        "criteriu": "Disponibilitate",
+        "a": "Gamă tot mai largă",
+        "b": "Modele mature, verificate"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Cost de achiziție mai mare",
+        "b": "Mai accesibil la aceeași clasă"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Jocuri noi, viitor-proof",
+        "b": "Buget echilibrat, gaming FHD"
+      }
+    ],
+    "verdict": "Alege seria 50 dacă vrei cea mai bună fluiditate în jocurile noi și generare avansată de cadre. Alege seria 40 dacă prioritatea e un raport preț/performanță bun pentru gaming la FHD."
+  }
 }
