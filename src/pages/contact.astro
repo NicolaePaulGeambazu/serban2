@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import Icon from '../components/Icon.astro';
+
+// Web3Forms — the destination email is tied to this access key on Web3Forms'
+// servers, so the address is never exposed in the page source.
+// Get the key: go to https://web3forms.com, enter the destination email, and
+// paste the access key (a UUID) below.
+const WEB3FORMS_KEY = 'f4ab80b5-a4c9-4792-a49a-103964ed1a5e';
+---
+<Base title="Contact" description="Ai o întrebare, o corectură sau vrei să propui un produs? Scrie-ne prin formularul de contact." current="/contact/">
+  <div class="wrap">
+    <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Contact' }]} />
+    <section class="article">
+      <div class="prose">
+        <span class="eyebrow">Contact</span>
+        <h1 style="margin-top:10px">Scrie-ne</h1>
+        <p style="margin-top:14px">Ai o întrebare, ai găsit o greșeală sau vrei să propui un produs pentru un clasament? Completează formularul de mai jos — citim fiecare mesaj și răspundem în câteva zile lucrătoare.</p>
+
+        <form class="cform" id="cform" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value={WEB3FORMS_KEY} />
+          <input type="hidden" name="subject" value="Mesaj nou de pe TopAlegeri" />
+          <input type="hidden" name="from_name" value="TopAlegeri" />
+          <input type="checkbox" name="botcheck" class="cform-honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+          <label>
+            <span>Nume</span>
+            <input type="text" name="name" required autocomplete="name" placeholder="Numele tău" />
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" name="email" required autocomplete="email" placeholder="adresa ta de email" />
+          </label>
+          <label>
+            <span>Mesaj</span>
+            <textarea name="message" rows="6" required placeholder="Cu ce te putem ajuta?"></textarea>
+          </label>
+          <button type="submit" class="btn btn-primary">Trimite mesajul <Icon name="arrow" /></button>
+          <p class="cform-note">Nu îți cerem cont și nu îți folosim adresa decât ca să-ți răspundem.</p>
+        </form>
+
+        <div id="sent" class="callout" hidden>
+          <b>Mulțumim!</b> Mesajul tău a fost trimis. Îți răspundem în câteva zile lucrătoare.
+        </div>
+        <div id="sendErr" class="callout" hidden style="border-left-color:var(--bad)">
+          <b>Ups.</b> Mesajul nu a putut fi trimis. Încearcă din nou peste câteva momente.
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .cform { display: grid; gap: 16px; margin-top: 24px; max-width: 560px; }
+  .cform label { display: grid; gap: 6px; }
+  .cform label > span { font-weight: 600; font-size: .9rem; color: var(--text); }
+  .cform input, .cform textarea {
+    font-family: var(--sans); font-size: 1rem; color: var(--text);
+    background: var(--paper-2); border: 1px solid var(--line); border-radius: 11px;
+    padding: 12px 14px; width: 100%; transition: border-color .15s, box-shadow .15s;
+  }
+  .cform input:focus, .cform textarea:focus {
+    outline: none; border-color: var(--emerald);
+    box-shadow: 0 0 0 3px rgba(11,110,91,.14);
+  }
+  .cform textarea { resize: vertical; min-height: 120px; }
+  .cform button { justify-self: start; margin-top: 4px; }
+  .cform-note { font-size: .82rem; color: var(--muted); margin-top: 2px; }
+  .cform-honey { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+</style>
+
+<script>
+  const form = document.getElementById('cform') as HTMLFormElement | null;
+  const okBox = document.getElementById('sent');
+  const errBox = document.getElementById('sendErr');
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = form.querySelector('button[type=submit]') as HTMLButtonElement | null;
+    if (btn) { btn.disabled = true; btn.textContent = 'Se trimite…'; }
+    if (errBox) errBox.hidden = true;
+    try {
+      const res = await fetch(form.action, { method: 'POST', body: new FormData(form), headers: { Accept: 'application/json' } });
+      if (res.ok) {
+        form.style.display = 'none';
+        if (okBox) okBox.hidden = false;
+      } else {
+        throw new Error('bad status');
+      }
+    } catch {
+      if (errBox) errBox.hidden = false;
+      if (btn) { btn.disabled = false; btn.textContent = 'Trimite mesajul'; }
+    }
+  });
+</script>

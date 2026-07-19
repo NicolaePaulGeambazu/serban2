@@ -5,8 +5,8 @@
   "icon": "dryer",
   "order": 8,
   "intro": "Am comparat cele mai populare uscătoare de rufe cu pompă de căldură de pe eMAG după clasa energetică, capacitate, calitatea uscării și zgomot. Toate consumă puțin curent — mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
-  "productsCount": 7,
+  "updated": "2026-07-19",
+  "productsCount": 8,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -77,7 +77,6 @@
       "score": 9.3,
       "image": "https://s13emagst.akamaized.net/products/100880/100879616/images/res_81abeb20cbcb405c69d2dcf4e9d4cba1.jpg?width=400&amp;height=80",
       "feedId": "D7VTTJ3BM",
-      "inStock": true,
       "features": [
         "smart",
         "mare"
@@ -135,7 +134,6 @@
       "score": 9.0,
       "image": "https://s13emagst.akamaized.net/products/87590/87589351/images/res_5207c9a150af68888ebde9dabf3b2c46.jpg?width=400&amp;height=80",
       "feedId": "DGG35M3BM",
-      "inStock": true,
       "features": [
         "smart",
         "mare"
@@ -186,14 +184,70 @@
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-samsung-pompa-de-caldura-9-kg-clasa-c-smart-things-quick-dry-optimal-dry-wifi-negru-dv90dg52a0able/pd/DGG35M3BM/"
     },
     {
-      "id": "p3",
+      "id": "p8",
       "rank": 3,
+      "name": "Samsung DV90DG52A0 9 kg (alb)",
+      "tag": "Aceeași performanță, în alb",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/87590/87589353/images/res_36e2ce4d2dd7c18493428e5a144ed04d.jpg?width=400&height=400",
+      "feedId": "DBW35M3BM",
+      "features": [
+        "smart",
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "SmartThings",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "Quick Dry",
+          "label": "Optimal Dry"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 92
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        },
+        {
+          "label": "Silențios",
+          "pct": 88
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "9 kg — usci multe rufe dintr-o tură",
+        "SmartThings Wi-Fi și Optimal Dry"
+      ],
+      "cons": [
+        "Clasa C, mai puțin economic decât Bosch"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-samsung-pompa-de-caldura-9-kg-clasa-c-smart-things-quick-dry-optimal-dry-wifi-alb-dv90dg52a0ahle/pd/DBW35M3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 4,
       "name": "Beko B3T42242 8 kg",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.6,
       "image": "https://s13emagst.akamaized.net/products/44377/44376788/images/res_df2df79be0a4cea0023bb57b164e823b.jpg?width=400&height=400",
       "feedId": "DNZVMSMBM",
-      "inStock": true,
       "features": [],
       "specs": [
         {
@@ -242,13 +296,12 @@
     },
     {
       "id": "p4",
-      "rank": 4,
+      "rank": 5,
       "name": "Bosch WTH8520BBY 8 kg",
       "tag": "Fiabilitate Bosch",
       "score": 8.3,
       "image": "https://s13emagst.akamaized.net/products/90540/90539817/images/res_633b50e116bad25b18eecc5a60bf0f84.jpg?width=400&amp;height=80",
       "feedId": "DK77M73BM",
-      "inStock": true,
       "features": [],
       "specs": [
         {
@@ -297,13 +350,12 @@
     },
     {
       "id": "p5",
-      "rank": 5,
+      "rank": 6,
       "name": "Beko B3T67230 7 kg",
       "tag": "Cel mai bun cu abur",
       "score": 8.0,
       "image": "https://s13emagst.akamaized.net/products/43459/43458026/images/res_2dbfdaa3768bfc707229b863b9ba2a2f.png?width=400&height=400",
       "feedId": "DRC1MJMBM",
-      "inStock": true,
       "features": [
         "abur"
       ],
@@ -354,13 +406,12 @@
     },
     {
       "id": "p6",
-      "rank": 6,
+      "rank": 7,
       "name": "Samsung DV80CGC0B0AHLE 8 kg",
       "tag": "Cel mai smart",
       "score": 7.7,
       "image": "https://s13emagst.akamaized.net/products/62007/62006310/images/res_440490f19008f2d62f0af644f0aa2d84.jpg?width=400&amp;height=80",
       "feedId": "DSLH27YBM",
-      "inStock": true,
       "features": [
         "smart"
       ],
@@ -411,13 +462,12 @@
     },
     {
       "id": "p7",
-      "rank": 7,
+      "rank": 8,
       "name": "Heinner HHPD-V7T1CHA++ 7 kg",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.4,
       "image": "https://s13emagst.akamaized.net/products/51343/51342218/images/res_043e33f1acb77a392c095e8256d9a30d.jpg?width=400&amp;height=80",
       "feedId": "DVRPVQMBM",
-      "inStock": true,
       "features": [],
       "specs": [
         {

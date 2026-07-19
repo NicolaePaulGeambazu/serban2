@@ -23,28 +23,6 @@
       "productId": "p9"
     }
   ],
-  "priceBuckets": [
-    {
-      "key": "all",
-      "label": "Toate prețurile"
-    },
-    {
-      "key": "low",
-      "label": "sub 2.000 lei",
-      "max": 1999
-    },
-    {
-      "key": "mid",
-      "label": "2.000–4.000 lei",
-      "min": 2000,
-      "max": 4000
-    },
-    {
-      "key": "high",
-      "label": "peste 4.000 lei",
-      "min": 4001
-    }
-  ],
   "featureFilters": [
     {
       "key": "oled",
@@ -97,7 +75,6 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "price": 5000,
       "image": "https://s13emagst.akamaized.net/products/91151/91150885/images/res_5d5ad8b6b3bf455f0aa66c9f3078742e.jpg?width=400&height=400",
       "feedId": "DVMLL73BM",
       "features": [
@@ -158,7 +135,6 @@
       "name": "TCL QD-MiniLED 55C6K",
       "tag": "Cel mai bun preț/calitate",
       "score": 9.1,
-      "price": 2300,
       "image": "https://s13emagst.akamaized.net/products/85933/85932263/images/res_6a14262f621d8b64e467b6ccf835af00.jpg?width=400&height=400",
       "feedId": "DF4FMB3BM",
       "features": [
@@ -217,7 +193,6 @@
       "name": "Philips 48OLED820 Ambilight",
       "tag": "Cea mai bună pentru filme",
       "score": 9,
-      "price": 5000,
       "image": "https://s13emagst.akamaized.net/products/96441/96440663/images/res_bb6ee16367766a3da2b44f8cb29ce35f.jpg?width=400&height=400",
       "feedId": "D2FTXH3BM",
       "features": [
@@ -276,7 +251,6 @@
       "name": "TCL QD-MiniLED 65C6K",
       "tag": "Cel mai bun ecran mare pe buget",
       "score": 8.9,
-      "price": 2600,
       "image": "https://s13emagst.akamaized.net/products/85933/85932264/images/res_057ce7068c81dafe61e6365a9d191dfc.jpg?width=400&height=400",
       "feedId": "DJ4FMB3BM",
       "features": [
@@ -335,7 +309,6 @@
       "name": "LG OLED evo 48C5 (48C52LA)",
       "tag": "Cel mai bun OLED compact",
       "score": 8.8,
-      "price": 4000,
       "image": "https://s13emagst.akamaized.net/products/93782/93781722/images/res_4a7d28a9a1ab2d8b4c2e6c6ee7b8bb5f.jpg?width=400&height=400",
       "feedId": "D54WJK3BM",
       "features": [
@@ -394,7 +367,6 @@
       "name": "Samsung QLED 55Q7F2",
       "tag": "Cel mai bun QLED accesibil 55\"",
       "score": 8.4,
-      "price": 1700,
       "image": "https://s13emagst.akamaized.net/products/93125/93124844/images/res_bd84d16fbfe8404fb117dfc6afdc9ab4.jpg?width=400&height=400",
       "feedId": "DT3GRT3BM",
       "features": [
@@ -412,10 +384,6 @@
         {
           "value": "Quantum",
           "label": "Dot"
-        },
-        {
-          "value": "55\"",
-          "label": "sub 1.800 lei"
         }
       ],
       "scores": [
@@ -452,7 +420,6 @@
       "name": "Sony Bravia 3 50S39",
       "tag": "Cea mai bună procesare Sony",
       "score": 8.3,
-      "price": 2700,
       "image": "https://s13emagst.akamaized.net/products/93430/93429227/images/res_4d6c2b17c071cea4b3c57f2395def505.jpg?width=400&height=400",
       "feedId": "D2527K3BM",
       "features": [],
@@ -509,7 +476,6 @@
       "name": "TCL QD-MiniLED 50C7K",
       "tag": "MiniLED accesibil la 50\"",
       "score": 8.2,
-      "price": 2000,
       "image": "https://s13emagst.akamaized.net/products/85933/85932253/images/res_45acbe523b554c6c3085f691f7f743e0.jpg?width=400&height=400",
       "feedId": "D74FMB3BM",
       "features": [
@@ -527,10 +493,6 @@
         {
           "value": "Google TV",
           "label": ""
-        },
-        {
-          "value": "MiniLED",
-          "label": "la 2.000 lei"
         }
       ],
       "scores": [
@@ -567,7 +529,6 @@
       "name": "Samsung QLED 50Q7F2",
       "tag": "Cea mai bună alegere pe buget",
       "score": 8,
-      "price": 1600,
       "image": "https://s13emagst.akamaized.net/products/93125/93124846/images/res_6f60c0330dea93a9f6ba8c519d2d75ae.jpg?width=400&height=400",
       "feedId": "DN3GRT3BM",
       "features": [],
@@ -583,10 +544,6 @@
         {
           "value": "Quantum",
           "label": "Dot"
-        },
-        {
-          "value": "Sub 1.700",
-          "label": "lei"
         }
       ],
       "scores": [
@@ -624,7 +581,6 @@
       "name": "Samsung QLED 98Q7F",
       "tag": "Cel mai mare ecran (98\")",
       "score": 8.1,
-      "price": 6000,
       "image": "https://s13emagst.akamaized.net/products/117731/117730650/images/res_b448f653f9c769fafe9e97497ef4e3e4.jpg?width=400&height=400",
       "feedId": "D896932BM",
       "features": [

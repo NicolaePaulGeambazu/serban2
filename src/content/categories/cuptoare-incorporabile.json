@@ -5,8 +5,8 @@
   "icon": "oven",
   "order": 6,
   "intro": "Am comparat cele mai populare cuptoare încorporabile de pe eMAG după rezultatele la gătit, sistemul de autocurățare, ușurința în folosire și consum. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
-  "productsCount": 8,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -21,28 +21,6 @@
     {
       "label": "Cea mai bună alegere pe buget",
       "productId": "p7"
-    }
-  ],
-  "priceBuckets": [
-    {
-      "key": "all",
-      "label": "Toate prețurile"
-    },
-    {
-      "key": "low",
-      "label": "sub 1.500 lei",
-      "max": 1499
-    },
-    {
-      "key": "mid",
-      "label": "1.500–2.500 lei",
-      "min": 1500,
-      "max": 2500
-    },
-    {
-      "key": "high",
-      "label": "peste 2.500 lei",
-      "min": 2501
     }
   ],
   "featureFilters": [
@@ -97,7 +75,6 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.2,
-      "price": 2400,
       "image": "https://s13emagst.akamaized.net/products/47889/47888688/images/res_131f83b1a64e439de5627624cdce4bf0.jpg?width=400&height=400",
       "feedId": "DP2F5CMBM",
       "features": [
@@ -156,7 +133,6 @@
       "name": "Bosch Seria 8 HBG7741W1 71L",
       "tag": "Cel mai complet (premium)",
       "score": 9,
-      "price": 5100,
       "image": "https://s13emagst.akamaized.net/products/60395/60394011/images/res_f989dd2f4a6bc7ac983fd44dd041fcf1.jpg?width=400&height=400",
       "feedId": "D8GTP3YBM",
       "features": [
@@ -210,12 +186,68 @@
       "affiliateUrl": "https://l.profitshare.ro/l/16182479"
     },
     {
-      "id": "p3",
+      "id": "p10",
       "rank": 3,
+      "name": "Whirlpool WOI78PT1SXA 73L",
+      "tag": "Piroliză spațioasă (73 L)",
+      "score": 8.9,
+      "image": "https://s13emagst.akamaized.net/products/92131/92130951/images/res_b2e4301302c57542a7e79f7a3e9fc50d.jpg?width=400&height=400",
+      "feedId": "D76S1D3BM",
+      "features": [
+        "piroliza",
+        "ventilat"
+      ],
+      "specs": [
+        {
+          "value": "73 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Piroliză",
+          "label": "autocurățare"
+        },
+        {
+          "value": "6th Sense",
+          "label": "tehnologie"
+        },
+        {
+          "value": "A+",
+          "label": "clasă energetică"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gătit",
+          "pct": 91
+        },
+        {
+          "label": "Autocurățare",
+          "pct": 95
+        },
+        {
+          "label": "Ușurință",
+          "pct": 88
+        },
+        {
+          "label": "Eficiență",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Piroliză + cel mai mare volum din test (73 L)",
+        "Tehnologia 6th Sense reglează automat timpul și temperatura"
+      ],
+      "cons": [
+        "Fără conectivitate smart"
+      ],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-whirlpool-electric-73-l-autocuratare-pirolitica-thenologie-al-6-lea-simt-casa-a-negru-inox-woi78pt1sxa/pd/D76S1D3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 4,
       "name": "Electrolux EOF6P76X2 72L",
       "tag": "Cel mai bun cu piroliză, la preț bun",
       "score": 8.8,
-      "price": 2300,
       "image": "https://s13emagst.akamaized.net/products/47574/47573675/images/res_bf134c3a56ccce2bbd3bc68aade2db2b.jpg?width=400&height=400",
       "feedId": "DL08FCMBM",
       "features": [
@@ -270,11 +302,10 @@
     },
     {
       "id": "p4",
-      "rank": 4,
+      "rank": 5,
       "name": "Bosch HBF133BA1 66L",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.6,
-      "price": 1350,
       "image": "https://s13emagst.akamaized.net/products/90540/90539811/images/res_e2bdb847a9a3961f52c1967651b686d5.jpg?width=400&height=400",
       "feedId": "DY77M73BM",
       "features": [
@@ -328,13 +359,12 @@
     },
     {
       "id": "p8",
-      "rank": 5,
+      "rank": 6,
       "name": "Beko BBIM14300WMS 72L",
       "tag": "Cel mai spațios la preț bun",
       "score": 8.5,
       "image": "https://s13emagst.akamaized.net/products/33935/33934011/images/res_eb55b4ced3c09495375e3fb8ea898732.jpg?width=400&height=400",
       "feedId": "DJ2Y17MBM",
-      "inStock": true,
       "features": [
         "ventilat"
       ],
@@ -384,12 +414,68 @@
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-beko-electric-multifunctional-aeroperfect-autocuratare-catalitica-steamshine-cleaning-grill-3d-cooking-72-l-clasa-a-alb-bbim14300wms/pd/DJ2Y17MBM/"
     },
     {
+      "id": "p9",
+      "rank": 7,
+      "name": "Beko BBIS13300XMSE 72L",
+      "tag": "Catalitic cu abur, la preț mic",
+      "score": 8.4,
+      "image": "https://s13emagst.akamaized.net/products/36497/36496138/images/res_027b98dde7485d9bb3e0c645234c2ccc.jpg?width=400&height=400",
+      "feedId": "DQTYJKMBM",
+      "features": [
+        "abur",
+        "ventilat"
+      ],
+      "specs": [
+        {
+          "value": "72 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Catalitică",
+          "label": "+ SteamShine"
+        },
+        {
+          "value": "3D Cooking",
+          "label": "AeroPerfect"
+        },
+        {
+          "value": "A+",
+          "label": "clasă energetică"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gătit",
+          "pct": 88
+        },
+        {
+          "label": "Autocurățare",
+          "pct": 82
+        },
+        {
+          "label": "Ușurință",
+          "pct": 85
+        },
+        {
+          "label": "Eficiență",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "72 L spațios, cu gătit asistat de abur",
+        "Clasa A+ și închidere lentă a ușii (SoftClose)"
+      ],
+      "cons": [
+        "Curățare catalitică, nu piroliză"
+      ],
+      "emagUrl": "https://www.emag.ro/cuptor-incorporabil-beko-electric-autocuratare-catalitica-72-l-aeroperfect-grill-3d-cooking-steam-assisted-cooking-steam-shine-cleaning-softclose-clasa-a-negru-bbis13300xmse/pd/DQTYJKMBM/"
+    },
+    {
       "id": "p5",
-      "rank": 6,
+      "rank": 8,
       "name": "Bosch HBF153BS0 66L",
       "tag": "Bosch cu control touch",
-      "score": 8.4,
-      "price": 3571,
+      "score": 8.3,
       "image": "https://s13emagst.akamaized.net/products/25317/25316778/images/res_fea4ac056b26523a8a4c5752976f8e98.jpg?width=400&height=400",
       "feedId": "DKDRP6BBM",
       "features": [
@@ -443,11 +529,10 @@
     },
     {
       "id": "p6",
-      "rank": 7,
+      "rank": 9,
       "name": "Electrolux EOG2102AOX 68L (gaz)",
       "tag": "Cel mai bun pe gaz",
       "score": 8.1,
-      "price": 2000,
       "image": "https://s13emagst.akamaized.net/products/993/992994/images/res_6d8d08362a93bcf45635123902599c85.jpg?width=400&height=400",
       "feedId": "DYN0YMBBM",
       "features": [
@@ -501,11 +586,10 @@
     },
     {
       "id": "p7",
-      "rank": 8,
+      "rank": 10,
       "name": "Electrolux EOF3H50BK 65L",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.9,
-      "price": 1200,
       "image": "https://s13emagst.akamaized.net/products/46146/46145467/images/res_6c18720634b3a26e608975e45c78b2b2.jpg?width=400&height=400",
       "feedId": "D97WGVMBM",
       "features": [

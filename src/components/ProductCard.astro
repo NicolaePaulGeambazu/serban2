@@ -12,7 +12,6 @@ const { product: p } = Astro.props;
   class:list={['prod-card', p.win && 'win']}
   id={p.id}
   data-rank={p.rank}
-  data-price={p.price}
   data-feat={p.features.join(' ')}
 >
   <div class="pc-media">

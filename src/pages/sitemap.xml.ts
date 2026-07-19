@@ -14,6 +14,7 @@ export const GET: APIRoute = async () => {
     '/ghiduri/',
     '/cum-testam/',
     '/despre/',
+    '/contact/',
     '/legal/afiliere/',
     '/legal/confidentialitate/',
     '/legal/cookie/',

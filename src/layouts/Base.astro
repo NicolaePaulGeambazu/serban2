@@ -36,7 +36,11 @@ const org = {
   name: site.name,
   url: site.url,
   description: site.description,
-  email: site.email,
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'customer support',
+    url: `${site.url}/contact/`,
+  },
 };
 const website = {
   '@context': 'https://schema.org',

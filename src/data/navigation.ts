@@ -25,7 +25,7 @@ export const footerNav = [
       { label: 'Cum lucrăm', href: '/cum-testam/' },
       { label: 'Despre noi', href: '/despre/' },
       { label: 'Ghiduri', href: '/ghiduri/' },
-      { label: 'Contact', href: '/despre/#contact' },
+      { label: 'Contact', href: '/contact/' },
     ],
   },
   {

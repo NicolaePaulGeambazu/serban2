@@ -31,7 +31,13 @@ const itemList = {
     item: {
       '@type': 'Product',
       name: p.name,
+      ...(p.image ? { image: p.image } : {}),
       url: deeplink(p.affiliateUrl || p.emagUrl),
+      review: {
+        '@type': 'Review',
+        reviewRating: { '@type': 'Rating', ratingValue: p.score, bestRating: 10, worstRating: 1 },
+        author: { '@type': 'Organization', name: `Redacția ${site.name}` },
+      },
     },
   })),
 };

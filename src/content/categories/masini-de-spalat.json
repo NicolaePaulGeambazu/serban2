@@ -5,8 +5,8 @@
   "icon": "washer",
   "order": 7,
   "intro": "Am comparat cele mai căutate mașini de spălat rufe de pe eMAG după calitatea spălării, consumul de energie, nivelul de zgomot și programele utile. Mai jos ai clasamentul, cu argumente pentru fiecare loc, capacitate și buget.",
-  "updated": "2026-07-18",
-  "productsCount": 11,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "label": "Cea mai bună alegere pe buget",
-      "productId": "p11"
+      "productId": "p10"
     }
   ],
   "featureFilters": [
@@ -77,7 +77,6 @@
       "score": 9.3,
       "image": "https://s13emagst.akamaized.net/products/69129/69128945/images/res_b26740727d36d0d3982ca80d9081d44a.jpg?width=400&amp;height=80",
       "feedId": "DWH95PYBM",
-      "inStock": true,
       "features": [
         "abur",
         "mare"
@@ -135,7 +134,6 @@
       "score": 9.1,
       "image": "https://s13emagst.akamaized.net/products/55101/55100457/images/res_490fc8c339bdcce9c5423b3635bc31c4.jpg?width=400&amp;height=80",
       "feedId": "D2VSC8MBM",
-      "inStock": true,
       "features": [
         "smart",
         "mare"
@@ -193,7 +191,6 @@
       "score": 8.9,
       "image": "https://s13emagst.akamaized.net/products/71757/71756404/images/res_d2ca9a3325c05d8d8e1f84832944b378.jpg?width=400&amp;height=80",
       "feedId": "DZ9CLFYBM",
-      "inStock": true,
       "features": [
         "smart",
         "mare"
@@ -251,7 +248,6 @@
       "score": 8.7,
       "image": "https://s13emagst.akamaized.net/products/62007/62006314/images/res_225cad1bca9eb29ca2288f7f24ed7836.jpg?width=400&amp;height=80",
       "feedId": "DLLH27YBM",
-      "inStock": true,
       "features": [
         "smart"
       ],
@@ -308,7 +304,6 @@
       "score": 8.5,
       "image": "https://s13emagst.akamaized.net/products/89616/89615512/images/res_c0b65f03b24a339007a0e0096d738b40.jpg?width=400&amp;height=80",
       "feedId": "DW02M23BM",
-      "inStock": true,
       "features": [
         "abur",
         "smart",
@@ -367,7 +362,6 @@
       "score": 8.3,
       "image": "https://s13emagst.akamaized.net/products/63816/63815753/images/res_0d87764fec7bc6b3e7ef4185645bfe8d.jpg?width=400&amp;height=80",
       "feedId": "DLS33TYBM",
-      "inStock": true,
       "features": [],
       "specs": [
         {
@@ -422,7 +416,6 @@
       "score": 8.1,
       "image": "https://s13emagst.akamaized.net/products/116628/116627485/images/res_0b3127b875d2e392cdeaf385e2465467.png?width=400&amp;height=80",
       "feedId": "DGJ5KY2BM",
-      "inStock": true,
       "features": [],
       "specs": [
         {
@@ -477,7 +470,6 @@
       "score": 7.9,
       "image": "https://s13emagst.akamaized.net/products/90118/90117988/images/res_9ecc17d086b72802a4a56294ab31700c.jpg?width=400&amp;height=80",
       "feedId": "D6DBV23BM",
-      "inStock": true,
       "features": [
         "abur",
         "smart",
@@ -536,7 +528,6 @@
       "score": 7.7,
       "image": "https://s13emagst.akamaized.net/products/78559/78558270/images/res_6ed754f930c888203786e6b46f4c31e5.jpg?width=400&amp;height=80",
       "feedId": "D1HWM1YBM",
-      "inStock": true,
       "features": [
         "abur",
         "mare"
@@ -594,7 +585,6 @@
       "score": 7.5,
       "image": "https://s13emagst.akamaized.net/products/48964/48963831/images/res_ef2b85495b9a4e767b8b73e8d9ba3102.jpg?width=400&height=400",
       "feedId": "DX8SBZMBM",
-      "inStock": true,
       "features": [
         "abur"
       ],
@@ -642,63 +632,6 @@
         "Clasa C — consumă mai mult decât rivalele Clasa A"
       ],
       "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-whirlpool-freshcare-8-kg-1600-rpm-clasa-c-steam-refresh-steam-hygiene-tehnologia-al-6lea-simt-motor-inverter-display-lcd-alb-ffd8648bvee/pd/DX8SBZMBM/"
-    },
-    {
-      "id": "p11",
-      "rank": 11,
-      "name": "Beko BM3WFSU47415WB 7 kg",
-      "tag": "Cea mai bună alegere pe buget",
-      "score": 7.3,
-      "image": "https://s13emagst.akamaized.net/products/68577/68576896/images/res_3028ac361fba07c14b6fc0ea2a103778.jpg?width=400&amp;height=80",
-      "feedId": "DG88TPYBM",
-      "inStock": true,
-      "features": [
-        "abur"
-      ],
-      "specs": [
-        {
-          "value": "7 kg",
-          "label": "capacitate"
-        },
-        {
-          "value": "Clasa A",
-          "label": "eficiență"
-        },
-        {
-          "value": "SteamCure",
-          "label": "cu abur"
-        },
-        {
-          "value": "ProSmart",
-          "label": "motor inverter"
-        }
-      ],
-      "scores": [
-        {
-          "label": "Spălare",
-          "pct": 85
-        },
-        {
-          "label": "Eficiență",
-          "pct": 88
-        },
-        {
-          "label": "Silențios",
-          "pct": 83
-        },
-        {
-          "label": "Programe",
-          "pct": 80
-        }
-      ],
-      "pros": [
-        "Compactă de 7 kg, Clasa A la cel mai mic preț",
-        "Motor ProSmart Inverter și SteamCure"
-      ],
-      "cons": [
-        "7 kg pot fi puțini pentru o familie mare"
-      ],
-      "emagUrl": "https://www.emag.ro/masina-de-spalat-rufe-beko-7-kg-1400-rpm-clasa-a-motor-prosmart-inverter-steamcure-addxtra-energyspin-coldwash-alb-bm3wfsu47415wb/pd/DG88TPYBM/"
     }
   ]
 }

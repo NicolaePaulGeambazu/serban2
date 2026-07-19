@@ -1,0 +1,578 @@
+{
+  "title": "Cele mai bune plăci video în 2026",
+  "h1": "Cele mai bune plăci video în 2026",
+  "parent": "Electronice",
+  "icon": "gpu",
+  "order": 16,
+  "intro": "Am comparat cele mai populare plăci video de pe eMAG după performanța brută, ray tracing, eficiența energetică și calitatea răcirii. Mai jos ai clasamentul, de la modele premium NVIDIA și AMD, până la variante mid-range cu cel mai bun raport preț-performanță.",
+  "updated": "2026-07-18",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p4"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "nvidia",
+      "label": "NVIDIA GeForce"
+    },
+    {
+      "key": "amd",
+      "label": "AMD Radeon"
+    },
+    {
+      "key": "16gb",
+      "label": "16 GB VRAM"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "NVIDIA GeForce sau AMD Radeon?",
+      "body": "NVIDIA domină la ray tracing și DLSS 4 (upscaling + Frame Generation), utile în jocurile noi cu grafică complexă. AMD Radeon oferă, de regulă, mai multă putere brută și VRAM la același preț, ideal dacă joci mai ales la rezoluție nativă, fără ray tracing agresiv.",
+      "callout": "Pentru gaming la rezoluție nativă, un RX 9070 XT bate un RTX 5070 din aceeași plajă de preț. Pentru jocuri cu ray tracing greu (Cyberpunk 2077, Alan Wake 2), NVIDIA rămâne alegerea mai sigură."
+    },
+    {
+      "h3": "Câtă memorie video (VRAM) ai nevoie?",
+      "body": "8 GB e suficient azi pentru 1080p, dar începe să limiteze la texturi mari sau la 1440p în jocurile noi. 12 GB acoperă confortabil 1440p. 16 GB e recomandat pentru 4K sau pentru longevitate, mai ales dacă vrei să păstrezi placa 4-5 ani."
+    },
+    {
+      "h3": "Bus de memorie și lățime de bandă",
+      "body": "Un bus mai lat (256-bit față de 128-bit) înseamnă mai multă lățime de bandă, esențială la rezoluții mari și texturi 4K. Plăcile de 128-bit (RTX 5060) sunt gândite pentru 1080p/1440p; cele de 256-bit (RTX 5080, RX 9070/9070 XT) țin pasul la 4K."
+    }
+  ],
+  "faq": [
+    {
+      "q": "GDDR6 vs GDDR7 — contează pentru gaming?",
+      "a": "GDDR7 (folosit de seria RTX 50) oferă mai multă lățime de bandă la aceeași lățime de bus, ceea ce ajută la rezoluții mari. Diferența practică e mai mică decât cea dintre generații de GPU, dar contează marginal la 4K."
+    },
+    {
+      "q": "Am nevoie de o sursă (PSU) mai puternică?",
+      "a": "Da — plăcile din gama medie-superioară (RTX 5070, RX 9070/9070 XT, RTX 5080) au nevoie de o sursă de minimum 650-750W, de calitate, cu conectorii PCIe corespunzători. Verifică mereu recomandarea producătorului înainte de cumpărare."
+    },
+    {
+      "q": "De unde câștigați bani dacă site-ul e gratuit?",
+      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+    }
+  ],
+  "conclusion": "Pentru majoritatea jucătorilor, RTX 5080 WINDFORCE OC SFF e cel mai puternic GPU din clasament, ideal pentru 1440p/4K. Dacă vrei raportul optim preț/performanță, RX 9070 XT PULSE oferă putere de nivel premium la un preț mai accesibil, iar RTX 5060 WINDFORCE MAX OC e alegerea potrivită dacă bugetul e principala restricție.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "GeForce RTX™ 5080 WINDFORCE OC SFF, 16GB GDDR7, 256-bit",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.5,
+      "image": "https://s13emagst.akamaized.net/products/84898/84897087/images/res_f41e964027b13dccb7d93e36325c3269.jpg?width=400&height=80",
+      "feedId": "DZX18GYBM",
+      "features": [
+        "nvidia",
+        "16gb"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5080",
+          "label": "model"
+        },
+        {
+          "value": "16 GB GDDR7",
+          "label": "memorie video"
+        },
+        {
+          "value": "256-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "WINDFORCE OC SFF",
+          "label": "design răcire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 97
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 96
+        },
+        {
+          "label": "Eficiență",
+          "pct": 85
+        },
+        {
+          "label": "Răcire",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Cel mai puternic GPU din clasament, pentru 1440p/4K la refresh mare",
+        "Ray tracing și DLSS 4 de top, cu Frame Generation"
+      ],
+      "cons": [
+        "Preț mult peste restul clasamentului"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-geforce-rtxtm-5080-windforce-oc-sff-16gb-gddr7-256-bit-gv-n5080wf3oc-16gd/pd/DZX18GYBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "SAPPHIRE NITRO+ AMD RADEON™ RX 9070 XT GAMING OC, 16GB GDDR6, 256-bit",
+      "tag": "Cel mai complet (premium AMD)",
+      "score": 9.1,
+      "image": "https://s13emagst.akamaized.net/products/88142/88141528/images/res_a19d4f03a0eebb5431648906e98f0411.jpg?width=400&height=80",
+      "feedId": "D3SCXY3BM",
+      "features": [
+        "amd",
+        "16gb"
+      ],
+      "specs": [
+        {
+          "value": "RX 9070 XT",
+          "label": "model"
+        },
+        {
+          "value": "16 GB GDDR6",
+          "label": "memorie video"
+        },
+        {
+          "value": "256-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "NITRO+ OC",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 93
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 78
+        },
+        {
+          "label": "Eficiență",
+          "pct": 82
+        },
+        {
+          "label": "Răcire",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Cel mai puternic AMD din test, aproape de RTX 5080 la raster",
+        "Răcire NITRO+ triplu-fan, temperaturi și zgomot foarte bune"
+      ],
+      "cons": [
+        "Ray tracing rămâne în urma echivalentelor NVIDIA"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-sapphire-nitro-amd-radeontm-rx-9070-xt-gaming-oc-16gb-gddr6-256-bit-11348-01-20g/pd/D3SCXY3BM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "ASUS TUF Gaming GeForce RTX™ 5070 OC Edition, 12GB GDDR7, 192-bit",
+      "tag": "Cel mai bun ray tracing la acest nivel",
+      "score": 8.8,
+      "image": "https://s13emagst.akamaized.net/products/89862/89861852/images/res_3a37cdb18b170d03485aad68caa18621.jpg?width=400&height=80",
+      "feedId": "DXLPN23BM",
+      "features": [
+        "nvidia"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5070",
+          "label": "model"
+        },
+        {
+          "value": "12 GB GDDR7",
+          "label": "memorie video"
+        },
+        {
+          "value": "192-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "TUF Gaming OC",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 88
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 90
+        },
+        {
+          "label": "Eficiență",
+          "pct": 87
+        },
+        {
+          "label": "Răcire",
+          "pct": 89
+        }
+      ],
+      "pros": [
+        "Ray tracing și DLSS 4 solide pentru gaming la 1440p",
+        "Răcire TUF Gaming robustă, cu trei ventilatoare"
+      ],
+      "cons": [
+        "12 GB VRAM poate deveni limitativ la texturi 4K"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-asus-tuf-gaming-geforce-rtxtm-5070-oc-edition-12gb-gddr7-192-bit-tuf-rtx5070-o12g-gaming/pd/DXLPN23BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "SAPPHIRE PULSE AMD RADEON™ RX 9070 XT GAMING, 16GB GDDR6, 256-bit",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.6,
+      "image": "https://s13emagst.akamaized.net/products/88142/88141527/images/res_a4f70a7e430e7f8472ca3f5303163c01.jpg?width=400&height=80",
+      "feedId": "DYSCXY3BM",
+      "features": [
+        "amd",
+        "16gb"
+      ],
+      "specs": [
+        {
+          "value": "RX 9070 XT",
+          "label": "model"
+        },
+        {
+          "value": "16 GB GDDR6",
+          "label": "memorie video"
+        },
+        {
+          "value": "256-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "PULSE",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 91
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 77
+        },
+        {
+          "label": "Eficiență",
+          "pct": 82
+        },
+        {
+          "label": "Răcire",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Aceeași putere brută ca NITRO+, la un preț mai accesibil",
+        "16 GB VRAM generoși pentru gaming la rezoluții mari"
+      ],
+      "cons": [
+        "Cooler PULSE mai simplu, puțin mai zgomotos la sarcină maximă"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-xt-gaming-16gb-gddr6-256-bit-11348-03-20g/pd/DYSCXY3BM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "ASUS PRIME GeForce RTX™ 5070 OC Edition, 12GB GDDR7, 192-bit",
+      "tag": "RTX 5070 compact și silențios",
+      "score": 8.4,
+      "image": "https://s13emagst.akamaized.net/products/89862/89861856/images/res_736d6c9a2697c908279ed77c86963e03.jpg?width=400&height=80",
+      "feedId": "DSLPN23BM",
+      "features": [
+        "nvidia"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5070",
+          "label": "model"
+        },
+        {
+          "value": "12 GB GDDR7",
+          "label": "memorie video"
+        },
+        {
+          "value": "192-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "PRIME OC",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 87
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 89
+        },
+        {
+          "label": "Eficiență",
+          "pct": 87
+        },
+        {
+          "label": "Răcire",
+          "pct": 83
+        }
+      ],
+      "pros": [
+        "Format mai compact, potrivit pentru carcase mai mici",
+        "DLSS 4 și ray tracing la nivel de RTX 5070"
+      ],
+      "cons": [
+        "La preț similar, RX 9070 XT PULSE oferă mai multă putere brută"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-asus-prime-geforce-rtxtm-5070-oc-edition-12gb-gddr7-192-bit-prime-rtx5070-o12g/pd/DSLPN23BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "SAPPHIRE PULSE AMD RADEON™ RX 9070 GAMING, 16GB GDDR6, 256-bit",
+      "tag": "Cel mai echilibrat din gama medie-superioară",
+      "score": 8.0,
+      "image": "https://s13emagst.akamaized.net/products/88142/88141531/images/res_8d49f2cff1622a560051830fb1003b2d.jpg?width=400&height=80",
+      "feedId": "DDSCXY3BM",
+      "features": [
+        "amd",
+        "16gb"
+      ],
+      "specs": [
+        {
+          "value": "RX 9070",
+          "label": "model"
+        },
+        {
+          "value": "16 GB GDDR6",
+          "label": "memorie video"
+        },
+        {
+          "value": "256-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "PULSE",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 84
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 72
+        },
+        {
+          "label": "Eficiență",
+          "pct": 83
+        },
+        {
+          "label": "Răcire",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "16 GB VRAM la un GPU AMD de gamă medie-superioară",
+        "Performanță solidă la 1440p, fără costul unui model XT"
+      ],
+      "cons": [
+        "Sub RX 9070 XT la performanța brută"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-gaming-16gb-gddr6-256-bit-11349-03-20g/pd/DDSCXY3BM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "SAPPHIRE PULSE AMD Radeon RX 9060 XT 16GB",
+      "tag": "16 GB VRAM la preț de gamă medie",
+      "score": 7.6,
+      "image": "https://s13emagst.akamaized.net/products/96308/96307271/images/res_9707d7a8b09ed88742fdf229a0fddaf3.jpg?width=400&height=80",
+      "feedId": "D7L1KH3BM",
+      "features": [
+        "amd",
+        "16gb"
+      ],
+      "specs": [
+        {
+          "value": "RX 9060 XT",
+          "label": "model"
+        },
+        {
+          "value": "16 GB",
+          "label": "memorie video"
+        },
+        {
+          "value": "PULSE",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 74
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 65
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        },
+        {
+          "label": "Răcire",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "16 GB VRAM, neobișnuit de generos pentru segmentul de mijloc",
+        "Bun pentru 1080p/1440p la un preț accesibil"
+      ],
+      "cons": [
+        "Ray tracing modest față de echivalentele NVIDIA"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeon-rx-9060-xt-16gb-11350-03-20g/pd/D7L1KH3BM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "ASUS GeForce RTX 5060 DUAL OC, 8GB GDDR7, 128-bit",
+      "tag": "NVIDIA de intrare, cu DLSS 4",
+      "score": 7.3,
+      "image": "https://s13emagst.akamaized.net/products/101012/101011462/images/res_9fddb63747cc5fac460a2b6c03032d73.png?width=400&height=80",
+      "feedId": "DKQCHJ3BM",
+      "features": [
+        "nvidia"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5060",
+          "label": "model"
+        },
+        {
+          "value": "8 GB GDDR7",
+          "label": "memorie video"
+        },
+        {
+          "value": "128-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "DUAL OC",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 68
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 74
+        },
+        {
+          "label": "Eficiență",
+          "pct": 86
+        },
+        {
+          "label": "Răcire",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "DLSS 4 cu Frame Generation, util la rezoluții mai mari",
+        "Cooler dual-fan compact, potrivit pentru build-uri mici"
+      ],
+      "cons": [
+        "8 GB VRAM, strict pentru jocurile viitoare la setări maxime"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-asus-geforce-rtx-5060-dual-oc-8gb-gddr7-128-bit-dual-rtx5060-o8g/pd/DKQCHJ3BM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC 8G, GDDR7, 128-bit",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.0,
+      "image": "https://s13emagst.akamaized.net/products/105385/105384719/images/res_8a8b754f2db04d23c7858883c50f0f92.jpg?width=400&height=80",
+      "feedId": "DYJ93L3BM",
+      "features": [
+        "nvidia"
+      ],
+      "specs": [
+        {
+          "value": "RTX 5060",
+          "label": "model"
+        },
+        {
+          "value": "8 GB GDDR7",
+          "label": "memorie video"
+        },
+        {
+          "value": "128-bit",
+          "label": "bus memorie"
+        },
+        {
+          "value": "WINDFORCE MAX OC",
+          "label": "variantă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 67
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 73
+        },
+        {
+          "label": "Eficiență",
+          "pct": 86
+        },
+        {
+          "label": "Răcire",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil preț din clasament, la performanță similară RTX 5060",
+        "Cooler WINDFORCE MAX, silențios pentru clasa sa"
+      ],
+      "cons": [
+        "8 GB VRAM, aceeași limitare ca la varianta ASUS"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-gigabyte-geforce-rtx-5060-windforce-max-oc-8g-gddr7-128-bit-negru-n5060wf2max-oc-8gd/pd/DYJ93L3BM/"
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "icon": "robot",
   "order": 10,
   "intro": "Am comparat cei mai populari roboți de aspirare de pe eMAG după puterea de aspirare (Pa), sistemul de mop, dotările stației și cât de bine navighează prin casă. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
-  "productsCount": 9,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -77,7 +77,6 @@
       "score": 9.4,
       "image": "https://s13emagst.akamaized.net/products/114738/114737640/images/res_c50cb759071550bdab7fb0d89be98553.jpg?width=400&height=400",
       "feedId": "DDBXTB2BM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire",
@@ -136,7 +135,6 @@
       "score": 9.2,
       "image": "https://s13emagst.akamaized.net/products/114804/114803732/images/res_3a9c7f11629eb245a8fd8d9afa788195.jpg?width=400&height=400",
       "feedId": "DDQ4NB2BM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire",
@@ -195,7 +193,6 @@
       "score": 9,
       "image": "https://s13emagst.akamaized.net/products/114590/114589531/images/res_7b7a39dd1449f212b7f7c211aaf20f65.jpg?width=400&height=400",
       "feedId": "DF6XYB2BM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire"
@@ -253,7 +250,6 @@
       "score": 8.8,
       "image": "https://s13emagst.akamaized.net/products/93214/93213516/images/res_7a2e791283a782d2f1bfaf7ff6c8ea66.jpg?width=400&height=400",
       "feedId": "D4H88T3BM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire"
@@ -311,7 +307,6 @@
       "score": 8.5,
       "image": "https://s13emagst.akamaized.net/products/96574/96573865/images/res_c951056aed48db8f31312b60b056888a.jpg?width=400&height=400",
       "feedId": "DWYZSH3BM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire",
@@ -363,14 +358,71 @@
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-5ae-w-aspirator-si-mop-cu-statie-de-golire-automata-12-000-pa-baterie-5200-mah-autonomie-180-min-navigatie-lidar-recipient-praf-470-ml-flexiarm-edge-mopping-sistem-ant/pd/DWYZSH3BM/"
     },
     {
-      "id": "p6",
+      "id": "p10",
       "rank": 6,
+      "name": "Roborock Qrevo 5AE B (negru)",
+      "tag": "Aceeași dotare, culoare neagră",
+      "score": 8.4,
+      "image": "https://s13emagst.akamaized.net/products/96574/96573860/images/res_ecbec5d5227e0e4eac51dd8326e6eea1.jpg?width=400&height=400",
+      "feedId": "DRYZSH3BM",
+      "features": [
+        "mop",
+        "autogolire",
+        "lidar"
+      ],
+      "specs": [
+        {
+          "value": "12.000 Pa",
+          "label": "aspirare"
+        },
+        {
+          "value": "LiDAR",
+          "label": "navigație"
+        },
+        {
+          "value": "FlexiArm Edge",
+          "label": "mop pe margini"
+        },
+        {
+          "value": "180 min",
+          "label": "autonomie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aspirare",
+          "pct": 82
+        },
+        {
+          "label": "Mop",
+          "pct": 84
+        },
+        {
+          "label": "Navigație",
+          "pct": 90
+        },
+        {
+          "label": "Stație",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Navigație LiDAR precisă la preț rezonabil",
+        "Stație cu golire automată + FlexiArm pe margini"
+      ],
+      "cons": [
+        "Aspirare mai mică decât modelele de top"
+      ],
+      "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-5ae-b-aspirator-si-mop-cu-statie-de-golire-automata-12-000-pa-baterie-5200-mah-autonomie-180-min-navigatie-lidar-recipient-praf-470-ml-flexiarm-edge-mopping-sistem-ant/pd/DRYZSH3BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 7,
       "name": "Roborock Qrevo MaxV QRMV02-00",
       "tag": "Solid, cu stație inteligentă",
       "score": 8.2,
       "image": "https://s13emagst.akamaized.net/products/81297/81296454/images/res_0561947b667f83c07f687a72a4e7cb51.jpg?width=400&height=400",
       "feedId": "DKL6B5YBM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire"
@@ -422,13 +474,12 @@
     },
     {
       "id": "p7",
-      "rank": 7,
+      "rank": 8,
       "name": "Xiaomi X20+ EU BHR8124EU",
       "tag": "Cel mai bun preț/calitate",
       "score": 8,
       "image": "https://s13emagst.akamaized.net/products/71762/71761619/images/res_7c466fd911f8854cd4d3ee6afc9d2e91.jpg?width=400&height=400",
       "feedId": "DG6RLFYBM",
-      "inStock": true,
       "features": [
         "mop",
         "autogolire"
@@ -480,13 +531,12 @@
     },
     {
       "id": "p8",
-      "rank": 8,
+      "rank": 9,
       "name": "Xiaomi S20+ BHR8159EU",
       "tag": "Buget, cu mop",
       "score": 7.7,
       "image": "https://s13emagst.akamaized.net/products/75312/75311132/images/res_2162609e7d1950d7ff4eb3c0df48cc55.jpg?width=400&height=400",
       "feedId": "DH9WJ4YBM",
-      "inStock": true,
       "features": [
         "mop"
       ],
@@ -537,13 +587,12 @@
     },
     {
       "id": "p9",
-      "rank": 9,
+      "rank": 10,
       "name": "Rowenta X-Plorer S75S Animal & Allergy RR8567WH",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.4,
       "image": "https://s13emagst.akamaized.net/products/48257/48256258/images/res_fb95c9add071aaa896c4e6ca5b3ee406.jpg?width=400&height=400",
       "feedId": "DF4RTLMBM",
-      "inStock": true,
       "features": [
         "mop"
       ],
