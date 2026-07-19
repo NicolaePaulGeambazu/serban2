@@ -74,18 +74,30 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
         </div>
         <a class="more" href="/categorii/">Toate categoriile →</a>
       </div>
-      <div class="cats">
-        {cats.map((c) => (
-          <a class="cat" href={`/clasament/${c.id}/`}>
-            <span class="ic"><Icon name={c.data.icon} /></span>
-            <h3>{c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</h3>
-            <div class="count">{c.data.productsCount} modele comparate</div>
-          </a>
-        ))}
-        <a class="cat" href="/categorii/">
+      <div class="cats-win">
+        {cats.map((c) => {
+          const w = c.data.products.find((p) => p.win) ?? c.data.products[0];
+          const catName = c.data.h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace('Cele mai bune ', '').replace(/ în 2026$/, '');
+          return (
+            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi clasamentul: ${catName}`}>
+              <div class="cat-shot">
+                {w?.image
+                  ? <img src={w.image} alt={`Câștigător ${catName}: ${w.name}`} width="140" height="118" loading="lazy" decoding="async" />
+                  : <span class="ic-fallback"><Icon name={c.data.icon} /></span>}
+                <span class="cat-badge">Top {c.data.productsCount}</span>
+              </div>
+              <div class="cat-info">
+                <h3>{catName}</h3>
+                <div class="cat-win-row"><span class="cat-score">★ {w.score.toFixed(1)}</span><span class="cat-win-name">{w.name}</span></div>
+                <span class="cat-cta">Vezi clasamentul <Icon name="arrow" /></span>
+              </div>
+            </a>
+          );
+        })}
+        <a class="cat-win cat-more" href="/categorii/">
           <span class="ic"><Icon name="basket" /></span>
-          <h3>Mai multe categorii</h3>
-          <div class="count">vezi tot</div>
+          <h3>Toate categoriile</h3>
+          <span class="cat-cta">Vezi tot <Icon name="arrow" /></span>
         </a>
       </div>
     </div>

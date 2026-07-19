@@ -15,14 +15,26 @@ const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b
       <p class="lede">Alege o categorie și vezi cele mai bune produse, comparate după date și mii de recenzii.</p>
     </section>
     <section style="padding-top:20px">
-      <div class="cats">
-        {cats.map((c) => (
-          <a class="cat" href={`/clasament/${c.id}/`}>
-            <span class="ic"><Icon name={c.data.icon} /></span>
-            <h3>{c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</h3>
-            <div class="count">{c.data.productsCount} modele comparate</div>
-          </a>
-        ))}
+      <div class="cats-win">
+        {cats.map((c) => {
+          const w = c.data.products.find((p) => p.win) ?? c.data.products[0];
+          const catName = c.data.h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace(/ în 2026$/, '');
+          return (
+            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi clasamentul: ${catName}`}>
+              <div class="cat-shot">
+                {w?.image
+                  ? <img src={w.image} alt={`Câștigător ${catName}: ${w.name}`} width="140" height="118" loading="lazy" decoding="async" />
+                  : <span class="ic-fallback"><Icon name={c.data.icon} /></span>}
+                <span class="cat-badge">Top {c.data.productsCount}</span>
+              </div>
+              <div class="cat-info">
+                <h3>{catName}</h3>
+                <div class="cat-win-row"><span class="cat-score">★ {w.score.toFixed(1)}</span><span class="cat-win-name">{w.name}</span></div>
+                <span class="cat-cta">Vezi clasamentul <Icon name="arrow" /></span>
+              </div>
+            </a>
+          );
+        })}
       </div>
     </section>
   </div>
