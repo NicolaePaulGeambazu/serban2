@@ -249,8 +249,8 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .prod-card.flash{animation:flash 2.4s ease}
 @keyframes flash{0%,70%{box-shadow:0 0 0 3px var(--gold-soft),0 0 0 5px var(--gold)}100%{box-shadow:var(--shadow)}}
 .pc-media{background:#fff;border-right:1px solid var(--line);padding:20px;position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px}
-.pc-rank{position:absolute;top:12px;left:12px;font-family:var(--mono);font-weight:800;font-size:1.05rem;background:var(--ink);color:#fff;width:34px;height:34px;border-radius:9px;display:grid;place-items:center;box-shadow:0 2px 6px rgba(15,27,45,.18)}
-.prod-card.win .pc-rank{background:var(--gold);color:#3a2a06}
+.pc-rank{position:absolute;top:10px;left:10px;font-family:var(--mono);font-weight:800;font-size:1rem;background:var(--ink);color:#fff;width:36px;height:36px;border-radius:10px;display:grid;place-items:center;border:2px solid #fff;box-shadow:0 4px 12px rgba(15,27,45,.38);z-index:2}
+.prod-card.win .pc-rank{background:var(--gold);color:#3a2a06;border-color:#fff}
 .pc-shot{width:120px;height:120px;display:grid;place-items:center;color:#9aa6b4}
 .pc-shot svg{width:74px;height:74px}
 img.pc-shot{width:100%;max-width:180px;height:168px;object-fit:contain;display:block;mix-blend-mode:multiply}
