@@ -5,8 +5,8 @@
   "icon": "gpu",
   "order": 16,
   "intro": "Am comparat cele mai populare plăci video de pe eMAG după performanța brută, ray tracing, eficiența energetică și calitatea răcirii. Mai jos ai clasamentul, de la modele premium NVIDIA și AMD, până la variante mid-range cu cel mai bun raport preț-performanță.",
-  "updated": "2026-07-18",
-  "productsCount": 9,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -573,6 +573,62 @@
         "8 GB VRAM, aceeași limitare ca la varianta ASUS"
       ],
       "emagUrl": "https://www.emag.ro/placa-video-gigabyte-geforce-rtx-5060-windforce-max-oc-8g-gddr7-128-bit-negru-n5060wf2max-oc-8gd/pd/DYJ93L3BM/"
+    },
+    {
+      "rank": 10,
+      "name": "ASUS Radeon RX 7600 DUAL OC EVO 8GB",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 6.8,
+      "image": "https://s13emagst.akamaized.net/products/85629/85628226/images/res_36cde9b6ad1d84fa27046742aae1352e.jpg?width=400&height=400",
+      "feedId": "D5TNZWYBM",
+      "features": [
+        "amd"
+      ],
+      "specs": [
+        {
+          "value": "RX 7600",
+          "label": "8GB GDDR6"
+        },
+        {
+          "value": "128-bit",
+          "label": "magistrală"
+        },
+        {
+          "value": "1080p",
+          "label": "gaming"
+        },
+        {
+          "value": "Dual OC",
+          "label": "răcire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 68
+        },
+        {
+          "label": "Ray tracing",
+          "pct": 60
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Răcire",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Cea mai accesibilă din test, pentru 1080p",
+        "Consum redus și răcire silențioasă"
+      ],
+      "cons": [
+        "8 GB și 128-bit — doar pentru Full HD"
+      ],
+      "emagUrl": "https://www.emag.ro/placa-video-asus-radeontm-rx-7600-dual-oc-evo-8gb-gddr6-128bit-dual-rx7600-o8g-evo/pd/D5TNZWYBM/",
+      "id": "p10"
     }
   ]
 }

@@ -5,8 +5,8 @@
   "icon": "laptop",
   "order": 12,
   "intro": "Am comparat cele mai căutate laptopuri de birou și productivitate de pe eMAG după performanță, calitatea ecranului, autonomie și construcție. Mai jos ai clasamentul, cu argumente clare pentru fiecare loc și buget, de la ultrabook premium la variante accesibile.",
-  "updated": "2026-07-18",
-  "productsCount": 9,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -517,8 +517,62 @@
       "emagUrl": "https://www.emag.ro/laptop-lenovo-v15-g4-iru-cu-procesor-lntelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-1tb-ssd-intelr-uhd-graphics-no-os-business-black-83a100eyrm/pd/DFY4YJYBM/"
     },
     {
-      "id": "p9",
       "rank": 9,
+      "name": "HP 250 G10 (i7-1355U, 16GB, 512GB, Win 11 Pro)",
+      "tag": "Bun pentru birou",
+      "score": 7.5,
+      "image": "https://s13emagst.akamaized.net/products/87430/87429807/images/res_113e326a546fdd151eb63331819fd251.jpg?width=400&height=400",
+      "feedId": "DHG1CM3BM",
+      "features": [],
+      "specs": [
+        {
+          "value": "i7-1355U",
+          "label": "procesor"
+        },
+        {
+          "value": "16 GB",
+          "label": "RAM"
+        },
+        {
+          "value": "512 GB",
+          "label": "SSD"
+        },
+        {
+          "value": "Win 11 Pro",
+          "label": "licențiat"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Performanță",
+          "pct": 78
+        },
+        {
+          "label": "Ecran",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Construcție",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Procesor i7 + Windows 11 Pro licențiat",
+        "Bun pentru birou și multitasking zilnic"
+      ],
+      "cons": [
+        "SSD de 512 GB și ecran standard, fără extra"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-hp-250-g10-cu-procesor-intelr-coretm-i7-1355u-pana-la-5-0ghz-15-6-full-hd-16gb-ddr4-ram-512gb-ssd-intelr-irisr-xe-graphics-windows-11-pro-dark-ash-silver-967v2et/pd/DHG1CM3BM/",
+      "id": "p10"
+    },
+    {
+      "id": "p9",
+      "rank": 10,
       "name": "ASUS Vivobook 15 A1502VA (i5-13420H, 16GB, 512GB, Full HD)",
       "tag": "Accesibil pentru uz zilnic",
       "score": 7.4,

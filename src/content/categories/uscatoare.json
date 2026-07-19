@@ -6,7 +6,7 @@
   "order": 8,
   "intro": "Am comparat cele mai populare uscătoare de rufe cu pompă de căldură de pe eMAG după clasa energetică, capacitate, calitatea uscării și zgomot. Toate consumă puțin curent — mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
   "updated": "2026-07-19",
-  "productsCount": 8,
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -295,8 +295,64 @@
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-pompa-de-caldura-8-kg-15-programe-clasa-c-recycleddry-motor-prosmarttm-inverter-optisense-aquawaver-alb-b3t42242/pd/DNZVMSMBM/"
     },
     {
-      "id": "p4",
       "rank": 5,
+      "name": "Electrolux EW7D385AE 8 kg",
+      "tag": "Cel mai bun de la Electrolux",
+      "score": 8.4,
+      "image": "",
+      "feedId": "D7RYKCYBM",
+      "features": [
+        "smart"
+      ],
+      "specs": [
+        {
+          "value": "8 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "DelicateCare",
+          "label": "+ SensiCare"
+        },
+        {
+          "value": "Inverter",
+          "label": "motor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 86
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        },
+        {
+          "label": "Silențios",
+          "pct": 85
+        },
+        {
+          "label": "Ușurință",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Programe blânde DelicateCare + SensiCare",
+        "Motor inverter silențios și durabil"
+      ],
+      "cons": [
+        "Fără conectivitate Wi-Fi"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-electrolux-pompa-de-caldura-8-kg-clasa-c-sistem-uscare-delicatecare-sensicare-motor-inverter-iluminare-interioara-tambur-usa-reversibila-alb-ew7d385ae/pd/D7RYKCYBM/",
+      "id": "p9"
+    },
+    {
+      "id": "p4",
+      "rank": 6,
       "name": "Bosch WTH8520BBY 8 kg",
       "tag": "Fiabilitate Bosch",
       "score": 8.3,
@@ -350,7 +406,7 @@
     },
     {
       "id": "p5",
-      "rank": 6,
+      "rank": 7,
       "name": "Beko B3T67230 7 kg",
       "tag": "Cel mai bun cu abur",
       "score": 8.0,
@@ -405,8 +461,64 @@
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-7-kg-clasa-d-pompa-de-caldura-steamcure-hygienic-dry-recycled-dry-alb-b3t67230/pd/DRC1MJMBM/"
     },
     {
+      "rank": 8,
+      "name": "Arctic A2T29253W 9 kg",
+      "tag": "Cea mai spațioasă pe buget",
+      "score": 7.8,
+      "image": "",
+      "feedId": "D4TCYZYBM",
+      "features": [
+        "mare"
+      ],
+      "specs": [
+        {
+          "value": "9 kg",
+          "label": "capacitate"
+        },
+        {
+          "value": "Clasa C",
+          "label": "eficiență"
+        },
+        {
+          "value": "15 programe",
+          "label": "Aqua Surf"
+        },
+        {
+          "value": "Silent Inverter",
+          "label": "motor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Uscare",
+          "pct": 82
+        },
+        {
+          "label": "Eficiență",
+          "pct": 80
+        },
+        {
+          "label": "Silențios",
+          "pct": 82
+        },
+        {
+          "label": "Ușurință",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "9 kg — bun pentru familii mari",
+        "Motor Silent Inverter, 15 programe"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, fără funcții smart"
+      ],
+      "emagUrl": "https://www.emag.ro/uscator-de-rufe-arctic-pompa-de-caldura-9-kg-15-programe-clasa-c-motor-silent-inverter-aqua-surf-alb-a2t29253w/pd/D4TCYZYBM/",
+      "id": "p10"
+    },
+    {
       "id": "p6",
-      "rank": 7,
+      "rank": 9,
       "name": "Samsung DV80CGC0B0AHLE 8 kg",
       "tag": "Cel mai smart",
       "score": 7.7,
@@ -462,7 +574,7 @@
     },
     {
       "id": "p7",
-      "rank": 8,
+      "rank": 10,
       "name": "Heinner HHPD-V7T1CHA++ 7 kg",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.4,

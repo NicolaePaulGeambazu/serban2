@@ -5,8 +5,8 @@
   "icon": "laptop",
   "order": 13,
   "intro": "Am comparat cele mai populare laptopuri de gaming de pe eMAG după placa video, procesor, ecran și răcire. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget — de la modele RTX seria 50 premium, la variante RTX 40 accesibile pentru gaming la FHD.",
-  "updated": "2026-07-18",
-  "productsCount": 9,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -350,8 +350,65 @@
       "emagUrl": "https://www.emag.ro/laptop-gaming-lenovo-loq-15irx10-cu-procesor-intel-coretm-i7-13645hx-pana-la-4-9ghz-15-6-full-hd-ips-144hz-16gb-ddr5-ram-512gb-ssd-nvidia-geforce-rtxtm-5050-8gb-gddr7-no-os-luna-grey-3y-courier-83je01/pd/DPBRL32BM/"
     },
     {
-      "id": "p6",
       "rank": 6,
+      "name": "Lenovo LOQ 17IRX10 (i7-13650HX, RTX 5050, 17.3\" 165Hz)",
+      "tag": "Ecran mare 17\", la preț bun",
+      "score": 8.1,
+      "image": "https://s13emagst.akamaized.net/products/98129/98128179/images/res_4803206807f9500cddda725c5c88494a.jpg?width=400&height=400",
+      "feedId": "D8BRL32BM",
+      "features": [
+        "rtx50",
+        "17inch"
+      ],
+      "specs": [
+        {
+          "value": "i7-13650HX",
+          "label": "procesor"
+        },
+        {
+          "value": "RTX 5050",
+          "label": "8GB GDDR7"
+        },
+        {
+          "value": "17.3\" 165Hz",
+          "label": "IPS"
+        },
+        {
+          "value": "1 TB",
+          "label": "SSD"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Gaming",
+          "pct": 82
+        },
+        {
+          "label": "Ecran",
+          "pct": 84
+        },
+        {
+          "label": "Răcire",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 68
+        }
+      ],
+      "pros": [
+        "Ecran mare 17.3\" la 165Hz + SSD de 1 TB",
+        "RTX 5050 pentru 1080p fluid"
+      ],
+      "cons": [
+        "Autonomie modestă, tipic gaming"
+      ],
+      "emagUrl": "https://www.emag.ro/laptop-gaming-lenovo-loq-17irx10-cu-procesor-intel-coretm-i7-13650hx-pana-la-4-9ghz-17-3-full-hd-ips-165hz-16gb-ddr5-ram-1tb-ssd-nvidia-geforce-rtxtm-5050-8gb-gddr7-no-os-luna-grey-3y-courier-83jh00e9/pd/D8BRL32BM/",
+      "id": "p10"
+    },
+    {
+      "id": "p6",
+      "rank": 7,
       "name": "MSI Cyborg 15 B13WEKG (RTX 5050)",
       "tag": "Cel mai accesibil RTX 5050",
       "score": 8.0,
@@ -407,7 +464,7 @@
     },
     {
       "id": "p7",
-      "rank": 7,
+      "rank": 8,
       "name": "ASUS TUF A17 FA707NUG (RTX 4050, AMD)",
       "tag": "Cel mai bun ecran 17\"+",
       "score": 7.8,
@@ -464,7 +521,7 @@
     },
     {
       "id": "p8",
-      "rank": 8,
+      "rank": 9,
       "name": "Lenovo LOQ 15IRX9 (RTX 4050)",
       "tag": "RTX 4050 la preț bun",
       "score": 7.5,
@@ -518,7 +575,7 @@
     },
     {
       "id": "p9",
-      "rank": 9,
+      "rank": 10,
       "name": "ASUS TUF F16 FX607VJ (RTX 3050)",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.1,

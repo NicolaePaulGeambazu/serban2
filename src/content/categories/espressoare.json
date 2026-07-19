@@ -5,8 +5,8 @@
   "icon": "coffee",
   "order": 11,
   "intro": "Am comparat cele mai populare espressoare automate de pe eMAG după calitatea cafelei, sistemul de spumare a laptelui, varietatea băuturilor și ușurința de întreținere. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
-  "productsCount": 9,
+  "updated": "2026-07-19",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -186,8 +186,65 @@
       "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-dinamica-plus-ecam-380-95-tb-24-tipuri-de-bauturi-15-bari-2-carafe-pentru-lapte-tehnologie-lattecrema-1450-w-negru-gri-inchis-ro0132215486/pd/D03NZ2YBM/"
     },
     {
-      "id": "p3",
       "rank": 3,
+      "name": "Philips 8000 LatteGo EP8757/20",
+      "tag": "Cele mai multe băuturi (50+)",
+      "score": 9.0,
+      "image": "https://s13emagst.akamaized.net/products/106925/106924548/images/res_5276ffeb62fe4abf855a864798d6cb19.jpg?width=400&height=400",
+      "feedId": "DWR2QZ3BM",
+      "features": [
+        "lapte",
+        "touch"
+      ],
+      "specs": [
+        {
+          "value": "15 bar",
+          "label": "presiune"
+        },
+        {
+          "value": "50+",
+          "label": "tipuri băuturi"
+        },
+        {
+          "value": "LatteGo",
+          "label": "spumare lapte"
+        },
+        {
+          "value": "Ecran tactil",
+          "label": "HomeID"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Cafea",
+          "pct": 90
+        },
+        {
+          "label": "Ușurință",
+          "pct": 92
+        },
+        {
+          "label": "Băuturi",
+          "pct": 94
+        },
+        {
+          "label": "Întreținere",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "50+ băuturi, inclusiv cafea cu gheață",
+        "LatteGo se spală în 2 piese, fără furtunuri"
+      ],
+      "cons": [
+        "LatteGo nu se răcește între utilizări ca o carafă"
+      ],
+      "emagUrl": "https://www.emag.ro/espressor-automat-philips-8000-lattego-50-tipuri-de-cafele-din-boabe-proaspat-macinate-inclusiv-cafea-cu-gheata-sistem-lattego-aroma-seal-filtru-aquaclean-inclus-tehnologia-silent-brew-certificata-qui/pd/DWR2QZ3BM/",
+      "id": "p10"
+    },
+    {
+      "id": "p3",
+      "rank": 4,
       "name": "Philips EP5546/70 seria 5500 LatteGO",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.9,
@@ -244,7 +301,7 @@
     },
     {
       "id": "p4",
-      "rank": 4,
+      "rank": 5,
       "name": "Philips EP4449/70 seria 4400 LatteGO",
       "tag": "Echilibru bun preț/dotări",
       "score": 8.6,
@@ -301,7 +358,7 @@
     },
     {
       "id": "p5",
-      "rank": 5,
+      "rank": 6,
       "name": "Krups Evidence EA890110",
       "tag": "One-Touch Cappuccino",
       "score": 8.3,
@@ -358,7 +415,7 @@
     },
     {
       "id": "p6",
-      "rank": 6,
+      "rank": 7,
       "name": "Philips EP3341/50 seria 3300 LatteGO",
       "tag": "Philips accesibil cu LatteGO",
       "score": 8.1,
@@ -415,7 +472,7 @@
     },
     {
       "id": "p7",
-      "rank": 7,
+      "rank": 8,
       "name": "De'Longhi Magnifica Start Milk ECAM223.61.GB",
       "tag": "Carafă LatteCrema pe buget",
       "score": 7.9,
@@ -472,7 +529,7 @@
     },
     {
       "id": "p8",
-      "rank": 8,
+      "rank": 9,
       "name": "Philips EP2330/10 seria 2300 LatteGO",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.6,
@@ -529,7 +586,7 @@
     },
     {
       "id": "p9",
-      "rank": 9,
+      "rank": 10,
       "name": "Krups Espresseria Automatic EA8108",
       "tag": "Cel mai ieftin espressor automat",
       "score": 7.3,
