@@ -4,8 +4,8 @@
   "parent": "Electrocasnice",
   "icon": "vacuum",
   "order": 9,
-  "intro": "Am comparat cele mai populare aspiratoare verticale fără fir de pe eMAG după puterea de aspirare, autonomia bateriei, manevrabilitate și calitatea filtrării. Mai jos ai clasamentul complet, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
+  "intro": "Am comparat cele mai populare aspiratoare verticale fără fir de pe eMAG după puterea de aspirare, autonomie, filtrare, manevrabilitate și funcțiile de spălare. Mai jos ai clasamentul plus un ghid despre ce diferențe chiar contează în curățenia de zi cu zi.",
+  "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "Câtă putere de aspirare îți trebuie?",
-      "body": "Puterea se exprimă în AW (air watts), Pa sau W. Peste 150 AW (Dyson) sau 20.000 Pa acoperi covoare și păr de animale fără efort. Pentru gresie și parchet cu praf fin, chiar și 18.000 Pa (Xiaomi) sunt suficiente.",
-      "callout": "Nu te lăsa păcălit de watții motorului (W): contează puterea de aspirare reală (AW sau Pa). Un Dyson de 545 W trage mai bine decât multe modele cu W nominal mai mare."
+      "h3": "Puterea de aspirare: W, AW și Pa",
+      "body": "Nu te lua doar după wați (consum) — uită-te la puterea reală de aspirare, exprimată în AW (air watts) sau Pa. Dyson comunică AW, mărcile asiatice comunică Pa. Peste ~20.000 Pa sau ~150 AW e foarte bine pentru covoare și păr de animale.",
+      "callout": "Un aspirator puternic pe hârtie dar cu duză slabă curăță prost — contează și peria, nu doar cifra brută."
     },
     {
-      "h3": "Autonomie și baterie",
-      "body": "Un aspirator vertical bun ține 45–90 de minute pe modul eco, dar pe treapta maximă coboară la 8–12 minute. Pentru un apartament de 2–3 camere, 45 min ajung; pentru case mari, caută 60 min+ sau baterie interschimbabilă (Bosch Unlimited)."
+      "h3": "Autonomia și bateria",
+      "body": "Autonomia reală în modul normal e ce contează, nu maximul din reclamă (măsurat în modul eco). 40–60 de minute acoperă un apartament de 2–3 camere. Bateria detașabilă e un mare plus: o schimbi și continui, sau o înlocuiești în timp fără să arunci aspiratorul."
     },
     {
-      "h3": "Cu spălare sau doar aspirare?",
-      "body": "Modelele umed-uscat (Dreame R20, Rowenta X-Clean) aspiră și spală podeaua în aceeași trecere — ideal pe gresie și parchet rezistent. Costă mai mult și sunt mai grele, dar înlocuiesc mopul. Dacă ai mochetă multă, un aspirator clasic e mai potrivit."
+      "h3": "Filtrarea (HEPA) pentru alergii",
+      "body": "Un sistem de filtrare bun (HEPA, cu eficiență 99,9%+) reține praful fin și alergenii în loc să-i sufle înapoi în aer. Contează mult dacă ai alergii sau animale. Verifică să fie filtre lavabile, ca să nu cumperi consumabile des."
+    },
+    {
+      "h3": "Modelele cu spălare (umed-uscat)",
+      "body": "Aspiratoarele cu spălare (ex. Dreame, Rowenta X-Clean) aspiră și șterg podeaua în același timp, ideal pentru gresie și parchet. Curăță lichide și pete, dar sunt mai grele, cer întreținere (spălarea rolei) și nu înlocuiesc aspirarea clasică pentru covoare."
+    },
+    {
+      "h3": "Greutate și manevrabilitate",
+      "body": "Greutatea contează enorm când aspiri sus, pe draperii sau tavan, pentru că stă în mână. Sub ~2,5 kg e confortabil. Un tub flexibil sau care se îndoaie ajută la locuri joase (sub pat, sub mobilă) fără să te apleci."
+    },
+    {
+      "h3": "Întreținere și accesorii",
+      "body": "Recipientul de praf mai mare înseamnă goliri mai rare. Peria cu iluminare LED scoate la iveală praful fin pe podele închise. Verifică accesoriile incluse (perie pentru animale, duză îngustă) și cât de ușor se golește și se spală recipientul."
     }
   ],
   "faq": [
     {
-      "q": "Perie cu LED chiar ajută?",
-      "a": "Da, mai mult decât pare. Farurile LED de pe perie scot la iveală praful fin și firele de păr invizibile pe parchet închis la culoare, așa că nu ratezi zone. E un plus real de precizie, mai ales seara."
+      "q": "Câți Pa / câți AW îmi trebuie?",
+      "a": "Pentru podele dure și praf normal, valorile medii ajung. Pentru covoare groase și păr de animale, caută putere mare (peste ~20.000 Pa sau ~150 AW). Dar contează și peria motorizată, nu doar cifra brută de aspirare."
     },
     {
-      "q": "Funcția de spălare merită?",
-      "a": "Dacă ai gresie și parchet, un model umed-uscat (Dreame R20, Rowenta X-Clean 4) îți economisește timp — aspiri și speli dintr-o mișcare. Pe mochetă și covoare groase însă e inutilă; acolo alege un vertical clasic cu aspirare puternică."
+      "q": "Cât ține bateria cu adevărat?",
+      "a": "Autonomia din reclamă e măsurată în modul eco, cu duză simplă. În modul normal, cu perie motorizată, scade semnificativ. 40–60 de minute reale acoperă confortabil un apartament de 2–3 camere."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "Merită bateria detașabilă?",
+      "a": "Da. Poți duce o baterie de rezervă pentru suprafețe mari și, mai important, o poți înlocui după câțiva ani fără să schimbi tot aspiratorul. Prelungește mult viața produsului."
+    },
+    {
+      "q": "Un aspirator cu spălare înlocuiește mopul?",
+      "a": "Pentru podele dure, în mare parte da — aspiră și șterge simultan, inclusiv pete și lichide. Dar e mai greu, cere spălarea rolei după folosire și nu curăță covoarele. Multe gospodării îl combină cu un aspirator clasic."
+    },
+    {
+      "q": "Dyson chiar merită față de mărcile mai ieftine?",
+      "a": "Dyson excelează la putere, filtrare și construcție. Mărci precum Rowenta, Xiaomi sau Dreame oferă însă 80–90% din experiență la un cost mult mai mic. Dacă bugetul e strâns, un model bun din gama medie e o alegere foarte rațională."
+    },
+    {
+      "q": "Filtrarea HEPA contează?",
+      "a": "Da, mai ales dacă ai alergii sau animale. Un sistem HEPA reține praful fin și alergenii în loc să-i reintroducă în aer. Alege filtre lavabile ca să eviți costuri repetate cu consumabilele."
+    },
+    {
+      "q": "E greu de manevrat pe sus?",
+      "a": "Greutatea contează cel mai mult când aspiri draperii, colțuri înalte sau tavan. Sub ~2,5 kg e confortabil. Modelele cu motor în mâner sunt mai echilibrate sus decât cele cu motor în partea de jos."
+    },
+    {
+      "q": "Cât de des golesc și curăț?",
+      "a": "Golește recipientul după fiecare folosire sau când ajunge la maxim. Spală filtrul periodic (dacă e lavabil) și verifică peria de fire încurcate. Întreținerea simplă păstrează puterea de aspirare la nivel maxim."
     }
   ],
   "conclusion": "Pentru cei mai mulți, Dyson V12 Slim Detect Absolute e alegerea completă: aspirare de top, laser pentru praf, 60 min autonomie și cea mai bună filtrare. Dacă vrei cel mai bun raport preț/calitate, Proscenic P15 oferă 60 kPa, recipient mare și faruri LED la un preț mic, iar Xiaomi G20 Lite e alegerea pe buget pentru curățenie ușoară de întreținere.",
@@ -631,5 +663,49 @@
       ],
       "emagUrl": "https://www.emag.ro/aspirator-vertical-xiaomi-g20-lite-eu-215w-autonomie-pana-la-45-min-volum-recipient-praf-0-55-l-215w-18-000pa-filtrare-in-cinci-etape-2200mah-alb-bhr8195eu/pd/DB8RLFYBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Aspirator cu spălare vs. clasic (doar aspirare): ce alegi?",
+    "intro": "Două filozofii diferite. Alegerea depinde de tipul de podele și de cât de mult vrei să speli.",
+    "aLabel": "Cu spălare (umed)",
+    "bLabel": "Doar aspirare",
+    "rows": [
+      {
+        "criteriu": "Tipuri de murdărie",
+        "a": "Praf + pete + lichide",
+        "b": "Praf, păr, firimituri"
+      },
+      {
+        "criteriu": "Ideal pentru",
+        "a": "Gresie, parchet, laminat",
+        "b": "Covoare, mochetă, mixt"
+      },
+      {
+        "criteriu": "Greutate",
+        "a": "Mai mare",
+        "b": "Mai mică, mai agil"
+      },
+      {
+        "criteriu": "Întreținere",
+        "a": "Necesită spălarea rolei",
+        "b": "Minimă (golit + filtru)"
+      },
+      {
+        "criteriu": "Autonomie",
+        "a": "Mai scurtă",
+        "b": "Mai lungă"
+      },
+      {
+        "criteriu": "Cost",
+        "a": "Mai ridicat",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Case cu multe podele dure",
+        "b": "Uz general, covoare"
+      }
+    ],
+    "verdict": "Ia un model cu spălare dacă ai preponderent podele dure și vrei să speli des fără mop. Un aspirator clasic fără fir rămâne mai ușor, mai autonom și mai versatil pentru covoare — alegerea potrivită pentru majoritatea locuințelor."
+  }
 }

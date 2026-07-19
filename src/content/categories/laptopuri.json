@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "laptop",
   "order": 12,
-  "intro": "Am comparat cele mai căutate laptopuri de birou și productivitate de pe eMAG după performanță, calitatea ecranului, autonomie și construcție. Mai jos ai clasamentul, cu argumente clare pentru fiecare loc și buget, de la ultrabook premium la variante accesibile.",
+  "intro": "Am comparat cele mai populare laptopuri de pe eMAG pentru studiu, birou și uz zilnic, după procesor, memorie, stocare, ecran și autonomie. Mai jos ai clasamentul plus un ghid clar despre ce specificații contează cu adevărat și unde nu merită să plătești în plus.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "Ce procesor îți trebuie de fapt?",
-      "body": "Pentru birou, browsing și Office, un Intel Core i5 sau Ryzen 5 e suficient. Pentru multitasking greu, editare foto sau lucru cu multe file, alege i7 sau Intel Core Ultra 7. Chipurile Ultra (Lunar Lake) oferă cea mai bună autonomie.",
-      "callout": "Nu te lăsa păcălit de un i9 într-o carcasă ieftină: fără răcire bună, procesorul se sufocă. Un Core Ultra 7 sau i7 bine răcit e mai util în practică decât un i9 zgomotos."
+      "h3": "Procesorul: cât de mult contează",
+      "body": "Pentru birou, navigare și studiu, un Intel Core i5 / Ureche Ultra 5 sau un AMD Ryzen 5 e mai mult decât suficient. i7/Ryzen 7 ajută la editare, multitasking greu sau lucru cu multe file. Sufixele contează: 'U' = eficient și rece, 'H' = mai puternic, dar consumă mai mult.",
+      "callout": "Nu plăti pentru i7/i9 dacă doar navighezi, scrii și faci videocall — banii sunt mai bine puși în RAM și SSD."
     },
     {
-      "h3": "RAM și SSD: cât e destul?",
-      "body": "16 GB RAM e minimul rezonabil azi și acoperă majoritatea nevoilor. 32 GB merită doar dacă lucrezi cu multe aplicații grele simultan. La stocare, un SSD de 512 GB e ok, dar 1 TB îți dă liniște pe termen lung fără să faci curățenie constant."
+      "h3": "16 GB RAM e noul minim",
+      "body": "8 GB ajunge doar pentru task-uri foarte simple și îmbătrânește repede. 16 GB este pragul confortabil în 2026 pentru multitasking fluent și zeci de file de browser. 32 GB au sens doar pentru editare video/foto sau muncă profesională grea."
     },
     {
-      "h3": "Ecranul contează mai mult decât crezi",
-      "body": "Te uiți la el ore întregi, deci alege bine. Un IPS Full HD e onest, un WUXGA (16:10) îți dă mai mult spațiu vertical util. OLED-ul are negru perfect și culori vii, ideal pentru media și editare — dar consumă ceva mai mult."
+      "h3": "SSD: viteză și spațiu",
+      "body": "Un SSD (nu HDD) este obligatoriu — face laptopul să pornească și să răspundă instant. 512 GB e un minim rezonabil; 1 TB e confortabil dacă păstrezi multe fișiere, jocuri sau proiecte locale. Evită modelele cu doar 256 GB."
+    },
+    {
+      "h3": "Ecranul contează pentru ochi",
+      "body": "Caută minim Full HD (1920×1080) cu panou IPS pentru unghiuri și culori bune. WUXGA (1920×1200) oferă mai mult spațiu vertical, util la documente. OLED e un lux vizibil pentru culori și negru, pe modele premium. Un ecran mat obosește mai puțin în lumină."
+    },
+    {
+      "h3": "Autonomie și construcție",
+      "body": "Pentru mobilitate, urmărește autonomia reală și greutatea sub 1,6 kg. Procesoarele 'U' și ecranele eficiente dau cele mai bune autonomii. O carcasă din aluminiu rezistă mai bine în timp decât plasticul, mai ales la balamale și tastatură."
+    },
+    {
+      "h3": "Sistemul de operare și extra",
+      "body": "Unele modele vin cu 'No OS' sau FreeDOS (fără Windows) — sunt mai ieftine, dar trebuie să adaugi tu licența. Verifică și tastatura iluminată, cititorul de amprentă și porturile (USB-C cu încărcare e foarte practic)."
     }
   ],
   "faq": [
     {
-      "q": "Merită un laptop cu ecran OLED?",
-      "a": "Da, dacă te uiți mult la filme, editezi foto sau vrei pur și simplu cea mai bună imagine. OLED-ul are contrast și culori superioare unui IPS. Dezavantajele sunt prețul mai mare și un consum ușor crescut la luminozitate maximă."
+      "q": "i5 sau i7 (Ryzen 5 sau 7)?",
+      "a": "Pentru birou, studiu și uz zilnic, i5/Ryzen 5 e suficient și mai eficient. i7/Ryzen 7 merită doar dacă faci editare, compilezi cod sau rulezi constant aplicații grele. Diferența nu se simte la task-uri obișnuite."
     },
     {
-      "q": "Intel sau AMD pentru un laptop de birou?",
-      "a": "Ambele merg foarte bine pentru birou. Procesoarele AMD Ryzen oferă adesea un raport preț/performanță excelent, în timp ce Intel Core Ultra excelează la autonomie și eficiență. Contează mai mult modelul concret decât brandul."
+      "q": "Câtă memorie RAM?",
+      "a": "16 GB este pragul confortabil azi. 8 GB îmbătrânește repede și încetinește la multitasking. 32 GB au sens doar pentru editare video/foto sau muncă profesională exigentă. Verifică dacă RAM-ul poate fi extins."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "512 GB sau 1 TB SSD?",
+      "a": "512 GB e un minim rezonabil pentru documente și aplicații. 1 TB e confortabil dacă păstrezi multe fișiere, jocuri sau proiecte locale. Important e să fie SSD, nu HDD — face cea mai mare diferență de viteză."
+    },
+    {
+      "q": "Ce înseamnă 'No OS' sau FreeDOS?",
+      "a": "Laptopul vine fără Windows instalat, deci e mai ieftin. Trebuie să adaugi tu o licență Windows (sau să folosești Linux). Dacă vrei totul gata de folosit, alege un model cu Windows preinstalat."
+    },
+    {
+      "q": "OLED merită pe laptop?",
+      "a": "Pentru culori, contrast și negru, da — e un upgrade vizibil, mai ales la vizionare și lucru cu imagini. Costă în plus și consumă puțin mai mult, așa că e un 'nice to have' pe modele premium, nu o necesitate."
+    },
+    {
+      "q": "Ce ecran e bun pentru ochi?",
+      "a": "Minim Full HD cu panou IPS. Un finisaj mat reduce reflexiile și oboseala în lumină. Rezoluțiile WUXGA/2.8K oferă text mai clar. Evită panourile TN ieftine, cu unghiuri și culori slabe."
+    },
+    {
+      "q": "Contează grafica integrată?",
+      "a": "Pentru birou, video și navigare, grafica integrată modernă e suficientă. Pentru jocuri sau editare video serioasă ai nevoie de placă video dedicată (vezi categoria de laptopuri gaming). Radeon și Intel Arc integrate sunt surprinzător de capabile pentru task-uri ușoare."
+    },
+    {
+      "q": "Ce greutate e ok pentru cărat zilnic?",
+      "a": "Sub 1,6 kg e confortabil pentru navetă și facultate. Modelele de 15–16\" sunt mai grele, dar mai productive. Dacă îl cari zilnic, prioritizează greutatea și autonomia; dacă stă pe birou, poți lua un model mai mare."
     }
   ],
   "conclusion": "Pentru cei mai mulți, Lenovo Yoga Slim 9 e alegerea completă: Core Ultra 7, 32 GB RAM și un ecran 4K OLED superb într-o construcție premium. Dacă vrei cel mai bun raport preț/calitate, Lenovo IdeaPad Slim 3 cu i7-13620H îți dă multă putere ieftin, iar Lenovo V15 G4 e alegerea solidă pe buget, cu SSD de 1 TB.",
@@ -624,5 +656,49 @@
       ],
       "emagUrl": "https://www.emag.ro/laptop-asus-vivobook-15-a1502va-cu-procesor-intelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-512gb-ssd-intelr-uhd-graphics-windows-11-home-quiet-blue-a1502va-bq1287w/pd/D1R2KJ3BM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Intel Core vs. AMD Ryzen: ce procesor de laptop alegi?",
+    "intro": "Ambele familii sunt excelente azi. Diferențele contează mai mult la modele specifice decât la brand în sine.",
+    "aLabel": "Intel Core",
+    "bLabel": "AMD Ryzen",
+    "rows": [
+      {
+        "criteriu": "Performanță single-core",
+        "a": "Foarte bună",
+        "b": "Foarte bună"
+      },
+      {
+        "criteriu": "Performanță multi-core",
+        "a": "Bună",
+        "b": "Adesea mai bună la același segment"
+      },
+      {
+        "criteriu": "Autonomie",
+        "a": "Excelentă pe Core Ultra / seria U",
+        "b": "Foarte bună"
+      },
+      {
+        "criteriu": "Grafică integrată",
+        "a": "Bună (Arc pe Ultra)",
+        "b": "Tradițional puternică (Radeon)"
+      },
+      {
+        "criteriu": "Disponibilitate modele",
+        "a": "Foarte largă",
+        "b": "Largă, în creștere"
+      },
+      {
+        "criteriu": "Raport preț-performanță",
+        "a": "Bun",
+        "b": "Adesea foarte bun"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Autonomie, ecosistem larg",
+        "b": "Multitasking, grafică integrată"
+      }
+    ],
+    "verdict": "Nu alege după brand, ci după modelul concret: compară generația, RAM și SSD. Ryzen oferă des mai mult multi-core și grafică integrată la același buget; Intel Core Ultra excelează la autonomie și are cea mai largă ofertă."
+  }
 }

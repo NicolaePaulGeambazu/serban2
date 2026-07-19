@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "dryer",
   "order": 8,
-  "intro": "Am comparat cele mai populare uscătoare de rufe cu pompă de căldură de pe eMAG după clasa energetică, capacitate, calitatea uscării și zgomot. Toate consumă puțin curent — mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "intro": "Am comparat cele mai populare uscătoare de rufe de pe eMAG după eficiența energetică, capacitate, blândețea cu țesăturile și funcțiile utile. Aproape toate modelele bune de azi sunt cu pompă de căldură — mai jos afli de ce contează asta și care model ți se potrivește.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -40,30 +40,62 @@
   "guide": [
     {
       "h3": "Clasa energetică contează cel mai mult",
-      "body": "Toate uscătoarele bune de azi au pompă de căldură — consumă de 2–3 ori mai puțin decât cele cu rezistență. Diferența o face clasa: A+++ e cea mai economică, iar de la B în jos consumul crește vizibil. Pe termen lung, o clasă mai bună își scoate banii.",
-      "callout": "Dacă usci rufe de câteva ori pe săptămână, o clasă superioară (Bosch Seria 8, clasa B) se amortizează în câțiva ani prin factura la curent mai mică."
+      "body": "Uscătorul e printre cele mai energofage electrocasnice, așa că eficiența se simte direct în factură. Modelele cu pompă de căldură (A+++ până la A/B) consumă de câteva ori mai puțin decât cele vechi cu condensare sau evacuare. Pe termen lung, un model eficient își recuperează costul mai mare de achiziție.",
+      "callout": "Nu te uita doar la preț: diferența de consum dintre un A+++ și un model slab se adună serios în câțiva ani de folosire."
     },
     {
-      "h3": "Ce capacitate îți trebuie?",
-      "body": "Pentru 1–2 persoane, 7 kg e suficient. O familie de 3–4 persoane e mai relaxată cu 8 kg, iar la 9 kg (Bosch WQB246, Samsung DV90) usci o plapumă sau un maldăr de prosoape dintr-o singură tură. Capacitatea mai mare înseamnă mai puține cicluri."
+      "h3": "Ce capacitate îți trebuie",
+      "body": "Regula simplă: ia o capacitate egală sau puțin mai mare decât mașina de spălat. Pentru 1–2 persoane, 7 kg ajunge; pentru o familie, 8–9 kg usucă mai relaxat și mai rar. Un tambur mai mare usucă mai blând, pentru că rufele au loc."
     },
     {
-      "h3": "Abur și funcții smart — merită?",
-      "body": "Funcția cu abur (Beko SteamCure) relaxează cutele și reduce călcatul. Conectivitatea Wi-Fi (Home Connect, SmartThings) îți lasă să pornești programul din telefon și să primești notificare când e gata. Nu sunt obligatorii, dar cresc confortul de zi cu zi."
+      "h3": "De ce pompă de căldură",
+      "body": "Pompa de căldură usucă la temperaturi mai joase, deci protejează țesăturile și consumă puțin. Nu necesită racord la canalizare (colectează apa într-un rezervor). E standardul actual — modelele clasice cu rezistență au sens doar la buget minim."
+    },
+    {
+      "h3": "Funcții care chiar ajută",
+      "body": "Senzorii de umiditate opresc programul exact când rufele sunt uscate, economisind energie și protejând hainele. Programele cu abur reduc șifonarea (mai puțin călcat), iar autocurățarea condensatorului scade întreținerea. Wi-Fi-ul e util dacă vrei notificări, dar nu e esențial."
+    },
+    {
+      "h3": "Întreținere: filtrul și condensatorul",
+      "body": "Curăță filtrul de scame după fiecare ciclu — e cea mai importantă rutină pentru eficiență și siguranță. Golește rezervorul de apă (sau racordează-l la scurgere) și curăță periodic condensatorul dacă modelul nu o face automat."
+    },
+    {
+      "h3": "Greșeli frecvente",
+      "body": "Nu subdimensiona capacitatea și nu ignora clasa energetică de dragul prețului mic. Nu supraîncărca tamburul — rufele se usucă neuniform și se șifonează. Și verifică nivelul de zgomot dacă amplasezi uscătorul lângă zone de zi."
     }
   ],
   "faq": [
     {
       "q": "Uscătorul cu pompă de căldură consumă mult?",
-      "a": "Nu — e cel mai economic tip. Un ciclu la un model de clasă bună consumă mult mai puțin decât un uscător clasic cu rezistență. De aceea toate modelele din clasament folosesc pompă de căldură."
+      "a": "Nu — e cel mai economic tip de uscător. Consumă de câteva ori mai puțin decât modelele vechi cu rezistență, motiv pentru care ajung la clase energetice A+++/A++. Factura rămâne rezonabilă chiar și la utilizare frecventă."
     },
     {
       "q": "Trebuie racord la canalizare?",
-      "a": "Nu. Uscătoarele cu pompă de căldură colectează apa într-un rezervor pe care îl golești manual, sau pot fi conectate opțional la scurgere dacă ai priză de evacuare aproape. Nu au nevoie de tub de aerisire spre exterior."
+      "a": "Nu obligatoriu. Uscătoarele moderne colectează apa condensată într-un rezervor pe care îl golești. Dacă ai posibilitatea, poți racorda furtunul la scurgere ca să nu mai golești manual — dar nu e necesar."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "Ce capacitate să aleg?",
+      "a": "Egală sau puțin peste capacitatea mașinii de spălat. 7 kg pentru 1–2 persoane, 8–9 kg pentru familie. Un tambur mai mare usucă mai blând și îl folosești mai rar, cu încărcături complete."
+    },
+    {
+      "q": "Usucă mai lent decât modelele vechi?",
+      "a": "Puțin mai lent, pentru că lucrează la temperaturi mai joase — dar exact asta protejează hainele și scade consumul. Diferența de timp e mică față de economia de energie și de uzura redusă a țesăturilor."
+    },
+    {
+      "q": "Ce clasă energetică să caut?",
+      "a": "Cât mai sus posibil (A+++ ideal, A++/A foarte bine). Fiind un aparat energofag, clasa se traduce direct în factură. Un model eficient își acoperă în timp diferența de preț față de unul slab."
+    },
+    {
+      "q": "Funcția cu abur merită?",
+      "a": "Da, dacă urăști călcatul. Aburul relaxează fibrele și reduce șifonarea, așa că multe articole ies gata de purtat sau necesită doar o trecere rapidă. Nu e obligatorie, dar e foarte practică."
+    },
+    {
+      "q": "Cât de des curăț filtrul?",
+      "a": "După fiecare ciclu. Filtrul de scame înfundat scade eficiența, prelungește uscarea și crește riscul de supraîncălzire. E rutina de un minut care contează cel mai mult pentru performanță și siguranță."
+    },
+    {
+      "q": "Pot pune uscătorul peste mașina de spălat?",
+      "a": "Da, cu un kit de suprapunere (coloană) potrivit. Verifică dimensiunile și cumpără kitul recomandat de producător pentru stabilitate. E soluția ideală când spațiul e limitat."
     }
   ],
   "conclusion": "Pentru cei mai mulți, Bosch Seria 8 WQB246DNBY e alegerea completă: clasa B, 9 kg, Home Connect și uscare silențioasă. Dacă vrei cel mai bun raport preț/calitate, Beko B3T42242 îți dă clasa C și 8 kg la un preț mic, iar Heinner HHPD-V7T1CHA++ e alegerea pe buget.",
@@ -626,5 +658,49 @@
       ],
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-heinner-pompa-de-caldura-7-kg-15-programe-clasa-a-e-display-led-lumina-cuva-indicator-curatare-filtru-scame-indicator-rezervor-colectare-apa-plin-blocare-acces-copii-alb-hhpd-v7t1cha/pd/DVRPVQMBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Pompă de căldură vs. condensare clasică: ce uscător alegi?",
+    "intro": "Ambele colectează apa fără racord la canalizare, dar diferă mult la consum și blândețe.",
+    "aLabel": "Pompă de căldură",
+    "bLabel": "Condensare clasică",
+    "rows": [
+      {
+        "criteriu": "Consum energie",
+        "a": "Foarte mic",
+        "b": "Ridicat"
+      },
+      {
+        "criteriu": "Clasă energetică",
+        "a": "A+++ – A",
+        "b": "B – C, tipic"
+      },
+      {
+        "criteriu": "Blândețe cu rufele",
+        "a": "Mare (temperaturi joase)",
+        "b": "Mai agresiv (temperaturi mari)"
+      },
+      {
+        "criteriu": "Timp de uscare",
+        "a": "Puțin mai lung",
+        "b": "Ceva mai rapid"
+      },
+      {
+        "criteriu": "Cost de achiziție",
+        "a": "Mai mare",
+        "b": "Mai mic"
+      },
+      {
+        "criteriu": "Cost pe termen lung",
+        "a": "Cel mai mic",
+        "b": "Mai mare (factură)"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Aproape toată lumea",
+        "b": "Buget minim, folosire rară"
+      }
+    ],
+    "verdict": "Pompa de căldură e alegerea corectă pentru majoritatea: consum mic, rufe protejate și cost recuperat în timp. Condensarea clasică are sens doar dacă bugetul de achiziție e strâns și folosești uscătorul rar."
+  }
 }

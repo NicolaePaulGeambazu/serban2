@@ -4,8 +4,8 @@
   "parent": "Electronice",
   "icon": "tv",
   "order": 5,
-  "intro": "Am comparat cele mai populare 10 televizoare de pe eMAG după calitatea imaginii, sunet, partea smart și gaming. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-16",
+  "intro": "Am comparat cele mai căutate televizoare de pe eMAG după calitatea imaginii, performanța la gaming, sistemul smart și raportul dintre tehnologie și buget. Mai jos ai clasamentul, cu argumente pentru fiecare loc, plus un ghid care explică pe înțelesul tuturor ce contează cu adevărat.",
+  "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -39,31 +39,64 @@
   ],
   "guide": [
     {
-      "h3": "Ce diagonală pentru camera ta?",
-      "body": "Regula practică: stai la o distanță de ~1,5× diagonala pentru 4K. La 2,5 m de canapea, un 55\" e ideal; la 3,5 m, mergi spre 65\". Un TV prea mic într-o cameră mare e cea mai frecventă regretare.",
-      "callout": "Nu-ți fie teamă de diagonală mare — la 4K stai mai aproape fără să vezi pixeli. Mai degrabă un 65\" bun decât un 50\" scump."
+      "h3": "Tehnologia panoului: OLED, QLED sau MiniLED?",
+      "body": "OLED aprinde fiecare pixel individual, deci dă negru perfect și contrast fără egal — ideal în camere întunecate și pentru filme. QLED și MiniLED sunt LCD-uri cu iluminare foarte puternică, deci strălucesc mai tare în camere luminoase și nu au risc de burn-in. MiniLED e varianta premium de LCD, cu mii de zone de iluminare.",
+      "callout": "Cameră întunecată și filme → OLED. Cameră luminoasă sau folosire intensă (sport, știri, gaming multe ore) → QLED/MiniLED."
     },
     {
-      "h3": "OLED, QLED/MiniLED sau LED?",
-      "body": "OLED (LG, Philips) = cel mai bun negru și contrast, perfect pentru filme în cameră întunecată. QLED și QD-MiniLED (Samsung, TCL) = foarte luminoase și vii, excelente în camere cu lumină și un raport preț/imagine imbatabil. LED clasic (Sony Bravia 3) = accesibil, bun pentru uz zilnic."
+      "h3": "Ce diagonală ți se potrivește",
+      "body": "Regula practică: pentru 4K stai la o distanță de aproximativ 1,5× diagonala. La 2,5–3 m de canapea, 55\" este minimul confortabil, iar 65\" răsplătește cel mai bine. Sub 50\" are sens doar pentru bucătărie, dormitor sau spații mici.",
+      "callout": "Nu lua o diagonală mai mică decât ai spațiu — aproape nimeni nu regretă un televizor mai mare."
     },
     {
-      "h3": "Contează pentru gaming?",
-      "body": "Dacă ai PS5/Xbox Series sau PC, caută 100–120Hz, HDMI 2.1 și VRR/ALLM. OLED-urile LG C5 și panourile MiniLED TCL le au; modelele QLED de intrare rămân la 60Hz."
+      "h3": "4K e standardul, 8K încă nu merită",
+      "body": "Toate modelele bune de azi sunt 4K, cu suficient conținut disponibil (streaming, UHD Blu-ray, console). 8K rămâne scump și fără conținut real, deci nu e o investiție rațională în 2026."
+    },
+    {
+      "h3": "Gaming: 120Hz, HDMI 2.1 și VRR",
+      "body": "Dacă ai PS5, Xbox Series X sau PC puternic, caută 120Hz, HDMI 2.1 și VRR (rată de refresh variabilă) pentru imagine fluidă, fără sfâșiere. OLED-urile și modelele TCL din test excelează aici. Pentru un TV strict de filme, 60Hz e suficient."
+    },
+    {
+      "h3": "Sistemul smart și sunetul",
+      "body": "Tizen (Samsung), webOS (LG) și Google TV (Sony, TCL, Philips) sunt toate rapide și complete. Contează mai mult ecosistemul tău. Sunetul integrat rămâne subțire pe orice televizor plat — bugetează separat un soundbar dacă vrei un salt real."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu te lua doar după rezoluție (toate sunt 4K) sau după 'câți Hz' din reclamă (unele numere sunt interpolate). Uită-te la tehnologia reală a panoului, la luminozitate (nits) și la clasa energetică. Un OLED ieftin bate un LCD scump la imagine, dar consumă și se poate marca dacă ții ore întregi aceeași imagine statică."
     }
   ],
   "faq": [
     {
-      "q": "Merită OLED sau iau QLED/MiniLED?",
-      "a": "Dacă te uiți mult la filme seara, în cameră întunecată, OLED-ul e superior la contrast. Dacă e cameră luminoasă și vrei imagine vie ziua la un preț mai bun, un QD-MiniLED (ex. TCL) e alegerea mai deșteaptă."
+      "q": "OLED se 'arde' (burn-in) chiar așa de ușor?",
+      "a": "La utilizare normală, casnică, riscul e mic — televizoarele moderne au protecții (pixel shift, detectare siglă). Devine o problemă doar dacă ții ore întregi zilnic aceeași imagine statică (un canal cu logo fix, un joc cu HUD permanent). Pentru un mix normal de conținut, nu e o grijă reală."
+    },
+    {
+      "q": "Ce diagonală iau pentru living?",
+      "a": "La 2,5–3 metri distanță, 55\" este confortabil, iar 65\" oferă cel mai bun efect fără să obosească ochii. Măsoară distanța de la canapea la perete și alege cât mai mare încape estetic."
+    },
+    {
+      "q": "Merită 8K?",
+      "a": "Nu încă. Nu există conținut nativ 8K real, iar diferența față de 4K e invizibilă la diagonalele și distanțele normale de vizionare. Banii sunt mai bine investiți într-un 4K mai mare sau cu panou mai bun."
+    },
+    {
+      "q": "Ce înseamnă HDR și contează?",
+      "a": "HDR extinde gama de luminozitate și culoare, deci imaginea arată mai vie și mai realistă. Contează mult — caută suport HDR10+ sau Dolby Vision. Un TV cu HDR bun și luminozitate mare face o diferență vizibilă la filmele compatibile."
+    },
+    {
+      "q": "E suficient sunetul televizorului?",
+      "a": "Pentru știri și uz zilnic, da. Pentru filme și muzică, difuzoarele plate sunt subțiri la orice brand. Un soundbar chiar și de bază aduce cel mai mare salt de experiență după imagine."
+    },
+    {
+      "q": "Ce sistem smart e cel mai bun?",
+      "a": "Tizen, webOS și Google TV sunt toate rapide și au toate aplicațiile importante. Alege în funcție de ecosistemul tău (de ex. Google TV dacă folosești mult serviciile Google). Diferențele sunt mici în practică."
     },
     {
       "q": "Câți Hz îmi trebuie?",
-      "a": "Pentru filme și seriale, 60Hz sunt suficienți. Pentru gaming pe consolă nouă sau PC, alege 100–120Hz cu HDMI 2.1."
+      "a": "Pentru filme și uz normal, 60Hz e suficient. Pentru gaming pe consolă nouă sau PC, caută 120Hz real (nu interpolat) plus HDMI 2.1 și VRR pentru fluiditate maximă."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "TCL și Hisense sunt de încredere față de Samsung/LG/Sony?",
+      "a": "Da, mai ales pe MiniLED, unde oferă tehnologie premium la un cost mai mic. Brandurile clasice rămân în frunte la OLED și la software matur, dar mărcile în ascensiune sunt alegeri excelente ca raport calitate-preț."
     }
   ],
   "conclusion": "Pentru imaginea cea mai bună și gaming complet, LG OLED evo C5 e alegerea de top. Dacă vrei cel mai bun raport preț/calitate, TCL QD-MiniLED 55C6K îți dă o imagine excelentă la jumătate de preț, iar Samsung 50Q7F2 e alegerea inteligentă pe buget.",
@@ -633,5 +666,49 @@
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-98q7f-247-cm-smart-4k-ultra-hd-clasa-g-qe98q7faauxxh/pd/D896932BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182494"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "OLED vs. QLED / MiniLED: ce televizor alegi?",
+    "intro": "Cele două mari familii de televizoare de azi. Alegerea depinde mai mult de camera ta și de cum îl folosești decât de preț.",
+    "aLabel": "OLED",
+    "bLabel": "QLED / MiniLED",
+    "rows": [
+      {
+        "criteriu": "Negru și contrast",
+        "a": "Perfect, pixel cu pixel",
+        "b": "Foarte bun, dar nu absolut"
+      },
+      {
+        "criteriu": "Luminozitate",
+        "a": "Bună",
+        "b": "Excelentă (camere luminoase)"
+      },
+      {
+        "criteriu": "Risc burn-in",
+        "a": "Există la imagini statice",
+        "b": "Practic zero"
+      },
+      {
+        "criteriu": "Gaming 120Hz",
+        "a": "Excelent (timp de răspuns mic)",
+        "b": "Foarte bun pe modelele noi"
+      },
+      {
+        "criteriu": "Cameră luminoasă",
+        "a": "Acceptabil",
+        "b": "Ideal"
+      },
+      {
+        "criteriu": "Cost la aceeași diagonală",
+        "a": "Mai ridicat",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Filme, seri, home cinema",
+        "b": "Sport, folosire intensă, buget"
+      }
+    ],
+    "verdict": "Alege OLED dacă te uiți mult seara la filme și seriale și vrei cea mai bună imagine. Alege QLED/MiniLED dacă ai o cameră luminoasă, ții televizorul aprins mult sau vrei o diagonală mare la un cost mai mic."
+  }
 }

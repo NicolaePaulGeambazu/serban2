@@ -417,7 +417,7 @@ details.q .a{padding:0 18px 16px;color:#25313f;line-height:1.65}
 .concluzie .eyebrow{color:var(--gold)}
 .concluzie h2{color:#fff;margin-top:10px}
 .concluzie p{color:#B9C6D6;margin-top:12px;line-height:1.7}
-.concluzie .pick{display:flex;align-items:center;gap:14px;margin-top:20px;background:var(--ink-soft);border:1px solid var(--line-dark);border-radius:12px;padding:16px;flex-wrap:wrap}
+.concluzie .pick{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-top:20px;background:var(--ink-soft);border:1px solid var(--line-dark);border-radius:12px;padding:16px;flex-wrap:wrap}
 .concluzie .pick .pr{margin-left:auto;font-family:var(--mono);font-weight:800;font-size:1.3rem;color:#fff}
 .concluzie .pick b{color:#fff}
 .concluzie .pick span{font-size:.82rem;color:#9DB0C6;display:block}

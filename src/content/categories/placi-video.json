@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "gpu",
   "order": 16,
-  "intro": "Am comparat cele mai populare plăci video de pe eMAG după performanța brută, ray tracing, eficiența energetică și calitatea răcirii. Mai jos ai clasamentul, de la modele premium NVIDIA și AMD, până la variante mid-range cu cel mai bun raport preț-performanță.",
+  "intro": "Am comparat cele mai populare plăci video de pe eMAG după performanța în jocuri, ray tracing, memoria video, eficiență și răcire. Mai jos ai clasamentul plus un ghid despre ce contează cu adevărat când alegi între NVIDIA și AMD și cât VRAM îți trebuie în 2026.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "NVIDIA GeForce sau AMD Radeon?",
-      "body": "NVIDIA domină la ray tracing și DLSS 4 (upscaling + Frame Generation), utile în jocurile noi cu grafică complexă. AMD Radeon oferă, de regulă, mai multă putere brută și VRAM la același preț, ideal dacă joci mai ales la rezoluție nativă, fără ray tracing agresiv.",
-      "callout": "Pentru gaming la rezoluție nativă, un RX 9070 XT bate un RTX 5070 din aceeași plajă de preț. Pentru jocuri cu ray tracing greu (Cyberpunk 2077, Alan Wake 2), NVIDIA rămâne alegerea mai sigură."
+      "h3": "Cantitatea de memorie video (VRAM)",
+      "body": "E criteriul cel mai subestimat. În 2026, 8 GB e pragul minim pentru un model nou și începe să fie strâns chiar și în Full HD la texturi mari. Pentru 1440p, 12 GB e minim acceptabil; la 4K nu te uita sub 16 GB. Memoria insuficientă provoacă stuttering, oricât de rapidă ar fi placa.",
+      "callout": "Nu cumpăra 8 GB pentru 1440p/4K și jocuri noi — vei fi limitat de VRAM, nu de putere."
     },
     {
-      "h3": "Câtă memorie video (VRAM) ai nevoie?",
-      "body": "8 GB e suficient azi pentru 1080p, dar începe să limiteze la texturi mari sau la 1440p în jocurile noi. 12 GB acoperă confortabil 1440p. 16 GB e recomandat pentru 4K sau pentru longevitate, mai ales dacă vrei să păstrezi placa 4-5 ani."
+      "h3": "Arhitectura contează, nu numărul de pe cutie",
+      "body": "O placă din generația actuală cu același număr (RTX 5060, RX 9060) e net superioară unui model cu cifră mai mare dintr-o generație veche. NVIDIA seria RTX 50 și AMD seria RX 9000 sunt singurele de luat în calcul la achiziții noi în 2026 — restul sunt stocuri vechi."
     },
     {
-      "h3": "Bus de memorie și lățime de bandă",
-      "body": "Un bus mai lat (256-bit față de 128-bit) înseamnă mai multă lățime de bandă, esențială la rezoluții mari și texturi 4K. Plăcile de 128-bit (RTX 5060) sunt gândite pentru 1080p/1440p; cele de 256-bit (RTX 5080, RX 9070/9070 XT) țin pasul la 4K."
+      "h3": "Rezoluția și placa potrivită",
+      "body": "Potrivește placa cu monitorul: pentru 1080p, gama medie ajunge; pentru 1440p ai nevoie de o placă solidă (ex. RX 9070, RTX 5070); pentru 4K, vârful de gamă (RTX 5080 și peste). O placă prea slabă pentru monitor înseamnă setări reduse."
+    },
+    {
+      "h3": "Lățimea magistralei (bus)",
+      "body": "O magistrală de 128-bit poate limita placa chiar dacă are 16 GB memorie. Pentru gaming serios, caută cel puțin 192-bit la 1440p/4K, 256-bit fiind pragul rezonabil pentru performanță ridicată. E un detaliu tehnic care afectează real fluiditatea."
+    },
+    {
+      "h3": "Ray tracing și upscaling (DLSS vs. FSR)",
+      "body": "NVIDIA rămâne lider la ray tracing și are DLSS, cel mai matur upscaling (inclusiv generare de cadre). AMD a recuperat mult cu FSR 4 și oferă adesea mai mult VRAM și raster la același segment. Alege în funcție de ce contează pentru tine: ray tracing sau raport preț-performanță."
+    },
+    {
+      "h3": "Sursa și răcirea nu sunt opționale",
+      "body": "O placă puternică cere o sursă (PSU) de calitate, cu suficientă putere și conectori corecți — o sursă ieftină poate distruge tot sistemul. Verifică și dimensiunea plăcii (să încapă în carcasă) și calitatea răcirii pentru temperaturi și zgomot rezonabile."
     }
   ],
   "faq": [
     {
-      "q": "GDDR6 vs GDDR7 — contează pentru gaming?",
-      "a": "GDDR7 (folosit de seria RTX 50) oferă mai multă lățime de bandă la aceeași lățime de bus, ceea ce ajută la rezoluții mari. Diferența practică e mai mică decât cea dintre generații de GPU, dar contează marginal la 4K."
+      "q": "Câtă memorie video (VRAM) îmi trebuie?",
+      "a": "În 2026: 8 GB e pragul minim pentru un model nou (deja strâns în Full HD la texturi mari). Pentru 1440p, 12 GB minim; pentru 4K, nu sub 16 GB. VRAM-ul insuficient provoacă stuttering indiferent cât de rapidă e placa."
     },
     {
-      "q": "Am nevoie de o sursă (PSU) mai puternică?",
-      "a": "Da — plăcile din gama medie-superioară (RTX 5070, RX 9070/9070 XT, RTX 5080) au nevoie de o sursă de minimum 650-750W, de calitate, cu conectorii PCIe corespunzători. Verifică mereu recomandarea producătorului înainte de cumpărare."
+      "q": "NVIDIA sau AMD în 2026?",
+      "a": "Depinde ce prioritizezi. NVIDIA RTX 50 conduce la ray tracing și DLSS. AMD RX 9000 oferă des mai mult raster și VRAM la același preț, cu FSR 4 acum foarte competitiv. Pentru raport preț-performanță, AMD e frecvent alegerea mai bună."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "O placă cu cifră mai mare dintr-o generație veche e mai bună?",
+      "a": "De obicei nu. Arhitectura contează mai mult decât numărul. O placă din generația actuală (RTX 50, RX 9000) bate un model cu cifră mai mare dar vechi la eficiență și funcții (upscaling, ray tracing). Evită stocurile vechi."
+    },
+    {
+      "q": "Ce placă pentru 1440p?",
+      "a": "O placă solidă de gamă medie-superioară: RX 9070 sau RTX 5070 sunt alegeri bune, cu minim 12 GB VRAM și magistrală de cel puțin 192-bit. Asigură-te că se potrivește cu refresh-ul monitorului tău."
+    },
+    {
+      "q": "Contează lățimea magistralei (bus)?",
+      "a": "Da. O magistrală de 128-bit poate limita placa chiar cu 16 GB memorie. Pentru 1440p/4K caută minim 192-bit, ideal 256-bit. E un detaliu tehnic care afectează real fluiditatea la rezoluții mari."
+    },
+    {
+      "q": "Ce sursă (PSU) îmi trebuie?",
+      "a": "Una de calitate, cu putere suficientă și conectorii corecți pentru placă. O sursă ieftină și subdimensionată poate cauza instabilitate sau chiar distruge componente. Verifică recomandarea producătorului plăcii și lasă o marjă."
+    },
+    {
+      "q": "DLSS și FSR chiar ajută?",
+      "a": "Da — cresc semnificativ numărul de cadre randând la rezoluție mai mică și mărind imaginea inteligent, cu pierdere minimă de calitate. DLSS (NVIDIA) e cel mai matur; FSR 4 (AMD) a ajuns foarte aproape. Ambele sunt esențiale la 4K."
+    },
+    {
+      "q": "Încape placa în carcasa mea?",
+      "a": "Verifică lungimea plăcii față de spațiul din carcasă și numărul de sloturi ocupate. Plăcile puternice sunt mari. Modelele 'SFF' sau compacte sunt gândite pentru carcase mici. Măsoară înainte să cumperi."
     }
   ],
   "conclusion": "Pentru majoritatea jucătorilor, RTX 5080 WINDFORCE OC SFF e cel mai puternic GPU din clasament, ideal pentru 1440p/4K. Dacă vrei raportul optim preț/performanță, RX 9070 XT PULSE oferă putere de nivel premium la un preț mai accesibil, iar RTX 5060 WINDFORCE MAX OC e alegerea potrivită dacă bugetul e principala restricție.",
@@ -630,5 +662,49 @@
       "emagUrl": "https://www.emag.ro/placa-video-asus-radeontm-rx-7600-dual-oc-evo-8gb-gddr6-128bit-dual-rx7600-o8g-evo/pd/D5TNZWYBM/",
       "id": "p10"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "NVIDIA GeForce RTX vs. AMD Radeon RX: ce placă video alegi în 2026?",
+    "intro": "Anul acesta răsturnă regula: AMD a recuperat masiv decalajul, iar în multe cazuri e alegerea mai bună pe raport performanță-preț.",
+    "aLabel": "NVIDIA RTX 50",
+    "bLabel": "AMD RX 9000",
+    "rows": [
+      {
+        "criteriu": "Raster 1440p",
+        "a": "Bun",
+        "b": "Adesea mai bun la același segment"
+      },
+      {
+        "criteriu": "Ray tracing",
+        "a": "Lider",
+        "b": "Apropiat cu RDNA 4"
+      },
+      {
+        "criteriu": "Upscaling",
+        "a": "DLSS 4 (referință)",
+        "b": "FSR 4 (foarte apropiat)"
+      },
+      {
+        "criteriu": "VRAM la același segment",
+        "a": "Adesea mai puțin",
+        "b": "Adesea mai mult"
+      },
+      {
+        "criteriu": "Eficiență energetică",
+        "a": "Foarte bună",
+        "b": "Bună"
+      },
+      {
+        "criteriu": "Raport preț-performanță",
+        "a": "Bun",
+        "b": "Adesea foarte bun"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Ray tracing, DLSS, ecosistem",
+        "b": "Raster, VRAM, buget"
+      }
+    ],
+    "verdict": "Alege NVIDIA RTX 50 dacă vrei cel mai bun ray tracing și DLSS matur. Alege AMD RX 9000 dacă vrei mai mult raster și VRAM la același buget — în 2026 e adesea alegerea mai inteligentă pe raport performanță-preț."
+  }
 }

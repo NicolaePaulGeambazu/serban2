@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "monitor",
   "order": 14,
-  "intro": "Am comparat cele mai populare monitoare de gaming de pe eMAG după calitatea imaginii, fluiditate (rată de refresh și timp de răspuns), rezoluție și conectică. Mai jos ai clasamentul, de la flagship-urile QD-OLED până la variantele bune pe buget.",
+  "intro": "Am comparat cele mai populare monitoare de gaming de pe eMAG după calitatea imaginii, rata de refresh, timpul de răspuns, rezoluție și conectică. Mai jos ai clasamentul plus un ghid despre ce contează cu adevărat, în funcție de ce jocuri joci și de placa video pe care o ai.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "Panou: QD-OLED, IPS sau VA?",
-      "body": "QD-OLED oferă cel mai bun contrast, negru perfect și timp de răspuns aproape instant (0.03ms) — ideal pentru gaming imersiv, dar costă mult. VA are contrast bun și e cel mai accesibil, IPS are culori și unghiuri bune. Pentru esports contează mai mult refresh-ul decât panoul.",
-      "callout": "Dacă bugetul permite, un QD-OLED (Dell Alienware, Gigabyte MO27U2) transformă complet experiența. Pe buget, un VA QHD la 165–180Hz e alegerea rațională."
+      "h3": "Rata de refresh: câți Hz îți trebuie",
+      "body": "Refresh-ul (Hz) determină fluiditatea. 144–165Hz este dulcele punct pentru majoritatea; 240Hz+ contează în shootere competitive, unde fiecare cadru ajută. Peste 240Hz devine util doar profesioniștilor. Asigură-te că placa video poate livra cadrele — un monitor de 240Hz cu 60 fps nu ajută.",
+      "callout": "Competitiv (CS2, Valorant) → cât mai mulți Hz. Jocuri single-player frumoase → prioritizează panoul și rezoluția."
     },
     {
-      "h3": "Rezoluție și rată de refresh",
-      "body": "4K arată spectaculos, dar cere o placă video puternică. QHD (2560x1440) e echilibrul ideal pentru majoritatea configurațiilor în 2026. Pentru shootere competitive, 240Hz+ pe Full HD e mai important decât rezoluția — mai multe cadre înseamnă un avantaj real."
+      "h3": "Panoul: QD-OLED, IPS sau VA",
+      "body": "QD-OLED oferă negru perfect, culori superbe și timp de răspuns instant — cea mai bună imagine, dar mai scump și cu risc mic de burn-in. IPS dă culori excelente și unghiuri bune, VA are contrast mai bun dar poate avea ghosting. Pentru imersiune vizuală, OLED-ul câștigă detașat."
     },
     {
-      "h3": "Ultrawide, curbat și conectică",
-      "body": "Ecranele ultrawide (34\") și super ultrawide (49\") oferă imersiune mare în jocuri de cursă și RPG. Curbura (1000R–1800R) reduce oboseala ochilor. Verifică HDMI 2.1 pentru console next-gen și USB-C dacă vrei un singur cablu pentru laptop."
+      "h3": "Rezoluția și dimensiunea",
+      "body": "Full HD (1080p) e ok la 24–25\". QHD (1440p) e sweet spot-ul la 27–32\" — clar și accesibil pentru placa video. 4K arată superb, dar cere o placă puternică. Ultrawide (21:9) adaugă imersiune în jocuri care îl suportă și e excelent și la productivitate."
+    },
+    {
+      "h3": "Timp de răspuns și adaptive sync",
+      "body": "Timpul de răspuns mic (1ms sau sub) reduce ghosting-ul la mișcare rapidă. FreeSync (AMD) și G-Sync Compatible (NVIDIA) sincronizează monitorul cu placa video și elimină sfâșierea imaginii (tearing). Caută compatibilitate cu placa ta."
+    },
+    {
+      "h3": "Curbura și ergonomia",
+      "body": "Ecranele curbate (1500R, 1800R, 1000R) sporesc imersiunea la diagonale mari și ultrawide. Verifică suportul: reglaj pe înălțime, pivotare și compatibilitate VESA contează pentru confort și pentru un birou ordonat."
+    },
+    {
+      "h3": "Greșeli frecvente",
+      "body": "Nu cumpăra 240Hz dacă placa ta scoate 80 fps — banii sunt mai bine puși în panou sau rezoluție. Nu ignora HDR-ul fals (unele monitoare 'HDR10' n-au luminozitatea reală). Și potrivește rezoluția cu placa video, ca să nu joci cu setări reduse."
     }
   ],
   "faq": [
     {
-      "q": "Merită un monitor QD-OLED pentru gaming?",
-      "a": "Da, dacă bugetul permite. Negrul perfect, contrastul și timpul de răspuns de 0.03ms fac o diferență vizibilă față de VA/IPS. Singurele minusuri sunt prețul și grija la imaginile statice (risc teoretic de burn-in), gestionat însă de protecțiile din fabrică."
-    },
-    {
       "q": "Câți Hz îmi trebuie?",
-      "a": "Pentru jocuri single-player, 144–180Hz e mai mult decât suficient. Pentru shootere competitive (CS2, Valorant), 240Hz sau mai mult aduce un plus real de fluiditate, cu condiția ca placa video să livreze cadrele."
+      "a": "144–165Hz e sweet spot-ul pentru majoritatea. 240Hz+ contează în shootere competitive. Peste 240Hz e util doar profesioniștilor. Asigură-te însă că placa video poate livra atâtea cadre — altfel Hz-ii în plus nu se simt."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "QD-OLED merită pentru gaming?",
+      "a": "Dacă vrei cea mai bună imagine — da, detașat: negru perfect, culori vii, răspuns instant. Costă mai mult și are un risc mic de burn-in la elemente statice. Pentru gaming pur competitiv pe buget, un IPS/VA rapid e mai rațional."
+    },
+    {
+      "q": "Ce rezoluție la 27 de inch?",
+      "a": "QHD (1440p) e ideal la 27\" — clar, detaliat și rezonabil pentru placa video. Full HD la 27\" arată deja ușor granulat. 4K la 27\" e foarte clar, dar cere o placă puternică pentru cadre mari."
+    },
+    {
+      "q": "FreeSync sau G-Sync?",
+      "a": "Ambele elimină sfâșierea imaginii sincronizând monitorul cu placa video. Multe monitoare suportă FreeSync și sunt și 'G-Sync Compatible'. Alege unul compatibil cu placa ta (AMD sau NVIDIA); în practică, majoritatea merg cu ambele."
+    },
+    {
+      "q": "Ecranul curbat e mai bun?",
+      "a": "La diagonale mari și ultrawide, curbura sporește imersiunea și confortul, aducând marginile în câmpul vizual. La 24–27\" plat, diferența e mică. E o preferință, nu o necesitate — contează mai mult panoul și refresh-ul."
+    },
+    {
+      "q": "Ce înseamnă timpul de răspuns?",
+      "a": "E cât de repede schimbă un pixel culoarea; valorile mici (1ms sau sub) reduc ghosting-ul (urme) la mișcare rapidă. OLED-urile sunt aproape instant. Nu confunda cu input lag — sunt măsuri diferite."
+    },
+    {
+      "q": "HDR-ul contează?",
+      "a": "Un HDR real (luminozitate mare, multe zone) îmbunătățește vizibil imaginea. Dar multe monitoare 'HDR10' n-au luminozitatea necesară și diferența e mică. Verifică nits și certificarea (ex. DisplayHDR) înainte să plătești pentru HDR."
+    },
+    {
+      "q": "Ultrawide merită?",
+      "a": "Pentru imersiune în jocuri compatibile și pentru productivitate (multe ferestre), da — e excelent. Dezavantaje: nu toate jocurile îl suportă corect și cere o placă mai capabilă pentru rezoluția mai mare (ex. UWQHD)."
     }
   ],
   "conclusion": "Pentru cei mai mulți gameri cu buget generos, Dell Alienware AW3425DW e alegerea completă: QD-OLED ultrawide la 240Hz, cu imagine și fluiditate de top. Dacă vrei cel mai bun raport preț/calitate, LG UltraGear 27GS60QC îți dă QHD la 180Hz ieftin, iar Philips EVNIA 27\" 280Hz e alegerea pe buget pentru esports.",
@@ -625,5 +657,49 @@
       ],
       "emagUrl": "https://www.emag.ro/monitor-led-ips-dell-27-full-hd-1920x1080-100hz-5ms-gtg-usb-type-c-90w-power-hub-usb-hdmi-2x-display-port-ethernet-pivot-negru-argintiu-p2725he/pd/D0FDJFYBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "QD-OLED vs. VA / IPS: ce panou de monitor alegi?",
+    "intro": "Tehnologia panoului definește imaginea. Alegerea depinde de tipul de jocuri și de buget.",
+    "aLabel": "QD-OLED",
+    "bLabel": "VA / IPS",
+    "rows": [
+      {
+        "criteriu": "Negru și contrast",
+        "a": "Perfect (pixel cu pixel)",
+        "b": "VA bun, IPS mediu"
+      },
+      {
+        "criteriu": "Culori",
+        "a": "Excelente, vii",
+        "b": "IPS excelente, VA bune"
+      },
+      {
+        "criteriu": "Timp de răspuns",
+        "a": "Instant (0.03ms)",
+        "b": "Bun (1ms IPS, VA mai lent)"
+      },
+      {
+        "criteriu": "Risc burn-in",
+        "a": "Mic, dar există",
+        "b": "Zero"
+      },
+      {
+        "criteriu": "Luminozitate în cameră luminoasă",
+        "a": "Bună",
+        "b": "Foarte bună"
+      },
+      {
+        "criteriu": "Cost",
+        "a": "Mai ridicat",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Imersiune, imagine top",
+        "b": "Buget, folosire mixtă"
+      }
+    ],
+    "verdict": "Alege QD-OLED dacă vrei cea mai bună imagine pentru jocuri imersive și te uiți și la conținut vizual bogat. VA/IPS rămân alegeri excelente ca raport calitate-preț, mai ales pentru gaming competitiv unde contează Hz-ii și bugetul."
+  }
 }

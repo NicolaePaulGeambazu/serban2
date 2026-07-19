@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "coffee",
   "order": 11,
-  "intro": "Am comparat cele mai populare espressoare automate de pe eMAG după calitatea cafelei, sistemul de spumare a laptelui, varietatea băuturilor și ușurința de întreținere. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
+  "intro": "Am comparat cele mai populare espressoare automate de pe eMAG după calitatea cafelei, sistemul de spumare a laptelui, varietatea băuturilor și ușurința de întreținere. Mai jos ai clasamentul plus un ghid care explică ce diferențe chiar contează între modele.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "Sistemul de lapte: carafă, LatteGO sau LatteCrema?",
-      "body": "Dacă bei cappuccino sau latte, sistemul de lapte contează cel mai mult. Carafele LatteCrema (De'Longhi) și LatteGO (Philips) fac spumă automat, la o singură atingere. LatteGO se demontează în două piese și se spală imediat, iar carafele De'Longhi se pun la frigider între utilizări.",
-      "callout": "Vrei cappuccino perfect fără efort? Alege un model cu spumare automată (LatteGO sau LatteCrema). Sistemele cu duză manuală cer exercițiu și timp."
+      "h3": "Automat vs. semi-automat: cum alegi",
+      "body": "Espressoarele automate (bean-to-cup) macină, tasează și prepară la o atingere — comod și constant. Cele semi-automate (cu portafiltru) îți dau control total asupra extracției, dar cer timp și tehnică. Pentru majoritatea celor care vor cafea bună fără efort, automatul e alegerea.",
+      "callout": "Vrei cafea bună dimineața fără bătăi de cap → automat. Ești pasionat și vrei să 'meșterești' cafeaua → semi-automat."
     },
     {
-      "h3": "Câte tipuri de băuturi îți trebuie?",
-      "body": "Modelele de bază fac 4–6 băuturi (espresso, lungo, cappuccino). Cele premium ajung la 20–50+ rețete cu profile salvate pe utilizator. Dacă în casă fiecare bea altceva, un ecran tactil cu profile și băuturi multiple face diferența la comoditate."
+      "h3": "Sistemul de lapte contează cel mai mult",
+      "body": "Dacă bei cappuccino sau latte, sistemul de lapte face diferența. Carafele LatteCrema (De'Longhi) și LatteGo (Philips) fac spumă automat, la o atingere. LatteGo se demontează în două piese și se spală imediat; carafele se pot pune la frigider între utilizări. Duza clasică (pannarello) cere tehnică manuală."
     },
     {
-      "h3": "Râșnița și presiunea contează?",
-      "body": "Aproape toate au 15 bari, suficient pentru un espresso corect. Mai importantă e râșnița: cea ceramică (Philips) se tocește greu și e silențioasă, iar cea cu mai multe setări (Krups, De'Longhi) reglează fin grosimea măcinării pentru gustul dorit."
+      "h3": "Râșnița și presiunea",
+      "body": "O râșniță din ceramică e durabilă și nu supraîncălzește cafeaua. Reglajul granulației îți lasă să ajustezi tăria. Cei 15 bari din reclamă sunt suficienți la orice model — nu te lăsa impresionat de cifre mai mari, contează consistența extracției."
+    },
+    {
+      "h3": "Varietatea băuturilor și ecranul",
+      "body": "Modelele premium oferă zeci de rețete presetate (espresso, lungo, cappuccino, latte macchiato, chiar cafea cu gheață). Un ecran tactil face selecția intuitivă și memorează preferințele. Pentru majoritatea, 6–12 băuturi acoperă tot ce bei zilnic."
+    },
+    {
+      "h3": "Întreținerea: cheia longevității",
+      "body": "Un espressor automat cere curățare regulată: detartrare, spălarea sistemului de lapte după fiecare folosire și golirea zațului. Modelele cu programe automate de clătire și componente lavabile în mașina de spălat vase reduc mult efortul zilnic."
+    },
+    {
+      "h3": "Greșeli frecvente",
+      "body": "Nu cumpăra un model cu sistem de lapte complicat dacă bei doar espresso. Nu ignora ușurința curățării — un espressor greu de întreținut ajunge nefolosit. Și verifică zgomotul râșniței dacă faci prima cafea devreme, lângă camere de dormit."
     }
   ],
   "faq": [
     {
-      "q": "Cât de des trebuie detartrat un espressor automat?",
-      "a": "Depinde de duritatea apei și de câte cafele faci, dar de obicei la fiecare 1–3 luni. Aparatele bune te anunță singure când e nevoie și au program automat de detartrare. Folosirea filtrului de apă rărește operațiunea."
+      "q": "Automat sau semi-automat pentru acasă?",
+      "a": "Pentru majoritatea, automatul (bean-to-cup) e alegerea: macină și prepară la o atingere, constant, fără tehnică. Semi-automatul oferă control total și e pentru pasionați dispuși să investească timp în extracție și curățare manuală."
     },
     {
-      "q": "LatteGO sau carafă De'Longhi — care e mai bun?",
-      "a": "LatteGO (Philips) e mai ușor de curățat: doar două piese, fără tuburi, se spală în câteva secunde. Carafele De'Longhi (LatteCrema) dau o spumă foarte densă și pot fi puse direct la frigider. Ambele fac spumă automat la o atingere."
+      "q": "Ce sistem de lapte e cel mai bun?",
+      "a": "Pentru cappuccino/latte la o atingere, caută carafă LatteCrema (De'Longhi) sau LatteGo (Philips). LatteGo se spală cel mai ușor (două piese, fără furtunuri). Duza clasică e mai ieftină, dar cere tehnică și exercițiu."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "Contează câți bari are?",
+      "a": "15 bari sunt suficienți la orice espressor bun — e presiunea standard pentru o extracție corectă. Cifre mai mari din reclamă nu înseamnă cafea mai bună. Mai important e consistența extracției și calitatea râșniței."
+    },
+    {
+      "q": "Râșniță ceramică sau metalică?",
+      "a": "Ceramica e durabilă, nu se încălzește excesiv și păstrează aroma. Ambele funcționează bine; important e să aibă reglaj al granulației, ca să ajustezi tăria cafelei după gust și după boabele folosite."
+    },
+    {
+      "q": "Cât de des trebuie curățat?",
+      "a": "Sistemul de lapte, după fiecare folosire (altfel se strică și se înfundă). Zațul, la câteva cafele. Detartrarea, periodic, în funcție de duritatea apei. Modelele cu clătire automată și piese lavabile în mașina de vase ușurează mult rutina."
+    },
+    {
+      "q": "Pot face și alte băuturi în afară de espresso?",
+      "a": "Da — modelele automate oferă de la 4–6 până la 50+ rețete: espresso, lungo, cappuccino, latte macchiato, uneori cafea cu gheață. Cu cât mai multe presetări și un ecran bun, cu atât mai simplu să prepari exact ce vrei."
+    },
+    {
+      "q": "E zgomotos?",
+      "a": "Râșnița face zgomot câteva secunde la fiecare cafea. Modelele cu izolare fonică (ex. tehnologii de tip 'silent brew') sunt mai discrete. Contează dacă faci prima cafea devreme, lângă dormitoare."
+    },
+    {
+      "q": "Merită un ecran tactil?",
+      "a": "Da, dacă vrei selecție rapidă și să memorezi preferințele fiecărui membru al casei. Nu e esențial pentru a face o cafea bună, dar face experiența mult mai intuitivă pe modelele cu multe băuturi."
     }
   ],
   "conclusion": "Pentru cei mai mulți, De'Longhi Eletta Explore ECAM 450.65.S e alegerea completă: 50+ băuturi, două carafe LatteCrema și extracție la rece. Dacă vrei cel mai bun raport preț/calitate, Philips EP5546 seria 5500 îți dă 20 de băuturi, LatteGO și ecran tactil, iar Philips seria 2300 EP2330 e alegerea pe buget.",
@@ -638,5 +670,49 @@
       ],
       "emagUrl": "https://www.emag.ro/espressor-automat-krups-espresseria-automatic-1450w-15-bar-rezervor-apa-1-6-l-rasnita-3-nivele-negru-ea8108/pd/DRNJ4BBBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Espressor automat vs. semi-automat: ce alegi?",
+    "intro": "Două experiențe diferite ale cafelei de acasă. Depinde cât de mult vrei să te implici în preparare.",
+    "aLabel": "Automat (bean-to-cup)",
+    "bLabel": "Semi-automat (manual)",
+    "rows": [
+      {
+        "criteriu": "Ușurință de folosire",
+        "a": "Foarte mare (o atingere)",
+        "b": "Necesită tehnică"
+      },
+      {
+        "criteriu": "Control asupra cafelei",
+        "a": "Limitat (presetat)",
+        "b": "Total"
+      },
+      {
+        "criteriu": "Viteză dimineața",
+        "a": "Rapid, fără efort",
+        "b": "Mai lent, manual"
+      },
+      {
+        "criteriu": "Consistență între cafele",
+        "a": "Foarte mare",
+        "b": "Depinde de barist"
+      },
+      {
+        "criteriu": "Întreținere",
+        "a": "Automatizată, dar regulată",
+        "b": "Manuală, mai simplă"
+      },
+      {
+        "criteriu": "Cost de achiziție",
+        "a": "Mai ridicat",
+        "b": "Variabil (poate fi mic)"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Comoditate zilnică",
+        "b": "Pasionați de cafea"
+      }
+    ],
+    "verdict": "Alege un espressor automat dacă vrei cafea bună și constantă zilnic, fără efort. Alege semi-automat dacă îți place ritualul și vrei control complet asupra extracției — și ești dispus să înveți și să cureți manual."
+  }
 }

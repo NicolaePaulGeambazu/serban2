@@ -4,8 +4,8 @@
   "parent": "Sport & Fitness",
   "icon": "treadmill",
   "order": 15,
-  "intro": "Am comparat cele mai populare benzi de alergat electrice de pe eMAG după puterea motorului, viteza maximă, înclinarea automată, amortizare și conectivitatea cu aplicații. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget.",
-  "updated": "2026-07-18",
+  "intro": "Am comparat cele mai populare benzi de alergat pentru acasă de pe eMAG după puterea motorului, suprafața de alergare, greutatea maximă suportată, amortizare și funcțiile de antrenament. Mai jos ai clasamentul plus un ghid despre ce contează ca să nu cumperi o bandă care ajunge cuier.",
+  "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -39,31 +39,63 @@
   ],
   "guide": [
     {
-      "h3": "De câți CP ai nevoie la motor?",
-      "body": "Motorul e cea mai importantă piesă. Pentru mers și alergare ușoară ajung 2–2,5 CP. Dacă alergi susținut sau ești mai greu, mergi pe 3,5–4 CP — motorul nu se supraîncălzește și durează ani buni. Sub 2 CP e doar pentru mers.",
-      "callout": "Pentru alergare reală, alege minimum 3 CP. GO4FIT FIT2000 și FitTronic Delta 550 (ambele 4 CP) duc antrenamente intense fără efort."
+      "h3": "Puterea motorului (CP) contează cel mai mult",
+      "body": "Motorul e inima benzii. Pentru mers și jogging ușor, 2–2,5 CP continui ajung. Pentru alergare regulată și utilizatori mai grei, caută 3–4 CP. Atenție: 'CP maxim' din reclamă e mai mare decât 'CP continuu', care e valoarea reală de lucru.",
+      "callout": "Un motor subdimensionat se supraîncălzește și cedează. Ia cu o rezervă de putere față de ce crezi că îți trebuie."
     },
     {
-      "h3": "Înclinare automată vs. manuală",
-      "body": "Înclinarea automată se reglează din consolă sau din aplicație și simulează urcarea, crescând intensitatea fără să mărești viteza. Cea manuală se pune fix din suporturi și e incomodă. Dacă vrei antrenamente variate, merită o bandă cu înclinare automată."
+      "h3": "Suprafața de alergare",
+      "body": "O bandă îngustă sau scurtă te face să alergi crispat. Pentru alergare confortabilă, caută o suprafață de minim ~120 cm lungime și ~40 cm lățime. Cu cât ești mai înalt și alergi mai repede, cu atât ai nevoie de mai mult spațiu."
     },
     {
-      "h3": "Amortizare și suprafață de alergare",
-      "body": "O suprafață lungă (peste 120 cm) și un sistem bun de amortizare protejează genunchii și articulațiile. Verifică și greutatea maximă suportată: alege una cu marjă de 15–20 kg peste greutatea ta, ca banda să nu forțeze."
+      "h3": "Greutatea maximă suportată",
+      "body": "Alege o bandă cu greutate maximă cu cel puțin 20 kg peste greutatea ta — marja asigură stabilitate, durabilitate și un motor care nu se chinuie. O bandă folosită aproape de limita ei se uzează rapid."
+    },
+    {
+      "h3": "Amortizarea și zgomotul",
+      "body": "Un sistem bun de amortizare protejează genunchii și articulațiile la impact — esențial dacă alergi des. Verifică și nivelul de zgomot dacă locuiești la bloc; motoarele inverter și platformele bine amortizate sunt mai silențioase."
+    },
+    {
+      "h3": "Înclinarea: automată vs. manuală",
+      "body": "Înclinarea simulează urcarea și crește intensitatea. Cea automată (reglabilă din consolă sau din aplicații) e mult mai practică și permite antrenamente variate. Cea manuală e mai ieftină, dar trebuie să cobori de pe bandă ca s-o schimbi."
+    },
+    {
+      "h3": "Conectivitate și pliere",
+      "body": "Aplicațiile (Kinomap, Zwift, FitShow) aduc trasee video și antrenamente ghidate care fac alergarea mai puțin plictisitoare. Verifică și dacă banda se pliază și are roți de transport — contează enorm pentru spațiul de acasă."
     }
   ],
   "faq": [
     {
-      "q": "Ce viteză maximă îmi trebuie?",
-      "a": "Pentru mers rapid și jogging sunt suficienți 10–12 km/h. Dacă faci alergare susținută sau intervale, caută 16–20 km/h. Modelele premium din test (FIT2000, Delta 550, FIT700) ajung la 18–20 km/h."
+      "q": "Ce putere de motor îmi trebuie?",
+      "a": "Pentru mers și jogging ușor, 2–2,5 CP continui ajung. Pentru alergare regulată sau utilizatori mai grei, caută 3–4 CP. Uită-te la puterea continuă, nu la 'CP maxim' din reclamă, care e o cifră de vârf, nu de lucru."
     },
     {
-      "q": "Merită o bandă pliabilă?",
-      "a": "Da, dacă ai spațiu limitat. Aproape toate modelele din clasament se pliază, iar unele au și cilindru sau pliere hidraulică pentru rabatare ușoară. O bandă pliabilă ocupă mult mai puțin loc între antrenamente."
+      "q": "Cât de mare trebuie să fie suprafața de alergare?",
+      "a": "Minim ~120 cm lungime și ~40 cm lățime pentru alergare confortabilă. Persoanele înalte și cele care aleargă rapid au nevoie de mai mult. O suprafață prea mică te face să alergi tensionat și crește riscul de accidentare."
     },
     {
-      "q": "De unde câștigați bani dacă site-ul e gratuit?",
-      "a": "Din comision de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent. Prețul tău nu se schimbă, iar comisionul nu influențează clasamentul."
+      "q": "Ce greutate maximă să aleg?",
+      "a": "Cel puțin 20 kg peste greutatea ta. Marja asigură stabilitate, protejează motorul și prelungește viața benzii. O bandă folosită la limita ei se uzează rapid și devine instabilă."
+    },
+    {
+      "q": "Contează amortizarea?",
+      "a": "Da, foarte mult dacă alergi des. Un sistem bun de amortizare reduce impactul asupra genunchilor și gleznelor. Fără el, alergarea pe bandă poate solicita articulațiile mai mult decât alergarea afară."
+    },
+    {
+      "q": "Banda e zgomotoasă la bloc?",
+      "a": "Depinde de motor și amortizare. Modelele cu motor inverter și platformă bine amortizată sunt mai silențioase. Un covor dedicat sub bandă reduce suplimentar zgomotul și vibrațiile transmise vecinilor."
+    },
+    {
+      "q": "Merită conectivitatea cu aplicații?",
+      "a": "Da, dacă te plictisești ușor. Aplicații ca Kinomap sau Zwift oferă trasee video și antrenamente ghidate care cresc motivația și consecvența. La modelele cu înclinare automată, aplicația poate ajusta singură panta."
+    },
+    {
+      "q": "Se pliază pentru spațiu mic?",
+      "a": "Majoritatea benzilor de casă se pliază pe verticală și au roți de transport. Verifică dimensiunile în stare pliată și greutatea totală — unele modele sunt grele de manevrat singur, chiar dacă se pliază."
+    },
+    {
+      "q": "De ce viteză maximă am nevoie?",
+      "a": "Pentru mers și jogging, 12 km/h ajunge. Pentru antrenamente de alergare mai intense, caută 16–18 km/h. Puțini folosesc viteza maximă în practică, dar o rezervă înseamnă un motor care lucrează mai relaxat."
     }
   ],
   "conclusion": "Pentru cei mai mulți, GO4FIT FIT2000 e alegerea completă: motor de 4 CP, viteză până la 20 km/h, înclinare automată și suport pentru aplicații. Dacă vrei cel mai bun raport preț/calitate, FitTronic Delta 100 îți dă motor decent, amortizare bună și aplicații, iar Orion Sprint C1 e alegerea pe buget.",
@@ -637,5 +669,44 @@
       ],
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-orion-sprint-c1-bluetooth-fitshow-kinomap-zwift-viteza-maxima-12-km-h-greutate-maxima-suportata-100kg-pliabila-12-programe-presetate-sprintc1/pd/D6SWG8BBM/"
     }
-  ]
+  ],
+  "comparison": {
+    "title": "Înclinare automată vs. manuală: ce bandă de alergat alegi?",
+    "intro": "Înclinarea schimbă intensitatea antrenamentului. Modul în care o reglezi face o diferență reală în practică.",
+    "aLabel": "Înclinare automată",
+    "bLabel": "Înclinare manuală",
+    "rows": [
+      {
+        "criteriu": "Varietate antrenament",
+        "a": "Mare (programe, aplicații)",
+        "b": "Limitată"
+      },
+      {
+        "criteriu": "Simulare teren",
+        "a": "Din mers, fără oprire",
+        "b": "Doar cu oprire"
+      },
+      {
+        "criteriu": "Cost",
+        "a": "Mai ridicat",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Complexitate mecanică",
+        "a": "Mai multă (motor înclinare)",
+        "b": "Simplă, robustă"
+      },
+      {
+        "criteriu": "Integrare cu aplicații",
+        "a": "Da (ajustare automată)",
+        "b": "Nu"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Antrenament serios, variat",
+        "b": "Buget, mers/jogging ușor"
+      }
+    ],
+    "verdict": "Ia înclinare automată dacă vrei antrenamente variate, programe și integrare cu aplicații — schimbi panta fără să te oprești. Înclinarea manuală e suficientă și mai ieftină dacă folosești banda mai ales pentru mers sau jogging ușor."
+  }
 }
