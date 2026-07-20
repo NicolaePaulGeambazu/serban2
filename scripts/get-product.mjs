@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// MANUAL ONE-OFF HELPER — NOT part of the build. Editorial data is hand-authored; do not run automatically.
 /**
  * get-product.mjs — turn a real eMAG product URL into a ready-to-paste JSON block.
  *

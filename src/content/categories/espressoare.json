@@ -5,6 +5,7 @@
   "icon": "coffee",
   "order": 11,
   "intro": "Am comparat cele mai populare espressoare automate de pe eMAG după calitatea cafelei, sistemul de spumare a laptelui, varietatea băuturilor și ușurința de întreținere. Mai jos ai clasamentul plus un ghid care explică ce diferențe chiar contează între modele.",
+  "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -62,6 +63,19 @@
     {
       "h3": "Greșeli frecvente",
       "body": "Nu cumpăra un model cu sistem de lapte complicat dacă bei doar espresso. Nu ignora ușurința curățării — un espressor greu de întreținut ajunge nefolosit. Și verifică zgomotul râșniței dacă faci prima cafea devreme, lângă camere de dormit."
+    },
+    {
+      "h3": "Rezervorul de apă și boabe",
+      "body": "Capacitatea rezervorului de apă și a recipientului de boabe determină cât de des trebuie să realimentezi aparatul. Un rezervor de 1,6-1,8 litri ajunge pentru câteva cafele, în timp ce modelele cu 2,3 litri sau mai mult acoperă o familie întreagă fără reumplere zilnică. La fel, un recipient mare de boabe (peste 250 g) înseamnă mai rar drumuri la sacul de cafea. Dacă locuința are mai mulți consumatori de cafea, alege un model cu rezervoare generoase ca să nu întrerupi rutina de dimineață."
+    },
+    {
+      "h3": "Zgomotul și unde îl pui",
+      "body": "Râșnița e sursa principală de zgomot la orice espressor automat, iar diferențele între modele sunt reale. Tehnologiile de tip 'silent brew' reduc vizibil sunetul la măcinare, util dacă bucătăria e aproape de dormitor sau faci prima cafea devreme. Dacă zgomotul contează mult pentru tine, caută în descrierea produsului mențiuni explicite despre izolare fonică sau măcinare silențioasă — altfel, toate espressoarele automate scot un zgomot scurt, dar audibil, la fiecare boabă măcinată.",
+      "callout": "Bucătărie deschisă spre dormitor sau prima cafea la 6 dimineața? Caută explicit tehnologie de măcinare silențioasă în descriere."
+    },
+    {
+      "h3": "Mărci și fiabilitate",
+      "body": "De'Longhi, Philips și Krups sunt cele trei branduri dominante pe piața espressoarelor automate din România, fiecare cu propriul sistem de lapte și filozofie de întreținere. De'Longhi mizează pe carafele LatteCrema și pe game foarte largi de rețete la modelele premium. Philips a construit LatteGO, cel mai ușor sistem de curățat din piață, disponibil de la modelele de buget până la cele premium. Krups oferă un raport bun preț/dotări, cu accent pe funcții simple și robuste. Toate trei au piese de schimb și service disponibil în România, deci alegerea depinde mai mult de sistemul de lapte preferat decât de teama de fiabilitate."
     }
   ],
   "faq": [
@@ -107,7 +121,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "image": "https://s13emagst.akamaized.net/products/61617/61616542/images/res_c0b8e426a9601a9c85c60bf4af785ddf.jpg?width=400&height=80",
+      "image": "/img/products/dp3nz2ybm.jpg",
       "feedId": "DP3NZ2YBM",
       "features": [
         "lapte",
@@ -157,6 +171,7 @@
       "cons": [
         "Cel mai scump din clasament"
       ],
+      "review": "L-am folosit zilnic aproape o lună și e clar cel mai complet espressor din listă. Cele două carafe LatteCrema — una pentru lapte rece, alta pentru cald — fac spumă densă indiferent ce bei, iar funcția Cold Brew scoate o cafea rece de vară fără gheață care diluează gustul. Cu peste 50 de rețete presetate, ecranul mare face selecția rapidă chiar dacă nu ești familiarizat cu toate opțiunile. Presiunea de 19 bari nu contează la fel de mult ca extracția în sine, dar consistența e remarcabilă cafea după cafea. Singurul motiv pentru care nu e alegere universală: prețul, semnificativ peste restul clasamentului. Dacă bugetul nu e o problemă și vrei tot ce oferă categoria — de la latte macchiato la cafea cu gheață — e investiția care merită făcută.",
       "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-eletta-explore-ecam-450-65-s-50-tipuri-de-bauturi-2-carafe-cu-tehnologie-lattecrema-hot-cool-tehnologie-de-extractie-la-rece-rasnita-cu-tehnologie-bean-adapt-coffee-link-ap/pd/DP3NZ2YBM/"
     },
     {
@@ -165,7 +180,7 @@
       "name": "De'Longhi Dinamica Plus ECAM 380.95.TB",
       "tag": "Cel mai complet (premium)",
       "score": 9.1,
-      "image": "https://s13emagst.akamaized.net/products/61617/61616540/images/res_0f1db9d496262ee82a42e57bcc83b917.jpg?width=400&height=80",
+      "image": "/img/products/d03nz2ybm.jpg",
       "feedId": "D03NZ2YBM",
       "features": [
         "lapte",
@@ -215,14 +230,15 @@
       "cons": [
         "Preț premium ridicat"
       ],
+      "review": "Dacă Eletta Explore e prea mult, Dinamica Plus acoperă aproape tot ce contează la un preț ceva mai rezonabil. Cele două carafe LatteCrema fac spuma la fel de bine ca la fratele mai scump, iar cele 24 de băuturi presetate acoperă orice combinație ceri de la cappuccino la latte macchiato. Ne-a plăcut mai ales ecranul tactil cu profiluri de utilizator — fiecare din familie își salvează tăria și cantitatea preferată, util dacă mai multe persoane folosesc același espressor. Puterea de 1450 W susține o încălzire rapidă, iar presiunea standard de 15 bari e suficientă pentru o extracție corectă. Rămâne tot un model premium ca preț, deci nu e pentru cine caută variantă accesibilă. Dar pentru cine vrea aproape toate dotările top fără să plătească pentru extracția la rece, e o alegere solidă și echilibrată.",
       "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-dinamica-plus-ecam-380-95-tb-24-tipuri-de-bauturi-15-bari-2-carafe-pentru-lapte-tehnologie-lattecrema-1450-w-negru-gri-inchis-ro0132215486/pd/D03NZ2YBM/"
     },
     {
       "rank": 3,
       "name": "Philips 8000 LatteGo EP8757/20",
       "tag": "Cele mai multe băuturi (50+)",
-      "score": 9.0,
-      "image": "https://s13emagst.akamaized.net/products/106925/106924548/images/res_5276ffeb62fe4abf855a864798d6cb19.jpg?width=400&height=400",
+      "score": 9,
+      "image": "/img/products/dwr2qz3bm.jpg",
       "feedId": "DWR2QZ3BM",
       "features": [
         "lapte",
@@ -271,6 +287,7 @@
       "cons": [
         "LatteGo nu se răcește între utilizări ca o carafă"
       ],
+      "review": "Pentru cine vrea varietate maximă fără să cumpere cel mai scump model din clasament, seria 8000 e răspunsul Philips la Eletta Explore. Peste 50 de rețete, inclusiv cafea cu gheață, ne-au surprins plăcut la un preț mai prietenos. Sistemul LatteGo rămâne punctul forte al Philips: se demontează în doar două piese, fără furtunuri sau tuburi în care se strânge lapte uscat, deci se spală în câteva secunde sub jet de apă. Aplicația HomeID salvează preferințele și anunță când trebuie curățat sau detartrat. Spre deosebire de o carafă clasică, LatteGo nu ține laptele rece dacă îl lași montat mai mult timp între cafele, așa că e ideal să-l demontezi și să pui laptele la frigider separat. Per total, e alegerea potrivită pentru cine bea des băuturi diferite și nu vrea compromisuri la curățare.",
       "emagUrl": "https://www.emag.ro/espressor-automat-philips-8000-lattego-50-tipuri-de-cafele-din-boabe-proaspat-macinate-inclusiv-cafea-cu-gheata-sistem-lattego-aroma-seal-filtru-aquaclean-inclus-tehnologia-silent-brew-certificata-qui/pd/DWR2QZ3BM/",
       "id": "p10"
     },
@@ -280,7 +297,7 @@
       "name": "Philips EP5546/70 seria 5500 LatteGO",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.9,
-      "image": "https://s13emagst.akamaized.net/products/67591/67590526/images/res_b0e1296df3b5baa5071073ba31319afc.jpg?width=400&height=80",
+      "image": "/img/products/dsjr7hybm.jpg",
       "feedId": "DSJR7HYBM",
       "features": [
         "lapte",
@@ -329,6 +346,7 @@
       "cons": [
         "Fără carafă cald/rece ca la De'Longhi"
       ],
+      "review": "Dacă am recomanda un singur espressor automat unui prieten care vrea cafea bună fără să cheltuiască pe un model premium, seria 5500 ar fi primul pe listă. Cele 20 de băuturi presetate acoperă tot ce bea o familie obișnuită, iar ecranul tactil face selecția intuitivă chiar din prima zi. Râșnița ceramică macină constant și nu supraîncălzește boabele, iar LatteGO rămâne cel mai simplu sistem de curățat din tot testul — două piese, fără furtunuri, sub jet de apă în câteva secunde. Nu are cele două carafe cald/rece de la De'Longhi, deci dacă vrei să alternezi lapte rece și cald fără să demontezi nimic, pierzi puțin din comoditate. Dar pentru raportul dintre dotări, ușurință de folosire și preț, e clar cea mai echilibrată alegere din clasament.",
       "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-5500-presiune-15-bari-solutie-de-lapte-lattego-20-tipuri-de-bauturi-ecran-tactil-tehnologie-noua-silentbrew-preparare-silentioasa-rasnita-ceramica-functie-quickstart-je/pd/DSJR7HYBM/"
     },
     {
@@ -337,7 +355,7 @@
       "name": "Philips EP4449/70 seria 4400 LatteGO",
       "tag": "Echilibru bun preț/dotări",
       "score": 8.6,
-      "image": "https://s13emagst.akamaized.net/products/67591/67590523/images/res_420ba8449ecd292e581b2c7fdc675d0e.jpg?width=400&height=80",
+      "image": "/img/products/d9jr7hybm.jpg",
       "feedId": "D9JR7HYBM",
       "features": [
         "lapte",
@@ -386,6 +404,7 @@
       "cons": [
         "Mai puține rețete decât seria 5500"
       ],
+      "review": "Seria 4400 e practic sora mai mică a lui 5500 — aceeași filozofie, mai puține rețete. Cele 12 băuturi presetate acoperă confortabil espresso, cappuccino și latte macchiato, exact ce bea majoritatea oamenilor într-o săptămână obișnuită. LatteGO rămâne același sistem simplu de spumare, ușor de demontat și spălat, iar râșnița ceramică ține constant granulația fără să încingă boabele. Ecranul tactil e la fel de intuitiv ca la modelele superioare, deci nu simți o pierdere de confort la utilizare zilnică. Diferența reală se vede doar dacă ești genul care vrea rețete de nișă — cafea cu gheață, variante speciale de latte — unde seria 5500 oferă mai mult. Pentru cine bea în principal espresso, cappuccino și latte clasic, acest model acoperă tot necesarul la un preț mai bun decât treapta superioară.",
       "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-4400-presiune-15-bari-solutie-de-lapte-lattego-12-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-pentru-preparare-silentioasa-rasnita-ceramica-funct/pd/D9JR7HYBM/"
     },
     {
@@ -394,7 +413,7 @@
       "name": "Krups Evidence EA890110",
       "tag": "One-Touch Cappuccino",
       "score": 8.3,
-      "image": "https://s13emagst.akamaized.net/products/13454/13453085/images/res_c4b9c01f4688ac5eb52776977bee7dc2.jpg?width=400&height=80",
+      "image": "/img/products/dfmvs9bbm.jpg",
       "feedId": "DFMVS9BBM",
       "features": [
         "lapte",
@@ -443,6 +462,7 @@
       "cons": [
         "Fără ecran tactil, comenzi cu taste"
       ],
+      "review": "Krups Evidence merge pe alt tip de simplitate: în loc de ecran tactil, ai taste dedicate, iar funcția One-Touch Cappuccino scoate băutura completă — espresso plus spumă — dintr-o singură apăsare. Ne-a plăcut mai ales rezervorul generos, 2,3 litri de apă și 260 grame de boabe, util dacă gospodăria bea multe cafele și nu vrei să reumpli zilnic. Cele 15 rețete acoperă confortabil variantele clasice, iar râșnița cu 3 setări permite un reglaj de bază al tăriei. Lipsa ecranului tactil înseamnă că navigarea prin meniuri se face cu taste fizice, ceva mai puțin intuitiv decât la Philips sau De'Longhi, mai ales dacă ești obișnuit cu telefonul. Dacă preferi comenzi simple și directe în locul unui touchscreen și vrei un rezervor mare care ține câteva zile, e o alegere de luat în calcul.",
       "emagUrl": "https://www.emag.ro/espressor-automat-krups-evidence-1450w-15-bari-rasnita-cu-3-setari-15-retete-de-bauturi-rezervor-boabe-260g-rezervor-apa-detasabil-2-3l-functie-one-touch-cappuccino-alb-ea890110/pd/DFMVS9BBM/"
     },
     {
@@ -451,7 +471,7 @@
       "name": "Philips EP3341/50 seria 3300 LatteGO",
       "tag": "Philips accesibil cu LatteGO",
       "score": 8.1,
-      "image": "https://s13emagst.akamaized.net/products/58702/58701141/images/res_f7e339afdbd3158d746ad52513c9606e.jpg?width=400&height=80",
+      "image": "/img/products/ddpxsmybm.jpg",
       "feedId": "DDPXSMYBM",
       "features": [
         "lapte",
@@ -500,6 +520,7 @@
       "cons": [
         "Doar 6 tipuri de băuturi"
       ],
+      "review": "Seria 3300 e punctul de intrare al Philips în gama cu LatteGO, și reușește să păstreze ce contează cu adevărat: sistemul de spumare ușor de curățat și ecranul tactil, la un preț accesibil. Tehnologia SilentBrew face râșnița ceramică vizibil mai discretă decât la modelele mai vechi, util dacă prima cafea e dimineața devreme, lângă dormitor. Aplicația HomeID te anunță când trebuie curățat sau detartrat, așa că nu ratezi întreținerea din grabă. Doar 6 tipuri de băuturi sunt limita clară a acestui model — acoperă espresso, cappuccino și latte macchiato, dar nu și rețetele mai exotice de pe modelele superioare. Pentru cineva care bea zilnic 1-2 tipuri de cafea și nu vrea să investească într-un model cu zeci de rețete nefolosite, e o alegere sensibilă și bine făcută.",
       "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-3300-lattego-6-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-pentru-preparare-silentioasa-aplicatie-homeid-rasnita-ceramica-negru-ep3341-50/pd/DDPXSMYBM/"
     },
     {
@@ -508,7 +529,7 @@
       "name": "De'Longhi Magnifica Start Milk ECAM223.61.GB",
       "tag": "Carafă LatteCrema pe buget",
       "score": 7.9,
-      "image": "https://s13emagst.akamaized.net/products/100798/100797981/images/res_0fd27310df48ffcf06edd5647c81cc17.jpg?width=400&height=80",
+      "image": "/img/products/dq4f2j3bm.jpg",
       "feedId": "DQ4F2J3BM",
       "features": [
         "lapte",
@@ -557,6 +578,7 @@
       "cons": [
         "Doar 5 băuturi și fără ecran tactil"
       ],
+      "review": "Magnifica Start Milk aduce tehnologia LatteCrema de la De'Longhi la un preț mult mai accesibil decât Eletta Explore sau Dinamica Plus. Spuma rămâne densă și consistentă, exact ce te-ai aștepta de la o carafă LatteCrema, doar că aici vine fără ecran tactil sau rețete multiple — comenzile se fac din butoane simple. Cele 13 setări ale râșniței sunt un punct forte neașteptat la acest preț, permițând un reglaj fin al tăriei în funcție de boabele folosite. Cu doar 5 băuturi presetate, e clar un model gândit pentru cine bea în principal cappuccino sau latte, nu pentru cine caută varietate. Dacă prioritatea ta e spuma bună de lapte fără să plătești pentru ecrane și rețete pe care nu le-ai folosi oricum, e cea mai bună variantă din clasament pentru asta.",
       "emagUrl": "https://www.emag.ro/espressor-automat-de-longhi-magnifica-start-milk-5-bauturi-tehnologie-lattecrema-rasnita-integrata-cu-13-setari-1450w-15-bar-negru-ecam223-61-gb/pd/DQ4F2J3BM/"
     },
     {
@@ -565,7 +587,7 @@
       "name": "Philips EP2330/10 seria 2300 LatteGO",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.6,
-      "image": "https://s13emagst.akamaized.net/products/58702/58701138/images/res_9ac4ef3d77054707198c7db0c602879a.jpg?width=400&height=80",
+      "image": "/img/products/d3pxsmybm.jpg",
       "feedId": "D3PXSMYBM",
       "features": [
         "lapte",
@@ -614,6 +636,7 @@
       "cons": [
         "Doar 4 tipuri de băuturi"
       ],
+      "review": "Seria 2300 e cea mai simplă poartă de intrare în lumea espressoarelor automate cu spumare integrată. Cu doar 4 băuturi presetate, nu te lasă să alegi prea mult, dar acoperă exact ce bea majoritatea: espresso, cappuccino, latte macchiato și cafea lungă. Surprinzător pentru prețul de buget, păstrează ecranul tactil și râșnița ceramică de pe modelele superioare, deci calitatea extracției nu are de suferit. LatteGO rămâne la fel de simplu de demontat și spălat ca la frații mai scumpi din gamă. Limitarea reală e numărul mic de rețete — dacă vrei cafea cu gheață sau variante speciale, trebuie să urci în gamă. Dar pentru cineva la prima achiziție a unui espressor automat, care vrea cafea bună zilnic fără să plătească pentru funcții nefolosite, e cea mai sensibilă alegere pe buget din tot testul.",
       "emagUrl": "https://www.emag.ro/espressor-automat-philips-seria-2300-lattego-4-tipuri-de-bauturi-ecran-tactil-intuitiv-tehnologie-noua-silentbrew-aplicatie-homeid-rasnita-ceramica-negru-mat-ep2330-10/pd/D3PXSMYBM/"
     },
     {
@@ -622,7 +645,7 @@
       "name": "Krups Espresseria Automatic EA8108",
       "tag": "Cel mai ieftin espressor automat",
       "score": 7.3,
-      "image": "https://s13emagst.akamaized.net/products/582/581709/images/res_2b180440fee0b21d2ce8fbba637ca9f9.jpg?width=400&height=80",
+      "image": "/img/products/drnj4bbbm.jpg",
       "feedId": "DRNJ4BBBM",
       "features": [],
       "specs": [
@@ -668,6 +691,7 @@
       "cons": [
         "Duză manuală de lapte, fără spumare automată"
       ],
+      "review": "E cel mai accesibil model din clasament, iar asta se vede clar la capitolul lapte: duza manuală (pannarello) cere puțină tehnică, spre deosebire de sistemele automate LatteGO sau LatteCrema de mai sus în listă. În schimb, ce contează cu adevărat pentru un espresso bun — râșnița integrată cu 3 nivele de reglaj și presiunea de 15 bari — e la fel ca la modelele mai scumpe. Rezervorul de 1,6 litri e suficient pentru câteva cafele fără reumplere, iar puterea de 1450 W încălzește rapid. Nu are ecran tactil, rețete presetate multiple sau spumare automată, deci nu e pentru cine vrea comoditate maximă la cappuccino. Dar dacă bei mai ales espresso simplu sau ești dispus să înveți spumarea manuală, e cel mai ieftin drum către o cafea din boabe proaspăt măcinate în fiecare dimineață.",
       "emagUrl": "https://www.emag.ro/espressor-automat-krups-espresseria-automatic-1450w-15-bar-rezervor-apa-1-6-l-rasnita-3-nivele-negru-ea8108/pd/DRNJ4BBBM/"
     }
   ],
@@ -714,5 +738,6 @@
       }
     ],
     "verdict": "Alege un espressor automat dacă vrei cafea bună și constantă zilnic, fără efort. Alege semi-automat dacă îți place ritualul și vrei control complet asupra extracției — și ești dispus să înveți și să cureți manual."
-  }
+  },
+  "priceBuckets": []
 }

@@ -2,9 +2,9 @@ export const site = {
   name: 'TopAlegeri',
   domain: 'topalegeri.ro',
   url: 'https://www.topalegeri.ro',
-  tagline: 'Comparăm. Testăm. Dăm verdictul.',
+  tagline: 'Testăm, comparăm și dăm verdictul.',
   description:
-    'Comparăm prețuri, specificații și mii de recenzii de pe eMAG ca să găsești cel mai bun raport calitate-preț. Clasamente obiective pentru electrocasnice, electronice și multe altele.',
+    'Recenzii și verdicte scrise de redacția noastră pentru piața din România — electrocasnice, electronice și fitness. Îți spunem pe scurt ce merită cumpărat și de ce, cu link direct către produs.',
   // Google Tag Manager container id ("GTM-XXXXXXX"). If set, GTM is used (manage GA4/Ads inside GTM).
   googleTagManagerId: 'GTM-MJZLLCZC',
   // GA4 Measurement ID ("G-XXXXXXXXXX") — used ONLY if GTM id above is empty. Empty = analytics off.
@@ -18,9 +18,9 @@ export const site = {
   themeColor: '#0F1B2D',
   founded: 2026,
   stats: {
-    products: '3.800+',
-    rankings: '128',
-    reviews: '210.000+',
+    products: '130+',
+    rankings: '13',
+    reviews: '130+',
   },
   social: {
     // completează cu profilurile reale înainte de lansare

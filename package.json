@@ -9,7 +9,10 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test": "node --test scripts/*.test.mjs",
+    "check:images": "node scripts/check-images.mjs",
+    "prebuild": "node scripts/check-images.mjs"
   },
   "dependencies": {
     "astro": "^4.16.18"

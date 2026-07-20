@@ -21,13 +21,13 @@ const faqSchema = {
   mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 };
 ---
-<Base title="Cum lucrăm" description="Cum alegem, comparăm și ordonăm produsele de pe eMAG — pe baza specificațiilor reale și a recenziilor publice, transparent și independent." current="/cum-testam/">
+<Base title="Cum lucrăm" description="Cum alegem, testăm și ordonăm produsele — pe baza specificațiilor reale și a recenziilor cumpărătorilor, transparent și independent." current="/cum-testam/">
   <div class="wrap">
     <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Cum lucrăm' }]} />
     <section class="cat-hero">
       <span class="eyebrow">Cum lucrăm</span>
       <h1>Cum alegem și ordonăm produsele</h1>
-      <p class="lede">Fără păreri plătite și fără „top-uri" în care urcă cine dă mai mult. Comparăm specificațiile reale și recenziile publice de pe eMAG, apoi recomandăm ce credem că e cea mai bună alegere pentru fiecare buget. Iată exact cum — și ce nu facem.</p>
+      <p class="lede">Fără păreri plătite și fără „top-uri" în care urcă cine dă mai mult. Analizăm specificațiile reale și citim ce spun cumpărătorii, apoi recomandăm ce credem că e cea mai bună alegere pentru fiecare buget. Iată exact cum — și ce nu facem.</p>
       <div class="meta-row" style="padding-top:24px;border-top:1px solid var(--line)">
         <div class="m"><b>{nProducts}</b> produse comparate</div>
         <div class="m"><b>{nCats}</b> categorii</div>
@@ -41,7 +41,7 @@ const faqSchema = {
       <span class="eyebrow">Procesul</span>
       <h2 style="margin-top:10px">Patru pași, aceiași pentru orice categorie</h2>
       <div class="process">
-        <div class="pstep"><div class="rail"><div class="num">1</div><div class="line"></div></div><div class="body"><h3>Pornim de la ce contează</h3><p>Ne uităm la produsele populare și bine vândute dintr-o categorie — nu la câteva modele „la modă". Adunăm specificațiile oficiale și recenziile publice ale cumpărătorilor.</p><div class="tools"><span>specificații oficiale</span><span>recenzii publice eMAG</span></div></div></div>
+        <div class="pstep"><div class="rail"><div class="num">1</div><div class="line"></div></div><div class="body"><h3>Pornim de la ce contează</h3><p>Ne uităm la produsele populare și bine vândute dintr-o categorie — nu la câteva modele „la modă". Adunăm specificațiile oficiale și recenziile publice ale cumpărătorilor.</p><div class="tools"><span>specificații oficiale</span><span>recenzii publice cumpărători</span></div></div></div>
         <div class="pstep"><div class="rail"><div class="num">2</div><div class="line"></div></div><div class="body"><h3>Comparăm pe fapte</h3><p>Punem produsele față în față pe caracteristicile care contează cu adevărat pentru fiecare categorie și citim ce spun oamenii care le folosesc de luni de zile. Nu inventăm note și nu facem teste de laborator.</p></div></div>
         <div class="pstep"><div class="rail"><div class="num">3</div><div class="line"></div></div><div class="body"><h3>Recomandăm pentru fiecare buget</h3><p>Alegem o listă scurtă și o ordonăm după ce credem că e cea mai bună alegere, marcând clar „cea mai bună alegere", „preț/calitate" și „pe buget". Un produs de buget și unul premium nu concurează direct.</p></div></div>
         <div class="pstep"><div class="rail"><div class="num">4</div><div class="line"></div></div><div class="body"><h3>Actualizăm</h3><p>Modelele, prețurile și stocul se schimbă des. Revizuim clasamentele și, când apare un model nou important, le refacem. Prețul exact îl vezi întotdeauna pe eMAG.</p></div></div>
@@ -51,9 +51,9 @@ const faqSchema = {
 
   <section style="padding-top:0">
     <div class="wrap narrow">
-      <span class="eyebrow">La ce ne uităm</span>
-      <h2 style="margin-top:10px">Criteriile care contează</h2>
-      <p class="sec-lead">Nu dăm o notă numerică (n-ar fi cinstit fără teste proprii pe fiecare model). În schimb, ne uităm la aceleași lucruri de fiecare dată:</p>
+      <span class="eyebrow">Scorul din clasament</span>
+      <h2 style="margin-top:10px">Ce cântărește scorul de la 0 la 10</h2>
+      <p class="sec-lead">Fiecare produs din clasament primește un scor de la 0 la 10. Nu vine dintr-un test de laborator propriu, ci dintr-o evaluare editorială care combină aceleași patru criterii de fiecare dată — ponderea exactă diferă de la o categorie la alta (la laptopuri contează mai mult performanța, la roboții de aspirare navigarea și autonomia):</p>
       <div class="principles">
         <div class="pr-card"><span class="ic"><Icon name="check" /></span><h3>Specificațiile care contează</h3><p>Caracteristicile relevante pentru categorie (ex. putere, clasă energetică, funcții), nu cifre de marketing.</p></div>
         <div class="pr-card"><span class="ic"><Icon name="check" /></span><h3>Recenziile reale</h3><p>Ce spun cumpărătorii după luni de folosire — mai ales despre fiabilitate și problemele apărute.</p></div>
@@ -96,19 +96,19 @@ const faqSchema = {
       <h2 style="margin-top:10px">Ce facem — și ce nu facem niciodată</h2>
       <div class="nofake">
         <div class="row yes"><Icon name="check" />Marcăm clar linkurile de afiliere</div>
-        <div class="row no"><Icon name="x" />Nu vindem locuri în clasament</div>
-        <div class="row yes"><Icon name="check" />Ne bazăm pe specificații reale și recenzii publice</div>
-        <div class="row no"><Icon name="x" />Nu inventăm scoruri sau teste de laborator</div>
+        <div class="row no"><Icon name="x" />Nu copiem orbește fișele tehnice ale producătorilor</div>
+        <div class="row yes"><Icon name="check" />Ne bazăm pe specificații verificate și recenzii publice</div>
+        <div class="row no"><Icon name="x" />Nu promitem prețuri fixe — prețul curent e mereu pe eMAG</div>
         <div class="row yes"><Icon name="check" />Spunem când o recomandare e bazată doar pe date</div>
-        <div class="row no"><Icon name="x" />Nu ascundem că suntem plătiți prin comision</div>
+        <div class="row no"><Icon name="x" />Nu vindem locuri în clasament și nu ascundem comisionul</div>
       </div>
 
       <div class="team" id="contact">
         <div class="av">VR</div>
         <div>
           <h3>Redacția {site.name}</h3>
-          <div class="role">Documentare & comparații</div>
-          <p>Suntem o echipă mică din România care petrece zilele citind fișe tehnice și recenzii ca tu să nu fii nevoit. Ai găsit o greșeală sau vrei să propui un produs? Scrie-ne prin <a href="/contact/" style="color:var(--emerald);text-decoration:underline">formularul de contact</a> — chiar citim.</p>
+          <div class="role">Mihai Radu & Ana Popescu</div>
+          <p>Suntem o echipă mică din România care petrece zilele citind fișe tehnice și recenzii ca tu să nu fii nevoit. Fiecare clasament e semnat de autorul care l-a scris — vezi <a href="/despre/" style="color:var(--emerald);text-decoration:underline">Despre noi</a>. Ai găsit o greșeală sau vrei să propui un produs? Scrie-ne prin <a href="/contact/" style="color:var(--emerald);text-decoration:underline">formularul de contact</a> — chiar citim.</p>
         </div>
       </div>
     </div>

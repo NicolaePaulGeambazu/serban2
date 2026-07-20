@@ -128,3 +128,7 @@ Dependency order: schema/rendering + authors first → image migration (independ
 - Scraping pipeline retired; `.enrich/` removed.
 - §6 compliance matrix fully green (audit gate).
 - Ready to resubmit to Profitshare for re-evaluation.
+
+---
+## Audit result — 2026-07-20
+All §6 rows green. Automated: build OK; 130/130 images local (guard green); zero price fields; zero eMAG-hosted images in src+dist; no aggregator/data-pull framing in dist. Content: 13/13 categories with per-product reviews (130 distinct), author, guide≥8, faq≥6, conclusion. Identity: 2 named authors, despre + cum-testam populated. Final code review: APPROVE-WITH-MINORS (fixed: test glob, dead sort code, download failure guard-flagging). Accepted non-blockers: ~31MB unoptimized images; `_headers` CSP allowlists Google Ads/GTM (PPC remains an operational must-not-do).
