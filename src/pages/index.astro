@@ -70,7 +70,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
         <div>
           <span class="eyebrow">Pe categorii</span>
           <h2 style="margin-top:10px">Ce cauți astăzi?</h2>
-          <p class="sub">Fiecare categorie are un clasament actualizat, cu argumente pentru fiecare loc.</p>
+          <p class="sub">Fiecare categorie are un top actualizat, cu argumente pentru fiecare loc.</p>
         </div>
         <a class="more" href="/categorii/">Toate categoriile →</a>
       </div>
@@ -79,7 +79,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
           const w = c.data.products.find((p) => p.win) ?? c.data.products[0];
           const catName = c.data.h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace('Cele mai bune ', '').replace(/ în 2026$/, '');
           return (
-            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi clasamentul: ${catName}`}>
+            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi topul: ${catName}`}>
               <div class="cat-shot">
                 {w?.image
                   ? <img src={w.image} alt={`Câștigător ${catName}: ${w.name}`} width="140" height="118" loading="lazy" decoding="async" />
@@ -89,7 +89,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
               <div class="cat-info">
                 <h3>{catName}</h3>
                 <div class="cat-win-row"><span class="cat-score">★ {w.score.toFixed(1)}</span><span class="cat-win-name">{w.name}</span></div>
-                <span class="cat-cta">Vezi clasamentul <Icon name="arrow" /></span>
+                <span class="cat-cta">Vezi topul <Icon name="arrow" /></span>
               </div>
             </a>
           );
@@ -122,7 +122,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
       </div>
       <div class="disclosure">
         <Icon name="info" />
-        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name}, primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament.</span>
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name}, primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din top.</span>
       </div>
     </div>
   </section>
@@ -158,8 +158,8 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
     <div class="wrap">
       <div class="cta-band">
         <h2>Gata? Vezi verdictele.</h2>
-        <p>Clasamente actualizate, cu argumente pentru fiecare loc și prețul curent de pe eMAG.</p>
-        <a href="/categorii/">Vezi toate clasamentele <Icon name="arrow" /></a>
+        <p>Topuri actualizate, cu argumente pentru fiecare loc și prețul curent de pe eMAG.</p>
+        <a href="/categorii/">Vezi toate topurile <Icon name="arrow" /></a>
       </div>
     </div>
   </section>

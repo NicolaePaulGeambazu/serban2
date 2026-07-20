@@ -6,12 +6,12 @@ import Icon from '../../components/Icon.astro';
 
 const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
 ---
-<Base title="Toate categoriile" description="Toate clasamentele TopAlegeri — alege o categorie și vezi cele mai bune produse, comparate obiectiv." current="/categorii/">
+<Base title="Toate categoriile" description="Cele mai bune produse pe categorii, alese și recenzate de redacția TopAlegeri." current="/categorii/">
   <div class="wrap">
     <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Categorii' }]} />
     <section class="cat-hero">
       <span class="eyebrow">Categorii</span>
-      <h1>Toate clasamentele</h1>
+      <h1>Toate categoriile</h1>
       <p class="lede">Alege o categorie și vezi cele mai bune produse, testate și comparate pe fapte.</p>
     </section>
     <section style="padding-top:20px">
@@ -20,7 +20,7 @@ const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b
           const w = c.data.products.find((p) => p.win) ?? c.data.products[0];
           const catName = c.data.h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace(/ în 2026$/, '');
           return (
-            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi clasamentul: ${catName}`}>
+            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi topul: ${catName}`}>
               <div class="cat-shot">
                 {w?.image
                   ? <img src={w.image} alt={`Câștigător ${catName}: ${w.name}`} width="140" height="118" loading="lazy" decoding="async" />
@@ -30,7 +30,7 @@ const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b
               <div class="cat-info">
                 <h3>{catName}</h3>
                 <div class="cat-win-row"><span class="cat-score">★ {w.score.toFixed(1)}</span><span class="cat-win-name">{w.name}</span></div>
-                <span class="cat-cta">Vezi clasamentul <Icon name="arrow" /></span>
+                <span class="cat-cta">Vezi topul <Icon name="arrow" /></span>
               </div>
             </a>
           );

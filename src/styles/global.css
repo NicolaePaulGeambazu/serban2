@@ -248,8 +248,8 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .qp h3{font-size:1.05rem;margin:8px 0 0;font-weight:700}
 .qp .sc{font-family:var(--mono);font-weight:700;color:var(--emerald);font-size:.85rem;margin-top:6px}
 .qp .pr{font-family:var(--mono);font-weight:800;font-size:1.25rem;margin-top:auto;padding-top:12px}
-.qp a.mini{margin-top:auto;background:var(--emerald);color:#fff;text-align:center;font-weight:700;font-size:.82rem;padding:10px;border-radius:9px}
-.qp a.mini:hover{background:var(--emerald-d)}
+.qp .mini{margin-top:auto;background:var(--emerald);color:#fff;text-align:center;font-weight:700;font-size:.82rem;padding:10px;border-radius:9px;border:0;width:100%;font-family:inherit;cursor:pointer}
+.qp .mini:hover{background:var(--emerald-d)}
 
 .toolbar{position:sticky;top:64px;z-index:40;background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:26px}
 .tb-row{display:flex;align-items:center;gap:12px;padding:12px 0;flex-wrap:wrap}

@@ -1,8 +1,7 @@
 export const mainNav = [
-  { label: 'Categorii', href: '/categorii/' },
-  { label: 'Clasamente', href: '/categorii/' },
-  { label: 'Cum lucrăm', href: '/cum-testam/' },
+  { label: 'Topuri', href: '/categorii/' },
   { label: 'Ghiduri', href: '/ghiduri/' },
+  { label: 'Cum lucrăm', href: '/cum-testam/' },
 ];
 
 export const footerNav = [

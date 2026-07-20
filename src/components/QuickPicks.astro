@@ -13,7 +13,7 @@ const byId = new Map(products.map((p) => [p.id, p]));
       <div class:list={['qp', pick.win && 'win']}>
         <span class="lbl">{pick.label}</span>
         <h3>{p.name}</h3>
-        <a class="mini" href={`#${p.id}`} data-flash aria-label={`Vezi ${p.name}`}>Vezi produsul →</a>
+        <button type="button" class="mini" data-flash data-target={`#${p.id}`} aria-label={`Vezi ${p.name}`}>Vezi produsul →</button>
       </div>
     );
   })}

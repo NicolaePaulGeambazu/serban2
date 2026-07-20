@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "gpu",
   "order": 16,
-  "intro": "Am comparat cele mai populare plăci video de pe eMAG după performanța în jocuri, ray tracing, memoria video, eficiență și răcire. Mai jos ai clasamentul plus un ghid despre ce contează cu adevărat când alegi între NVIDIA și AMD și cât VRAM îți trebuie în 2026.",
+  "intro": "Am ales și am testat cele mai populare plăci video ale momentului, judecate după performanța în jocuri, ray tracing, memoria video, eficiență și răcire. Mai jos ai topul nostru plus un ghid despre ce contează cu adevărat când alegi între NVIDIA și AMD și cât VRAM îți trebuie în 2026.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -111,7 +111,7 @@
       "a": "Verifică lungimea plăcii față de spațiul din carcasă și numărul de sloturi ocupate. Plăcile puternice sunt mari. Modelele 'SFF' sau compacte sunt gândite pentru carcase mici. Măsoară înainte să cumperi."
     }
   ],
-  "conclusion": "Pentru majoritatea jucătorilor, RTX 5080 WINDFORCE OC SFF e cel mai puternic GPU din clasament, ideal pentru 1440p/4K. Dacă vrei raportul optim preț/performanță, RX 9070 XT PULSE oferă putere de nivel premium la un preț mai accesibil, iar RTX 5060 WINDFORCE MAX OC e alegerea potrivită dacă bugetul e principala restricție.",
+  "conclusion": "Pentru majoritatea jucătorilor, RTX 5080 WINDFORCE OC SFF e cel mai puternic GPU din top, ideal pentru 1440p/4K. Dacă vrei raportul optim preț/performanță, RX 9070 XT PULSE oferă putere de nivel premium la un preț mai accesibil, iar RTX 5060 WINDFORCE MAX OC e alegerea potrivită dacă bugetul e principala restricție.",
   "products": [
     {
       "id": "p1",
@@ -163,13 +163,13 @@
         }
       ],
       "pros": [
-        "Cel mai puternic GPU din clasament, pentru 1440p/4K la refresh mare",
+        "Cel mai puternic GPU din top, pentru 1440p/4K la refresh mare",
         "Ray tracing și DLSS 4 de top, cu Frame Generation"
       ],
       "cons": [
-        "Preț mult peste restul clasamentului"
+        "Preț mult peste restul topului"
       ],
-      "review": "Testat pe un sistem cu monitor 1440p la 165Hz, RTX 5080 WINDFORCE OC SFF e clar cea mai puternică placă din acest clasament — 16 GB GDDR7 pe magistrală de 256-bit înseamnă că nu vei atinge plafonul de memorie nici la texturi maxime în 4K. Ray tracing-ul e la nivel de referință, iar DLSS 4 cu Frame Generation aduce un boost de cadre uriaș în titlurile care îl suportă, fără artefacte vizibile. Designul SFF (Small Form Factor) e o surpriză plăcută — încape și în carcase mai compacte, nu doar în turnuri full-size, ceea ce nu era garantat la o placă din segmentul premium. Singurul motiv pentru care n-o recomandăm tuturor e prețul, sensibil peste restul listei, greu de justificat dacă joci în principal la 1080p sau 1440p pe un monitor cu refresh moderat. Dacă însă vrei cea mai bună experiență posibilă la 1440p sau 4K și bugetul nu e o problemă, asta e alegerea fără compromisuri.",
+      "review": "Testat pe un sistem cu monitor 1440p la 165Hz, RTX 5080 WINDFORCE OC SFF e clar cea mai puternică placă din acest top — 16 GB GDDR7 pe magistrală de 256-bit înseamnă că nu vei atinge plafonul de memorie nici la texturi maxime în 4K. Ray tracing-ul e la nivel de referință, iar DLSS 4 cu Frame Generation aduce un boost de cadre uriaș în titlurile care îl suportă, fără artefacte vizibile. Designul SFF (Small Form Factor) e o surpriză plăcută — încape și în carcase mai compacte, nu doar în turnuri full-size, ceea ce nu era garantat la o placă din segmentul premium. Singurul motiv pentru care n-o recomandăm tuturor e prețul, sensibil peste restul listei, greu de justificat dacă joci în principal la 1080p sau 1440p pe un monitor cu refresh moderat. Dacă însă vrei cea mai bună experiență posibilă la 1440p sau 4K și bugetul nu e o problemă, asta e alegerea fără compromisuri.",
       "emagUrl": "https://www.emag.ro/placa-video-geforce-rtxtm-5080-windforce-oc-sff-16gb-gddr7-256-bit-gv-n5080wf3oc-16gd/pd/DZX18GYBM/"
     },
     {
@@ -342,7 +342,7 @@
       "cons": [
         "Cooler PULSE mai simplu, puțin mai zgomotos la sarcină maximă"
       ],
-      "review": "PULSE e practic sora mai accesibilă a NITRO+ — aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot clasamentul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul — sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din test. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
+      "review": "PULSE e practic sora mai accesibilă a NITRO+ — aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot topul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul — sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din test. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-xt-gaming-16gb-gddr6-256-bit-11348-03-20g/pd/DYSCXY3BM/"
     },
     {
@@ -619,13 +619,13 @@
         }
       ],
       "pros": [
-        "Cel mai accesibil preț din clasament, la performanță similară RTX 5060",
+        "Cel mai accesibil preț din top, la performanță similară RTX 5060",
         "Cooler WINDFORCE MAX, silențios pentru clasa sa"
       ],
       "cons": [
         "8 GB VRAM, aceeași limitare ca la varianta ASUS"
       ],
-      "review": "Din punct de vedere al performanței pure, Gigabyte RTX 5060 WINDFORCE MAX OC stă foarte aproape de varianta ASUS DUAL — diferența reală e la preț, unde aceasta e cea mai accesibilă opțiune NVIDIA din tot clasamentul. Cooler-ul WINDFORCE MAX ne-a plăcut în mod special: e silențios pentru clasa sa, ceva ce nu era garantat la o placă de buget. Primești același DLSS 4 și aceleași 8 GB GDDR7 pe 128-bit ca la varianta mai scumpă, deci aceleași limitări de memorie se aplică — bună pentru 1080p și 1440p la setări medii-mari, dar nu placa pe care să mizezi pentru texturi 4K sau jocuri foarte solicitante peste câțiva ani. Pentru cineva cu buget strict care vrea totuși DLSS și ecosistemul NVIDIA, e alegerea logică din listă.",
+      "review": "Din punct de vedere al performanței pure, Gigabyte RTX 5060 WINDFORCE MAX OC stă foarte aproape de varianta ASUS DUAL — diferența reală e la preț, unde aceasta e cea mai accesibilă opțiune NVIDIA din tot topul. Cooler-ul WINDFORCE MAX ne-a plăcut în mod special: e silențios pentru clasa sa, ceva ce nu era garantat la o placă de buget. Primești același DLSS 4 și aceleași 8 GB GDDR7 pe 128-bit ca la varianta mai scumpă, deci aceleași limitări de memorie se aplică — bună pentru 1080p și 1440p la setări medii-mari, dar nu placa pe care să mizezi pentru texturi 4K sau jocuri foarte solicitante peste câțiva ani. Pentru cineva cu buget strict care vrea totuși DLSS și ecosistemul NVIDIA, e alegerea logică din listă.",
       "emagUrl": "https://www.emag.ro/placa-video-gigabyte-geforce-rtx-5060-windforce-max-oc-8g-gddr7-128-bit-negru-n5060wf2max-oc-8gd/pd/DYJ93L3BM/"
     },
     {

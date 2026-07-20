@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "vacuum",
   "order": 9,
-  "intro": "Am comparat cele mai populare aspiratoare verticale fără fir de pe eMAG după puterea de aspirare, autonomie, filtrare, manevrabilitate și funcțiile de spălare. Mai jos ai clasamentul plus un ghid despre ce diferențe chiar contează în curățenia de zi cu zi.",
+  "intro": "Am ales și am recenzat cele mai bune aspiratoare verticale fără fir ale momentului, judecate după puterea de aspirare, autonomie, filtrare, manevrabilitate și funcțiile de spălare. Mai jos ai topul nostru plus un ghid despre ce diferențe chiar contează în curățenia de zi cu zi.",
   "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
@@ -66,7 +66,7 @@
     },
     {
       "h3": "Cu fir vs. fără fir",
-      "body": "Toate modelele din acest clasament sunt fără fir (baterie), varianta preferată azi pentru libertatea de mișcare — nu te mai încurci în cablu între camere și poți curăța rapid scări sau mașina. Compromisul e autonomia limitată: pentru case foarte mari sau curățenie generală de weekend, poate fi nevoie de o pauză la încărcare la jumătatea treburilor. Un model cu fir clasic rămâne o opțiune doar dacă ai nevoie de putere constantă, fără limită de timp, pe suprafețe mari și nu te deranjează cablul."
+      "body": "Toate modelele din acest top sunt fără fir (baterie), varianta preferată azi pentru libertatea de mișcare — nu te mai încurci în cablu între camere și poți curăța rapid scări sau mașina. Compromisul e autonomia limitată: pentru case foarte mari sau curățenie generală de weekend, poate fi nevoie de o pauză la încărcare la jumătatea treburilor. Un model cu fir clasic rămâne o opțiune doar dacă ai nevoie de putere constantă, fără limită de timp, pe suprafețe mari și nu te deranjează cablul."
     },
     {
       "h3": "Cap motorizat și peria anti-încurcare pentru păr de animale",
@@ -173,7 +173,7 @@
       "cons": [
         "Recipient de praf mic (0.35 L)"
       ],
-      "review": "L-am testat ca aspirator de bază pentru un apartament cu parchet și covor mic în hol, și senzația e că aproape uiți că ai un aspirator în mână — la puțin peste doi kilograme, cu motorul poziționat lângă mâner, e cel mai echilibrat model din tot testul. Laserul verde de la vârful periei scoate la iveală un praf fin pe care nici nu-l vezi cu ochiul liber pe parchet închis la culoare, iar sistemul de filtrare e cel mai bun pe care l-am întâlnit în această categorie — util dacă ai alergii. Autonomia de 60 de minute ține ușor un apartament de 2-3 camere. Singurul compromis real e recipientul de praf de doar 0,35 litri, care te obligă să-l golești mai des dacă ai suprafețe mari sau animale care năpârlesc. Pentru cine vrea aspirarea și filtrarea cele mai bune, fără compromisuri la greutate, e alegerea noastră principală din clasament.",
+      "review": "L-am testat ca aspirator de bază pentru un apartament cu parchet și covor mic în hol, și senzația e că aproape uiți că ai un aspirator în mână — la puțin peste doi kilograme, cu motorul poziționat lângă mâner, e cel mai echilibrat model din tot testul. Laserul verde de la vârful periei scoate la iveală un praf fin pe care nici nu-l vezi cu ochiul liber pe parchet închis la culoare, iar sistemul de filtrare e cel mai bun pe care l-am întâlnit în această categorie — util dacă ai alergii. Autonomia de 60 de minute ține ușor un apartament de 2-3 camere. Singurul compromis real e recipientul de praf de doar 0,35 litri, care te obligă să-l golești mai des dacă ai suprafețe mari sau animale care năpârlesc. Pentru cine vrea aspirarea și filtrarea cele mai bune, fără compromisuri la greutate, e alegerea noastră principală din top.",
       "emagUrl": "https://www.emag.ro/aspirator-vertical-dyson-v12-slim-detect-absolute-2023-545-w-0-35-l-autonomie-60-min-iluminare-3-moduri-de-curatare-negru-galben-448884-01/pd/DTJ793YBM/"
     },
     {
@@ -232,7 +232,7 @@
       "cons": [
         "Mai greu decât un vertical clasic"
       ],
-      "review": "Dreame R20 Ultra e practic două aparate într-unul: aspirator vertical și mop autonom, și l-am folosit exact așa — dimineața pe parchet, cu funcția de spălare, apoi separat pe covorul din living cu peria clasică. Display-ul LED arată clar nivelul de baterie și starea rezervoarelor, iar cele 90 de minute de autonomie sunt cele mai lungi din testul nostru, suficient pentru o casă întreagă fără reîncărcare la mijloc. Recipientul de 0,6 litri și rata de aspirare de 200 AW țin pasul cu murdăria uscată la fel de bine ca varianta doar-aspirare. Compromisul e greutatea: cu rezervoare de apă curată și murdară plus rola care se rotește, se simte mai solid în mână decât un vertical clasic, mai ales sus, pe rafturi. Dacă ai predominant gresie și parchet și vrei să renunți la mop, e cel mai complet model din clasament.",
+      "review": "Dreame R20 Ultra e practic două aparate într-unul: aspirator vertical și mop autonom, și l-am folosit exact așa — dimineața pe parchet, cu funcția de spălare, apoi separat pe covorul din living cu peria clasică. Display-ul LED arată clar nivelul de baterie și starea rezervoarelor, iar cele 90 de minute de autonomie sunt cele mai lungi din testul nostru, suficient pentru o casă întreagă fără reîncărcare la mijloc. Recipientul de 0,6 litri și rata de aspirare de 200 AW țin pasul cu murdăria uscată la fel de bine ca varianta doar-aspirare. Compromisul e greutatea: cu rezervoare de apă curată și murdară plus rola care se rotește, se simte mai solid în mână decât un vertical clasic, mai ales sus, pe rafturi. Dacă ai predominant gresie și parchet și vrei să renunți la mop, e cel mai complet model din top.",
       "emagUrl": "https://www.emag.ro/aspirator-vertical-umed-uscat-dreame-r20-ultra-aquacycle-functie-iluminare-praf-140-putere-200aw-autonomie-90-min-rezervor-praf-0-6l-display-led-functie-mop-2-20-kg-negru-vrv57f-ac/pd/D5Z4C53BM/"
     },
     {
@@ -348,7 +348,7 @@
       "cons": [
         "Ceva mai greu în varianta cu baterie mare"
       ],
-      "review": "Rowenta X-Force Flex 13.60 ne-a plăcut mai ales pentru tubul flexibil, care se îndoaie la un unghi ce ajunge sub canapea sau sub pat fără să te apleci — un detaliu mic care schimbă cu adevărat rutina zilnică. Recipientul de 0,65 litri e printre cele mai mari din test, deci nu îl golești după fiecare cameră, iar filtrarea de 99,9% ține praful fin departe de aer. Autonomia de 60 de minute și peria cu LED completează un pachet echilibrat, fără puncte slabe majore. Singurul aspect de care ții cont e greutatea în varianta cu baterie mare — nu e greu comparativ cu un aspirator clasic cu sac, dar simți diferența față de un Dyson V12 dacă aspiri des deasupra capului. Pentru o casă cu mobilier jos și colțuri greu accesibile, e unul dintre cele mai practice modele din clasament.",
+      "review": "Rowenta X-Force Flex 13.60 ne-a plăcut mai ales pentru tubul flexibil, care se îndoaie la un unghi ce ajunge sub canapea sau sub pat fără să te apleci — un detaliu mic care schimbă cu adevărat rutina zilnică. Recipientul de 0,65 litri e printre cele mai mari din test, deci nu îl golești după fiecare cameră, iar filtrarea de 99,9% ține praful fin departe de aer. Autonomia de 60 de minute și peria cu LED completează un pachet echilibrat, fără puncte slabe majore. Singurul aspect de care ții cont e greutatea în varianta cu baterie mare — nu e greu comparativ cu un aspirator clasic cu sac, dar simți diferența față de un Dyson V12 dacă aspiri des deasupra capului. Pentru o casă cu mobilier jos și colțuri greu accesibile, e unul dintre cele mai practice modele din top.",
       "emagUrl": "https://www.emag.ro/aspirator-vertical-rowenta-x-force-flex-13-60-380w-autonomie-60-min-perie-cu-led-panou-smart-control-display-filtrare-99-9-recipient-praf-0-65l-argintiu-verde-rh9a32wo/pd/DR3KD1YBM/"
     },
     {
@@ -463,7 +463,7 @@
       "cons": [
         "Filtrare și finisaje sub nivelul premium"
       ],
-      "review": "Proscenic P15 ne-a surprins prin cât oferă la un preț mult sub cel al modelelor premium din listă: 60 kPa aspirare, recipient de 1,5 litri — cel mai mare din tot testul — și faruri LED verzi pe perie care scot la iveală praful pe podele închise. Cele 70 de minute de autonomie sunt printre cele mai bune din clasament, deci acoperă o casă întreagă la o singură încărcare. Unde se vede diferența față de Dyson sau Rowenta e la filtrare și la finisajele generale — plasticul se simte mai puțin premium, iar reținerea alergenilor nu e la același nivel. Pentru cine nu are alergii severe și vrea autonomie mare, recipient generos și un preț accesibil, e cel mai bun raport calitate-preț din test.",
+      "review": "Proscenic P15 ne-a surprins prin cât oferă la un preț mult sub cel al modelelor premium din listă: 60 kPa aspirare, recipient de 1,5 litri — cel mai mare din tot testul — și faruri LED verzi pe perie care scot la iveală praful pe podele închise. Cele 70 de minute de autonomie sunt printre cele mai bune din top, deci acoperă o casă întreagă la o singură încărcare. Unde se vede diferența față de Dyson sau Rowenta e la filtrare și la finisajele generale — plasticul se simte mai puțin premium, iar reținerea alergenilor nu e la același nivel. Pentru cine nu are alergii severe și vrea autonomie mare, recipient generos și un preț accesibil, e cel mai bun raport calitate-preț din test.",
       "emagUrl": "https://www.emag.ro/aspirator-vertical-fara-fir-proscenic-580w-60-kpa-recipient-praf-1-5l-70-min-faruri-led-verzi-p15/pd/DMLXCX3BM/"
     },
     {

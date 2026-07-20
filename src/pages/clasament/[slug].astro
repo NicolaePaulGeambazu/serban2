@@ -57,12 +57,12 @@ const faqSchema = {
   <div class="wrap">
     <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: d.parent, href: '/categorii/' }, { label: d.h1 }]} />
     <section class="cat-hero">
-      <span class="eyebrow">Clasament · actualizat {updated}</span>
+      <span class="eyebrow">Recenzii · actualizat {updated}</span>
       <h1>{d.h1}</h1>
       <p class="lede">{d.intro}</p>
       <div class="meta-row">
         <span class="m fresh"><Icon name="clock" /> Actualizat <b>{updated}</b></span>
-        <span class="m"><b>{d.productsCount}</b> modele comparate</span>
+        <span class="m"><b>{d.productsCount}</b> modele recenzate</span>
         {d.reviewsRead > 0 && <span class="m"><b>{fmt(d.reviewsRead)}</b> recenzii citite</span>}
       </div>
       <Byline authorId={d.author} updated={d.updated} />
@@ -150,7 +150,7 @@ const faqSchema = {
   <section class="method method-soft">
     <div class="wrap">
       <span class="eyebrow">Cum lucrăm</span>
-      <h2 style="margin-top:10px">Cum am ales produsele din acest clasament</h2>
+      <h2 style="margin-top:10px">Cum am ales produsele din acest top</h2>
       <div class="steps">
         <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și ce spun cumpărătorii care le-au folosit deja.</p></div>
         <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
@@ -159,7 +159,7 @@ const faqSchema = {
       </div>
       <div class="disclosure">
         <Icon name="info" />
-        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din clasament — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din top — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
       </div>
     </div>
   </section>
@@ -172,7 +172,7 @@ const faqSchema = {
         <h2>Care e verdictul?</h2>
         <p>{d.conclusion}</p>
         <div class="pick">
-          <div><b>{winner.name}</b><span>câștigătorul clasamentului</span></div>
+          <div><b>{winner.name}</b><span>câștigătorul topului</span></div>
           <AffiliateButton url={winner.affiliateUrl || winner.emagUrl} label="Vezi pe eMAG" class="btn btn-gold" icon={false} aria={`Vezi ${winner.name} pe eMAG`} />
         </div>
       </div>
@@ -223,16 +223,17 @@ const faqSchema = {
       apply();
     });
 
-    // quick-pick highlight
-    document.querySelectorAll('a[data-flash]').forEach((a) => {
-      a.addEventListener('click', () => {
-        const id = a.getAttribute('href');
+    // quick-pick highlight — scroll to the product card via JS (no href, so no URL shows on hover)
+    document.querySelectorAll('[data-flash]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const id = btn.getAttribute('data-target');
         if (!id) return;
+        const el = document.querySelector(id) as HTMLElement | null;
+        if (!el) return;
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
         setTimeout(() => {
-          const el = document.querySelector(id);
-          if (!el) return;
           el.classList.remove('flash');
-          void (el as HTMLElement).offsetWidth;
+          void el.offsetWidth;
           el.classList.add('flash');
         }, 380);
       });
