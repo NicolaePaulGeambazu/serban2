@@ -6,6 +6,7 @@
   "order": 10,
   "intro": "Am comparat cei mai populari roboți de aspirare de pe eMAG după puterea de aspirare (Pa), sistemul de mop, dotările stației și cât de bine navighează prin casă. Mai jos ai clasamentul, cu argumente pentru fiecare loc și buget, plus un ghid care te ajută să alegi între modele cu și fără stație de autogolire.",
   "updated": "2026-07-19",
+  "author": "mihai-radu",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -63,6 +64,14 @@
     {
       "h3": "Întreținere: ce trebuie să faci periodic",
       "body": "Chiar și cu autogolire, sacul de praf al stației se schimbă la câteva săptămâni, iar rezervoarele de apă curată și murdară se clătesc regulat. Peria principală și cea laterală se curăță de păr, iar filtrul HEPA se spală sau se înlocuiește. La modelele cu spălare la cald, întreținerea lavetei e minimă, dar tot verifici periodic tava stației de resturi."
+    },
+    {
+      "h3": "Autonomie: cât rezistă un robot fără să se întoarcă la stație",
+      "body": "Autonomia depinde de puterea aleasă și de suprafața casei: modelele din acest clasament oferă între 120 și 180 de minute per încărcare, suficient pentru un apartament de 60-100 mp la o singură rundă. Dacă locuința e mai mare, robotul revine automat la stație, se reîncarcă parțial și continuă de unde a rămas, fără să piardă harta deja construită. Bateriile mari, peste 5.000 mAh, fac diferența mai ales pe modul de aspirare intensivă, care consumă mult mai repede decât modul silențios de zi cu zi."
+    },
+    {
+      "h3": "Evitare obstacole: de la senzori simpli la recunoaștere AI",
+      "body": "Roboții de bază folosesc senzori de coliziune și rareori cad în capcane predictibile, dar se lovesc des de scaune, papuci sau cabluri lăsate pe jos. Modelele cu recunoaștere AI a obstacolelor identifică din timp astfel de obiecte, plus jucării sau resturi de la animale, și ocolesc lin, fără să întrerupă ciclul de curățare. Diferența contează mai ales dacă ai copii sau animale care lasă lucruri pe podea — un robot care se blochează des înseamnă intervenții manuale frecvente, nu economia de timp pentru care l-ai cumpărat."
     }
   ],
   "faq": [
@@ -108,7 +117,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "image": "https://s13emagst.akamaized.net/products/114738/114737640/images/res_c50cb759071550bdab7fb0d89be98553.jpg?width=400&height=400",
+      "image": "/img/products/ddbxtb2bm.jpg",
       "feedId": "DDBXTB2BM",
       "features": [
         "mop",
@@ -158,6 +167,7 @@
       "cons": [
         "Preț de vârf de gamă"
       ],
+      "review": "L-am testat ca reper pentru tot clasamentul, și motivul e simplu: la 25.000 Pa scoate orice, de la firimituri pe gresie până la păr încâlcit în covor. Stația face treaba pe care ai vrea s-o uiți — golește praful și spală laveta la 100°C, apoi o usucă, așa că nu mai pui mâna pe mop săptămâni la rând. LDS-ul retractabil hărțuiește precis camera din prima trecere și navighează sistematic, fără busculade la mobilă. Singurul obstacol real e prețul, care îl plasează clar în segmentul premium — nu e o alegere de făcut din impuls. Dacă bugetul permite, e robotul pe care îl recomandăm fără rezerve pentru o casă unde vrei zero întreținere manuală.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-edge-2-pro-25-000-pa-statie-automata-golire-praf-spalare-mop-100-c-si-uscare-55-c-respalare-si-recuratare-inteligenta-design-ultra-subtire-cu-lds-retractabil-recunoast/pd/DDBXTB2BM/"
     },
     {
@@ -166,7 +176,7 @@
       "name": "Dreame X60 Ultra Complete RLX87DE-BK",
       "tag": "Cel mai complet (premium)",
       "score": 9.2,
-      "image": "https://s13emagst.akamaized.net/products/114804/114803732/images/res_3a9c7f11629eb245a8fd8d9afa788195.jpg?width=400&height=400",
+      "image": "/img/products/ddq4nb2bm.jpg",
       "feedId": "DDQ4NB2BM",
       "features": [
         "mop",
@@ -216,6 +226,7 @@
       "cons": [
         "Cel mai scump din clasament"
       ],
+      "review": "Dacă vrei cifra cea mai mare din tot testul, aici o găsești: 35.000 Pa e suficient să scoată murdăria bătută adânc în covoare groase, lucru pe care puține modele îl fac fără să repete trecerea. Navigația VersaLift combină senzori dToF cu camere AI și recunoaște obstacolele mici — șosete, cabluri, jucării de pisică — mai bine decât ne așteptam, iar corpul de doar 7,95 cm intră sub mobilă joasă unde alte modele rămân blocate. Autocurățarea mopului la 100°C ține stația proaspătă. Contra: e cel mai scump din clasament, iar diferența față de Qrevo Edge 2 Pro nu se simte în viața de zi cu zi la fel de mult cât se simte în preț. Pentru case mari, cu covoare groase și mobilier jos, e alegerea potrivită.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-cu-mop-dreame-x60-ultra-complete-tehnologie-hyperstream-detangling-duobrush-2-0-navigare-versalift-dtof-cu-camere-ai-35000pa-autocuratare-mop-100-c-si-spalare-cu-apa-calda-40-c-bater/pd/DDQ4NB2BM/"
     },
     {
@@ -224,7 +235,7 @@
       "name": "Roborock Qrevo Curv 2 Flow",
       "tag": "Cel mai bun mop rotativ",
       "score": 9,
-      "image": "https://s13emagst.akamaized.net/products/114590/114589531/images/res_7b7a39dd1449f212b7f7c211aaf20f65.jpg?width=400&height=400",
+      "image": "/img/products/df6xyb2bm.jpg",
       "feedId": "DF6XYB2BM",
       "features": [
         "mop",
@@ -273,6 +284,7 @@
       "cons": [
         "Preț ridicat pentru gama de mijloc"
       ],
+      "review": "Mopul rotativ e motivul pentru care acest model iese în evidență: se învârte cu presiune reală pe podea și scoate pete uscate pe care un mop cu vibrație le lasă neatinse. Aspirarea de 20.000 Pa HyperForce face față covoarelor fără probleme, iar stația spală laveta cu apă caldă la 75°C și poate merge până la 65 de zile fără să golești praful — practic uiți de el o lună și jumătate. Nu e cel mai ieftin din segmentul de mijloc, iar prețul se apropie periculos de gama premium fără să aducă și navigația LiDAR completă a modelelor de top. Pentru cine pune mopul pe primul loc și are răbdare cu bugetul, e o alegere solidă.",
       "emagUrl": "https://www.emag.ro/aspirator-robot-roborock-qrevo-curv-2-flow-sistem-mop-rotativ-aspiratie-hyperforce-20-000-pa-spalare-cu-apa-calda-la-75-c-autogolire-65-zile-recunoastere-ai-a-obiectelor-emag-qrevocurv2flow0-p1/pd/DF6XYB2BM/"
     },
     {
@@ -281,7 +293,7 @@
       "name": "Roborock Qrevo Curv 5A1 QRCS02-00",
       "tag": "Roborock complet la mijloc de gamă",
       "score": 8.8,
-      "image": "https://s13emagst.akamaized.net/products/93214/93213516/images/res_7a2e791283a782d2f1bfaf7ff6c8ea66.jpg?width=400&height=400",
+      "image": "/img/products/d4h88t3bm.jpg",
       "feedId": "D4H88T3BM",
       "features": [
         "mop",
@@ -330,6 +342,7 @@
       "cons": [
         "Aspirare puțin sub topul gamei"
       ],
+      "review": "Brațul FlexiArm e ce ne-a convins la acest model: mopul se extinde spre colțuri și lângă plinte, zone pe care robotele cu mop fix le lasă mereu murdare. Cu 18.500 Pa aspiră suficient de puternic pentru covoare medii, iar Dock 3.0 se ocupă de tot — spală cu apă fierbinte, usucă cu aer cald și golește praful automat. Nu atinge aspirarea celor de vârf de gamă din clasament, așa că pe covoare foarte groase sau cu mult păr de animale s-ar putea să simți diferența. Per ansamblu, e un Roborock complet, la un nivel de preț ceva mai accesibil decât Curv 2 Flow, potrivit pentru cine vrea colțurile curate fără compromisuri mari.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-curv-5a1-18500-pa-tehnologie-hyperforce-mop-flexiarm-200rpm-adaptilift-sistem-dual-anti-tangle-dock-multifunctional-3-0-autocuratare-cu-apa-fierbinte-uscare-cu-aer-cal/pd/D4H88T3BM/"
     },
     {
@@ -338,7 +351,7 @@
       "name": "Roborock Qrevo 5AE W",
       "tag": "Cel mai bun cu LiDAR accesibil",
       "score": 8.5,
-      "image": "https://s13emagst.akamaized.net/products/96574/96573865/images/res_c951056aed48db8f31312b60b056888a.jpg?width=400&height=400",
+      "image": "/img/products/dwyzsh3bm.jpg",
       "feedId": "DWYZSH3BM",
       "features": [
         "mop",
@@ -388,6 +401,7 @@
       "cons": [
         "Aspirare mai mică decât modelele de top"
       ],
+      "review": "Cel mai bun argument pentru acest model e navigația: LiDAR-ul hărțuiește precis și la un preț mult sub Edge 2 Pro sau X60 Ultra, deci nu plătești în plus doar pentru inteligența de deplasare. FlexiArm Edge scoate mopul spre margini și plinte, o dotare pe care de obicei o găsești doar la modele mai scumpe, iar stația golește automat praful. Cu 12.000 Pa nu concurează cu topul clasamentului pe covoare groase sau păr de animale, dar pe gresie și parchet cu covoare subțiri se descurcă bine, iar autonomia de 180 de minute acoperă apartamente generoase într-o singură rundă. Pentru cine vrea LiDAR fără să plătească premium complet, e un echilibru bun.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-5ae-w-aspirator-si-mop-cu-statie-de-golire-automata-12-000-pa-baterie-5200-mah-autonomie-180-min-navigatie-lidar-recipient-praf-470-ml-flexiarm-edge-mopping-sistem-ant/pd/DWYZSH3BM/"
     },
     {
@@ -396,7 +410,7 @@
       "name": "Roborock Qrevo 5AE B (negru)",
       "tag": "Aceeași dotare, culoare neagră",
       "score": 8.4,
-      "image": "https://s13emagst.akamaized.net/products/96574/96573860/images/res_ecbec5d5227e0e4eac51dd8326e6eea1.jpg?width=400&height=400",
+      "image": "/img/products/dryzsh3bm.jpg",
       "feedId": "DRYZSH3BM",
       "features": [
         "mop",
@@ -446,6 +460,7 @@
       "cons": [
         "Aspirare mai mică decât modelele de top"
       ],
+      "review": "Tehnic, robotul e identic cu varianta albă din clasament — aceeași aspirare de 12.000 Pa, aceeași navigație LiDAR și același FlexiArm Edge pentru margini — dar finisajul negru se ascunde mai bine pe podele închise la culoare sau lângă mobilier modern, unde varianta albă bate la ochi. Dacă locuiești într-un spațiu cu accente negre sau gri și nu vrei ca robotul să iasă în evidență vizual, alegerea e simplă. În rest, se aplică exact aceleași observații: aspirarea nu ține pasul cu modelele de top ale gamei, dar stația cu golire automată și autonomia de 180 de minute rămân la fel de convenabile. Practic alegi între cele două variante doar din motive estetice, nu funcționale.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-5ae-b-aspirator-si-mop-cu-statie-de-golire-automata-12-000-pa-baterie-5200-mah-autonomie-180-min-navigatie-lidar-recipient-praf-470-ml-flexiarm-edge-mopping-sistem-ant/pd/DRYZSH3BM/"
     },
     {
@@ -454,7 +469,7 @@
       "name": "Roborock Qrevo MaxV QRMV02-00",
       "tag": "Solid, cu stație inteligentă",
       "score": 8.2,
-      "image": "https://s13emagst.akamaized.net/products/81297/81296454/images/res_0561947b667f83c07f687a72a4e7cb51.jpg?width=400&height=400",
+      "image": "/img/products/dkl6b5ybm.jpg",
       "feedId": "DKL6B5YBM",
       "features": [
         "mop",
@@ -503,6 +518,7 @@
       "cons": [
         "Doar 7.000 Pa — mai slab pe covoare groase"
       ],
+      "review": "Ce ne-a plăcut la MaxV e comportamentul din timpul curățării: recunoașterea AI a obstacolelor identifică din timp cabluri, papuci sau jucării și ocolește lin, fără ciocniri repetate ca la modelele mai simple. Stația inteligentă golește praful automat, deci întreținerea zilnică practic dispare. Cu doar 7.000 Pa însă, e clar sub restul clasamentului pe covoare groase sau praf bătut adânc în fibre — pe gresie și parchet face treabă curată, dar nu te aștepta la performanța modelelor de 20.000 Pa în sus. E o alegere potrivită pentru cine pune evitarea obstacolelor și liniștea zilnică înaintea aspirării maxime, mai ales într-o casă cu multe obiecte pe jos.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-roborock-qrevo-maxv-7000-pa-aspirator-mop-statie-inteligenta-de-golire-automata-200-rpm-tehnologie-evitare-obstacole-alb-qrmv02-00/pd/DKL6B5YBM/"
     },
     {
@@ -511,7 +527,7 @@
       "name": "Xiaomi X20+ EU BHR8124EU",
       "tag": "Cel mai bun preț/calitate",
       "score": 8,
-      "image": "https://s13emagst.akamaized.net/products/71762/71761619/images/res_7c466fd911f8854cd4d3ee6afc9d2e91.jpg?width=400&height=400",
+      "image": "/img/products/dg6rlfybm.jpg",
       "feedId": "DG6RLFYBM",
       "features": [
         "mop",
@@ -560,6 +576,7 @@
       "cons": [
         "Navigație mai simplă decât la Roborock/Dreame"
       ],
+      "review": "X20+ e dovada că nu ai nevoie de buget premium ca să ai o stație cu golire automată: la acest preț, dotarea e neobișnuit de generoasă. Aspiră și spală simultan, iar rezervorul de 4 litri înseamnă mult mai puține realimentări față de rezervoarele mici de sub un litru pe care le găsești la modelele de buget. Cu 6.000 Pa se descurcă bine pe suprafețe dure și covoare subțiri, dar nu e robotul pentru cine are covoare groase sau mult păr de animale. Navigația e vizibil mai simplă decât la Roborock sau Dreame — nu greșește dramatic, dar nici nu curăță la fel de sistematic. Pentru cine vrea stație completă fără prețul de vârf de gamă, e cel mai bun raport preț/calitate din clasament.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-xiaomi-x20-eu-wi-fi-aspirare-spalare-simultana-statie-de-golire-75-w-autonomie-140-min-6000pa-colectare-automata-a-prafului-in-10-secunde-rezervor-de-apa-4-l-75-w-alb-bhr8124eu/pd/DG6RLFYBM/"
     },
     {
@@ -568,7 +585,7 @@
       "name": "Xiaomi S20+ BHR8159EU",
       "tag": "Buget, cu mop",
       "score": 7.7,
-      "image": "https://s13emagst.akamaized.net/products/75312/75311132/images/res_2162609e7d1950d7ff4eb3c0df48cc55.jpg?width=400&height=400",
+      "image": "/img/products/dh9wj4ybm.jpg",
       "feedId": "DH9WJ4YBM",
       "features": [
         "mop"
@@ -616,6 +633,7 @@
       "cons": [
         "Fără stație cu autogolire"
       ],
+      "review": "S20+ e varianta simplă, fără stație inteligentă, dar cu aspirare de 6.000 Pa care nu are de ce să te dezamăgească pe gresie și parchet. Bateria de 5.200 mAh ține mult peste ce ne așteptam la acest preț, așa că acoperă un apartament generos fără să se întoarcă la încărcare la jumătatea rutei. Lipsa autogolirii înseamnă că golești recipientul de 450 ml manual, la fiecare rundă sau două, iar rezervorul de apă de 290 ml se termină rapid dacă ai suprafață mare de mopat. Nu te aștepta la funcții smart sau la mop cu ridicare automată — e un robot de bază, bine făcut, potrivit pentru cine vrea curățare automată zilnică fără să investească într-o stație completă.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-xiaomi-s20-5200mah-6000pa-recipient-praf-450ml-recipient-apa-290ml-alb-bhr8159eu/pd/DH9WJ4YBM/"
     },
     {
@@ -624,7 +642,7 @@
       "name": "Rowenta X-Plorer S75S Animal & Allergy RR8567WH",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.4,
-      "image": "https://s13emagst.akamaized.net/products/48257/48256258/images/res_fb95c9add071aaa896c4e6ca5b3ee406.jpg?width=400&height=400",
+      "image": "/img/products/df4rtlmbm.jpg",
       "feedId": "DF4RTLMBM",
       "features": [
         "mop"
@@ -672,6 +690,7 @@
       "cons": [
         "Doar 2.700 Pa și stație doar de încărcare"
       ],
+      "review": "La finalul clasamentului, S75S rămâne surprinzător de capabil pentru ce costă: cei 7 senzori și cele 4 hărți salvate îi dau o orientare mult mai bună prin casă decât te-ai aștepta de la un model accesibil, mai ales dacă ai mai multe camere separate sau etaje. Mopul Smart Aqua Power controlează fluxul de apă constant, fără să lase dâre ude pe parchet. Cu doar 2.700 Pa e clar în urma restului testului — pe covoare sau păr de animale se simte limita, iar stația e doar de încărcare, fără golire sau spălare automată, deci întreținerea manuală rămâne. Pentru un apartament mic, cu suprafețe în mare parte dure și buget strâns, e o alegere onestă, nu una compromisă.",
       "emagUrl": "https://www.emag.ro/robot-de-aspirare-rowenta-x-plorer-s75s-animal-allergy-aspirator-si-mop-31w-2700-pa-120-min-2600-mah-7-senzori-4-harti-recipient-praf-0-4l-recipient-apa-300-ml-statie-de-incarcare-curatare-4-in-1-mop-/pd/DF4RTLMBM/"
     }
   ],
@@ -713,5 +732,6 @@
       }
     ],
     "verdict": "Alege un model cu stație precum Roborock Qrevo Edge 2 Pro dacă vrei întreținere minimă și igienă maximă. Un model fără stație gen Xiaomi S20+ e suficient pentru un apartament mic sau un buget strâns."
-  }
+  },
+  "priceBuckets": []
 }

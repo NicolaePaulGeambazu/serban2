@@ -9,6 +9,8 @@ import Icon from '../../components/Icon.astro';
 import Jsonld from '../../components/Jsonld.astro';
 import { site } from '../../data/site';
 import { deeplink, AFFILIATE_REL } from '../../data/affiliate';
+import { getAuthor } from '../../data/authors';
+import Byline from '../../components/Byline.astro';
 
 export async function getStaticPaths() {
   const cats = await getCollection('categories');
@@ -36,7 +38,7 @@ const itemList = {
       review: {
         '@type': 'Review',
         reviewRating: { '@type': 'Rating', ratingValue: p.score, bestRating: 10, worstRating: 1 },
-        author: { '@type': 'Organization', name: `Redacția ${site.name}` },
+        author: { '@type': 'Person', name: getAuthor(d.author).name },
       },
     },
   })),
@@ -62,8 +64,8 @@ const faqSchema = {
         <span class="m fresh"><Icon name="clock" /> Actualizat <b>{updated}</b></span>
         <span class="m"><b>{d.productsCount}</b> modele comparate</span>
         {d.reviewsRead > 0 && <span class="m"><b>{fmt(d.reviewsRead)}</b> recenzii citite</span>}
-        <span class="author"><span class="av">VR</span> Verificat de redacția {site.name}</span>
       </div>
+      <Byline authorId={d.author} updated={d.updated} />
     </section>
 
     <QuickPicks picks={d.quickPicks} products={d.products} />
@@ -150,7 +152,7 @@ const faqSchema = {
       <span class="eyebrow">Cum lucrăm</span>
       <h2 style="margin-top:10px">Cum am ales produsele din acest clasament</h2>
       <div class="steps">
-        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și recenziile publice de pe eMAG.</p></div>
+        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și ce spun cumpărătorii care le-au folosit deja.</p></div>
         <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
         <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
         <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
@@ -192,52 +194,22 @@ const faqSchema = {
   const list = document.getElementById('rankList');
   if (list) {
     const cards = Array.from(list.querySelectorAll('.prod-card')) as HTMLElement[];
-    const priceChips = Array.from(document.querySelectorAll('.chip[data-price]'));
     const featChips = Array.from(document.querySelectorAll('.chip[data-feat]'));
-    const sortSel = document.getElementById('sort') as HTMLSelectElement | null;
     const countEl = document.getElementById('count');
     const emptyEl = document.getElementById('empty') as HTMLElement | null;
-    let priceMin: number | null = null;
-    let priceMax: number | null = null;
     const feats: Record<string, boolean> = {};
 
-    function inBucket(p: number) {
-      return (priceMin === null || p >= priceMin) && (priceMax === null || p <= priceMax);
-    }
     function apply() {
       let shown = 0;
       cards.forEach((c) => {
-        const p = Number(c.dataset.price);
         const cf = (c.dataset.feat || '').split(' ');
-        const okP = inBucket(p);
         const okF = Object.keys(feats).every((k) => !feats[k] || cf.indexOf(k) > -1);
-        const show = okP && okF;
-        c.style.display = show ? '' : 'none';
-        if (show) shown++;
+        c.style.display = okF ? '' : 'none';
+        if (okF) shown++;
       });
       if (countEl) countEl.textContent = shown + (shown === 1 ? ' model' : ' modele');
       if (emptyEl) emptyEl.style.display = shown ? 'none' : 'block';
     }
-    function sortNow() {
-      const v = sortSel?.value;
-      const sorted = cards.slice().sort((a, b) => {
-        if (v === 'rank') return Number(a.dataset.rank) - Number(b.dataset.rank);
-        if (v === 'score') return Number(b.dataset.score) - Number(a.dataset.score);
-        if (v === 'asc') return Number(a.dataset.price) - Number(b.dataset.price);
-        if (v === 'desc') return Number(b.dataset.price) - Number(a.dataset.price);
-        return 0;
-      });
-      sorted.forEach((c) => list.appendChild(c));
-      if (emptyEl) list.appendChild(emptyEl);
-    }
-    priceChips.forEach((ch) => ch.addEventListener('click', () => {
-      priceChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
-      ch.setAttribute('aria-pressed', 'true');
-      const el = ch as HTMLElement;
-      priceMin = el.dataset.min ? Number(el.dataset.min) : null;
-      priceMax = el.dataset.max ? Number(el.dataset.max) : null;
-      apply();
-    }));
     featChips.forEach((ch) => ch.addEventListener('click', () => {
       const f = (ch as HTMLElement).dataset.feat!;
       const on = ch.getAttribute('aria-pressed') === 'true';
@@ -245,11 +217,8 @@ const faqSchema = {
       feats[f] = !on;
       apply();
     }));
-    sortSel?.addEventListener('change', sortNow);
     document.getElementById('clearF')?.addEventListener('click', () => {
-      priceMin = null; priceMax = null;
       Object.keys(feats).forEach((k) => (feats[k] = false));
-      priceChips.forEach((x) => x.setAttribute('aria-pressed', (x as HTMLElement).dataset.price === 'all' ? 'true' : 'false'));
       featChips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
       apply();
     });

@@ -30,6 +30,7 @@ const { product: p } = Astro.props;
         {p.specs.map((s) => <span>{s.label ? `${s.value} ${s.label}` : s.value}</span>)}
       </div>
     )}
+    {p.review && <p class="pc-review">{p.review}</p>}
   </div>
 
   <div class="pc-buy">

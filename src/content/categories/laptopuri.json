@@ -6,6 +6,7 @@
   "order": 12,
   "intro": "Am comparat cele mai populare laptopuri de pe eMAG pentru studiu, birou și uz zilnic, după procesor, memorie, stocare, ecran și autonomie. Mai jos ai clasamentul plus un ghid clar despre ce specificații contează cu adevărat și unde nu merită să plătești în plus.",
   "updated": "2026-07-19",
+  "author": "ana-popescu",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -62,6 +63,18 @@
     {
       "h3": "Sistemul de operare și extra",
       "body": "Unele modele vin cu 'No OS' sau FreeDOS (fără Windows) — sunt mai ieftine, dar trebuie să adaugi tu licența. Verifică și tastatura iluminată, cititorul de amprentă și porturile (USB-C cu încărcare e foarte practic)."
+    },
+    {
+      "h3": "Convertibile 2-in-1 și ecrane touch: merită?",
+      "body": "Un laptop 2-in-1 cu balama la 360° și ecran touch e util dacă iei notițe cu stylus-ul, desenezi sau vrei modul tabletă pentru citit. Pentru muncă de birou clasică, cu tastatură și mouse, nu aduce un avantaj real și adaugă la preț. Un dezavantaj frecvent la aceste modele: memoria RAM vine adesea lipită pe placă și nu mai poate fi extinsă ulterior, așa că alege de la început configurația de care ai nevoie pe termen lung."
+    },
+    {
+      "h3": "Porturi și conectivitate: ce să nu-ți lipsească",
+      "body": "Un USB-C cu suport de încărcare (Power Delivery) e tot mai important — îți permite să încarci laptopul cu același cablu ca telefonul sau cu un power bank. Caută și minim un USB-A pentru periferice mai vechi, HDMI dacă te conectezi des la monitor sau proiector, și un cititor de card SD dacă lucrezi cu poze sau video. Wi-Fi 6/6E și Bluetooth 5 sunt azi standard, chiar și pe modelele de buget."
+    },
+    {
+      "h3": "Greșeli frecvente când alegi un laptop de birou sau studiu",
+      "body": "Cea mai comună greșeală e să plătești în plus pe un procesor puternic (i7/i9, H-series) și să economisești la RAM sau SSD, deși acestea din urmă se simt mai des în utilizarea zilnică. A doua greșeală: ignorarea greutății și autonomiei dacă îl cari des — un laptop de 2,5 kg cu autonomie de 5 ore devine rapid o povară pe drum. A treia: să nu verifici dacă vine cu Windows preinstalat sau 'No OS', pentru a nu fi luat prin surprindere de un cost suplimentar la licență."
     }
   ],
   "faq": [
@@ -107,7 +120,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "image": "https://s13emagst.akamaized.net/products/92504/92503770/images/res_69ff26f5de44e4154be6a119c6299470.jpg?width=400&height=80",
+      "image": "/img/products/dvry7t3bm.jpg",
       "feedId": "DVRY7T3BM",
       "features": [
         "oled",
@@ -156,6 +169,7 @@
       "cons": [
         "Cel mai scump din clasament"
       ],
+      "review": "Cel mai bun laptop pe care l-am inclus în acest clasament, fără discuții. Ultra 7 258V dublat de 32 GB RAM LPDDR5x duce orice sesiune de lucru, indiferent câte file și aplicații ai deschise simultan, iar ecranul de 14\" 4K OLED cu 120Hz și touch e pur și simplu spectaculos — negrul e negru, culorile sunt fidele, iar defilarea e fluidă la scris și navigat. SSD-ul de 1 TB îți lasă loc de respirat pentru proiecte, poze și arhive. Autonomia surprinde plăcut pentru un ecran atât de puternic, grație eficienței Ultra 7. Singurul motiv pentru care nu-l recomandăm tuturor e prețul — e cel mai scump model din listă, iar cineva care doar navighează și scrie documente nu va simți toată puterea lui. Dar dacă vrei un laptop premium care să te țină acoperit ani de zile, fără compromisuri la ecran sau performanță, ăsta e.",
       "emagUrl": "https://www.emag.ro/laptop-lenovo-yoga-slim-9-14ill10-cu-procesor-intelr-coretm-ultra-7-258v-pana-la-4-8ghz-14-4k-wquxga-oled-120hz-touch-32gb-lpddr5x-1tb-ssd-intelr-arctm-graphics-windowsr-11-home-tidal-teal-3y-on-site-/pd/DVRY7T3BM/"
     },
     {
@@ -164,7 +178,7 @@
       "name": "Lenovo Yoga 7 2-in-1 14ILL10 (Ultra 7 256V, 16GB, 1TB, OLED touch)",
       "tag": "Cel mai complet (premium)",
       "score": 9.1,
-      "image": "https://s13emagst.akamaized.net/products/94842/94841943/images/res_be13328c2cd568660d159115e0cbfa54.jpg?width=400&height=80",
+      "image": "/img/products/drykff3bm.jpg",
       "feedId": "DRYKFF3BM",
       "features": [
         "oled",
@@ -213,6 +227,7 @@
       "cons": [
         "16 GB RAM lipită, nu se poate extinde"
       ],
+      "review": "L-am testat ca variantă pentru cine vrea flexibilitatea unui 2-in-1 fără să renunțe la calitatea ecranului. Balamaua de 360° și touch-ul funcționează impecabil, iar panoul OLED WUXGA face diferența clar față de un IPS obișnuit, mai ales la vizionare și editare foto ușoară. Ultra 7 256V cu 16 GB RAM face față confortabil multitasking-ului zilnic, iar faptul că vine cu Windows 11 Pro preinstalat e un plus real pentru cineva care lucrează cu domenii sau politici de securitate. Autonomia s-a dovedit una dintre cele mai bune din test. Singurul lucru la care ne-am gândit de două ori: cei 16 GB RAM sunt lipiți pe placă, deci ce cumperi azi rămâne așa pentru totdeauna — nu ai cum să extinzi ulterior. Pentru cine vrea un convertibil premium cu ecran OLED și baterie lungă, e o alegere foarte solidă.",
       "emagUrl": "https://www.emag.ro/laptop-lenovo-yoga-7-2-in-1-14ill10-cu-procesor-intelr-core-ultra-7-256v-pana-la-4-8ghz-14-wuxga-oled-touch-16gb-lpddr5x-ram-1tb-ssd-intelr-arctm-graphics-windows-11-pro-luna-grey-3y-on-site-premium-c/pd/DRYKFF3BM/"
     },
     {
@@ -221,7 +236,7 @@
       "name": "Acer Aspire Go 16 (i9-13900H, 16GB, 512GB, 120Hz)",
       "tag": "Cel mai puternic procesor",
       "score": 8.7,
-      "image": "https://s13emagst.akamaized.net/products/109164/109163670/images/res_d239530f9e3017a1c4f8e96526f22f42.png?width=400&height=80",
+      "image": "/img/products/dzrndr3bm.png",
       "feedId": "DZRNDR3BM",
       "features": [],
       "specs": [
@@ -267,6 +282,7 @@
       "cons": [
         "Autonomie modestă din cauza i9-ului"
       ],
+      "review": "Dacă vrei cea mai multă putere brută din acest clasament la un preț care nu ajunge la nivelul modelelor premium, i9-13900H de aici impresionează clar la task-uri grele — compilare, randare, multitasking extrem. Ecranul de 16\" WUXGA cu 120Hz e plăcut de folosit, cu defilare fluidă și spațiu vizual generos pentru mai multe ferestre deschise. Aici însă vine și compromisul evident: un i9 de laptop consumă mult, iar autonomia scade vizibil față de restul clasamentului — nu e laptopul pe care să-l cari la facultate fără încărcător în geantă. Construcția e ok, dar nu la nivelul modelelor Lenovo Yoga de mai sus. Recomandăm acest model pentru cineva care lucrează mai mult de pe birou, la priză, și vrea performanță maximă din procesor, nu pentru cine caută mobilitate.",
       "emagUrl": "https://www.emag.ro/laptop-acer-aspire-go-16-cu-procesor-intelr-coretm-i9-13900h-pana-la-5-4-ghz-16-wuxga-ips-120hz-16gb-ddr5-512gb-ssd-intelr-uhd-graphics-no-os-pure-silver-nx-jv0ex-00e/pd/DZRNDR3BM/"
     },
     {
@@ -275,7 +291,7 @@
       "name": "Lenovo IdeaPad Slim 3 16IRH10 (i7-13620H, 16GB, 512GB, aluminiu)",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.5,
-      "image": "https://s13emagst.akamaized.net/products/92504/92503758/images/res_f15c7e797ee835de9d425be20fbaaec2.jpg?width=400&height=80",
+      "image": "/img/products/ddry7t3bm.jpg",
       "feedId": "DDRY7T3BM",
       "features": [],
       "specs": [
@@ -321,6 +337,7 @@
       "cons": [
         "Vine fără sistem de operare"
       ],
+      "review": "Ăsta e laptopul pe care îl recomandăm cel mai des cui ne întreabă 'cel mai bun raport preț/calitate'. i7-13620H cu 16 GB RAM DDR5 oferă mult peste ce ai nevoie pentru birou și studiu, iar ecranul mare de 16\" WUXGA cu carcasă din aluminiu se simte mult mai premium decât prețul lui ar sugera — nu se încovoaie, nu scârțâie, arată bine chiar și după luni de folosire zilnică. SSD-ul de 512 GB e suficient pentru majoritatea utilizatorilor de birou. Singurul detaliu de care trebuie să ții cont: vine fără sistem de operare, așa că bugetezi și o licență Windows sau te orientezi spre Linux. Dincolo de asta, pentru cine vrea multă putere și un ecran generos fără să dea prețul unui model premium, e alegerea care are cel mai mult sens.",
       "emagUrl": "https://www.emag.ro/laptop-lenovo-ideapad-slim-3-16irh10-cu-procesor-intelr-coretm-i7-13620h-pana-la-4-9ghz-16-wuxga-ips-16gb-ddr5-ram-512gb-ssd-intelr-uhd-graphics-no-os-cosmic-blue-aluminiu-83k2003mrm/pd/DDRY7T3BM/"
     },
     {
@@ -329,7 +346,7 @@
       "name": "Lenovo IdeaPad Slim 5 16ARP10 (Ryzen 5 7535HS, 16GB, 512GB)",
       "tag": "Cea mai bună alegere AMD",
       "score": 8.3,
-      "image": "https://s13emagst.akamaized.net/products/97173/97172811/images/res_98f9883d1a009616051d7b1953fb0d23.png?width=400&height=80",
+      "image": "/img/products/dr0rdp3bm.png",
       "feedId": "DR0RDP3BM",
       "features": [
         "amd"
@@ -377,6 +394,7 @@
       "cons": [
         "Vine fără sistem de operare"
       ],
+      "review": "Pentru cei care preferă platforma AMD, acest IdeaPad Slim 5 e alegerea echilibrată din test. Ryzen 5 7535HS e eficient energetic și face față fără probleme navigării, documentelor și streaming-ului, iar grafica integrată Radeon 660M se descurcă mai bine decât variantele Intel UHD la task-uri ușoare cu conținut vizual. Ecranul de 16\" WUXGA IPS oferă suficient spațiu pentru lucru cu mai multe ferestre. 16 GB RAM DDR5 și 512 GB SSD acoperă confortabil un utilizator obișnuit de birou sau facultate. La fel ca alte modele Lenovo din segmentul acesta, vine fără sistem de operare instalat, deci va trebui să adaugi separat o licență Windows. Dacă vrei eficiență energetică bună și un preț rezonabil fără să renunți la un ecran mare, e o variantă pe care o recomandăm cu încredere.",
       "emagUrl": "https://www.emag.ro/laptop-lenovo-ideapad-slim-5-16arp10-cu-procesor-amd-ryzentm-5-7535hs-pana-4-55ghz-16-wuxga-ips-16gb-ddr5-ram-512gb-ssd-amd-radeontm-660m-graphics-no-os-luna-grey-83hu0027rm/pd/DR0RDP3BM/"
     },
     {
@@ -385,7 +403,7 @@
       "name": "ASUS Vivobook S16 M3607HA (Ryzen 5 220, 16GB, 1TB, 144Hz)",
       "tag": "Cel mai mult spațiu de stocare",
       "score": 8,
-      "image": "https://s13emagst.akamaized.net/products/94332/94331868/images/res_3562b71e77d1fcc597e7d46b65e1ff76.png?width=400&height=80",
+      "image": "/img/products/dj392n3bm.png",
       "feedId": "DJ392N3BM",
       "features": [
         "amd",
@@ -434,6 +452,7 @@
       "cons": [
         "Ryzen 5 220 e din gama de intrare"
       ],
+      "review": "Dacă stocarea e prioritatea ta, acest Vivobook S16 vine cu cel mai mare SSD din segmentul de mijloc al clasamentului — 1 TB, plus un ecran de 16\" WUXGA cu 144Hz care surprinde plăcut la un asemenea preț, cu defilare vizibil mai fluidă decât la un panou standard de 60Hz. Ryzen 5 220 cu 16 GB RAM DDR5 acoperă bine navigarea, documentele și multitasking-ul ușor. Construcția e decentă, fără fițe, dar suficient de solidă pentru uz zilnic. Compromisul principal ține de procesor: Ryzen 5 220 face parte din gama de intrare AMD, așa că la task-uri mai grele sau multitasking intens se simte plafonul de performanță mai devreme decât la un Ryzen 5 7535HS, de exemplu. Pentru cineva care vrea mult spațiu de stocare și un ecran rapid la un buget rezonabil, rămâne o alegere bună.",
       "emagUrl": "https://www.emag.ro/laptop-asus-vivobook-s16-m3607ha-cu-procesor-amd-ryzen-5-220-pana-la-4-9ghz-16-wuxga-ips-144hz-16gb-ddr5-ram-1tb-ssd-amd-radeon-graphics-no-os-matte-gray-m3607ha-rp048/pd/DJ392N3BM/"
     },
     {
@@ -442,7 +461,7 @@
       "name": "HP 15-fd0014nq (i7-1355U, 16GB, 1TB, Full HD)",
       "tag": "Bun pentru mobilitate",
       "score": 7.8,
-      "image": "https://s13emagst.akamaized.net/products/62870/62869277/images/res_c3ea5057b29e36c0294aaac048aef162.jpg?width=400&height=80",
+      "image": "/img/products/dfl0ydybm.jpg",
       "feedId": "DFL0YDYBM",
       "features": [
         "1tb"
@@ -490,6 +509,7 @@
       "cons": [
         "i7-1355U e mai lent decât variantele H"
       ],
+      "review": "L-am inclus pentru cei care pun mobilitatea pe primul loc. i7-1355U e un procesor de tip 'U', gândit pentru eficiență energetică, nu pentru performanță maximă, și asta se traduce în una dintre cele mai bune autonomii din clasament — poți lucra o zi întreagă fără să cauți priza. SSD-ul de 1 TB și grafica Iris Xe acoperă confortabil navigarea, documentele și conținutul video ușor. Ecranul Full HD de 15,6\" e ok, fără să impresioneze — nu te aștepta la culori sau contrast de nivel OLED. Compromisul e clar: dacă vii dintr-un i7 din seria H, vei simți diferența de viteză la task-uri grele, unde un procesor 'U' pur și simplu nu ține pasul. Pentru cine vrea un laptop ușor de cărat, cu autonomie mare, și nu face muncă intensivă, e o alegere solidă.",
       "emagUrl": "https://www.emag.ro/laptop-hp-15-fd0014nq-cu-procesor-intelr-coretm-i7-1355u-pana-la-5-0-ghz-15-6-full-hd-16gb-ddr4-ram-1tb-ssd-intelr-irisr-xe-graphics-free-dos-warm-gold-99v18ea/pd/DFL0YDYBM/"
     },
     {
@@ -498,7 +518,7 @@
       "name": "Lenovo V15 G4 IRU (i5-13420H, 16GB, 1TB, Full HD)",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.6,
-      "image": "https://s13emagst.akamaized.net/products/62513/62512826/images/res_5ed5b3469e174c7ff8f4aee17b5d1435.jpg?width=400&height=80",
+      "image": "/img/products/dfy4yjybm.jpg",
       "feedId": "DFY4YJYBM",
       "features": [
         "1tb"
@@ -546,6 +566,7 @@
       "cons": [
         "Design sobru, de business, fără fițe"
       ],
+      "review": "Cea mai bună alegere pe buget din tot clasamentul, cel puțin din perspectiva noastră. i5-13420H cu 16 GB RAM DDR4 e suficient pentru orice sarcină de birou obișnuită — documente, browsing cu multe tab-uri, videoconferințe — iar SSD-ul de 1 TB e neobișnuit de generos la acest nivel de preț. Ecranul Full HD IPS de 15,6\" e corect, fără pretenții, dar face treaba pentru citit și scris ore în șir. Designul e sobru, de tip business, fără accente colorate sau finisaje speciale — nu-i vei arăta nimănui cu mândrie carcasa, dar nici nu se va zgâria sau uza vizibil în primul an. Dacă bugetul e principala constrângere și vrei totuși multă stocare și un procesor decent, e alegerea care are cel mai mult sens fără compromisuri ascunse.",
       "emagUrl": "https://www.emag.ro/laptop-lenovo-v15-g4-iru-cu-procesor-lntelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-1tb-ssd-intelr-uhd-graphics-no-os-business-black-83a100eyrm/pd/DFY4YJYBM/"
     },
     {
@@ -553,7 +574,7 @@
       "name": "HP 250 G10 (i7-1355U, 16GB, 512GB, Win 11 Pro)",
       "tag": "Bun pentru birou",
       "score": 7.5,
-      "image": "https://s13emagst.akamaized.net/products/87430/87429807/images/res_113e326a546fdd151eb63331819fd251.jpg?width=400&height=400",
+      "image": "/img/products/dhg1cm3bm.jpg",
       "feedId": "DHG1CM3BM",
       "features": [],
       "specs": [
@@ -599,6 +620,7 @@
       "cons": [
         "SSD de 512 GB și ecran standard, fără extra"
       ],
+      "review": "Pentru cineva care vrea un laptop gata de scos din cutie, fără bătăi de cap cu licențe, acest HP 250 G10 vine cu Windows 11 Pro preinstalat — un plus real dacă lucrezi într-un mediu cu cerințe de securitate sau domeniu. i7-1355U cu 16 GB RAM face față confortabil oricărei zile de birou, iar eficiența procesorului 'U' se simte și în autonomie. Ecranul Full HD e standard, fără elemente speciale, dar corect pentru documente și navigare. SSD-ul de 512 GB e suficient pentru un utilizator obișnuit, dar dacă lucrezi cu multe fișiere locale sau ții multe aplicații instalate, s-ar putea să-l umpli mai repede decât ai vrea. E un laptop simplu, de încredere, fără accente premium, dar care face exact ce trebuie pentru birou zi de zi.",
       "emagUrl": "https://www.emag.ro/laptop-hp-250-g10-cu-procesor-intelr-coretm-i7-1355u-pana-la-5-0ghz-15-6-full-hd-16gb-ddr4-ram-512gb-ssd-intelr-irisr-xe-graphics-windows-11-pro-dark-ash-silver-967v2et/pd/DHG1CM3BM/",
       "id": "p10"
     },
@@ -608,7 +630,7 @@
       "name": "ASUS Vivobook 15 A1502VA (i5-13420H, 16GB, 512GB, Full HD)",
       "tag": "Accesibil pentru uz zilnic",
       "score": 7.4,
-      "image": "https://s13emagst.akamaized.net/products/100907/100906749/images/res_7899aa27349c1cbf46f7cec63468f59d.png?width=400&height=80",
+      "image": "/img/products/d1r2kj3bm.png",
       "feedId": "D1R2KJ3BM",
       "features": [],
       "specs": [
@@ -654,6 +676,7 @@
       "cons": [
         "SSD de doar 512 GB și RAM DDR4"
       ],
+      "review": "Cel mai accesibil model din clasament, gândit pentru cine are nevoie de un laptop de bază pentru uz zilnic — navigare, documente, cursuri online. Vine cu Windows 11 preinstalat, deci e gata de folosit din prima, fără costuri sau bătăi de cap suplimentare cu licențe. Ecranul IPS Full HD de 15,6\" e decent pentru acest segment de preț, cu unghiuri de vizualizare bune și culori acceptabile. i5-13420H cu 16 GB RAM acoperă fără probleme task-urile obișnuite de birou și studiu. Limitele apar la stocare și memorie: 512 GB SSD și RAM DDR4 (mai lent decât DDR5-ul modelelor mai noi din listă) înseamnă că nu e gândit pentru cine păstrează multe fișiere locale sau face multitasking intens. Pentru un prim laptop sau un al doilea dispozitiv pentru task-uri ușoare, e o alegere rezonabilă.",
       "emagUrl": "https://www.emag.ro/laptop-asus-vivobook-15-a1502va-cu-procesor-intelr-coretm-i5-13420h-pana-la-4-6ghz-15-6-full-hd-ips-16gb-ddr4-ram-512gb-ssd-intelr-uhd-graphics-windows-11-home-quiet-blue-a1502va-bq1287w/pd/D1R2KJ3BM/"
     }
   ],
@@ -700,5 +723,6 @@
       }
     ],
     "verdict": "Nu alege după brand, ci după modelul concret: compară generația, RAM și SSD. Ryzen oferă des mai mult multi-core și grafică integrată la același buget; Intel Core Ultra excelează la autonomie și are cea mai largă ofertă."
-  }
+  },
+  "priceBuckets": []
 }

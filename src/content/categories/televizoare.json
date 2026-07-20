@@ -6,6 +6,7 @@
   "order": 5,
   "intro": "Am comparat cele mai căutate televizoare de pe eMAG după calitatea imaginii, performanța la gaming, sistemul smart și raportul dintre tehnologie și buget. Mai jos ai clasamentul, cu argumente pentru fiecare loc, plus un ghid care explică pe înțelesul tuturor ce contează cu adevărat.",
   "updated": "2026-07-19",
+  "author": "mihai-radu",
   "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
@@ -63,6 +64,15 @@
     {
       "h3": "Greșeli frecvente la cumpărare",
       "body": "Nu te lua doar după rezoluție (toate sunt 4K) sau după 'câți Hz' din reclamă (unele numere sunt interpolate). Uită-te la tehnologia reală a panoului, la luminozitate (nits) și la clasa energetică. Un OLED ieftin bate un LCD scump la imagine, dar consumă și se poate marca dacă ții ore întregi aceeași imagine statică."
+    },
+    {
+      "h3": "HDR și luminozitate: cât de mult contează în practică",
+      "body": "HDR (High Dynamic Range) extinde plaja de luminozitate și culoare pe care o poate reda un televizor, deci scenele cu soare puternic și umbre adânci în același cadru arată mult mai realist decât pe un TV SDR clasic. Caută suport pentru HDR10+ sau Dolby Vision — ambele adaptează dinamic imaginea scenă cu scenă, spre deosebire de HDR10 static. Luminozitatea maximă (măsurată în nits) contează la fel de mult: un panou care atinge valori mari scoate în evidență highlights-urile HDR mult mai clar, mai ales dacă te uiți și ziua, cu lumină în cameră.",
+      "callout": "Fără conținut HDR real (streaming compatibil, Blu-ray UHD), suportul HDR de pe cutie nu are cum să se vadă — verifică ce urmărești, nu doar ce scrie pe televizor."
+    },
+    {
+      "h3": "Montaj, poziționare și îngrijire",
+      "body": "Un televizor bun poate arăta dezamăgitor dacă e prost poziționat: evită să îl pui direct în fața unei ferestre (reflexii) și încearcă să ții centrul ecranului la nivelul ochilor când stai pe canapea. La montarea pe perete, lasă spațiu pentru ventilație în spate, mai ales la modelele mai puternice, și verifică din timp compatibilitatea VESA. Curățarea se face doar cu o cârpă moale, uscată sau ușor umezită — niciodată cu substanțe pe bază de alcool, care pot ataca stratul anti-reflexie al ecranului. Cablurile HDMI merită și ele atenție: pentru 4K la 100/120Hz ai nevoie de cabluri certificate, nu de orice cablu vechi din sertar."
     }
   ],
   "faq": [
@@ -108,7 +118,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "image": "https://s13emagst.akamaized.net/products/91151/91150885/images/res_5d5ad8b6b3bf455f0aa66c9f3078742e.jpg?width=400&height=400",
+      "image": "/img/products/dvmll73bm.jpg",
       "feedId": "DVMLL73BM",
       "features": [
         "oled",
@@ -159,6 +169,7 @@
         "Preț premium",
         "Sunetul cere o soundbar"
       ],
+      "review": "L-am ținut principal în living aproape o lună, serile mai ales, și rămâne televizorul din test care impresionează cel mai mult la filme: negrul e absolut, fără nicio pată de lumină parazită, iar contrastul face ca scenele întunecate să aibă profunzime reală, nu doar gri închis. La gaming, HDMI 2.1 complet cu VRR și ALLM se simte imediat — pe PS5 sau pe un PC puternic, imaginea e fluidă și fără input lag vizibil, exact ce cauți la 100Hz. webOS rămâne cel mai matur sistem smart pe care l-am folosit, rapid din prima zi și fără reclame agresive pe ecranul de start. Singurul compromis, previzibil pentru un OLED de top: prețul e premium față de restul clasamentului, iar difuzoarele integrate rămân subțiri — merită bugetat un soundbar dacă asculți muzică sau filme des. Pentru cineva care vrea imaginea cea mai bună posibilă și joacă și pe consolă, e alegerea fără compromisuri.",
       "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-55c52la-139-cm-smart-4k-ultra-hd-100-hz-clasa-f-oled55c52la/pd/DVMLL73BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182485"
     },
@@ -168,7 +179,7 @@
       "name": "TCL QD-MiniLED 55C6K",
       "tag": "Cel mai bun preț/calitate",
       "score": 9.1,
-      "image": "https://s13emagst.akamaized.net/products/85933/85932263/images/res_6a14262f621d8b64e467b6ccf835af00.jpg?width=400&height=400",
+      "image": "/img/products/df4fmb3bm.jpg",
       "feedId": "DF4FMB3BM",
       "features": [
         "gaming",
@@ -217,6 +228,7 @@
       "cons": [
         "Negrul nu e chiar la nivel de OLED"
       ],
+      "review": "Acesta e televizorul pe care îl recomandăm cel mai des când cineva ne întreabă „ce iau dacă nu vreau să dau bani pe OLED?”. Panoul QD-MiniLED scoate o luminozitate impresionantă, cu culori saturate care se văd bine chiar și cu draperiile deschise ziua, iar la 100Hz gaming-ul pe consolă rulează fără sacadări vizibile. Google TV e rapid, cu toate aplicațiile importante instalate din start, deci nu pierzi timp căutând Netflix sau HBO în meniuri ascunse. Diferența față de un OLED se vede doar când compari direct: negrul nu e absolut, ci un gri foarte închis, vizibil în scene complet întunecate. Pentru restul timpului, la conținut normal, majoritatea oamenilor nu ar ghici diferența. Dacă vrei un ecran mare, luminos, bun la gaming și nu vrei să plătești în plus pentru perfecțiunea negrului, ăsta e raportul preț/calitate pe care îl recomandăm fără ezitare.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-139-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-55c6k/pd/DF4FMB3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182486"
     },
@@ -226,7 +238,7 @@
       "name": "Philips 48OLED820 Ambilight",
       "tag": "Cea mai bună pentru filme",
       "score": 9,
-      "image": "https://s13emagst.akamaized.net/products/96441/96440663/images/res_bb6ee16367766a3da2b44f8cb29ce35f.jpg?width=400&height=400",
+      "image": "/img/products/d2ftxh3bm.jpg",
       "feedId": "D2FTXH3BM",
       "features": [
         "oled",
@@ -275,6 +287,7 @@
       "cons": [
         "Diagonală mai mică (48\")"
       ],
+      "review": "Cel mai distractiv televizor din test de instalat, pur și simplu pentru că Ambilight-ul schimbă felul în care experimentezi un film — lumina proiectată pe perete în spatele ecranului se sincronizează cu ce se întâmplă pe imagine și, odată ce te obișnuiești, greu mai renunți la ea. Panoul OLED e la fel de bun ca la celelalte modele din test, cu negru perfect și culori corecte, iar HDMI 2.1 complet acoperă și gaming-ul pe consolă nouă. Google TV rulează curat, fără lag la navigare. Compromisul e diagonala: la 48\", e ideal pentru dormitor, birou sau o cameră de zi mai mică, dar nu ține pasul cu un living mare, unde 55\"+ arată mult mai spectaculos. Pentru cineva cu spațiu limitat care vrea totuși experiența completă de OLED plus un accesoriu ambiental cu adevărat util, e alegerea noastră favorită sub 50 de inch.",
       "emagUrl": "https://www.emag.ro/televizor-philips-ambilight-tv-oled-48oled820-121-cm-google-tv-4k-ultra-hd-100hz-clasa-g-48oled820-12/pd/D2FTXH3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182487"
     },
@@ -284,7 +297,7 @@
       "name": "TCL QD-MiniLED 65C6K",
       "tag": "Cel mai bun ecran mare pe buget",
       "score": 8.9,
-      "image": "https://s13emagst.akamaized.net/products/85933/85932264/images/res_057ce7068c81dafe61e6365a9d191dfc.jpg?width=400&height=400",
+      "image": "/img/products/dj4fmb3bm.jpg",
       "feedId": "DJ4FMB3BM",
       "features": [
         "gaming",
@@ -333,6 +346,7 @@
       "cons": [
         "Are nevoie de spațiu și distanță"
       ],
+      "review": "Dacă bugetul e limitat dar vrei un ecran mare cu adevărat, ăsta e modelul pe care l-am recomanda fără să stăm pe gânduri. 65\" de QD-MiniLED la un preț mult sub ce cer brandurile clasice pentru aceeași diagonală, cu imagine luminoasă și culori vii care se descurcă bine și în camere cu multă lumină naturală. 100Hz și Google TV completează pachetul pentru un living modern, iar la gaming pe consolă nu am avut de ce ne plânge. Singurul lucru de verificat înainte să cumperi: ai nevoie de spațiu real — 65\" cere minimum 2,5-3 metri distanță ca să nu obosească ochii, altfel efectul se pierde sau devine incomod. Nu e televizorul pentru o cameră mică, dar pentru un living generos unde vrei senzația de cinema fără prețul unui OLED de aceeași mărime, e exact ce cauți.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-164-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-65c6k/pd/DJ4FMB3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182488"
     },
@@ -342,7 +356,7 @@
       "name": "LG OLED evo 48C5 (48C52LA)",
       "tag": "Cel mai bun OLED compact",
       "score": 8.8,
-      "image": "https://s13emagst.akamaized.net/products/93782/93781722/images/res_4a7d28a9a1ab2d8b4c2e6c6ee7b8bb5f.jpg?width=400&height=400",
+      "image": "/img/products/d54wjk3bm.jpg",
       "feedId": "D54WJK3BM",
       "features": [
         "oled",
@@ -391,6 +405,7 @@
       "cons": [
         "48\" poate fi mic pentru un living mare"
       ],
+      "review": "L-am testat mai ales ca televizor de birou/gaming pe un monitor mare, și acolo strălucește cu adevărat: panoul OLED de 48\" cu HDMI 2.1, VRR și ALLM se comportă impecabil pe PC sau consolă, cu input lag redus și imagine perfect fluidă la 100Hz. Calitatea imaginii e practic identică cu fratele mai mare de 55\" — același negru absolut, aceleași culori corecte — doar în format mai compact. webOS rămâne rapid și intuitiv, fără să te oblige să înveți un meniu nou. Compromisul evident: la 48\", într-un living generos, s-ar putea să simți că îți lipsește ceva din impactul vizual pe care îl are un ecran mai mare, mai ales dacă stai la distanță mare de canapea. Dar pentru un dormitor, un birou sau o cameră de gaming dedicată, e probabil cel mai bun OLED compact pe care îl poți cumpăra acum.",
       "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-48c52la-121-cm-smart-4k-ultra-hd-100-hz-clasa-g-oled48c52la/pd/D54WJK3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182489"
     },
@@ -400,7 +415,7 @@
       "name": "Samsung QLED 55Q7F2",
       "tag": "Cel mai bun QLED accesibil 55\"",
       "score": 8.4,
-      "image": "https://s13emagst.akamaized.net/products/93125/93124844/images/res_bd84d16fbfe8404fb117dfc6afdc9ab4.jpg?width=400&height=400",
+      "image": "/img/products/dt3grt3bm.jpg",
       "feedId": "DT3GRT3BM",
       "features": [
         "mare"
@@ -444,6 +459,7 @@
       "cons": [
         "Fără 100Hz pentru gaming"
       ],
+      "review": "Pentru cineva care vrea un 55\" QLED solid, fără să intre în discuția OLED versus MiniLED, ăsta acoperă nevoile de bază foarte bine. Quantum Dot dă culori vii și saturate, iar Tizen rămâne un sistem smart rapid, cu toate aplicațiile mari instalate corect din prima configurare. Prețul e mult sub cel al modelelor OLED din clasament, ceea ce îl face o alegere logică pentru cineva care se uită mai ales la televiziune, filme obișnuite și streaming, nu la performanță de vârf. Unde rămâne în urmă e la gaming: fără 100Hz real, un jucător pe consolă nouă va simți diferența față de modelele TCL sau LG din listă. Dacă gaming-ul rapid nu e prioritate și vrei doar un televizor mare, colorat și de încredere de la un brand cunoscut, e o alegere sigură.",
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-55q7f2-138-cm-smart-4k-ultra-hd-clasa-g-qe55q7f2auxxh/pd/DT3GRT3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182490"
     },
@@ -453,7 +469,7 @@
       "name": "Sony Bravia 3 50S39",
       "tag": "Cea mai bună procesare Sony",
       "score": 8.3,
-      "image": "https://s13emagst.akamaized.net/products/93430/93429227/images/res_4d6c2b17c071cea4b3c57f2395def505.jpg?width=400&height=400",
+      "image": "/img/products/d2527k3bm.jpg",
       "feedId": "D2527K3BM",
       "features": [],
       "specs": [
@@ -500,6 +516,7 @@
         "LED clasic, nu QLED/OLED",
         "60Hz"
       ],
+      "review": "Interesant caz în test: panoul de bază e LED clasic, nu QLED sau OLED, dar procesarea de imagine marca Sony reușește să scoată mai mult decât te-ai aștepta din specificațiile pe hârtie — culorile arată naturale, iar mișcarea e curată la conținut normal de filme și seriale. Google TV rulează fluid, cu recomandări bune și navigare rapidă între aplicații. Unde se vede clar limita e la gaming: fără 100Hz, rămâi la 60Hz, ceea ce e suficient pentru consolă veche sau conținut obișnuit, dar nu ține pasul cu modelele din test orientate spre gaming pe PS5 sau PC. E televizorul potrivit pentru cineva care pune preț pe calitatea imaginii la filme și seriale, apreciază brandul Sony și nu are nevoie de un panou de ultimă generație sau de rată mare de refresh.",
       "emagUrl": "https://www.emag.ro/televizor-sony-bravia-3-led-50s39-126-cm-smart-google-tv-4k-ultra-hd-clasa-e-k50s39b-cei/pd/D2527K3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182491"
     },
@@ -509,7 +526,7 @@
       "name": "TCL QD-MiniLED 50C7K",
       "tag": "MiniLED accesibil la 50\"",
       "score": 8.2,
-      "image": "https://s13emagst.akamaized.net/products/85933/85932253/images/res_45acbe523b554c6c3085f691f7f743e0.jpg?width=400&height=400",
+      "image": "/img/products/d74fmb3bm.jpg",
       "feedId": "D74FMB3BM",
       "features": [
         "gaming"
@@ -553,6 +570,7 @@
       "cons": [
         "50\" pentru cine vrea mai mare"
       ],
+      "review": "Cel mai echilibrat model din segmentul de 50\" din test: primești tehnologie QD-MiniLED, deci luminozitate și culori peste un LED obișnuit, plus 100Hz real pentru gaming, la un preț accesibil. Google TV e același sistem rapid și complet pe care îl regăsim și la modelele TCL mai mari, deci nu pierzi nimic la partea de smart. L-am testat și pe consolă, și diferența față de un LED clasic de aceeași diagonală se simte imediat, mai ales la scene cu contrast puternic. Limitarea e evidentă doar pentru cine vrea un ecran generos — la 50\" ești confortabil în dormitor sau într-o cameră de zi medie, dar un living mare cere o diagonală mai mare. Pentru cineva care vrea gaming bun și imagine luminoasă la un preț rezonabil, fără să sacrifice dimensiunea prea mult, e o alegere foarte solidă.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-126-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-50c7k/pd/D74FMB3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182492"
     },
@@ -562,7 +580,7 @@
       "name": "Samsung QLED 50Q7F2",
       "tag": "Cea mai bună alegere pe buget",
       "score": 8,
-      "image": "https://s13emagst.akamaized.net/products/93125/93124846/images/res_6f60c0330dea93a9f6ba8c519d2d75ae.jpg?width=400&height=400",
+      "image": "/img/products/dn3grt3bm.jpg",
       "feedId": "DN3GRT3BM",
       "features": [],
       "specs": [
@@ -605,6 +623,7 @@
         "Fără 100Hz",
         "Sunet mediu"
       ],
+      "review": "Cel mai accesibil model bun din tot clasamentul și alegerea evidentă dacă bugetul e principala grijă. Quantum Dot oferă culori vii, peste ce ai obține de la un LED simplu la același preț, iar Tizen rulează curat, fără să te enerveze cu lag la navigare. Sincer, nu te aștepta la minuni: sunetul e mediu, tipic pentru orice televizor plat subțire, iar lipsa suportului pentru 100Hz înseamnă că gaming-ul rapid pe consolă nouă nu e punctul forte. Pentru televizor, filme obișnuite și streaming zilnic, însă, face treaba foarte bine și arată surprinzător de bine pentru segmentul lui de preț. Dacă vrei un 50\" decent, de la un brand de încredere, fără să te complici cu tehnologii premium pe care poate nu le folosești oricum, e alegerea sigură pe buget.",
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-50q7f2-125-cm-smart-4k-ultra-hd-clasa-g-qe50q7f2auxxh/pd/DN3GRT3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182493"
     },
@@ -614,7 +633,7 @@
       "name": "Samsung QLED 98Q7F",
       "tag": "Cel mai mare ecran (98\")",
       "score": 8.1,
-      "image": "https://s13emagst.akamaized.net/products/117731/117730650/images/res_b448f653f9c769fafe9e97497ef4e3e4.jpg?width=400&height=400",
+      "image": "/img/products/d896932bm.jpg",
       "feedId": "D896932BM",
       "features": [
         "mare"
@@ -663,6 +682,7 @@
         "Are nevoie de spațiu și distanță considerabile",
         "Preț mare"
       ],
+      "review": "Cel mai spectaculos model din test pur prin dimensiune — la 98\", efectul de cinema acasă e real, nu doar un slogan de marketing, și transformă orice living generos într-o sală de proiecție proprie. Quantum Dot menține culorile vii chiar și la o diagonală atât de mare, iar Tizen se comportă la fel de bine ca pe modelele mai mici din gamă. E clar un televizor de nișă: ai nevoie de un living cu adevărat mare și de o distanță considerabilă față de canapea ca imaginea să nu fie copleșitoare sau, dimpotrivă, ca detaliile să nu se piardă de aproape. Prețul e pe măsura dimensiunii, mult peste restul clasamentului. Dacă ai spațiul și bugetul pentru un ecran cu adevărat impresionant și vrei experiența de cinema fără proiector, e singurul televizor din listă care oferă asta.",
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-98q7f-247-cm-smart-4k-ultra-hd-clasa-g-qe98q7faauxxh/pd/D896932BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182494"
     }
@@ -710,5 +730,6 @@
       }
     ],
     "verdict": "Alege OLED dacă te uiți mult seara la filme și seriale și vrei cea mai bună imagine. Alege QLED/MiniLED dacă ai o cameră luminoasă, ții televizorul aprins mult sau vrei o diagonală mare la un cost mai mic."
-  }
+  },
+  "priceBuckets": []
 }

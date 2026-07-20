@@ -1,0 +1,12 @@
+---
+import { getAuthor } from '../data/authors';
+interface Props { authorId: string; updated: string; }
+const { authorId, updated } = Astro.props;
+const a = getAuthor(authorId);
+const date = new Date(updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<div class="byline">
+  <img src={a.photo} alt={a.name} width="40" height="40" loading="lazy" />
+  <span>Scris de <a href="/despre"><b>{a.name}</b></a> · {a.role}<br/>
+  Actualizat {date} · <a href="/cum-testam">Cum testăm</a></span>
+</div>

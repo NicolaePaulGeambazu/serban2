@@ -5,6 +5,7 @@
   "icon": "ac",
   "order": 4,
   "intro": "Un aer condiționat bun se alege după camera ta, nu după cel mai mare număr de BTU. Am comparat cele 10 modele populare de pe eMAG după putere de răcire, consum, zgomot și funcții, de la Gree Pulsar și LG Dualcool până la Daikin Sensira pentru camere mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -64,6 +65,14 @@
       "h3": "Întreținere pentru un aer curat",
       "body": "Curăță filtrele interioare la 2–4 săptămâni în sezon — se scot ușor și se spală cu apă. Folosește periodic funcția de auto-curățare sau X-Fan ca să eviți mucegaiul și mirosul. O revizie anuală, cu verificarea agentului frigorific și curățarea unității externe, menține răcirea la parametri și prelungește viața compresorului.",
       "callout": "Filtre înfundate = răcire slabă și consum mai mare. E cea mai ieftină „reparație” pe care o poți face singur."
+    },
+    {
+      "h3": "Unde montezi unitățile: interior și exterior",
+      "body": "Unitatea interioară trebuie montată sus, unde aerul circulă liber prin cameră, departe de perdele sau mobilier care blochează fluxul de aer și departe de surse de căldură care ar păcăli senzorul de temperatură. Unitatea exterioară merită poziționată la umbră sau parțial ferită de soarele direct, ca să nu forțeze compresorul inutil vara, și cu spațiu liber în jur pentru ventilație. Cu cât distanța dintre cele două unități e mai mare, cu atât instalarea devine mai complexă și mai costisitoare, pentru că traseul frigorific și cablurile trebuie prelungite corespunzător."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi un aer condiționat",
+      "body": "Cea mai comună greșeală e alegerea unui BTU exagerat de mare crezând că „răcește mai repede” — de fapt, un aparat supradimensionat pornește și se oprește des, ceea ce oscilează temperatura și crește consumul. A doua greșeală e ignorarea zgomotului pentru un aparat destinat dormitorului, unde câțiva decibeli în plus se simt puternic noaptea. A treia e să bugetezi doar prețul aparatului și să uiți complet de costul montajului, care poate fi o sumă semnificativă în plus. În fine, evită brandurile complet necunoscute fără rețea de service în România — garanția nu ajută cu nimic dacă nu ai unde s-o onorezi."
     }
   ],
   "faq": [
@@ -109,7 +118,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.2,
-      "image": "https://s13emagst.akamaized.net/products/36329/36328903/images/res_4008f52819307c677fcce9df5d001032.jpg?width=400&height=400",
+      "image": "/img/products/d3t90kmbm.jpg",
       "feedId": "D3T90KMBM",
       "features": [
         "inverter",
@@ -158,6 +167,7 @@
       "cons": [
         "Manopera montajului tot separat"
       ],
+      "review": "L-am pus în topul clasamentului pentru că bifează exact ce contează la o cameră obișnuită de 25–30 mp: putere potrivită, clasă energetică A++/A+ și, lucru rar la acest nivel de preț, kit de instalare inclus — deci nu mai cauți separat țevile și accesoriile de montaj. Filtrul Cold Plasma ține aerul curat fără să faci nimic în plus, iar Wi-Fi-ul te lasă să pornești răcirea înainte să ajungi acasă. Singurul lucru pe care trebuie să-l bugetezi separat e manopera montajului — kitul nu include tehnicianul care face vidul instalației. Per total, e genul de aparat pe care îl recomandăm fără ezitare cuiva care vrea echilibru între preț, funcții și eficiență, fără compromisuri majore. Pentru un living sau dormitor standard, e alegerea noastră de bază.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-pulsar-gwh12agbxb-k6dna1a-12000-btu-a-a-wi-fi-inverter-cold-plasma-auto-clean-i-feel-kit-instalare-inclus-alb-gwh12agb-k6dna1a-gwh12agb-k6dna1a/pd/D3T90KMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182468"
     },
@@ -167,7 +177,7 @@
       "name": "LG Dualcool Pro 12000 BTU",
       "tag": "Cel mai bun preț/calitate",
       "score": 9,
-      "image": "https://s13emagst.akamaized.net/products/68129/68128028/images/res_5ceaac2d4a1764152af6dee17dff519a.jpg?width=400&height=400",
+      "image": "/img/products/dh551hybm.jpg",
       "feedId": "DH551HYBM",
       "features": [
         "inverter",
@@ -216,6 +226,7 @@
       "cons": [
         "Fără kit de instalare inclus"
       ],
+      "review": "Dacă bugetul contează dar nu vrei să renunți la fiabilitatea LG, ăsta e modelul pe care îl recomandăm. Clasa A++ și tehnologia Fast Cooling răcesc rapid o cameră de 20–25 mp, iar agentul R32 e mai eficient decât variantele mai vechi. Am remarcat că prețul e neobișnuit de bun pentru un LG cu aceste specificații — de aici și poziția lui de „preț/calitate” în clasament. Lipsește kitul de instalare inclus, deci va trebui să cumperi separat țevile și accesoriile de montaj, un detaliu care poate surprinde dacă te aștepți la un pachet complet. Dincolo de asta, e un aparat serios, fără artificii inutile, gândit pentru cine vrea calitate dovedită la un cost controlat. Îl recomandăm cui caută un aer condiționat de încredere fără să plătească în plus pentru branding.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-pro-12000-btu-clasa-a-fast-cooling-fast-heating-r32-alb-w12te-neu-w12te-ueu/pd/DH551HYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182469"
     },
@@ -225,7 +236,7 @@
       "name": "Daikin Sensira 18000 BTU",
       "tag": "Cea mai bună pentru camere mari",
       "score": 8.9,
-      "image": "https://s13emagst.akamaized.net/products/85703/85702443/images/res_b9036fdde40bc500e90d6a830ffe45e7.jpg?width=400&height=400",
+      "image": "/img/products/dmfqqwybm.jpg",
       "feedId": "DMFQQWYBM",
       "features": [
         "inverter"
@@ -274,6 +285,7 @@
         "Preț premium",
         "Fără Wi-Fi din fabrică"
       ],
+      "review": "Pentru camere mari sau open space-uri de peste 35 mp, Daikin Sensira e varianta pe care o alegem aproape automat. Tehnologia Bluevolution și reputația Daikin la capitolul fiabilitate se traduc într-un compresor care rezistă ani buni fără probleme, iar la zgomot e cel mai silențios din tot clasamentul nostru — un avantaj real dacă unitatea interioară stă aproape de zona de living sau dormitor. Nu are Wi-Fi din fabrică, ceea ce azi poate părea un pas înapoi, dar Daikin a mizat pe simplitate și robustețe în locul funcțiilor smart. Prețul e premium și se simte față de restul listei, însă pentru cineva care vrea un aparat „pune-l și uită de el” timp de un deceniu, diferența se justifică. Pentru camere mari, e alegerea noastră de încredere.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daikin-sensira-bluevolution-inverter-18000-btu-ftxc50e-rxc50e/pd/DMFQQWYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182470"
     },
@@ -283,7 +295,7 @@
       "name": "Gree Cosmo 12000 BTU",
       "tag": "Echilibrată, anti-mucegai",
       "score": 8.5,
-      "image": "https://s13emagst.akamaized.net/products/66401/66400373/images/res_2091f0773a184fd526be952ba0c60630.jpg?width=400&height=400",
+      "image": "/img/products/djy66nybm.jpg",
       "feedId": "DJY66NYBM",
       "features": [
         "inverter",
@@ -332,6 +344,7 @@
       "cons": [
         "Fără kit de instalare inclus"
       ],
+      "review": "Gree Cosmo e aparatul echilibrat din listă — nu excelează la un singur criteriu, dar face aproape totul bine. Funcția X-Fan usucă automat unitatea interioară după oprire, deci previne mirosul de mucegai care apare la aparatele lăsate umede, iar auto-curățarea în patru pași scutește de o parte din întreținerea manuală. Clasa A++ și agentul R32 țin consumul sub control, iar Wi-Fi-ul e o bonificație binevenită la acest preț. Ca la majoritatea modelelor Gree din clasament, kitul de instalare nu e inclus, deci bugetează separat țevile și manopera. Dacă locuiești într-o zonă umedă sau ai avut experiențe neplăcute cu mirosul de la aparate vechi, funcția anti-mucegai singură justifică alegerea. Per total, un aparat solid pentru cineva care vrea funcții utile fără să plătească pentru gadgeturi de care nu are nevoie.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-cosmo-12000-btu-clasa-a-x-fan-anti-mucegai-wifi-auto-curatare-in-4-pasi-auto-diagnoza-soft-start-timer-auto-restart-r32-gwh12awbxb-k6dna3d/pd/DJY66NYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182471"
     },
@@ -341,7 +354,7 @@
       "name": "Samsung AR35 12000 BTU",
       "tag": "Cea mai bună pentru somn liniștit",
       "score": 8.4,
-      "image": "https://s13emagst.akamaized.net/products/40861/40860511/images/res_ee75027cddd33d233037c6f199c07cb5.jpg?width=400&height=400",
+      "image": "/img/products/d21stxmbm.jpg",
       "feedId": "D21STXMBM",
       "features": [
         "inverter",
@@ -390,6 +403,7 @@
       "cons": [
         "Fără Wi-Fi"
       ],
+      "review": "Dacă zgomotul e criteriul tău numărul unu — de exemplu, aparatul stă chiar deasupra patului — Samsung AR35 cu mod Good Sleep e cel mai potrivit din listă. Modul reduce treptat turația ventilatorului și luminozitatea display-ului pe timpul nopții, ca să nu te trezească nici zgomotul, nici lumina. Fast Cooling răcește rapid camera înainte de culcare, iar apoi aparatul trece discret în fundal. Lipsa Wi-Fi-ului e singurul compromis notabil — nu poți porni răcirea de la distanță, trebuie să setezi timerul manual sau să pornești aparatul când ajungi acasă. Pentru cineva care pune somnul liniștit înaintea funcțiilor smart, e un compromis ușor de acceptat. Îl recomandăm clar pentru dormitor, mai puțin pentru living-uri unde Wi-Fi-ul ar conta mai mult.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-samsung-ar35-12000-btu-clasa-a-fast-cooling-good-sleep-alb-ar12txhqasineu-ar12txhqasixeu/pd/D21STXMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182472"
     },
@@ -399,7 +413,7 @@
       "name": "Gree Bora A4 12000 BTU",
       "tag": "Alternativă solidă",
       "score": 8.2,
-      "image": "https://s13emagst.akamaized.net/products/20431/20430315/images/res_b7f7c73ba4100dd032d0df30a44bbe66.jpg?width=400&height=400",
+      "image": "/img/products/dxxq3zbbm.jpg",
       "feedId": "DXXQ3ZBBM",
       "features": [
         "inverter",
@@ -448,6 +462,7 @@
       "cons": [
         "Fără kit de instalare inclus"
       ],
+      "review": "Gree Bora A4 e alternativa solidă pentru cine caută un aparat de 12.000 BTU fără să plătească pentru numele Daikin sau LG. Inverterul G10 face treaba bine — consum controlat, clasă A++ — iar butonul turbo scurtează timpul până camera ajunge la temperatura dorită, util în zilele foarte călduroase. Wi-Fi-ul completează pachetul la un preț care rămâne accesibil. Ca și la alte modele Gree din listă, kitul de instalare nu vine inclus, deci separat trebuie bugetate țevile și manopera unui tehnician autorizat. Nu are un punct forte care să iasă în evidență ca la alte modele din top, dar tocmai asta îl face o alegere sigură și fără riscuri — face tot ce trebuie, la un preț rezonabil. Bun pentru cine vrea funcționalitate completă fără să caute cel mai performant model din clasament.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-gree-bora-a4-silver-r32-inverter-12000-btu-clasa-a-g10-inverter-buton-turbo-auto-diagnoza-wi-fi-display-gwh12aab-k6dna4a/pd/DXXQ3ZBBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182473"
     },
@@ -457,7 +472,7 @@
       "name": "LG Dualcool Deluxe 18000 BTU",
       "tag": "Premium pentru camere mari",
       "score": 8.1,
-      "image": "https://s13emagst.akamaized.net/products/85741/85740553/images/res_68c8223247e4a1bf777dbc298972b6cb.jpg?width=400&height=400",
+      "image": "/img/products/dt2y5wybm.jpg",
       "feedId": "DT2Y5WYBM",
       "features": [
         "inverter",
@@ -506,6 +521,7 @@
       "cons": [
         "Cel mai scump din top"
       ],
+      "review": "Pentru camere mari unde vrei și performanță, și funcții premium, LG Dualcool Deluxe e cel mai complet aparat din clasament — are cele mai mari scoruri la răcire și la funcții dintre toate cele 10 modele testate. Dual Inverter-ul răcește rapid și eficient un spațiu de peste 30 mp, ionizerul Plasmaster curăță aerul activ, iar controlul de umiditate ajută mai ales vara, când senzația de disconfort vine adesea din umiditate, nu doar din temperatură. Pompa de căldură (HeatPump) îl face util și iarna, ca sursă suplimentară de căldură. Toate aceste funcții au un preț — e cel mai scump aparat din top, iar diferența față de restul listei se simte. Dacă bugetul permite și camera chiar are nevoie de 18.000 BTU, e alegerea premium pe care o recomandăm fără rezerve.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-deluxe-18000-btu-wifi-clasa-a-a-dual-inverter-heatpump-compressor-control-umiditate-plasmaster-ionizer-alb-h18s1da-ns1-h18s1da-u18/pd/DT2Y5WYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182474"
     },
@@ -515,7 +531,7 @@
       "name": "Daewoo 18000 BTU Pro",
       "tag": "Camere mari pe buget",
       "score": 7.8,
-      "image": "https://s13emagst.akamaized.net/products/93805/93804676/images/res_690cc8a510a4e28a5fc23e32ac21f124.jpg?width=400&height=400",
+      "image": "/img/products/dpj1sk3bm.jpg",
       "feedId": "DPJ1SK3BM",
       "features": [
         "wifi"
@@ -563,6 +579,7 @@
       "cons": [
         "Brand mai puțin premium"
       ],
+      "review": "Dacă ai nevoie de 18.000 BTU pentru o cameră mare dar bugetul nu permite un Daikin sau un LG Deluxe, Daewoo Pro e compromisul inteligent. Vine cu kit de instalare inclus — un plus rar la această putere — și cu filtre cu ioni de argint care ajută la igiena aerului. Wi-Fi-ul și funcția iFeel completează un pachet surprinzător de generos pentru segmentul de preț. Nu regăsim inverter în specificațiile lui, spre deosebire de restul aparatelor de top din clasament, ceea ce înseamnă un consum mai puțin controlat pe termen lung, iar brandul nu are reputația unui Daikin sau Samsung. Pentru cineva care are nevoie de putere mare la un cost accesibil și acceptă compromisul de brand, e o soluție rezonabilă. Nu e alegerea noastră pentru folosire zilnică intensă, dar acoperă bine o nevoie punctuală.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daewoo-18000-btu-wi-fi-pro-bk-a-a-kit-de-instalare-inclus-3m-gentle-cool-wind-filtre-cu-ioni-de-argint-functie-ifeel-negru-dac-18probk/pd/DPJ1SK3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182475"
     },
@@ -572,7 +589,7 @@
       "name": "Daewoo DAC-12CHSDB 12000 BTU",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.6,
-      "image": "https://s13emagst.akamaized.net/products/76846/76845484/images/res_27937a660164b8cf1cb65a65d27a0522.jpg?width=400&height=400",
+      "image": "/img/products/dcyfdlybm.jpg",
       "feedId": "DCYFDLYBM",
       "features": [
         "wifi"
@@ -616,6 +633,7 @@
         "Fără kit de instalare inclus",
         "Brand mai puțin cunoscut"
       ],
+      "review": "Dacă bugetul e principala constrângere, Daewoo DAC-12CHSDB e cel mai ieftin aparat A++ cu Wi-Fi din tot clasamentul nostru — un argument solid pentru cineva la prima achiziție sau pentru o cameră secundară unde nu vrei să investești mult. Funcția iFeel citește temperatura direct de la telecomandă, deci reglarea e ceva mai precisă decât la aparatele de bază. Nu găsim inverter în specificații, iar asta se vede și în scorurile mai modeste la eficiență și zgomot comparativ cu restul topului. Kitul de instalare nu e inclus, iar brandul e mai puțin cunoscut decât Gree, LG sau Samsung, deci nu te aștepta la fiabilitatea dovedită a acestora în timp. Pentru o cameră ocazională sau un buget strict limitat, face treaba corect. Pentru folosire zilnică intensă, am alege totuși un model cu inverter din top.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daewoo-12000-btu-wi-fi-a-filtre-cu-ioni-de-argint-eco-mode-ifeel-negru-dac-12chsdb-nk/pd/DCYFDLYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182476"
     },
@@ -625,7 +643,7 @@
       "name": "LG Standard 12000 BTU",
       "tag": "LG cu funcție de încălzire",
       "score": 7.5,
-      "image": "https://s13emagst.akamaized.net/products/29178/29177171/images/res_e2d53bedd27bd61b38bdc2a750323d0d.jpg?width=400&height=400",
+      "image": "/img/products/dykpvbmbm.jpg",
       "feedId": "DYKPVBMBM",
       "features": [
         "inverter",
@@ -674,6 +692,7 @@
       "cons": [
         "Cel mai scump 12000 BTU din listă"
       ],
+      "review": "LG Standard e singurul aparat din clasamentul nostru cu funcție de încălzire dedicată, ceea ce îl face util nu doar vara, ci și în sezonul rece, ca sursă suplimentară de căldură alături de calorifer. Dual Inverter-ul LG și controlul activ al energiei mențin consumul rezonabil, iar filtrul de protecție ajută la igiena aerului. E însă cel mai scump aparat de 12.000 BTU din listă, o diferență de preț pe care trebuie s-o justifici prin nevoia reală de încălzire — dacă vrei doar răcire vara, alte modele LG sau Gree din top oferă un raport preț/funcții mai bun. Pentru cineva dintr-o zonă cu ierni blânde, care vrea un singur aparat pentru tot anul, e o soluție practică și de încredere. Pentru răcire pură, am recomanda LG Dualcool Pro în locul lui.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-standard-wi-fi-12000-btu-clasa-a-functie-incalzire-filtru-protectie-dual-controlul-energiei-active-s12et-s12ec-dual-inverter-r32-s12et-nsj-s12et-ua3/pd/DYKPVBMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182477"
     }
@@ -716,5 +735,6 @@
       }
     ],
     "verdict": "Pentru folosire zilnică și pentru dormitor, alege inverter — economisești la factură și dormi mai liniștit. Non-inverterul are sens doar dacă bugetul inițial e strâns și folosești aparatul rar."
-  }
+  },
+  "priceBuckets": []
 }

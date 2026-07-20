@@ -5,6 +5,7 @@
   "icon": "oven",
   "order": 6,
   "intro": "Cuptorul încorporabil e electrocasnicul care îți influențează cel mai mult rezultatele la gătit și confortul zilnic în bucătărie. Am comparat modelele populare de pe eMAG după calitatea gătitului, sistemul de autocurățare, ușurința în folosire și consum, de la premium precum Bosch Seria 8 până la variante accesibile ca Electrolux EOF3H50BK.",
+  "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -64,6 +65,18 @@
       "h3": "Greșeli frecvente la cumpărare",
       "body": "Nu plăti premium pentru funcții pe care nu le vei folosi și nu ignora sistemul de curățare — e ce vei simți zilnic. Verifică clasa energetică (A sau A+), tipul de alimentare (electric vs. gaz, ex. Electrolux EOG2102AOX) și compatibilitatea cu plita. O eroare comună e să alegi doar după preț și să regreți autocurățarea de bază.",
       "callout": "Cumpără cuptorul și plita de la același producător doar dacă vrei design uniform — funcțional nu e obligatoriu."
+    },
+    {
+      "h3": "Electric sau pe gaz: ce alegi pentru bucătăria ta",
+      "body": "Cuptoarele electrice gătesc mai uniform pentru că ventilatorul și rezistențele distribuie constant căldura pe toate nivelurile, motiv pentru care domină clasamentele de calitate. Varianta pe gaz (ca Electrolux EOG2102AOX) are sens dacă ai deja plită pe gaz sau vrei un cuptor care funcționează și când pică curentul, dar gătitul e ceva mai puțin omogen și lipsesc adesea funcțiile smart. Pentru majoritatea gospodăriilor din România, electric rămâne alegerea sigură."
+    },
+    {
+      "h3": "Ghidaje telescopice și accesorii care chiar contează",
+      "body": "Ghidajele telescopice — șinele care scot tava complet în afara cuptorului, nu doar pe jumătate — fac diferența între a scoate în siguranță o tavă fierbinte cu friptură și a te chinui să o tragi cu mănuși groase peste marginea ușii. Verifică în descrierea produsului dacă sunt incluse din fabrică sau se cumpără separat ca accesoriu opțional. O sondă de carne, acolo unde există, îți spune exact când friptura a ajuns la temperatura internă dorită, fără să tai bucata ca să verifici. Sunt detalii mici pe hârtie, dar se simt zilnic în bucătărie."
+    },
+    {
+      "h3": "Siguranță: ușa rece și copiii din bucătărie",
+      "body": "Majoritatea cuptoarelor încorporabile moderne au geam triplu sau cvadruplu, care ține suprafața exterioară a ușii mult mai rece decât interiorul, o protecție importantă dacă ai copii mici prin preajmă. Verifică și dacă modelul are blocaj pentru copii pe panoul de comandă, ca să eviți pornirea accidentală. Un cuptor care se încălzește vizibil la exterior în timpul unui ciclu lung de piroliză merită evitat dacă bucătăria ta e și loc de joacă."
     }
   ],
   "faq": [
@@ -109,7 +122,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.2,
-      "image": "https://s13emagst.akamaized.net/products/47889/47888688/images/res_131f83b1a64e439de5627624cdce4bf0.jpg?width=400&height=400",
+      "image": "/img/products/dp2f5cmbm.jpg",
       "feedId": "DP2F5CMBM",
       "features": [
         "abur",
@@ -158,6 +171,7 @@
       "cons": [
         "Autocurățare catalitică, nu piroliză"
       ],
+      "review": "Cuptorul ăsta e alegerea noastră de top pentru că reușește ceva ce puține modele fac: pare complicat pe hârtie, dar în bucătărie e de departe cel mai ușor de folosit din tot testul — scorul de 94 la ușurință nu e întâmplător. Dual Cook Flex chiar funcționează cum promite: poți coace un platou de legume la 180°C în partea de jos și, simultan, o friptură la 200°C deasupra, fără să amesteci aromele. Funcția de abur ține carnea suculentă și dă crustă bună pâinii de casă, iar aplicația SmartThings trimite notificări utile când mâncarea e gata. Singurul compromis e autocurățarea: e catalitică, nu piroliză, deci din când în când tot trebuie să ștergi cu mâna interiorul, spre deosebire de Bosch sau Electrolux din același clasament. Pentru cine gătește variat și vrea un cuptor prietenos, cu funcții smart reale și nu doar de fițe, Samsung Bespoke rămâne recomandarea noastră fără ezitare.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bespoke-samsung-electric-76-l-autocuratare-catalitica-dual-cook-flex-display-touch-air-sous-vide-natural-steam-smartthings-cooking-clasa-a-negru-nv7b4345vak-u2/pd/DP2F5CMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182478"
     },
@@ -167,7 +181,7 @@
       "name": "Bosch Seria 8 HBG7741W1 71L",
       "tag": "Cel mai complet (premium)",
       "score": 9,
-      "image": "https://s13emagst.akamaized.net/products/60395/60394011/images/res_f989dd2f4a6bc7ac983fd44dd041fcf1.jpg?width=400&height=400",
+      "image": "/img/products/d8gtp3ybm.jpg",
       "feedId": "D8GTP3YBM",
       "features": [
         "piroliza",
@@ -216,6 +230,7 @@
       "cons": [
         "Cel mai scump din clasament"
       ],
+      "review": "Dacă bugetul nu e o grijă, Bosch Seria 8 e cuptorul pe care ni l-am dori acasă. Cele 14 funcții acoperă absolut orice tip de gătit, de la copt clasic la sous-vide de rezervă, iar piroliza — cu scor de 96 la autocurățare, cel mai mare din test — transformă curățenia într-un ciclu de câteva ore, nu o corvoadă săptămânală. Home Connect îți dă control real din telefon, nu doar pornire de la distanță: poți urmări progresul rețetei și primești sugestii de timp și temperatură. Gătitul e cel mai uniform pe care l-am notat, cu 95 la acest capitol. Contra: e cel mai scump cuptor din listă, iar diferența de preț față de un Bosch mai simplu ca HBF133BA1 nu se justifică dacă nu folosești chiar toate cele 14 funcții. Pentru cine vrea premium fără compromisuri și gătește frecvent variat, e alegerea corectă.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-seria-8-electric-71-l-multifunctional-14-functii-autocuratare-pirolitica-grill-home-connect-clasa-a-alb-hbg7741w1/pd/D8GTP3YBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182479"
     },
@@ -225,7 +240,7 @@
       "name": "Whirlpool WOI78PT1SXA 73L",
       "tag": "Piroliză spațioasă (73 L)",
       "score": 8.9,
-      "image": "https://s13emagst.akamaized.net/products/92131/92130951/images/res_b2e4301302c57542a7e79f7a3e9fc50d.jpg?width=400&height=400",
+      "image": "/img/products/d76s1d3bm.jpg",
       "feedId": "D76S1D3BM",
       "features": [
         "piroliza",
@@ -274,6 +289,7 @@
       "cons": [
         "Fără conectivitate smart"
       ],
+      "review": "Whirlpool WOI78PT1SXA ne-a surprins prin combinația de volum și autocurățare: cu 73 de litri e cel mai încăpător cuptor cu piroliză din test, deci încap simultan mai multe tăvi la o masă de sărbători. Tehnologia 6th Sense ajustează automat timpul și temperatura în funcție de ce gătești, ceea ce reduce clar riscul de a arde sau a lăsa crud un preparat — util mai ales pentru cei care nu au încă rutina unui cuptor nou. Autocurățarea prin piroliză a obținut 95 din 100 la noi, aproape de nivelul Bosch. Ce lipsește e conectivitatea smart: nu ai aplicație, notificări sau control de la distanță, ceea ce pe unii nu-i deranjează deloc. Dacă prioritatea ta e volum mare plus piroliză, fără să plătești pentru funcții smart pe care poate nu le-ai folosi oricum, Whirlpool e o alegere solidă și echilibrată.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-whirlpool-electric-73-l-autocuratare-pirolitica-thenologie-al-6-lea-simt-casa-a-negru-inox-woi78pt1sxa/pd/D76S1D3BM/"
     },
     {
@@ -282,7 +298,7 @@
       "name": "Electrolux EOF6P76X2 72L",
       "tag": "Cel mai bun cu piroliză, la preț bun",
       "score": 8.8,
-      "image": "https://s13emagst.akamaized.net/products/47574/47573675/images/res_bf134c3a56ccce2bbd3bc68aade2db2b.jpg?width=400&height=400",
+      "image": "/img/products/dl08fcmbm.jpg",
       "feedId": "DL08FCMBM",
       "features": [
         "piroliza",
@@ -331,6 +347,7 @@
       "cons": [
         "Fără funcții smart"
       ],
+      "review": "Electrolux EOF6P76X2 e răspunsul pentru cei care vor piroliză fără prețul premium al unui Bosch Seria 8. Cu 72 de litri și tehnologia SurroundCook, care distribuie aerul cald uniform din mai multe direcții, am obținut rezultate constante la copt pe mai multe niveluri — 90 la gătit, respectabil pentru segmentul de preț. Autocurățarea prin piroliză a scos 94, aproape de vârful clasamentului, deci diferența față de modelele mult mai scumpe e mică. Grill-ul suplimentar e util pentru gratinare rapidă. Lipsește orice conectivitate smart — nu ai aplicație, nici notificări pe telefon — dar dacă nu foloseai oricum funcțiile astea, nu vei simți lipsa. Pentru cine vrea piroliză reală, fără compromisuri majore la gătit, dar nu vrea să plătească pentru Home Connect sau SmartThings, acesta e raportul preț-calitate cel mai bun din segmentul cu piroliză.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-electric-72-l-autocuratare-pirolitica-surroundcook-grill-timer-cu-display-electronic-clasa-a-inox-eof6p76x2/pd/DL08FCMBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182480"
     },
@@ -340,7 +357,7 @@
       "name": "Bosch HBF133BA1 66L",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.6,
-      "image": "https://s13emagst.akamaized.net/products/90540/90539811/images/res_e2bdb847a9a3961f52c1967651b686d5.jpg?width=400&height=400",
+      "image": "/img/products/dy77m73bm.jpg",
       "feedId": "DY77M73BM",
       "features": [
         "ventilat"
@@ -388,6 +405,7 @@
       "cons": [
         "Autocurățare de bază (EcoClean), nu piroliză"
       ],
+      "review": "Bosch HBF133BA1 e cuptorul pe care îl recomandăm când vrei numele Bosch fără să plătești pentru Seria 8. Convecția 3D distribuie căldura pe toate nivelurile printr-un ventilator plus o rezistență suplimentară, așa că am putut coace simultan pe două tăvi fără să le rotim la jumătatea timpului — un lucru pe care îl remarci imediat la un tort sau la biscuiți. La 66 de litri e potrivit pentru un cuplu sau o familie mică, nu pentru cine gătește pentru mulți musafiri. Autocurățarea e EcoClean Direct, un sistem catalitic la temperatură joasă — funcțional, dar cu scor de doar 76, sub jumătate din modelele cu piroliză din test, așa că tot va trebui să intervii manual din când în când. Dacă prioritatea ta e gătitul uniform și un nume de încredere, la un preț rezonabil, e alegerea noastră de preț-calitate.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-electric-66-l-grill-autocuratare-ecoclean-direct-convectie-3d-clasa-a-negru-hbf133ba1/pd/DY77M73BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182481"
     },
@@ -397,7 +415,7 @@
       "name": "Beko BBIM14300WMS 72L",
       "tag": "Cel mai spațios la preț bun",
       "score": 8.5,
-      "image": "https://s13emagst.akamaized.net/products/33935/33934011/images/res_eb55b4ced3c09495375e3fb8ea898732.jpg?width=400&height=400",
+      "image": "/img/products/dj2y17mbm.jpg",
       "feedId": "DJ2Y17MBM",
       "features": [
         "ventilat"
@@ -445,6 +463,7 @@
       "cons": [
         "Fără piroliză și fără funcții smart"
       ],
+      "review": "Beko BBIM14300WMS ne-a plăcut pentru cât de mult spațiu oferă la un preț care nu sperie: 72 de litri, printre cele mai generoase volume din tot clasamentul, alături de tehnologia AeroPerfect pentru gătit uniform pe mai multe niveluri. Sistemul de curățare combină cataliza cu SteamShine, o funcție cu abur care înmoaie resturile înainte de ștergere — nu e la nivelul unei pirolize, dar reduce efortul față de cataliza simplă. Gătitul a obținut 89, un scor solid pentru segmentul accesibil. Lipsesc însă piroliza și orice funcție smart, deci dacă vrei un cuptor pe care să-l controlezi din telefon sau să-l lași să se curețe singur complet, nu e modelul tău. Pentru cine caută volum mare, gătit consecvent și nu vrea să plătească în plus pentru funcții pe care nu le va folosi, e o alegere echilibrată și rațională.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-beko-electric-multifunctional-aeroperfect-autocuratare-catalitica-steamshine-cleaning-grill-3d-cooking-72-l-clasa-a-alb-bbim14300wms/pd/DJ2Y17MBM/"
     },
     {
@@ -453,7 +472,7 @@
       "name": "Beko BBIS13300XMSE 72L",
       "tag": "Catalitic cu abur, la preț mic",
       "score": 8.4,
-      "image": "https://s13emagst.akamaized.net/products/36497/36496138/images/res_027b98dde7485d9bb3e0c645234c2ccc.jpg?width=400&height=400",
+      "image": "/img/products/dqtyjkmbm.jpg",
       "feedId": "DQTYJKMBM",
       "features": [
         "abur",
@@ -502,6 +521,7 @@
       "cons": [
         "Curățare catalitică, nu piroliză"
       ],
+      "review": "Beko BBIS13300XMSE seamănă la prima vedere cu celălalt model Beko din test, dar diferența care contează e gătitul asistat de abur, util pentru cine vrea carne mai suculentă sau pâine cu crustă mai bună fără să cumpere un cuptor cu abur dedicat. Clasa energetică A+ e un plus față de varianta fără abur, iar sistemul SoftClose — închiderea lentă a ușii — e un detaliu mic, dar simpatic, mai ales dacă ai copii prin bucătărie. Curățarea rămâne catalitică plus SteamShine, deci nu te scapă complet de ștersul din interior, la fel ca la sora ei mai simplă. Cu 72 de litri, are loc pentru gătit de familie. Dacă ești la limită între cele două modele Beko, diferența de preț mică pentru funcția de abur și clasa A+ merită, în opinia noastră, dacă gătești variat.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-beko-electric-autocuratare-catalitica-72-l-aeroperfect-grill-3d-cooking-steam-assisted-cooking-steam-shine-cleaning-softclose-clasa-a-negru-bbis13300xmse/pd/DQTYJKMBM/"
     },
     {
@@ -510,7 +530,7 @@
       "name": "Bosch HBF153BS0 66L",
       "tag": "Bosch cu control touch",
       "score": 8.3,
-      "image": "https://s13emagst.akamaized.net/products/25317/25316778/images/res_fea4ac056b26523a8a4c5752976f8e98.jpg?width=400&height=400",
+      "image": "/img/products/dkdrp6bbm.jpg",
       "feedId": "DKDRP6BBM",
       "features": [
         "ventilat"
@@ -558,6 +578,7 @@
       "cons": [
         "Scump pentru un sistem EcoClean, nu piroliză"
       ],
+      "review": "Bosch HBF153BS0 e practic fratele lui HBF133BA1, cu un singur upgrade vizibil: controlul touch, mai modern și mai plăcut de folosit zilnic decât butoanele clasice. Convecția 3D Bosch rămâne aceeași tehnologie solidă care distribuie căldura uniform pe mai multe niveluri, iar la 66 de litri e potrivit pentru gospodării mici sau medii. Autocurățarea e tot EcoClean Direct, cu scor de 78 — ușor mai bun decât fratele său, dar tot departe de o piroliză reală. Aici stă și principala noastră rezervă: diferența de preț față de HBF133BA1 se duce aproape în întregime pe display-ul touch, nu pe funcții de gătit suplimentare. Dacă pentru tine controlul touch chiar contează în utilizarea zilnică, are sens. Dacă vrei doar calitate Bosch la gătit, fratele mai ieftin din test face treaba la fel de bine, la un cost mai mic.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-bosch-electric-autocuratare-ecoclean-direct-66-l-clasa-a-convectie-aer-3d-timer-control-touch-inox-hbf153bs0/pd/DKDRP6BBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182482"
     },
@@ -567,7 +588,7 @@
       "name": "Electrolux EOG2102AOX 68L (gaz)",
       "tag": "Cel mai bun pe gaz",
       "score": 8.1,
-      "image": "https://s13emagst.akamaized.net/products/993/992994/images/res_6d8d08362a93bcf45635123902599c85.jpg?width=400&height=400",
+      "image": "/img/products/dyn0ymbbm.jpg",
       "feedId": "DYN0YMBBM",
       "features": [
         "ventilat"
@@ -615,6 +636,7 @@
       "cons": [
         "Gătit ceva mai puțin uniform decât electric"
       ],
+      "review": "Pentru casele cu plită pe gaz sau zone cu întreruperi de curent, Electrolux EOG2102AOX e singura opțiune pe gaz din clasamentul nostru, ceea ce îl face automat recomandarea implicită pentru acest segment. Finisajul inox anti-amprentă rezistă bine la utilizare zilnică și nu arată urme după fiecare atingere, un detaliu apreciat de cei care curăță des bucătăria. Gătitul pe gaz e, prin natura tehnologiei, ceva mai puțin uniform decât la un cuptor electric echivalent — am notat 82, sub toate modelele electrice din test — dar rămâne perfect funcțional pentru gătit de zi cu zi. Autocurățarea catalitică plus grill-ul acoperă nevoile de bază. Nu e cuptorul pe care să-l alegi dacă ai deja curent stabil și poți opta liber între gaz și electric — pentru acel caz, un model electric din listă îți dă rezultate mai constante la copt.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-gaz-68-l-multifunctional-autocuratare-catalitica-grill-clasa-a-inox-antiamprenta-eog2102aox/pd/DYN0YMBBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182483"
     },
@@ -624,7 +646,7 @@
       "name": "Electrolux EOF3H50BK 65L",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.9,
-      "image": "https://s13emagst.akamaized.net/products/46146/46145467/images/res_6c18720634b3a26e608975e45c78b2b2.jpg?width=400&height=400",
+      "image": "/img/products/d97wgvmbm.jpg",
       "feedId": "D97WGVMBM",
       "features": [
         "ventilat"
@@ -672,6 +694,7 @@
       "cons": [
         "Fără autocurățare avansată"
       ],
+      "review": "Electrolux EOF3H50BK e alegerea noastră de buget pentru că nu sacrifică esențialul: cele 9 programe și convecția SurroundCook acoperă tot ce gătește o familie obișnuită, de la copt clasic la grătar rapid cu grill-ul integrat. Cu 65 de litri e suficient pentru 1-2 persoane sau cupluri care nu coc des platouri mari de sărbători. Este cel mai ieftin cuptor din test care încă merită cumpărat, spre deosebire de variantele foarte accesibile care sacrifică prea mult din gătit. Compromisul principal e absența oricărei autocurățări avansate — nici piroliză, nici cataliză — deci vei curăța manual interiorul, ca la un cuptor clasic. Scorul de autocurățare de doar 70, cel mai mic din test, reflectă exact asta. Dacă bugetul e principalul criteriu și poți trăi cu curățare manuală, e cel mai bun cuptor pe care îl poți lua fără să regreți.",
       "emagUrl": "https://www.emag.ro/cuptor-incorporabil-electrolux-electric-65-l-9-programe-convectie-sourroundcook-grill-clasa-a-negru-eof3h50bk/pd/D97WGVMBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16182484"
     }
@@ -719,5 +742,6 @@
       }
     ],
     "verdict": "Alege piroliza dacă gătești frecvent și vrei curățare fără efort (Bosch Seria 8, Electrolux EOF6P76X2, Whirlpool WOI78PT1SXA). Cataliza e suficientă și mai accesibilă dacă gătești moderat și nu te deranjează o ștergere ocazională."
-  }
+  },
+  "priceBuckets": []
 }

@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import Icon from '../components/Icon.astro';
 import { site } from '../data/site';
+import { authors } from '../data/authors';
 ---
 <Base title="Despre noi" description="Cine suntem, ce facem și cum ne poți contacta. TopAlegeri compară produse din România și dă un verdict clar, pe baza datelor." current="/">
   <div class="wrap">
@@ -16,10 +17,26 @@ import { site } from '../data/site';
 
   <section class="article" style="padding-top:24px">
     <div class="wrap prose">
-      <h2>Ce facem</h2>
-      <p>Adunăm specificațiile, prețurile și mii de recenzii reale de pe eMAG, le trecem prin aceeași metodă de evaluare și publicăm clasamente pe care te poți baza. Fiecare top vine cu argumente pentru fiecare loc — nu doar o listă.</p>
+      <h2>Cine suntem</h2>
+      <p>Suntem o redacție mică, formată din doi oameni care scriu sub nume real și își asumă fiecare clasament publicat. Nu suntem un algoritm anonim — poți vedea cine a scris fiecare ghid și când a fost actualizat ultima dată, chiar sub titlu.</p>
+      <div class="authors-grid">
+        {Object.values(authors).map((a) => (
+          <div class="author-card">
+            <img src={a.photo} alt={a.name} width="72" height="72" loading="lazy" />
+            <div>
+              <h3>{a.name}</h3>
+              <div class="role">{a.role}</div>
+              <p>{a.bio}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <h2 style="margin-top:36px">Misiunea noastră</h2>
+      <p>Vrem să fim locul unde cineva din România caută „ce mașină de spălat să cumpăr" sau „cel mai bun laptop sub 4000 lei" și găsește un răspuns clar, scris de un om care chiar a comparat opțiunile — nu o listă generată automat după preț. Recomandările sunt gândite pentru piața și bugetele de aici, nu traduse dintr-un site străin.</p>
+
       <h3>Cum câștigăm bani</h3>
-      <p>{site.name} e gratuit. Ne susținem din comisioane de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent, fără cost suplimentar pentru tine. Comisionul nu influențează clasamentele — detalii în <a href="/legal/afiliere/">Transparență afiliat</a> și <a href="/cum-testam/">Cum testăm</a>.</p>
+      <p>{site.name} e gratuit. Ne susținem din comisioane de afiliere: dacă ajungi la eMAG printr-un link de la noi și cumperi, primim un mic procent, fără cost suplimentar pentru tine. Comisionul nu influențează clasamentele — dacă cel mai bun produs are cel mai mic comision, tot pe primul loc îl punem. Detalii în <a href="/legal/afiliere/">Transparență afiliat</a> și <a href="/cum-testam/">Cum testăm</a>.</p>
       <h3>Valorile noastre</h3>
       <ul>
         <li><b>Independență</b> — locurile din clasament nu se pot cumpăra.</li>

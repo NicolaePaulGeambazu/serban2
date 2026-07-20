@@ -21,3 +21,8 @@ npm-debug.log*
 .vercel
 .env*
 .enrich/
+
+# local tooling
+.claude/
+.superpowers/
+skills-lock.json

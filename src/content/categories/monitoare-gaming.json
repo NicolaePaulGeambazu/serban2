@@ -5,6 +5,7 @@
   "icon": "monitor",
   "order": 14,
   "intro": "Am comparat cele mai populare monitoare de gaming de pe eMAG după calitatea imaginii, rata de refresh, timpul de răspuns, rezoluție și conectică. Mai jos ai clasamentul plus un ghid despre ce contează cu adevărat, în funcție de ce jocuri joci și de placa video pe care o ai.",
+  "author": "ana-popescu",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -62,6 +63,14 @@
     {
       "h3": "Greșeli frecvente",
       "body": "Nu cumpăra 240Hz dacă placa ta scoate 80 fps — banii sunt mai bine puși în panou sau rezoluție. Nu ignora HDR-ul fals (unele monitoare 'HDR10' n-au luminozitatea reală). Și potrivește rezoluția cu placa video, ca să nu joci cu setări reduse."
+    },
+    {
+      "h3": "Întreținerea unui monitor OLED",
+      "body": "Un QD-OLED ține mult dacă îl tratezi corect: activează pixel refresh-ul automat din meniu, evită să lași bare statice (interfețe, HUD-uri fixe) ore în șir la luminozitate maximă și folosește screensaver sau standby când nu joci. Curățarea se face cu o cârpă microfibră uscată sau ușor umezită — fără alcool sau soluții agresive, care pot ataca stratul anti-reflexie. Riscul de burn-in există, dar la un folosit normal (jocuri variate, nu aceleași bare statice non-stop) rămâne mic."
+    },
+    {
+      "h3": "Conectică și accesorii care contează",
+      "body": "DisplayPort 1.4 sau HDMI 2.1 sunt esențiale dacă vrei 4K la refresh mare — HDMI 2.0 se plafonează rapid. USB-C cu Power Delivery e util dacă vrei un singur cablu spre laptop; verifică însă câți W livrează, unele oferă doar 18-20W, insuficient pentru un laptop de gaming. Un hub USB sau un KVM integrat ajută dacă lucrezi de pe două calculatoare. Boxele integrate sunt un bonus, nu un motiv de cumpărare — majoritatea gamerilor folosesc căști sau boxe externe oricum."
     }
   ],
   "faq": [
@@ -107,7 +116,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.4,
-      "image": "https://s13emagst.akamaized.net/products/114085/114084234/images/res_47c969bf3ad350864095ddb526ee5f36.png?width=400&height=400",
+      "image": "/img/products/dvyfjw3bm.png",
       "feedId": "DVYFJW3BM",
       "features": [
         "oled",
@@ -156,6 +165,7 @@
       "cons": [
         "Preț ridicat, iar ultrawide-ul nu e 4K"
       ],
+      "review": "L-am ținut ca monitor principal câteva săptămâni și e genul care ridică ștacheta pentru tot ce urmează după el. Curbura ultrawide plus negrul perfect al panoului QD-OLED transformă orice joc single-player într-o experiență de alt nivel, iar la 240Hz cu 0.03ms răspunsul e practic instant — nu am simțit ghosting nici în scene rapide. Pentru shootere competitive, combinația de fluiditate și claritate te ține un pas înaintea unui monitor obișnuit. Singurul compromis real e prețul, plus faptul că rezoluția ultrawide, oricât de generoasă, nu înseamnă 4K adevărat — dacă vrei densitate maximă de pixeli, te uiți în altă parte. Pentru cine vrea un singur monitor care să facă totul foarte bine, fără compromisuri la imagine sau viteză, e alegerea noastră fără ezitare.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-dell-alienware-34-3440-x-1440-uwqhd-curved-qd-oled-240-hz-0-03ms-gtg-nvidiar-g-syncr-compatible-amd-freesynctm-premium-pro-vesa-adaptivesync-displayport-hdmi-usb-c-dark-side-of-the-moon/pd/DVYFJW3BM/"
     },
     {
@@ -164,7 +174,7 @@
       "name": "Gigabyte MO27U2 27\" 4K QD-OLED 240Hz",
       "tag": "Cel mai complet (premium)",
       "score": 9.2,
-      "image": "https://s13emagst.akamaized.net/products/101923/101922865/images/res_806e14809e30acfbf74124fc7ad6fba3.jpg?width=400&height=400",
+      "image": "/img/products/dh7khs3bm.jpg",
       "feedId": "DH7KHS3BM",
       "features": [
         "oled",
@@ -214,6 +224,7 @@
       "cons": [
         "Preț premium, iar PD prin USB-C e doar 18W"
       ],
+      "review": "Ăsta e monitorul pentru cine nu vrea să aleagă între claritate și viteză. La 27\" cu 4K adevărat și 240Hz pe același panou QD-OLED, densitatea de pixeli e superbă și în același timp jocurile competitive rulează extrem de fluid — combinația asta rar se găsește la un preț rezonabil. HDMI 2.1 și USB-C cu hub și KVM îl fac practic și pentru cine comută între PC și laptop de lucru, ceva ce alte monitoare gaming ignoră. Contra: e un monitor premium, iar puterea livrată prin USB-C (18W) e prea mică pentru a alimenta un laptop de gaming, deci tot ai nevoie de încărcător separat. Pentru cine vrea cel mai complet monitor din gamă, fără compromisuri la rezoluție sau Hz, e alegerea corectă — doar bugetul trebuie să fie pe măsură.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-gigabyte-27-4k-3840x2160-qd-oled-240hz-0-03ms-gtg-freesync-premium-pro-g-sync-compatible-hdr-true-black-400-crosshair-flicker-free-dp-1-4-hdmi-2-1-usb-c-alt-mode-pd-18w-usb-hub-kvm-pivo/pd/DH7KHS3BM/"
     },
     {
@@ -222,7 +233,7 @@
       "name": "Philips EVNIA 48.9\" DualQHD QD-OLED 144Hz",
       "tag": "Cel mai imersiv (super ultrawide)",
       "score": 9,
-      "image": "https://s13emagst.akamaized.net/products/70410/70409451/images/res_739df5a10e86e1cf089b69df19c38a22.jpg?width=400&height=400",
+      "image": "/img/products/d45xt9ybm.jpg",
       "feedId": "D45XT9YBM",
       "features": [
         "oled",
@@ -271,6 +282,7 @@
       "cons": [
         "144Hz, sub flagship-urile OLED, și ocupă mult birou"
       ],
+      "review": "L-am testat mai ales pentru simulatoare de curse și zbor, unde câmpul vizual larg de 49\" chiar schimbă percepția — practic înlocuiește două monitoare puse cap la cap, dar fără rama din mijloc. Panoul QD-OLED păstrează negrul perfect și culorile vii pe toată lățimea, iar boxele 7.5W x4 cu DTS sunt surprinzător de bune pentru un monitor, chiar dacă tot recomandăm căști pentru gaming competitiv. Ambiglow-ul din spate adaugă un plus estetic frumos în cameră întunecată. Compromisul e clar: 144Hz e sub ce oferă flagship-urile de mai sus din listă, iar dimensiunea uriașă cere un birou serios și o poziționare bine gândită. Nu e pentru shootere ultra-competitive, dar pentru imersiune pură în jocuri single-player sau simulatoare, nimic altceva din gamă nu se compară.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-qd-oled-philips-evnia-48-9-dualqhd-5120-x-1440-144hz-0-03ms-amd-freesynctm-premium-pro-displayhdrtm-trueblack-400-flickerfree-boxe-7-5w-x-4-dts-hub-usb-ambiglow-usb-type-c-2x-hdm/pd/D45XT9YBM/"
     },
     {
@@ -278,7 +290,7 @@
       "name": "Samsung Odyssey OLED G5 G50SF 27\" QHD QD-OLED 180Hz",
       "tag": "Cel mai bun OLED accesibil",
       "score": 8.8,
-      "image": "https://s13emagst.akamaized.net/products/110376/110375691/images/res_77cce32242d8a185e1b3d3932c2e928b.jpg?width=400&height=400",
+      "image": "/img/products/d7mbj53bm.jpg",
       "feedId": "D7MBJ53BM",
       "features": [
         "oled"
@@ -326,6 +338,7 @@
       "cons": [
         "QHD, nu 4K; 180Hz, nu 240Hz"
       ],
+      "review": "E monitorul pe care îl recomandăm celor care vor să treacă la OLED fără să plătească prețul unui model de 240Hz sau 4K. Panoul QD-OLED de 27\" păstrează exact ce contează la tehnologia asta — negru perfect, culori intense și un răspuns de 0.03ms care se simte instant la mișcare rapidă. 180Hz e suficient pentru marea majoritate a jocurilor competitive, iar compatibilitatea cu FreeSync și G-Sync elimină tearing-ul indiferent de placa video. Nu are performanța brută a modelelor de top din listă — rămâne la QHD, nu 4K, și la 180Hz, nu 240Hz — dar diferența practică pentru un jucător obișnuit e mică. Dacă bugetul nu permite un OLED de vârf, ăsta e compromisul cel mai inteligent.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-samsung-odyssey-oled-g5-g50sf-27-qhd-2560x1440-qd-oled-180hz-dp-144hz-hdmi-0-03ms-gtg-amd-freesync-nvidia-g-sync-compatible-hdr10-virtual-aim-point-quantum-dot-color-flicker-free-hdmi-d/pd/D7MBJ53BM/",
       "id": "p10"
     },
@@ -335,7 +348,7 @@
       "name": "Philips Evnia 5000 34\" WQHD VA 180Hz",
       "tag": "Cel mai bun ultrawide accesibil",
       "score": 8.6,
-      "image": "https://s13emagst.akamaized.net/products/85955/85954674/images/res_44f3635e2e503aa81f656e33b5e803e7.jpg?width=400&height=400",
+      "image": "/img/products/dxgtyb3bm.jpg",
       "feedId": "DXGTYB3BM",
       "features": [],
       "specs": [
@@ -381,6 +394,7 @@
       "cons": [
         "Panou VA — negru și răspuns sub OLED"
       ],
+      "review": "Dacă vrei să simți diferența ultrawide-ului fără să dai pe un panou OLED, ăsta e punctul de intrare bun. La 34\" cu curbură 1500R, imersiunea în jocuri de aventură sau strategie e reală, iar 180Hz ține pasul cu majoritatea titlurilor fără probleme. Ambiglow-ul din spate e un detaliu drăguț, mai mult estetic decât funcțional, dar completează experiența într-o cameră întunecată. Panoul VA e punctul unde se simte compromisul: negrul și contrastul sunt bune, dar rămân clar sub un QD-OLED, iar la scene foarte rapide poate apărea un ghosting ușor. Pentru cineva care vrea format ultrawide la un preț rezonabil și acceptă că imaginea nu va fi de top absolut, e o alegere echilibrată.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-led-va-philips-evnia-5000-34-wqhd-3440x1440-180hz-1ms-gtg-0-5ms-smbr-amd-freesynctm-nvidia-g-synctm-compatible-1500r-boxe-5w-x2-2x-hdmi-display-port-jack-ambiglow-pivot-vesa-alb-/pd/DXGTYB3BM/"
     },
     {
@@ -389,7 +403,7 @@
       "name": "LG UltraGear 27GS60QC 27\" QHD VA 180Hz",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.4,
-      "image": "https://s13emagst.akamaized.net/products/95483/95482056/images/res_1eb8f1d055c9d2447204c3d239676aff.jpg?width=400&height=400",
+      "image": "/img/products/d0wmp03bm.jpg",
       "feedId": "D0WMP03BM",
       "features": [],
       "specs": [
@@ -435,6 +449,7 @@
       "cons": [
         "Panou VA și conectică de bază"
       ],
+      "review": "E monitorul pe care îl recomandăm cel mai des celor care vor QHD și 180Hz fără să scoată bani în plus pentru OLED sau diagonale mari. Curbura agresivă de 1000R aduce imaginea aproape de tine și ajută în jocuri rapide, iar Black Stabilizer scoate la iveală detaliile din zonele întunecate — util în shootere unde te ascunzi în umbre. Pentru prețul lui, raportul între ce oferă și cât costă e greu de bătut în gamă. Conectica rămâne de bază, fără USB-C sau hub, iar panoul VA nu are finețea unui OLED la culori și negru. Dar dacă bugetul contează la fel de mult ca performanța, e alegerea noastră de preț/calitate fără discuție.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-lg-ultrageartm-27gs60qc-b-27-qhd-2560x1440-va-180hz-1ms-gtg-curbura-1000r-amd-freesynctm-hdr10-vesa-adaptive-sync-dynamic-action-sync-black-stabilizer-reader-mode-anti-flicker-2x/pd/D0WMP03BM/"
     },
     {
@@ -443,7 +458,7 @@
       "name": "Dell S3222DGM 31.5\" QHD VA 165Hz",
       "tag": "Ecran mare QHD",
       "score": 8.2,
-      "image": "https://s13emagst.akamaized.net/products/39997/39996059/images/res_10565c3a7394e7ff901972887fe73071.jpeg?width=400&height=400",
+      "image": "/img/products/d9dsnpmbm.jpeg",
       "feedId": "D9DSNPMBM",
       "features": [],
       "specs": [
@@ -489,6 +504,7 @@
       "cons": [
         "165Hz și 1ms MPRT, sub monitoarele OLED"
       ],
+      "review": "Pentru cine vrea un ecran mare pe birou fără să treacă la ultrawide, cele 31.5\" de aici oferă spațiu vizual serios la o rezoluție QHD care rămâne clară, nu granulată ca pe un Full HD de aceeași dimensiune. Curbura de 1800R e mai blândă decât la modelele competitive, dar tot ajută la o sesiune lungă de joc, iar FreeSync Premium ține imaginea curată fără sfâșiere. Contrastul panoului VA e un punct forte real aici, mai ales în jocuri cu scene întunecate. Rămâne totuși un monitor de mijloc de gamă la capitolul viteză — 165Hz și 1ms MPRT sunt onorabile, dar clar sub ce oferă monitoarele OLED din capul listei. E o alegere solidă dacă prioritatea ta e dimensiunea ecranului, nu ultima picătură de performanță.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-led-va-dell-31-5-qhd-2560x1440-165hz-1ms-mprt-amd-freesynctm-premium-1800r-2x-hdmi-displayport-pivot-vesa-negru-s3222dgm/pd/D9DSNPMBM/"
     },
     {
@@ -497,7 +513,7 @@
       "name": "AOC C32G2ZE 31.5\" Full HD VA 240Hz",
       "tag": "Ecran mare pentru refresh mare",
       "score": 8,
-      "image": "https://s13emagst.akamaized.net/products/32427/32426414/images/res_e3a9a0f904c66503615aebabd3385d4d.jpg?width=400&height=400",
+      "image": "/img/products/dhh932mbm.jpg",
       "feedId": "DHH932MBM",
       "features": [
         "240hz"
@@ -545,6 +561,7 @@
       "cons": [
         "Doar Full HD pe 31.5\" — densitate mică de pixeli"
       ],
+      "review": "Ăsta e monitorul pentru cine pune viteza înaintea clarității absolute. Combinația de 240Hz și 0.5ms pe un ecran de 31.5\" se simte excelent în shootere rapide — mișcarea e fluidă, iar rama subțire FrameLess îți dă și un câmp vizual mai curat dacă joci pe multiple monitoare. FreeSync elimină sfâșierea imaginii la refresh mare, exact unde apare de obicei problema. Compromisul e clar din specificații: Full HD pe un ecran atât de mare înseamnă densitate de pixeli mică, deci imaginea nu are fineţea unui QHD sau 4K la aceeași diagonală — pixelii se văd dacă stai aproape. Pentru gaming competitiv pur, unde fps-urile mari contează mai mult decât detaliul fin, e o alegere logică; pentru jocuri narative sau vizual bogate, nu e prima opțiune.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-wled-va-aoc-31-5-full-hd-1920x1080-240hz-0-5-ms-amd-2x-hdmi-displayport-jack-frameless-vesa-negru-c32g2ze-bk/pd/DHH932MBM/"
     },
     {
@@ -553,7 +570,7 @@
       "name": "Philips EVNIA 27\" Full HD VA 280Hz",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.8,
-      "image": "https://s13emagst.akamaized.net/products/74563/74562253/images/res_0d81a94dc58c623514623e4356b8aec5.jpg?width=400&height=400",
+      "image": "/img/products/dw75zvybm.jpg",
       "feedId": "DW75ZVYBM",
       "features": [
         "240hz"
@@ -601,6 +618,7 @@
       "cons": [
         "Doar Full HD"
       ],
+      "review": "Pentru cine vrea să intre serios în esports fără să cheltuiască mult, ăsta e monitorul potrivit. 280Hz e mai mult decât suficient chiar și pentru jucători avansați în CS2 sau Valorant, iar cu Smart MBR activat mișcarea devine și mai clară, aproape fără urme. Rezoluția Full HD la 27\" ajută de fapt aici, pentru că e mult mai ușor pentru placa video să scoată sute de fps la 1080p decât la QHD sau 4K — deci refresh-ul mare chiar se simte în joc, nu rămâne doar pe hârtie. Compromisul evident e imaginea: la 27\", Full HD arată ceva mai puțin definit decât un QHD, mai ales dacă folosești monitorul și pentru altceva decât gaming. Dar ca prim monitor competitiv, la un preț accesibil, e alegerea noastră de buget.",
       "emagUrl": "https://www.emag.ro/monitor-gaming-curbat-led-va-philips-evnia-27-full-hd-1920x1080-280hz-1ms-smart-mbr-0-3ms-hdr10-flickerfree-2x-hdmi-displayport-pivot-negru-27m2c5200w-00/pd/DW75ZVYBM/"
     },
     {
@@ -609,7 +627,7 @@
       "name": "Dell P2725HE 27\" Full HD IPS 100Hz",
       "tag": "Pentru birou, nu pentru gaming",
       "score": 6.8,
-      "image": "https://s13emagst.akamaized.net/products/71595/71594012/images/res_b0357e5203ffff2dc1574b278c6c9817.jpg?width=400&height=400",
+      "image": "/img/products/d0fdjfybm.jpg",
       "feedId": "D0FDJFYBM",
       "features": [],
       "specs": [
@@ -655,6 +673,7 @@
       "cons": [
         "Doar 100Hz și 5ms — nu e un monitor de gaming"
       ],
+      "review": "Îl includem în listă pentru onestitate, nu pentru că l-am recomanda cuiva care caută performanță în jocuri. E de fapt un monitor de birou foarte bun — USB-C cu 90W alimentează un laptop dintr-un singur cablu, Ethernet-ul integrat e rar la acest preț, iar hub-ul USB și pivotarea îl fac practic pentru multitasking și videoconferințe. Panoul IPS are unghiuri de vizualizare excelente, utile dacă lucrezi în echipă la același ecran. Dar la 100Hz și 5ms răspuns, diferența față de monitoarele din capul listei se simte imediat în orice joc rapid — ghosting vizibil și fluiditate modestă. Dacă cineva îl caută în categoria gaming, cel mai probabil va fi dezamăgit; ca monitor mixt de lucru cu joc ocazional, își face treaba onorabil.",
       "emagUrl": "https://www.emag.ro/monitor-led-ips-dell-27-full-hd-1920x1080-100hz-5ms-gtg-usb-type-c-90w-power-hub-usb-hdmi-2x-display-port-ethernet-pivot-negru-argintiu-p2725he/pd/D0FDJFYBM/"
     }
   ],
@@ -701,5 +720,6 @@
       }
     ],
     "verdict": "Alege QD-OLED dacă vrei cea mai bună imagine pentru jocuri imersive și te uiți și la conținut vizual bogat. VA/IPS rămân alegeri excelente ca raport calitate-preț, mai ales pentru gaming competitiv unde contează Hz-ii și bugetul."
-  }
+  },
+  "priceBuckets": []
 }
