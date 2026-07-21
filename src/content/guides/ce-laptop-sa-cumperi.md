@@ -54,4 +54,4 @@ Specificațiile pe hârtie nu spun tot. Merită verificate și:
 - **Autonomia reală** — cifrele producătorilor sunt optimiste; caută teste independente cu autonomie „în utilizare reală", nu doar specificația de pe cutie.
 - **Porturile disponibile** — un USB-C (ideal cu încărcare), un HDMI și cel puțin un port USB-A clasic te scutesc de adaptoare suplimentare.
 
-Vezi modelele testate și recomandate, filtrate după procesor, RAM și autonomie, în [clasamentul de laptopuri](/clasament/laptopuri/).
+Vezi modelele analizate și recomandate, filtrate după procesor, RAM și autonomie, în [clasamentul de laptopuri](/clasament/laptopuri/).
