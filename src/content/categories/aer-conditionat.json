@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "ac",
   "order": 4,
-  "intro": "Un aer condiționat bun se alege după camera ta, nu după cel mai mare număr de BTU. Am ales și am testat 10 modele populare după putere de răcire, consum, zgomot și funcții, de la Gree Pulsar și LG Dualcool până la Daikin Sensira pentru camere mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "intro": "Un aer condiționat bun se alege după camera ta, nu după cel mai mare număr de BTU. Am ales și am comparat 10 modele populare după putere de răcire, consum, zgomot și funcții, de la Gree Pulsar și LG Dualcool până la Daikin Sensira pentru camere mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
@@ -46,7 +46,7 @@
     },
     {
       "h3": "Inverter vs. on/off: de ce contează",
-      "body": "Inverterul ajustează continuu turația compresorului, deci menține temperatura constant, consumă mult mai puțin și e vizibil mai silențios. Un aparat on/off pornește la maxim și se oprește brusc, ceea ce oscilează temperatura și crește factura. Aproape toate modelele de top din test — Gree Pulsar, LG Dualcool, Samsung AR35 — sunt cu inverter.",
+      "body": "Inverterul ajustează continuu turația compresorului, deci menține temperatura constant, consumă mult mai puțin și e vizibil mai silențios. Un aparat on/off pornește la maxim și se oprește brusc, ceea ce oscilează temperatura și crește factura. Aproape toate modelele de top din selecția noastră — Gree Pulsar, LG Dualcool, Samsung AR35 — sunt cu inverter.",
       "callout": "Pentru folosire zilnică, inverterul își amortizează diferența de preț prin economia la curent."
     },
     {
@@ -226,7 +226,7 @@
       "cons": [
         "Fără kit de instalare inclus"
       ],
-      "review": "Dacă bugetul contează dar nu vrei să renunți la fiabilitatea LG, ăsta e modelul pe care îl recomandăm. Clasa A++ și tehnologia Fast Cooling răcesc rapid o cameră de 20–25 mp, iar agentul R32 e mai eficient decât variantele mai vechi. Am remarcat că prețul e neobișnuit de bun pentru un LG cu aceste specificații — de aici și poziția lui de „preț/calitate” în top. Lipsește kitul de instalare inclus, deci va trebui să cumperi separat țevile și accesoriile de montaj, un detaliu care poate surprinde dacă te aștepți la un pachet complet. Dincolo de asta, e un aparat serios, fără artificii inutile, gândit pentru cine vrea calitate dovedită la un cost controlat. Îl recomandăm cui caută un aer condiționat de încredere fără să plătească în plus pentru branding.",
+      "review": "Dacă bugetul contează dar nu vrei să renunți la fiabilitatea LG, ăsta e modelul pe care îl recomandăm. Clasa A++ și tehnologia Fast Cooling răcesc rapid o cameră de 20–25 mp, iar agentul R32 e mai eficient decât variantele mai vechi. De remarcat că prețul e neobișnuit de bun pentru un LG cu aceste specificații — de aici și poziția lui de „preț/calitate” în top. Lipsește kitul de instalare inclus, deci va trebui să cumperi separat țevile și accesoriile de montaj, un detaliu care poate surprinde dacă te aștepți la un pachet complet. Dincolo de asta, e un aparat serios, fără artificii inutile, gândit pentru cine vrea calitate dovedită la un cost controlat. Îl recomandăm cui caută un aer condiționat de încredere fără să plătească în plus pentru branding.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-pro-12000-btu-clasa-a-fast-cooling-fast-heating-r32-alb-w12te-neu-w12te-ueu/pd/DH551HYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182469"
     },
@@ -521,7 +521,7 @@
       "cons": [
         "Cel mai scump din top"
       ],
-      "review": "Pentru camere mari unde vrei și performanță, și funcții premium, LG Dualcool Deluxe e cel mai complet aparat din top — are cele mai mari scoruri la răcire și la funcții dintre toate cele 10 modele testate. Dual Inverter-ul răcește rapid și eficient un spațiu de peste 30 mp, ionizerul Plasmaster curăță aerul activ, iar controlul de umiditate ajută mai ales vara, când senzația de disconfort vine adesea din umiditate, nu doar din temperatură. Pompa de căldură (HeatPump) îl face util și iarna, ca sursă suplimentară de căldură. Toate aceste funcții au un preț — e cel mai scump aparat din top, iar diferența față de restul listei se simte. Dacă bugetul permite și camera chiar are nevoie de 18.000 BTU, e alegerea premium pe care o recomandăm fără rezerve.",
+      "review": "Pentru camere mari unde vrei și performanță, și funcții premium, LG Dualcool Deluxe e cel mai complet aparat din top — are cele mai mari scoruri la răcire și la funcții dintre toate cele 10 modele din top. Dual Inverter-ul răcește rapid și eficient un spațiu de peste 30 mp, ionizerul Plasmaster curăță aerul activ, iar controlul de umiditate ajută mai ales vara, când senzația de disconfort vine adesea din umiditate, nu doar din temperatură. Pompa de căldură (HeatPump) îl face util și iarna, ca sursă suplimentară de căldură. Toate aceste funcții au un preț — e cel mai scump aparat din top, iar diferența față de restul listei se simte. Dacă bugetul permite și camera chiar are nevoie de 18.000 BTU, e alegerea premium pe care o recomandăm fără rezerve.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-lg-dualcool-deluxe-18000-btu-wifi-clasa-a-a-dual-inverter-heatpump-compressor-control-umiditate-plasmaster-ionizer-alb-h18s1da-ns1-h18s1da-u18/pd/DT2Y5WYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182474"
     },
@@ -579,7 +579,7 @@
       "cons": [
         "Brand mai puțin premium"
       ],
-      "review": "Dacă ai nevoie de 18.000 BTU pentru o cameră mare dar bugetul nu permite un Daikin sau un LG Deluxe, Daewoo Pro e compromisul inteligent. Vine cu kit de instalare inclus — un plus rar la această putere — și cu filtre cu ioni de argint care ajută la igiena aerului. Wi-Fi-ul și funcția iFeel completează un pachet surprinzător de generos pentru segmentul de preț. Nu regăsim inverter în specificațiile lui, spre deosebire de restul aparatelor de top din test, ceea ce înseamnă un consum mai puțin controlat pe termen lung, iar brandul nu are reputația unui Daikin sau Samsung. Pentru cineva care are nevoie de putere mare la un cost accesibil și acceptă compromisul de brand, e o soluție rezonabilă. Nu e alegerea noastră pentru folosire zilnică intensă, dar acoperă bine o nevoie punctuală.",
+      "review": "Dacă ai nevoie de 18.000 BTU pentru o cameră mare dar bugetul nu permite un Daikin sau un LG Deluxe, Daewoo Pro e compromisul inteligent. Vine cu kit de instalare inclus — un plus rar la această putere — și cu filtre cu ioni de argint care ajută la igiena aerului. Wi-Fi-ul și funcția iFeel completează un pachet surprinzător de generos pentru segmentul de preț. Nu regăsim inverter în specificațiile lui, spre deosebire de restul aparatelor de top din selecția noastră, ceea ce înseamnă un consum mai puțin controlat pe termen lung, iar brandul nu are reputația unui Daikin sau Samsung. Pentru cineva care are nevoie de putere mare la un cost accesibil și acceptă compromisul de brand, e o soluție rezonabilă. Nu e alegerea noastră pentru folosire zilnică intensă, dar acoperă bine o nevoie punctuală.",
       "emagUrl": "https://www.emag.ro/aparat-de-aer-conditionat-daewoo-18000-btu-wi-fi-pro-bk-a-a-kit-de-instalare-inclus-3m-gentle-cool-wind-filtre-cu-ioni-de-argint-functie-ifeel-negru-dac-18probk/pd/DPJ1SK3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16182475"
     },

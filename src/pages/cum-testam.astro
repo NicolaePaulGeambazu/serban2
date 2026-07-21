@@ -11,7 +11,7 @@ const nCats = cats.length;
 const nProducts = cats.reduce((n, c) => n + c.data.products.length, 0);
 
 const faq = [
-  { q: 'Testați fizic fiecare produs?', a: 'Nu facem teste de laborator. Comparăm specificațiile oficiale și recenziile publice de la cumpărători, iar unele produse le-am folosit direct. Când o recomandare se bazează doar pe specificații și recenzii, spunem asta deschis.' },
+  { q: 'Testați fizic fiecare produs?', a: 'Nu facem teste de laborator. Comparăm specificațiile oficiale și recenziile publice de la cumpărători, apoi recomandăm pe baza lor. Recomandările sunt editoriale și independente — nu note dintr-un test propriu.' },
   { q: 'Cum stabiliți ordinea din top?', a: 'Ne uităm la specificații, la ce spun cumpărătorii în recenzii, la funcțiile utile și la raportul calitate-preț, apoi ordonăm după ce credem că e cea mai bună alegere pentru fiecare buget. E o recomandare editorială, independentă — nu o notă de laborator.' },
   { q: 'Poate un producător să plătească pentru locul 1?', a: 'Nu. Nu vindem poziții în top și nu acceptăm plată pentru a urca un produs. Comisionul de afiliere e același indiferent de loc.' },
 ];
@@ -21,7 +21,7 @@ const faqSchema = {
   mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
 };
 ---
-<Base title="Cum lucrăm" description="Cum alegem, testăm și ordonăm produsele — pe baza specificațiilor reale și a recenziilor cumpărătorilor, transparent și independent." current="/cum-testam/">
+<Base title="Cum lucrăm" description="Cum alegem și ordonăm produsele — pe baza specificațiilor reale și a recenziilor cumpărătorilor, transparent și independent." current="/cum-testam/">
   <div class="wrap">
     <Breadcrumb items={[{ label: 'Acasă', href: '/' }, { label: 'Cum lucrăm' }]} />
     <section class="cat-hero">

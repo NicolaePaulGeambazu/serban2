@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "gpu",
   "order": 16,
-  "intro": "Am ales și am testat cele mai populare plăci video ale momentului, judecate după performanța în jocuri, ray tracing, memoria video, eficiență și răcire. Mai jos ai topul nostru plus un ghid despre ce contează cu adevărat când alegi între NVIDIA și AMD și cât VRAM îți trebuie în 2026.",
+  "intro": "Am ales și am comparat cele mai populare plăci video ale momentului, judecate după performanța în jocuri, ray tracing, memoria video, eficiență și răcire. Mai jos ai topul nostru plus un ghid despre ce contează cu adevărat când alegi între NVIDIA și AMD și cât VRAM îți trebuie în 2026.",
   "updated": "2026-07-19",
   "productsCount": 10,
   "reviewsRead": 0,
@@ -221,7 +221,7 @@
         }
       ],
       "pros": [
-        "Cel mai puternic AMD din test, aproape de RTX 5080 la raster",
+        "Cel mai puternic AMD din top, aproape de RTX 5080 la raster",
         "Răcire NITRO+ triplu-fan, temperaturi și zgomot foarte bune"
       ],
       "cons": [
@@ -342,7 +342,7 @@
       "cons": [
         "Cooler PULSE mai simplu, puțin mai zgomotos la sarcină maximă"
       ],
-      "review": "PULSE e practic sora mai accesibilă a NITRO+ — aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot topul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul — sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din test. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
+      "review": "PULSE e practic sora mai accesibilă a NITRO+ — aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot topul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul — sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din top. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-xt-gaming-16gb-gddr6-256-bit-11348-03-20g/pd/DYSCXY3BM/"
     },
     {
@@ -399,7 +399,7 @@
       "cons": [
         "La preț similar, RX 9070 XT PULSE oferă mai multă putere brută"
       ],
-      "review": "Dacă NVIDIA RTX 5070 te interesează dar spațiul din carcasă e limitat, PRIME OC e varianta de luat în calcul — un format mai compact decât TUF Gaming, dar fără compromisuri majore la ray tracing sau DLSS 4, care rămân la același nivel bun specific arhitecturii RTX 5070. Cu 12 GB GDDR7 pe 192-bit, acoperă confortabil 1440p în majoritatea titlurilor actuale. Am remarcat că, la un preț similar, RX 9070 XT PULSE oferă mai multă putere brută în raster — deci dacă spațiul nu e o constrângere și prioritatea e cadre pe secundă, varianta AMD merită comparată direct. Însă pentru un build compact, silențios, unde vrei ecosistemul NVIDIA (DLSS, ray tracing matur), PRIME OC își face treaba fără cusur și fără să ocupe jumătate din carcasă.",
+      "review": "Dacă NVIDIA RTX 5070 te interesează dar spațiul din carcasă e limitat, PRIME OC e varianta de luat în calcul — un format mai compact decât TUF Gaming, dar fără compromisuri majore la ray tracing sau DLSS 4, care rămân la același nivel bun specific arhitecturii RTX 5070. Cu 12 GB GDDR7 pe 192-bit, acoperă confortabil 1440p în majoritatea titlurilor actuale. De reținut că, la un preț similar, RX 9070 XT PULSE oferă mai multă putere brută în raster — deci dacă spațiul nu e o constrângere și prioritatea e cadre pe secundă, varianta AMD merită comparată direct. Însă pentru un build compact, silențios, unde vrei ecosistemul NVIDIA (DLSS, ray tracing matur), PRIME OC își face treaba fără cusur și fără să ocupe jumătate din carcasă.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-prime-geforce-rtxtm-5070-oc-edition-12gb-gddr7-192-bit-prime-rtx5070-o12g/pd/DSLPN23BM/"
     },
     {
@@ -675,13 +675,13 @@
         }
       ],
       "pros": [
-        "Cea mai accesibilă din test, pentru 1080p",
+        "Cea mai accesibilă din top, pentru 1080p",
         "Consum redus și răcire silențioasă"
       ],
       "cons": [
         "8 GB și 128-bit — doar pentru Full HD"
       ],
-      "review": "Pentru cine face upgrade de la o placă foarte veche sau cumpără primul PC de gaming cu buget redus, RX 7600 DUAL OC EVO rămâne o opțiune onestă pentru 1080p. E clar cea mai accesibilă placă din test, iar consumul redus și răcirea silențioasă înseamnă că nu ai nevoie de o sursă puternică sau de o carcasă cu ventilație agresivă. Realist, cei 8 GB de memorie pe o magistrală de 128-bit o limitează strict la Full HD — nu te aștepta la performanță confortabilă în 1440p, iar ray tracing-ul e mai degrabă o bifă pe hârtie decât o opțiune folosibilă în jocuri pretențioase. Nu e placa pentru cineva care vrea longevitate de mai mulți ani, dar pentru un sistem de gaming la 1080p, cu buget limitat și fără pretenții la ray tracing, își face treaba fără probleme.",
+      "review": "Pentru cine face upgrade de la o placă foarte veche sau cumpără primul PC de gaming cu buget redus, RX 7600 DUAL OC EVO rămâne o opțiune onestă pentru 1080p. E clar cea mai accesibilă placă din top, iar consumul redus și răcirea silențioasă înseamnă că nu ai nevoie de o sursă puternică sau de o carcasă cu ventilație agresivă. Realist, cei 8 GB de memorie pe o magistrală de 128-bit o limitează strict la Full HD — nu te aștepta la performanță confortabilă în 1440p, iar ray tracing-ul e mai degrabă o bifă pe hârtie decât o opțiune folosibilă în jocuri pretențioase. Nu e placa pentru cineva care vrea longevitate de mai mulți ani, dar pentru un sistem de gaming la 1080p, cu buget limitat și fără pretenții la ray tracing, își face treaba fără probleme.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-radeontm-rx-7600-dual-oc-evo-8gb-gddr6-128bit-dual-rx7600-o8g-evo/pd/D5TNZWYBM/",
       "id": "p10"
     }

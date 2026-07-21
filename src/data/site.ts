@@ -2,7 +2,7 @@ export const site = {
   name: 'TopAlegeri',
   domain: 'topalegeri.ro',
   url: 'https://www.topalegeri.ro',
-  tagline: 'Testăm, comparăm și dăm verdictul.',
+  tagline: 'Comparăm, cântărim și dăm verdictul.',
   description:
     'Recenzii și verdicte scrise de redacția noastră pentru piața din România — electrocasnice, electronice și fitness. Îți spunem pe scurt ce merită cumpărat și de ce, cu link direct către produs.',
   // Google Tag Manager container id ("GTM-XXXXXXX"). If set, GTM is used (manage GA4/Ads inside GTM).

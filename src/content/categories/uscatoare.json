@@ -4,7 +4,7 @@
   "parent": "Electrocasnice",
   "icon": "dryer",
   "order": 8,
-  "intro": "Am ales și am testat cele mai populare uscătoare de rufe ale momentului, judecate după eficiența energetică, capacitate, blândețea cu țesăturile și funcțiile utile. Aproape toate modelele bune de azi sunt cu pompă de căldură — mai jos afli de ce contează asta și care model ți se potrivește.",
+  "intro": "Am ales și am comparat cele mai populare uscătoare de rufe ale momentului, judecate după eficiența energetică, capacitate, blândețea cu țesăturile și funcțiile utile. Aproape toate modelele bune de azi sunt cu pompă de căldură — mai jos afli de ce contează asta și care model ți se potrivește.",
   "author": "mihai-radu",
   "updated": "2026-07-19",
   "productsCount": 10,
@@ -159,13 +159,13 @@
         }
       ],
       "pros": [
-        "Cea mai bună clasă energetică din test (B) la 9 kg",
+        "Cea mai bună clasă energetică din top (B) la 9 kg",
         "Home Connect + Smart Dry, control din aplicație"
       ],
       "cons": [
         "Cel mai scump din top"
       ],
-      "review": "Dacă bugetul permite, acesta e uscătorul pe care îl recomandăm fără ezitare pentru o familie care spală des. Clasa B la 9 kg e cea mai bună combinație de eficiență și capacitate din tot testul — rar vezi un tambur atât de mare care să nu tragă curent ca un radiator. Motorul EcoSilence e într-adevăr liniștit, îl poți lăsa să termine un ciclu seara fără să deranjeze pe nimeni prin apartament. Home Connect nu e doar un gadget: primești notificare exactă când rufele sunt gata și poți porni programul de la birou dacă ai uitat mașina de spălat pornită dimineața. Cele 14 programe acoperă tot, de la lână la sport, iar Smart Dry ajustează automat timpul după cât de umede sunt rufele. Singurul motiv pentru care nu ia nota maximă e prețul — e cel mai scump model din listă, și nu toată lumea are nevoie de toate funcțiile smart. Dar dacă vrei un uscător pe care să-l uiți acolo, funcționând ani buni, ăsta e.",
+      "review": "Dacă bugetul permite, acesta e uscătorul pe care îl recomandăm fără ezitare pentru o familie care spală des. Clasa B la 9 kg e cea mai bună combinație de eficiență și capacitate din tot topul — rar vezi un tambur atât de mare care să nu tragă curent ca un radiator. Motorul EcoSilence e într-adevăr liniștit, îl poți lăsa să termine un ciclu seara fără să deranjeze pe nimeni prin apartament. Home Connect nu e doar un gadget: primești notificare exactă când rufele sunt gata și poți porni programul de la birou dacă ai uitat mașina de spălat pornită dimineața. Cele 14 programe acoperă tot, de la lână la sport, iar Smart Dry ajustează automat timpul după cât de umede sunt rufele. Singurul motiv pentru care nu ia nota maximă e prețul — e cel mai scump model din listă, și nu toată lumea are nevoie de toate funcțiile smart. Dar dacă vrei un uscător pe care să-l uiți acolo, funcționând ani buni, ăsta e.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-bosch-seria-8-pompa-de-caldura-9-kg-14-programe-autodry-condensator-cu-autocuratare-iluminare-interioara-touch-control-smart-dry-ecosilence-drive-home-connect-clasa-b-alb-wqb246dnby/pd/D7VTTJ3BM/"
     },
     {
@@ -330,13 +330,13 @@
         }
       ],
       "pros": [
-        "Clasa C și 8 kg la cel mai mic preț din test",
+        "Clasa C și 8 kg la cel mai mic preț din top",
         "Motor ProSmart Inverter, fiabil și silențios"
       ],
       "cons": [
         "Fără conectivitate Wi-Fi"
       ],
-      "review": "Ăsta e modelul pe care îl recomandăm aproape automat când cineva ne întreabă ce uscător ia fără să cheltuiască pe funcții inutile. Beko a pus unde contează: motor ProSmart Inverter fiabil, senzori OptiSense care opresc programul la momentul potrivit, și 8 kg suficient pentru majoritatea familiilor. Nu are Wi-Fi, dar sincer, puțini utilizatori chiar folosesc notificările de pe telefon în fiecare zi — e o economie de buget mai degrabă decât o pierdere reală. Motorul e surprinzător de silențios pentru segmentul de preț, ceva ce alte mărci reușesc doar la modelele mai scumpe. Am remarcat că senzorii de umiditate sunt corecți: nu am avut rufe umede la final de ciclu, nici supra-uscate și șifonate. Clasa C nu e vârful pieței, dar la acest preț e un compromis rezonabil față de clasa A sau B de sus. Pentru cine vrea fiabilitate Beko și nu vrea să plătească pentru funcții smart pe care nu le va folosi, e cea mai echilibrată alegere din test.",
+      "review": "Ăsta e modelul pe care îl recomandăm aproape automat când cineva ne întreabă ce uscător ia fără să cheltuiască pe funcții inutile. Beko a pus unde contează: motor ProSmart Inverter fiabil, senzori OptiSense care opresc programul la momentul potrivit, și 8 kg suficient pentru majoritatea familiilor. Nu are Wi-Fi, dar sincer, puțini utilizatori chiar folosesc notificările de pe telefon în fiecare zi — e o economie de buget mai degrabă decât o pierdere reală. Motorul e surprinzător de silențios pentru segmentul de preț, ceva ce alte mărci reușesc doar la modelele mai scumpe. Senzorii de umiditate sunt corecți, spun cumpărătorii: rufele nu ies umede la final de ciclu, nici supra-uscate și șifonate. Clasa C nu e vârful pieței, dar la acest preț e un compromis rezonabil față de clasa A sau B de sus. Pentru cine vrea fiabilitate Beko și nu vrea să plătească pentru funcții smart pe care nu le va folosi, e cea mai echilibrată alegere din top.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-pompa-de-caldura-8-kg-15-programe-clasa-c-recycleddry-motor-prosmarttm-inverter-optisense-aquawaver-alb-b3t42242/pd/DNZVMSMBM/"
     },
     {
@@ -392,7 +392,7 @@
       "cons": [
         "Fără conectivitate Wi-Fi"
       ],
-      "review": "Dacă ai haine delicate — lână, mătase sintetică, tricouri de sport cu fibre tehnice — acesta e modelul care le tratează cu cea mai multă grijă din tot testul. DelicateCare reduce temperatura și mișcarea tamburului exact acolo unde alte uscătoare ar continua agresiv, iar SensiCare ajustează timpul după tipul de țesătură selectat, nu doar după umiditate. Motorul inverter e liniștit și, din ce am văzut, rezistent la utilizare zilnică fără semne de uzură prematură. Iluminarea interioară e un detaliu mic dar util când scoți ultimele rufe dintr-un tambur plin. Nu are conectivitate Wi-Fi, deci nu primești notificări pe telefon — un compromis acceptabil dacă oricum stai prin casă cât rulează un ciclu. Clasa C plasează consumul la un nivel mediu, nu excepțional, dar programele blânde compensează prin faptul că hainele scumpe nu se degradează la fel de repede. Pentru cine pune blândețea cu țesăturile pe primul loc, e alegerea corectă.",
+      "review": "Dacă ai haine delicate — lână, mătase sintetică, tricouri de sport cu fibre tehnice — acesta e modelul care le tratează cu cea mai multă grijă din tot topul. DelicateCare reduce temperatura și mișcarea tamburului exact acolo unde alte uscătoare ar continua agresiv, iar SensiCare ajustează timpul după tipul de țesătură selectat, nu doar după umiditate. Motorul inverter e liniștit și, din ce reiese din recenzii, rezistent la utilizare zilnică fără semne de uzură prematură. Iluminarea interioară e un detaliu mic dar util când scoți ultimele rufe dintr-un tambur plin. Nu are conectivitate Wi-Fi, deci nu primești notificări pe telefon — un compromis acceptabil dacă oricum stai prin casă cât rulează un ciclu. Clasa C plasează consumul la un nivel mediu, nu excepțional, dar programele blânde compensează prin faptul că hainele scumpe nu se degradează la fel de repede. Pentru cine pune blândețea cu țesăturile pe primul loc, e alegerea corectă.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-electrolux-pompa-de-caldura-8-kg-clasa-c-sistem-uscare-delicatecare-sensicare-motor-inverter-iluminare-interioara-tambur-usa-reversibila-alb-ew7d385ae/pd/D7RYKCYBM/",
       "id": "p9"
     },
@@ -448,7 +448,7 @@
       "cons": [
         "Clasa D — consum mai mare decât rivalii de sus"
       ],
-      "review": "E varianta pentru cine vrea nume Bosch și construcție solidă, dar nu vrea să plătească pentru Home Connect și toate funcțiile smart ale Seriei 8. Sistemul AntiVibration se simte: chiar și pe un ciclu lung, uscătorul nu se plimbă prin cameră și rămâne surprinzător de stabil, un detaliu apreciat mai ales dacă îl pui pe un suport peste mașina de spălat. Filtrul EasyClean se scoate și se curăță într-un minut, fără scame rămase pe margini, ceea ce contează enorm pentru întreținere pe termen lung. Cele 15 programe AutoDry acoperă orice tip de rufe, de la bumbac gros la sintetice fine. Punctul slab clar e clasa energetică D — cu o treaptă sau două sub rivalii de top din test, se simte în factura lunară dacă îl folosești des. Dacă prioritatea ta e fiabilitatea mărcii și liniștea de funcționare, nu eficiența maximă, e o alegere sigură, dar calculează din timp consumul mai mare.",
+      "review": "E varianta pentru cine vrea nume Bosch și construcție solidă, dar nu vrea să plătească pentru Home Connect și toate funcțiile smart ale Seriei 8. Sistemul AntiVibration se simte: chiar și pe un ciclu lung, uscătorul nu se plimbă prin cameră și rămâne surprinzător de stabil, un detaliu apreciat mai ales dacă îl pui pe un suport peste mașina de spălat. Filtrul EasyClean se scoate și se curăță într-un minut, fără scame rămase pe margini, ceea ce contează enorm pentru întreținere pe termen lung. Cele 15 programe AutoDry acoperă orice tip de rufe, de la bumbac gros la sintetice fine. Punctul slab clar e clasa energetică D — cu o treaptă sau două sub rivalii de top din selecția noastră, se simte în factura lunară dacă îl folosești des. Dacă prioritatea ta e fiabilitatea mărcii și liniștea de funcționare, nu eficiența maximă, e o alegere sigură, dar calculează din timp consumul mai mare.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-bosch-pompa-de-caldura-8-kg-15-programe-autodry-technology-antivibration-filtru-easyclean-clasa-d-alb-negru-wth8520bby/pd/DK77M73BM/"
     },
     {
@@ -505,7 +505,7 @@
       "cons": [
         "Doar 7 kg și clasa D"
       ],
-      "review": "Pentru cine urăște călcatul, SteamCure e motivul principal să alegi acest model. Aburul relaxează fibrele suficient cât cămășile și tricourile să iasă din tambur aproape gata de purtat, iar noi am simțit clar diferența față de un uscător fără această funcție — mai puține cute, mai puțin timp cu fierul de călcat. Programul Hygienic Dry e un plus real dacă ai copii mici sau alergii în casă, pentru că igienizează la temperatură fără să distrugă țesăturile. Capacitatea de 7 kg e cea mai mică variantă din segmentul recomandat de noi, potrivită pentru 1-2 persoane, nu pentru o familie numeroasă. Clasa D înseamnă un consum peste medie, aproape la fel ca modelele mai vechi cu rezistență, deci nu te aștepta la o factură mică dacă îl rulezi zilnic. E genul de aparat pe care îl alegi pentru o funcție specifică — abur și igienizare — nu pentru performanță generală sau eficiență. Dacă asta cauți, îți va plăcea.",
+      "review": "Pentru cine urăște călcatul, SteamCure e motivul principal să alegi acest model. Aburul relaxează fibrele suficient cât cămășile și tricourile să iasă din tambur aproape gata de purtat, iar cumpărătorii simt clar diferența față de un uscător fără această funcție — mai puține cute, mai puțin timp cu fierul de călcat. Programul Hygienic Dry e un plus real dacă ai copii mici sau alergii în casă, pentru că igienizează la temperatură fără să distrugă țesăturile. Capacitatea de 7 kg e cea mai mică variantă din segmentul recomandat de noi, potrivită pentru 1-2 persoane, nu pentru o familie numeroasă. Clasa D înseamnă un consum peste medie, aproape la fel ca modelele mai vechi cu rezistență, deci nu te aștepta la o factură mică dacă îl rulezi zilnic. E genul de aparat pe care îl alegi pentru o funcție specifică — abur și igienizare — nu pentru performanță generală sau eficiență. Dacă asta cauți, îți va plăcea.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-beko-7-kg-clasa-d-pompa-de-caldura-steamcure-hygienic-dry-recycled-dry-alb-b3t67230/pd/DRC1MJMBM/"
     },
     {
@@ -561,7 +561,7 @@
       "cons": [
         "Brand mai puțin cunoscut, fără funcții smart"
       ],
-      "review": "Arctic nu e primul brand la care te gândești când cauți un uscător, dar acest model merită atenție dacă vrei cei mai mulți litri de tambur pentru banii tăi. La 9 kg, capacitatea rivalizează cu Bosch și Samsung de sus, ceea ce e neobișnuit la acest nivel de preț. Motorul Silent Inverter ține zgomotul rezonabil, nu la fel de tăcut ca EcoSilence-ul Bosch, dar departe de a fi deranjant. Cele 15 programe acoperă majoritatea nevoilor obișnuite, iar funcția Aqua Surf ajută la o uscare mai uniformă pe încărcături mari. Ce lipsește e orice urmă de conectivitate smart — nu ai aplicație, nu ai notificări, doar butoane și un display simplu. Fiind un brand mai puțin cunoscut, fiabilitatea pe termen lung e mai greu de garantat față de Bosch sau Samsung, cu toate că nu am întâlnit probleme în perioada de testare. Pentru cine vrea capacitate mare fără să plătească pentru nume sau funcții smart, e o soluție practică.",
+      "review": "Arctic nu e primul brand la care te gândești când cauți un uscător, dar acest model merită atenție dacă vrei cei mai mulți litri de tambur pentru banii tăi. La 9 kg, capacitatea rivalizează cu Bosch și Samsung de sus, ceea ce e neobișnuit la acest nivel de preț. Motorul Silent Inverter ține zgomotul rezonabil, nu la fel de tăcut ca EcoSilence-ul Bosch, dar departe de a fi deranjant. Cele 15 programe acoperă majoritatea nevoilor obișnuite, iar funcția Aqua Surf ajută la o uscare mai uniformă pe încărcături mari. Ce lipsește e orice urmă de conectivitate smart — nu ai aplicație, nu ai notificări, doar butoane și un display simplu. Fiind un brand mai puțin cunoscut, fiabilitatea pe termen lung e mai greu de garantat față de Bosch sau Samsung, cu toate că nu reies probleme majore din recenzii. Pentru cine vrea capacitate mare fără să plătească pentru nume sau funcții smart, e o soluție practică.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-arctic-pompa-de-caldura-9-kg-15-programe-clasa-c-motor-silent-inverter-aqua-surf-alb-a2t29253w/pd/D4TCYZYBM/",
       "id": "p10"
     },
@@ -617,9 +617,9 @@
         "Wrinkle Prevent — mai puține cute"
       ],
       "cons": [
-        "Clasa E, cel mai puțin economic din test"
+        "Clasa E, cel mai puțin economic din top"
       ],
-      "review": "E cel mai conectat uscător din test — aplicația SmartThings îți dă control complet, de la pornire de la distanță la ajustarea programelor direct din telefon, iar AI Energy Mode încearcă să optimizeze consumul în funcție de încărcătură. Wrinkle Prevent chiar face diferența dacă uiți rufele în tambur după ce s-a oprit programul: le rotește ocazional ca să nu se șifoneze, un detaliu mic dar util pentru cei mai dezorganizați dintre noi. Ușurința în utilizare e printre cele mai bune din listă, cu un display clar și meniuri intuitive. Din păcate, toate aceste funcții smart vin cu un compromis serios: clasa energetică E, cea mai slabă din tot testul, ceea ce înseamnă factura cea mai mare la utilizare frecventă. Dacă ești genul care ține la funcții smart și programare de la distanță și nu te deranjează consumul mai mare, îți va plăcea. Dar dacă eficiența energetică e prioritară, sunt variante mai bune mai sus în listă.",
+      "review": "E cel mai conectat uscător din top — aplicația SmartThings îți dă control complet, de la pornire de la distanță la ajustarea programelor direct din telefon, iar AI Energy Mode încearcă să optimizeze consumul în funcție de încărcătură. Wrinkle Prevent chiar face diferența dacă uiți rufele în tambur după ce s-a oprit programul: le rotește ocazional ca să nu se șifoneze, un detaliu mic dar util pentru cei mai dezorganizați dintre noi. Ușurința în utilizare e printre cele mai bune din listă, cu un display clar și meniuri intuitive. Din păcate, toate aceste funcții smart vin cu un compromis serios: clasa energetică E, cea mai slabă din tot topul, ceea ce înseamnă factura cea mai mare la utilizare frecventă. Dacă ești genul care ține la funcții smart și programare de la distanță și nu te deranjează consumul mai mare, îți va plăcea. Dar dacă eficiența energetică e prioritară, sunt variante mai bune mai sus în listă.",
       "emagUrl": "https://www.emag.ro/uscator-samsung-pompa-de-caldura-8-kg-clasa-e-optimal-dry-wrinkle-prevent-wifi-smartthings-ai-energy-alb-dv80cgc0b0ahle/pd/DSLH27YBM/"
     },
     {
@@ -668,13 +668,13 @@
         }
       ],
       "pros": [
-        "Cel mai accesibil uscător cu pompă de căldură din test",
+        "Cel mai accesibil uscător cu pompă de căldură din top",
         "Display LED, indicatori filtru și rezervor"
       ],
       "cons": [
         "Doar 7 kg și fără conectivitate"
       ],
-      "review": "Surprinzător, cel mai ieftin model din listă e și singurul cu clasă A+ — o combinație pe care nu te aștepți s-o găsești la acest nivel de preț. Heinner nu e un brand premium, dar a făcut temele: pompă de căldură reală, 15 programe și un display LED care îți arată clar starea filtrului și a rezervorului de apă, ceva ce modele mai scumpe uneori omit. Blocarea pentru acces copii e un plus binevenit dacă ai cei mici prin casă. Capacitatea de 7 kg e limitată pentru familii numeroase, dar suficientă pentru 1-2 persoane sau cupluri. Nu are Wi-Fi și nici funcții smart, dar la acest preț nici nu te aștepți. Zgomotul e puțin peste media testului, deci nu-l amplasa lângă un living unde stai mult timp. Pentru cine vrea intrarea în lumea uscătoarelor cu pompă de căldură fără să cheltuiască mult, e cea mai bună poartă de acces din tot topul.",
+      "review": "Surprinzător, cel mai ieftin model din listă e și singurul cu clasă A+ — o combinație pe care nu te aștepți s-o găsești la acest nivel de preț. Heinner nu e un brand premium, dar a făcut temele: pompă de căldură reală, 15 programe și un display LED care îți arată clar starea filtrului și a rezervorului de apă, ceva ce modele mai scumpe uneori omit. Blocarea pentru acces copii e un plus binevenit dacă ai cei mici prin casă. Capacitatea de 7 kg e limitată pentru familii numeroase, dar suficientă pentru 1-2 persoane sau cupluri. Nu are Wi-Fi și nici funcții smart, dar la acest preț nici nu te aștepți. Zgomotul e puțin peste media topului, deci nu-l amplasa lângă un living unde stai mult timp. Pentru cine vrea intrarea în lumea uscătoarelor cu pompă de căldură fără să cheltuiască mult, e cea mai bună poartă de acces din tot topul.",
       "emagUrl": "https://www.emag.ro/uscator-de-rufe-heinner-pompa-de-caldura-7-kg-15-programe-clasa-a-e-display-led-lumina-cuva-indicator-curatare-filtru-scame-indicator-rezervor-colectare-apa-plin-blocare-acces-copii-alb-hhpd-v7t1cha/pd/DVRPVQMBM/"
     }
   ],
