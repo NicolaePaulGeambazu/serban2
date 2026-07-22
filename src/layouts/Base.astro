@@ -55,6 +55,26 @@ const website = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Google Consent Mode v2 — default denied until the visitor opts in -->
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+        analytics_storage: 'denied', functionality_storage: 'granted', security_storage: 'granted',
+        wait_for_update: 500
+      });
+      // Returning visitors: apply their stored choice before any tag fires.
+      try {
+        var _c = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null');
+        if (_c) gtag('consent', 'update', {
+          ad_storage: _c.marketing ? 'granted' : 'denied',
+          ad_user_data: _c.marketing ? 'granted' : 'denied',
+          ad_personalization: _c.marketing ? 'granted' : 'denied',
+          analytics_storage: _c.analytics ? 'granted' : 'denied'
+        });
+      } catch (e) {}
+    </script>
     <!-- Google Tag Manager -->
     <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

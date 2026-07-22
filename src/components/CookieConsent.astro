@@ -80,8 +80,17 @@ const gtmId = site.googleTagManagerId;
     }
     function apply(c) {
       if (!c) return;
-      // Expose consent signals so GTM triggers can gate individual tags (Consent Mode friendly).
       window.dataLayer = window.dataLayer || [];
+      // Google Consent Mode v2 — push the user's choice so GTM/GA update from the
+      // default "denied" state set in the <head>.
+      function gtag(){ window.dataLayer.push(arguments); }
+      gtag('consent', 'update', {
+        ad_storage: c.marketing ? 'granted' : 'denied',
+        ad_user_data: c.marketing ? 'granted' : 'denied',
+        ad_personalization: c.marketing ? 'granted' : 'denied',
+        analytics_storage: c.analytics ? 'granted' : 'denied',
+      });
+      // Also expose plain signals for custom GTM triggers.
       window.dataLayer.push({ event: 'vk_consent', analytics_consent: !!c.analytics, ad_consent: !!c.marketing });
       // Load the tag container only AFTER consent, and only once.
       if (c.analytics || c.marketing) {
