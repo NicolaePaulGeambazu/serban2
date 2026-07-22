@@ -21,7 +21,9 @@ function hay(p: Product): string {
   return norm(p.name + ' ' + (p.specs || []).map((s) => `${s.value} ${s.label}`).join(' '));
 }
 
-export type SegmentDef = { slug: string; label: string; keywords: string[] };
+// `group` lets one category expose several segment dimensions at once (e.g. TVs by
+// brand AND by size). When set, it overrides `navLabel` for that segment's display.
+export type SegmentDef = { slug: string; label: string; keywords: string[]; group?: string };
 export type CategoryConfig = { kind: 'brand' | 'spec'; navLabel: string; segments: SegmentDef[] };
 
 export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
@@ -85,6 +87,21 @@ export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
     segments: [
       { slug: 'pana-14l', label: 'până la 14 L/24h', keywords: ['10l24h', '12l24h', '13l24h', '14l24h'] },
       { slug: '20-25l', label: '20–25 L/24h', keywords: ['20l24h', '22l24h', '25l24h'] },
+    ],
+  },
+  'televizoare': {
+    kind: 'spec', navLabel: 'Filtrează',
+    // TCL and 55" first (most-searched), then the rest.
+    segments: [
+      { slug: 'tcl', label: 'TCL', keywords: ['tcl'], group: 'Pe brand' },
+      { slug: '55-inch', label: '55" (139 cm)', keywords: ['139cm', '55"'], group: 'Pe mărime' },
+      { slug: 'samsung', label: 'Samsung', keywords: ['samsung'], group: 'Pe brand' },
+      { slug: 'lg', label: 'LG', keywords: ['lg'], group: 'Pe brand' },
+      { slug: 'sony', label: 'Sony', keywords: ['sony'], group: 'Pe brand' },
+      { slug: 'philips', label: 'Philips', keywords: ['philips'], group: 'Pe brand' },
+      { slug: '43-inch', label: '43" (108 cm)', keywords: ['108cm', '43"'], group: 'Pe mărime' },
+      { slug: '50-inch', label: '50" (126 cm)', keywords: ['126cm', '50"'], group: 'Pe mărime' },
+      { slug: '65-inch', label: '65" (164 cm)', keywords: ['164cm', '65"'], group: 'Pe mărime' },
     ],
   },
 };

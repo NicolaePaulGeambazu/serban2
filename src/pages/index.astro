@@ -17,6 +17,7 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
 
 const cleanCat = (h1: string) =>
   h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace(/ în 2026$/, '');
+const cap = (s: string) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s);
 // One block per category. The row leads with a "Top N" general card, then either
 // segment cards (brand / spec sub-rankings) or, if none are configured, the next
 // top products as cards.
@@ -25,13 +26,14 @@ const catBlocks = cats.map((c) => {
   const cfg = CATEGORY_SEGMENTS[c.id];
   const segs = segmentsWithProducts(c.id, c.data.products).map((s) => {
     const top = sorted.find((p) => productMatchesSegment(p, s));
-    return { slug: s.slug, label: s.label, count: s.count, image: top?.image };
+    return { slug: s.slug, label: s.label, count: s.count, image: top?.image, group: s.group ?? cfg?.navLabel ?? '' };
   });
   return {
     id: c.id,
-    name: cleanCat(c.data.h1),
+    name: cap(cleanCat(c.data.h1)),
     icon: c.data.icon,
-    count: c.data.productsCount,
+    topN: Math.min(c.data.productsCount, 10),
+    updated: new Date(c.data.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' }),
     winner: sorted[0],
     top: sorted.slice(1, 4),
     segs,
@@ -105,7 +107,7 @@ const catBlocks = cats.map((c) => {
             <div class="cb-head">
               <div>
                 <h3>{c.name}</h3>
-                <span class="cb-meta">Top {c.count} · actualizat {c.updated}</span>
+                <span class="cb-meta">Top {c.topN} · actualizat {c.updated}</span>
               </div>
               <a class="cb-all" href={`/clasament/${c.id}/`}>Vezi toate <Icon name="arrow" /></a>
             </div>
@@ -115,7 +117,7 @@ const catBlocks = cats.map((c) => {
                   {c.winner?.image
                     ? <img src={c.winner.image} alt={`Cele mai bune ${c.name}`} width="150" height="128" loading="lazy" decoding="async" />
                     : <span class="ic-fallback"><Icon name={c.icon} /></span>}
-                  <span class="pcard-badge">Top {c.count}</span>
+                  <span class="pcard-badge">Top {c.topN}</span>
                 </div>
                 <div class="pcard-body">
                   <span class="pcard-kicker">Clasament general</span>
@@ -132,7 +134,7 @@ const catBlocks = cats.map((c) => {
                           : <span class="ic-fallback"><Icon name={c.icon} /></span>}
                       </div>
                       <div class="pcard-body">
-                        <span class="pcard-kicker">{c.navLabel}</span>
+                        <span class="pcard-kicker">{s.group}</span>
                         <span class="pcard-name">{s.label}</span>
                       </div>
                     </a>

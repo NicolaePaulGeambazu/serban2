@@ -54,10 +54,14 @@ const faqSchema = {
   })),
 };
 
-// Sub-ranking segments (brand or spec) that have products in this category.
-const segLinks = segmentsWithProducts(cat.id, d.products)
-  .map((s) => ({ label: s.label, href: `/clasament/${cat.id}/${s.slug}/` }));
-const segNavLabel = CATEGORY_SEGMENTS[cat.id]?.navLabel ?? 'Vezi pe segment';
+// Sub-ranking segments (brand / spec), grouped by dimension for display.
+const _segs = segmentsWithProducts(cat.id, d.products);
+const _navDefault = CATEGORY_SEGMENTS[cat.id]?.navLabel ?? 'Vezi pe segment';
+const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g) => ({
+  label: g,
+  links: _segs.filter((s) => (s.group ?? _navDefault) === g)
+    .map((s) => ({ label: s.label, href: `/clasament/${cat.id}/${s.slug}/` })),
+}));
 ---
 <Base title={d.title} description={d.intro} current="/categorii/" bodyClass="has-mcta">
   <div class="wrap">
@@ -76,12 +80,12 @@ const segNavLabel = CATEGORY_SEGMENTS[cat.id]?.navLabel ?? 'Vezi pe segment';
 
     <QuickPicks picks={d.quickPicks} products={d.products} />
 
-    {segLinks.length > 0 && (
+    {segGroups.map((g) => (
       <div class="brand-nav">
-        <span class="bn-label">{segNavLabel}:</span>
-        {segLinks.map((s) => <a class="chip" href={s.href}>{s.label}</a>)}
+        <span class="bn-label">{g.label}:</span>
+        {g.links.map((s) => <a class="chip" href={s.href}>{s.label}</a>)}
       </div>
-    )}
+    ))}
   </div>
 
   <div class="toolbar" id="clasament">

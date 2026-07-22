@@ -29,13 +29,15 @@ export async function getStaticPaths() {
         .sort((a, b) => a.rank - b.rank)
         .map((p, i) => ({ ...p, rank: i + 1, win: i === 0 }));
       if (!products.length) continue;
+      const segNav = seg.group ?? cfg.navLabel;
       const others = cfg.segments
-        .filter((s) => s.slug !== seg.slug && cat.data.products.some((p) => productMatchesSegment(p, s)))
+        .filter((s) => s.slug !== seg.slug && (s.group ?? cfg.navLabel) === segNav
+          && cat.data.products.some((p) => productMatchesSegment(p, s)))
         .map((s) => ({ slug: s.slug, label: s.label }));
       paths.push({
         params: { cat: catId, seg: seg.slug },
         props: {
-          cat, kind: cfg.kind, navLabel: cfg.navLabel,
+          cat, kind: cfg.kind, navLabel: segNav,
           segLabel: seg.label, catName: clean(cat.data.h1), products, others,
         },
       });
@@ -50,9 +52,7 @@ const winner = products[0];
 const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
 
 const h1 = `Cele mai bune ${catName} ${segLabel} în 2026`;
-const intro = kind === 'brand'
-  ? `Am ales și am comparat modelele ${segLabel} de ${catName} din topul nostru, pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model ${segLabel}, cu verdictul nostru și link direct.`
-  : `Cauți ${catName} de ${segLabel}? Am filtrat topul nostru și am păstrat doar modelele din această categorie, ordonate pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model, cu verdictul nostru și link direct.`;
+const intro = `Cauți ${catName} ${segLabel}? Am filtrat topul nostru și ți-am lăsat doar aceste modele, ordonate pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model, cu verdictul nostru și link direct către eMAG.`;
 
 const itemList = {
   '@context': 'https://schema.org',

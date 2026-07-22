@@ -7,7 +7,7 @@
   "intro": "Ți-am pregătit recenziile celor mai căutate televizoare din 2026, ordonate după calitatea imaginii, performanța la gaming, sistemul smart și raportul dintre tehnologie și buget. Mai jos ai topul nostru, cu argumente pentru fiecare loc, plus un ghid care explică pe înțelesul tuturor ce contează cu adevărat.",
   "updated": "2026-07-19",
   "author": "mihai-radu",
-  "productsCount": 10,
+  "productsCount": 20,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -230,7 +230,8 @@
       ],
       "review": "Acesta e televizorul pe care îl recomandăm cel mai des când cineva ne întreabă „ce iau dacă nu vreau să dau bani pe OLED?”. Panoul QD-MiniLED scoate o luminozitate impresionantă, cu culori saturate care se văd bine chiar și cu draperiile deschise ziua, iar la 100Hz gaming-ul pe consolă rulează fără sacadări vizibile. Google TV e rapid, cu toate aplicațiile importante instalate din start, deci nu pierzi timp căutând Netflix sau HBO în meniuri ascunse. Diferența față de un OLED se vede doar când compari direct: negrul nu e absolut, ci un gri foarte închis, vizibil în scene complet întunecate. Pentru restul timpului, la conținut normal, majoritatea oamenilor nu ar ghici diferența. Dacă vrei un ecran mare, luminos, bun la gaming și nu vrei să plătești în plus pentru perfecțiunea negrului, ăsta e raportul preț/calitate pe care îl recomandăm fără ezitare.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-139-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-55c6k/pd/DF4FMB3BM",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205123"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205123",
+      "win": false
     },
     {
       "id": "p3",
@@ -289,7 +290,8 @@
       ],
       "review": "Cel mai distractiv televizor din top, pur și simplu pentru că Ambilight-ul schimbă felul în care experimentezi un film — lumina proiectată pe perete în spatele ecranului se sincronizează cu ce se întâmplă pe imagine și, odată ce te obișnuiești, greu mai renunți la ea. Panoul OLED e la fel de bun ca la celelalte modele din top, cu negru perfect și culori corecte, iar HDMI 2.1 complet acoperă și gaming-ul pe consolă nouă. Google TV rulează curat, fără lag la navigare. Compromisul e diagonala: la 48\", e ideal pentru dormitor, birou sau o cameră de zi mai mică, dar nu ține pasul cu un living mare, unde 55\"+ arată mult mai spectaculos. Pentru cineva cu spațiu limitat care vrea totuși experiența completă de OLED plus un accesoriu ambiental cu adevărat util, e alegerea noastră favorită sub 50 de inch.",
       "emagUrl": "https://www.emag.ro/televizor-philips-ambilight-tv-oled-48oled820-121-cm-google-tv-4k-ultra-hd-100hz-clasa-g-48oled820-12/pd/D2FTXH3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205124"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205124",
+      "win": false
     },
     {
       "id": "p4",
@@ -348,7 +350,8 @@
       ],
       "review": "Dacă bugetul e limitat dar vrei un ecran mare cu adevărat, ăsta e modelul pe care l-am recomanda fără să stăm pe gânduri. 65\" de QD-MiniLED la un preț mult sub ce cer brandurile clasice pentru aceeași diagonală, cu imagine luminoasă și culori vii care se descurcă bine și în camere cu multă lumină naturală. 100Hz și Google TV completează pachetul pentru un living modern, iar la gaming pe consolă nu e nimic de reproșat. Singurul lucru de verificat înainte să cumperi: ai nevoie de spațiu real — 65\" cere minimum 2,5-3 metri distanță ca să nu obosească ochii, altfel efectul se pierde sau devine incomod. Nu e televizorul pentru o cameră mică, dar pentru un living generos unde vrei senzația de cinema fără prețul unui OLED de aceeași mărime, e exact ce cauți.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-164-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-65c6k/pd/DJ4FMB3BM",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205125"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205125",
+      "win": false
     },
     {
       "id": "p5",
@@ -407,7 +410,8 @@
       ],
       "review": "E mai ales un televizor de birou/gaming pe un monitor mare, și acolo strălucește cu adevărat: panoul OLED de 48\" cu HDMI 2.1, VRR și ALLM se comportă impecabil pe PC sau consolă, cu input lag redus și imagine perfect fluidă la 100Hz. Calitatea imaginii e practic identică cu fratele mai mare de 55\" — același negru absolut, aceleași culori corecte — doar în format mai compact. webOS rămâne rapid și intuitiv, fără să te oblige să înveți un meniu nou. Compromisul evident: la 48\", într-un living generos, s-ar putea să simți că îți lipsește ceva din impactul vizual pe care îl are un ecran mai mare, mai ales dacă stai la distanță mare de canapea. Dar pentru un dormitor, un birou sau o cameră de gaming dedicată, e probabil cel mai bun OLED compact pe care îl poți cumpăra acum.",
       "emagUrl": "https://www.emag.ro/televizor-lg-oled-evo-48c52la-121-cm-smart-4k-ultra-hd-100-hz-clasa-g-oled48c52la/pd/D54WJK3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205126"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205126",
+      "win": false
     },
     {
       "id": "p6",
@@ -461,7 +465,8 @@
       ],
       "review": "Pentru cineva care vrea un 55\" QLED solid, fără să intre în discuția OLED versus MiniLED, ăsta acoperă nevoile de bază foarte bine. Quantum Dot dă culori vii și saturate, iar Tizen rămâne un sistem smart rapid, cu toate aplicațiile mari instalate corect din prima configurare. Prețul e mult sub cel al modelelor OLED din top, ceea ce îl face o alegere logică pentru cineva care se uită mai ales la televiziune, filme obișnuite și streaming, nu la performanță de vârf. Unde rămâne în urmă e la gaming: fără 100Hz real, un jucător pe consolă nouă va simți diferența față de modelele TCL sau LG din listă. Dacă gaming-ul rapid nu e prioritate și vrei doar un televizor mare, colorat și de încredere de la un brand cunoscut, e o alegere sigură.",
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-55q7f2-138-cm-smart-4k-ultra-hd-clasa-g-qe55q7f2auxxh/pd/DT3GRT3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205127"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205127",
+      "win": false
     },
     {
       "id": "p7",
@@ -518,11 +523,75 @@
       ],
       "review": "Interesant caz în top: panoul de bază e LED clasic, nu QLED sau OLED, dar procesarea de imagine marca Sony reușește să scoată mai mult decât te-ai aștepta din specificațiile pe hârtie — culorile arată naturale, iar mișcarea e curată la conținut normal de filme și seriale. Google TV rulează fluid, cu recomandări bune și navigare rapidă între aplicații. Unde se vede clar limita e la gaming: fără 100Hz, rămâi la 60Hz, ceea ce e suficient pentru consolă veche sau conținut obișnuit, dar nu ține pasul cu modelele din top orientate spre gaming pe PS5 sau PC. E televizorul potrivit pentru cineva care pune preț pe calitatea imaginii la filme și seriale, apreciază brandul Sony și nu are nevoie de un panou de ultimă generație sau de rată mare de refresh.",
       "emagUrl": "https://www.emag.ro/televizor-sony-bravia-3-led-50s39-126-cm-smart-google-tv-4k-ultra-hd-clasa-e-k50s39b-cei/pd/D2527K3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205128"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205128",
+      "win": false
+    },
+    {
+      "id": "t1",
+      "score": 8.3,
+      "name": "TCL QD-MiniLED 50C6K",
+      "tag": "MiniLED accesibil",
+      "feedId": "D94FMB3BM",
+      "features": [
+        "miniled",
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "126 cm",
+          "label": "50\" 4K"
+        },
+        {
+          "value": "QD-MiniLED",
+          "label": "panou"
+        },
+        {
+          "value": "100 Hz",
+          "label": "Google TV"
+        },
+        {
+          "value": "Clasa E",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 88
+        },
+        {
+          "label": "Contrast",
+          "pct": 90
+        },
+        {
+          "label": "Gaming",
+          "pct": 84
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Panou QD-MiniLED cu contrast bun la preț accesibil",
+        "100 Hz, util pentru sport și gaming",
+        "Google TV cu aplicații multe"
+      ],
+      "cons": [
+        "Luminozitate sub modelele MiniLED de top",
+        "Fără cele mai avansate funcții de gaming"
+      ],
+      "review": "50C6K aduce tehnologia QD-MiniLED, de obicei rezervată modelelor scumpe, la o diagonală de 50\" și un preț accesibil. Zonele de dimming local oferă un contrast vizibil mai bun decât un LED clasic, negrurile sunt mai adânci, iar cei 100 Hz ajută la sport și gaming. Google TV rulează fluid și are toate aplicațiile importante. Nu atinge luminozitatea vârfurilor de gamă MiniLED și nu are toate opțiunile avansate de gaming, dar pentru buget rămâne una dintre cele mai bune imagini pe care le poți lua. Pe baza specificațiilor și a recenziilor, e o alegere excelentă pentru cine vrea MiniLED fără să plătească premium.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-126-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-e-50c6k/pd/D94FMB3BM/",
+      "rank": 8,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205706",
+      "image": "/img/products/d94fmb3bm.jpg"
     },
     {
       "id": "p8",
-      "rank": 8,
+      "rank": 9,
       "name": "TCL QD-MiniLED 50C7K",
       "tag": "MiniLED accesibil la 50\"",
       "score": 8.2,
@@ -572,64 +641,75 @@
       ],
       "review": "Cel mai echilibrat model din segmentul de 50\" din top: primești tehnologie QD-MiniLED, deci luminozitate și culori peste un LED obișnuit, plus 100Hz real pentru gaming, la un preț accesibil. Google TV e același sistem rapid și complet pe care îl regăsim și la modelele TCL mai mari, deci nu pierzi nimic la partea de smart. Pe consolă, diferența față de un LED clasic de aceeași diagonală se simte imediat, mai ales la scene cu contrast puternic. Limitarea e evidentă doar pentru cine vrea un ecran generos — la 50\" ești confortabil în dormitor sau într-o cameră de zi medie, dar un living mare cere o diagonală mai mare. Pentru cineva care vrea gaming bun și imagine luminoasă la un preț rezonabil, fără să sacrifice dimensiunea prea mult, e o alegere foarte solidă.",
       "emagUrl": "https://www.emag.ro/televizor-tcl-qd-miniled-126-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-50c7k/pd/D74FMB3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205129"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205129",
+      "win": false
     },
     {
-      "id": "p9",
-      "rank": 9,
-      "name": "Samsung QLED 50Q7F2",
-      "tag": "Cea mai bună alegere pe buget",
-      "score": 8,
-      "image": "/img/products/dn3grt3bm.jpg",
-      "feedId": "DN3GRT3BM",
-      "features": [],
+      "id": "t2",
+      "score": 8.2,
+      "name": "TCL QLED 55P8K",
+      "tag": "QLED 55\" echilibrat",
+      "feedId": "D64FMB3BM",
+      "features": [
+        "qled",
+        "4k",
+        "google-tv"
+      ],
       "specs": [
         {
-          "value": "50\" QLED",
-          "label": "4K"
+          "value": "139 cm",
+          "label": "55\" 4K"
         },
         {
-          "value": "Smart",
-          "label": "Tizen"
+          "value": "QLED",
+          "label": "panou"
         },
         {
-          "value": "Quantum",
-          "label": "Dot"
+          "value": "100 Hz",
+          "label": "Google TV"
+        },
+        {
+          "value": "Clasa F",
+          "label": "energetic"
         }
       ],
       "scores": [
         {
           "label": "Imagine",
-          "pct": 82
+          "pct": 86
         },
         {
-          "label": "Sunet",
-          "pct": 76
-        },
-        {
-          "label": "Smart",
-          "pct": 85
+          "label": "Contrast",
+          "pct": 84
         },
         {
           "label": "Gaming",
-          "pct": 66
+          "pct": 84
+        },
+        {
+          "label": "Smart",
+          "pct": 86
         }
       ],
       "pros": [
-        "Cel mai ieftin QLED bun din top",
-        "Culori vii pentru preț"
+        "QLED cu culori vii pe 55\"",
+        "100 Hz pentru sport și gaming",
+        "Google TV complet"
       ],
       "cons": [
-        "Fără 100Hz",
-        "Sunet mediu"
+        "Contrast sub MiniLED",
+        "Boxe modeste"
       ],
-      "review": "Cel mai accesibil model bun din tot topul și alegerea evidentă dacă bugetul e principala grijă. Quantum Dot oferă culori vii, peste ce ai obține de la un LED simplu la același preț, iar Tizen rulează curat, fără să te enerveze cu lag la navigare. Sincer, nu te aștepta la minuni: sunetul e mediu, tipic pentru orice televizor plat subțire, iar lipsa suportului pentru 100Hz înseamnă că gaming-ul rapid pe consolă nouă nu e punctul forte. Pentru televizor, filme obișnuite și streaming zilnic, însă, face treaba foarte bine și arată surprinzător de bine pentru segmentul lui de preț. Dacă vrei un 50\" decent, de la un brand de încredere, fără să te complici cu tehnologii premium pe care poate nu le folosești oricum, e alegerea sigură pe buget.",
-      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-50q7f2-125-cm-smart-4k-ultra-hd-clasa-g-qe50q7f2auxxh/pd/DN3GRT3BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205130"
+      "review": "55P8K e un QLED de 55\" bine echilibrat: culorile sunt vii datorită stratului Quantum Dot, imaginea 4K e clară, iar cei 100 Hz fac diferența la sport și în jocuri. Google TV oferă acces la toate aplicațiile de streaming și comenzi vocale. Nu are contrastul unui MiniLED și boxele integrate sunt modeste, ca la majoritatea televizoarelor din această gamă, dar la raportul preț/diagonală e o alegere solidă pentru living. Pe baza specificațiilor și a recenziilor, îl recomandăm cui vrea un QLED mare, luminos și fluid, la un preț rezonabil.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qled-139-cm-smart-google-tv-4k-ultra-hd-100hz-clasa-f-55p8k/pd/D64FMB3BM/",
+      "rank": 10,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205707",
+      "image": "/img/products/d64fmb3bm.jpg"
     },
     {
       "id": "p10",
-      "rank": 10,
+      "rank": 11,
       "name": "Samsung QLED 98Q7F",
       "tag": "Cel mai mare ecran (98\")",
       "score": 8.1,
@@ -684,7 +764,559 @@
       ],
       "review": "Cel mai spectaculos model din top pur prin dimensiune — la 98\", efectul de cinema acasă e real, nu doar un slogan de marketing, și transformă orice living generos într-o sală de proiecție proprie. Quantum Dot menține culorile vii chiar și la o diagonală atât de mare, iar Tizen se comportă la fel de bine ca pe modelele mai mici din gamă. E clar un televizor de nișă: ai nevoie de un living cu adevărat mare și de o distanță considerabilă față de canapea ca imaginea să nu fie copleșitoare sau, dimpotrivă, ca detaliile să nu se piardă de aproape. Prețul e pe măsura dimensiunii, mult peste restul topului. Dacă ai spațiul și bugetul pentru un ecran cu adevărat impresionant și vrei experiența de cinema fără proiector, e singurul televizor din listă care oferă asta.",
       "emagUrl": "https://www.emag.ro/televizor-samsung-qled-98q7f-247-cm-smart-4k-ultra-hd-clasa-g-qe98q7faauxxh/pd/D896932BM/",
-      "affiliateUrl": "https://l.profitshare.ro/l/16205131"
+      "affiliateUrl": "https://l.profitshare.ro/l/16205131",
+      "win": false
+    },
+    {
+      "id": "t3",
+      "score": 8.1,
+      "name": "Philips QLED 55PUS7810 Ambilight",
+      "tag": "QLED cu Ambilight",
+      "feedId": "DC692N3BM",
+      "features": [
+        "qled",
+        "4k"
+      ],
+      "specs": [
+        {
+          "value": "139 cm",
+          "label": "55\" 4K"
+        },
+        {
+          "value": "QLED",
+          "label": "panou"
+        },
+        {
+          "value": "Smart TV",
+          "label": "Philips"
+        },
+        {
+          "value": "Clasa E",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 86
+        },
+        {
+          "label": "Contrast",
+          "pct": 84
+        },
+        {
+          "label": "Ambianță",
+          "pct": 92
+        },
+        {
+          "label": "Smart",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Ambilight care proiectează lumină pe perete, imersiune plus",
+        "Panou QLED cu culori vii",
+        "Diagonală mare de 55\""
+      ],
+      "cons": [
+        "Sistemul smart Philips mai puțin fluid ca Google TV",
+        "Fără 100 Hz dedicat gaming-ului"
+      ],
+      "review": "55PUS7810 mizează pe atuul clasic Philips — Ambilight, sistemul de LED-uri din spate care proiectează lumină colorată pe perete, extinzând vizual imaginea și crescând imersiunea la filme și jocuri. Panoul QLED redă culori vii, iar 4K-ul e clar pe cei 55\". Platforma smart Philips e ceva mai puțin fluidă decât Google TV și nu are un mod de gaming la 100 Hz dedicat, dar Ambilight-ul rămâne un diferențiator real pe care puțini îl oferă. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine pune preț pe ambianță și pe un plus de spectacol în camera de zi.",
+      "emagUrl": "https://www.emag.ro/televizor-philips-qled-55pus7810-139-cm-smart-tv-4k-ultra-hd-clasa-e-55pus7810-12/pd/DC692N3BM/",
+      "rank": 12,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205708",
+      "image": "/img/products/dc692n3bm.jpg"
+    },
+    {
+      "id": "p9",
+      "rank": 13,
+      "name": "Samsung QLED 50Q7F2",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 8,
+      "image": "/img/products/dn3grt3bm.jpg",
+      "feedId": "DN3GRT3BM",
+      "features": [],
+      "specs": [
+        {
+          "value": "50\" QLED",
+          "label": "4K"
+        },
+        {
+          "value": "Smart",
+          "label": "Tizen"
+        },
+        {
+          "value": "Quantum",
+          "label": "Dot"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 82
+        },
+        {
+          "label": "Sunet",
+          "pct": 76
+        },
+        {
+          "label": "Smart",
+          "pct": 85
+        },
+        {
+          "label": "Gaming",
+          "pct": 66
+        }
+      ],
+      "pros": [
+        "Cel mai ieftin QLED bun din top",
+        "Culori vii pentru preț"
+      ],
+      "cons": [
+        "Fără 100Hz",
+        "Sunet mediu"
+      ],
+      "review": "Cel mai accesibil model bun din tot topul și alegerea evidentă dacă bugetul e principala grijă. Quantum Dot oferă culori vii, peste ce ai obține de la un LED simplu la același preț, iar Tizen rulează curat, fără să te enerveze cu lag la navigare. Sincer, nu te aștepta la minuni: sunetul e mediu, tipic pentru orice televizor plat subțire, iar lipsa suportului pentru 100Hz înseamnă că gaming-ul rapid pe consolă nouă nu e punctul forte. Pentru televizor, filme obișnuite și streaming zilnic, însă, face treaba foarte bine și arată surprinzător de bine pentru segmentul lui de preț. Dacă vrei un 50\" decent, de la un brand de încredere, fără să te complici cu tehnologii premium pe care poate nu le folosești oricum, e alegerea sigură pe buget.",
+      "emagUrl": "https://www.emag.ro/televizor-samsung-qled-50q7f2-125-cm-smart-4k-ultra-hd-clasa-g-qe50q7f2auxxh/pd/DN3GRT3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205130",
+      "win": false
+    },
+    {
+      "id": "t4",
+      "score": 8,
+      "name": "TCL QLED 55P7K",
+      "tag": "QLED 55\" preț bun",
+      "feedId": "DNCFMB3BM",
+      "features": [
+        "qled",
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "139 cm",
+          "label": "55\" 4K"
+        },
+        {
+          "value": "QLED",
+          "label": "panou"
+        },
+        {
+          "value": "Google TV",
+          "label": "smart"
+        },
+        {
+          "value": "Clasa F",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 84
+        },
+        {
+          "label": "Contrast",
+          "pct": 82
+        },
+        {
+          "label": "Gaming",
+          "pct": 80
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "QLED de 55\" la unul dintre cele mai mici prețuri",
+        "Google TV complet",
+        "Culori vii, 4K clar"
+      ],
+      "cons": [
+        "Fără 100 Hz",
+        "Contrast sub MiniLED"
+      ],
+      "review": "55P7K e opțiunea QLED de 55\" pentru buget: oferă culorile vii ale tehnologiei Quantum Dot și rezoluția 4K pe o diagonală mare, la un preț foarte competitiv. Google TV asigură toate aplicațiile de streaming și controlul vocal. Față de P8K renunță la panoul de 100 Hz, deci pentru gaming rapid nu e ideal, iar contrastul rămâne sub un MiniLED. Dar pentru consum obișnuit de filme, seriale și TV, oferă multă diagonală și culoare la bani puțini. Pe baza specificațiilor și a recenziilor, e o alegere bună pentru cine vrea un QLED mare, ieftin, pentru uz general.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qled-139-cm-smart-google-tv-4k-ultra-hd-clasa-f-55p7k/pd/DNCFMB3BM/",
+      "rank": 14,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205709",
+      "image": "/img/products/dncfmb3bm.jpg"
+    },
+    {
+      "id": "t5",
+      "score": 7.9,
+      "name": "Sony Bravia 3 50S35",
+      "tag": "Sony, procesare bună",
+      "feedId": "D3527K3BM",
+      "features": [
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "126 cm",
+          "label": "50\" 4K"
+        },
+        {
+          "value": "LED",
+          "label": "panou"
+        },
+        {
+          "value": "Google TV",
+          "label": "Sony"
+        },
+        {
+          "value": "Clasa E",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 86
+        },
+        {
+          "label": "Procesare",
+          "pct": 90
+        },
+        {
+          "label": "Gaming",
+          "pct": 78
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Procesarea imaginii Sony, punct forte al brandului",
+        "Google TV fluid",
+        "Diagonală 50\" potrivită pentru living mediu"
+      ],
+      "cons": [
+        "Panou LED, fără QLED/MiniLED",
+        "Fără 100 Hz"
+      ],
+      "review": "Bravia 3 50S35 se bazează pe ce face Sony cel mai bine: procesarea imaginii. Chiar dacă e un panou LED, nu QLED sau MiniLED, algoritmii Sony scot culori naturale și un upscaling foarte bun al conținutului non-4K, ceea ce se vede la TV live și streaming de calitate variabilă. Google TV rulează fluid și integrează bine serviciile. Nu are 100 Hz și nu joacă la contrastul unui MiniLED, dar echilibrul imagine-procesare rămâne un argument Sony. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine pune preț pe procesare și culori naturale, la o diagonală de 50\".",
+      "emagUrl": "https://www.emag.ro/televizor-sony-bravia-3-led-50s35-126-cm-smart-google-tv-4k-ultra-hd-clasa-e-k50s35b-cei/pd/D3527K3BM/",
+      "rank": 15,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205710",
+      "image": "/img/products/d3527k3bm.jpg"
+    },
+    {
+      "id": "t6",
+      "score": 7.7,
+      "name": "TCL LED 55P6K",
+      "tag": "55\" ieftin, LED",
+      "feedId": "DJCFMB3BM",
+      "features": [
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "139 cm",
+          "label": "55\" 4K"
+        },
+        {
+          "value": "LED",
+          "label": "panou"
+        },
+        {
+          "value": "Google TV",
+          "label": "smart"
+        },
+        {
+          "value": "Clasa E",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 80
+        },
+        {
+          "label": "Contrast",
+          "pct": 76
+        },
+        {
+          "label": "Gaming",
+          "pct": 74
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil 55\" 4K cu Google TV",
+        "Aplicații complete și control vocal",
+        "Diagonală mare la preț mic"
+      ],
+      "cons": [
+        "Panou LED simplu, fără QLED",
+        "Luminozitate și contrast de bază"
+      ],
+      "review": "55P6K e televizorul de 55\" pentru cine vrea diagonală mare și smart complet la cel mai mic preț. E un panou LED clasic, fără stratul Quantum Dot, deci culorile și contrastul sunt de nivel de bază, dar rezoluția 4K și Google TV cu toate aplicațiile fac treaba pentru consum zilnic — știri, seriale, YouTube. Nu e pentru cinefili sau gameri pretențioși, ci pentru dormitor, bucătărie sau un living unde contează mai mult dimensiunea și prețul. Pe baza specificațiilor și a recenziilor, e alegerea de buget pentru un 55\" 4K smart, cu așteptări realiste la calitatea imaginii.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-led-139-cm-smart-google-tv-4k-ultra-hd-clasa-e-55p6k/pd/DJCFMB3BM/",
+      "rank": 16,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205711",
+      "image": "/img/products/djcfmb3bm.jpg"
+    },
+    {
+      "id": "t7",
+      "score": 7.6,
+      "name": "TCL QLED 43P7K",
+      "tag": "QLED compact 43\"",
+      "feedId": "DDCFMB3BM",
+      "features": [
+        "qled",
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "108 cm",
+          "label": "43\" 4K"
+        },
+        {
+          "value": "QLED",
+          "label": "panou"
+        },
+        {
+          "value": "Google TV",
+          "label": "smart"
+        },
+        {
+          "value": "Clasa F",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 82
+        },
+        {
+          "label": "Contrast",
+          "pct": 80
+        },
+        {
+          "label": "Gaming",
+          "pct": 76
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "QLED pe o diagonală compactă de 43\"",
+        "Google TV complet",
+        "Potrivit pentru camere mai mici"
+      ],
+      "cons": [
+        "Fără 100 Hz",
+        "Diagonală mică pentru living mare"
+      ],
+      "review": "43P7K aduce tehnologia QLED pe o diagonală compactă de 43\", ideală pentru un dormitor, o bucătărie mai mare sau un birou. Culorile Quantum Dot sunt vii pentru dimensiunea aparatului, iar Google TV oferă tot ecosistemul de aplicații și control vocal. Nu are panou de 100 Hz și, evident, 43\" e mic pentru un living principal, dar ca al doilea televizor sau pentru spații restrânse e o alegere bună, cu o imagine peste LED-urile ieftine de aceeași mărime. Pe baza specificațiilor și a recenziilor, e potrivit cui vrea QLED într-un format compact.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qled-108-cm-smart-google-tv-4k-ultra-hd-clasa-f-43p7k/pd/DDCFMB3BM/",
+      "rank": 17,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205712",
+      "image": "/img/products/ddcfmb3bm.jpg"
+    },
+    {
+      "id": "t8",
+      "score": 7.6,
+      "name": "LG LED 55UA7400",
+      "tag": "LG, smart webOS",
+      "feedId": "DZ63VJ3BM",
+      "features": [
+        "4k"
+      ],
+      "specs": [
+        {
+          "value": "139 cm",
+          "label": "55\" 4K"
+        },
+        {
+          "value": "LED",
+          "label": "panou"
+        },
+        {
+          "value": "webOS",
+          "label": "smart LG"
+        },
+        {
+          "value": "Clasa G",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 80
+        },
+        {
+          "label": "Procesare",
+          "pct": 84
+        },
+        {
+          "label": "Gaming",
+          "pct": 76
+        },
+        {
+          "label": "Smart",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Platforma webOS a LG, rapidă și bine organizată",
+        "Procesare de imagine bună pentru un LED",
+        "Diagonală mare de 55\""
+      ],
+      "cons": [
+        "Panou LED, fără QLED/OLED",
+        "Clasa energetică G"
+      ],
+      "review": "55UA7400 e varianta accesibilă LG de 55\": un panou LED cu procesarea și platforma smart care fac diferența la LG. webOS e rapid, bine organizat și cu toate aplicațiile importante, iar upscaling-ul LG scoate un plus din conținutul non-4K. Nu e QLED sau OLED, deci culorile și contrastul rămân de nivel LED, iar clasa energetică G înseamnă un consum ceva mai mare. Pentru cine vrea încrederea brandului LG și un smart TV fluid la un preț bun, e o alegere logică. Pe baza specificațiilor și a recenziilor, e un 55\" echilibrat pentru uz general, cu accent pe software.",
+      "emagUrl": "https://www.emag.ro/televizor-lg-led-139-cm-smart-4k-ultra-hd-clasa-g-55ua74003lb/pd/DZ63VJ3BM/",
+      "rank": 18,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205713",
+      "image": "/img/products/dz63vj3bm.jpg"
+    },
+    {
+      "id": "t9",
+      "score": 7.4,
+      "name": "TCL QLED 43T69C",
+      "tag": "43\" buget",
+      "feedId": "DX9SYY2BM",
+      "features": [
+        "qled",
+        "4k",
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "108 cm",
+          "label": "43\" 4K"
+        },
+        {
+          "value": "QLED",
+          "label": "panou"
+        },
+        {
+          "value": "Google TV",
+          "label": "smart"
+        },
+        {
+          "value": "Clasa G",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 78
+        },
+        {
+          "label": "Contrast",
+          "pct": 76
+        },
+        {
+          "label": "Gaming",
+          "pct": 72
+        },
+        {
+          "label": "Smart",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "QLED 4K la unul dintre cele mai mici prețuri pe 43\"",
+        "Google TV complet",
+        "Compact, pentru camere mici"
+      ],
+      "cons": [
+        "Clasa energetică G",
+        "Luminozitate de bază"
+      ],
+      "review": "43T69C e un QLED 4K de 43\" pentru buget strâns: oferă culorile Quantum Dot și smart-ul Google TV la un preț foarte mic, potrivit pentru un dormitor sau o cameră secundară. Rezoluția 4K e clară, iar aplicațiile sunt toate prezente. Compromisurile sunt clasa energetică G (consum ceva mai mare) și o luminozitate de bază, care se simte în camere foarte luminoase. Pentru dimensiunea și prețul lui însă e o afacere corectă. Pe baza specificațiilor și a recenziilor, îl recomandăm ca televizor secundar accesibil, cu QLED și Google TV.",
+      "emagUrl": "https://www.emag.ro/televizor-tcl-qled-108-cm-smart-google-tv-4k-ultra-hd-clasa-g-43t69c/pd/DX9SYY2BM/",
+      "rank": 19,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205714",
+      "image": "/img/products/dx9syy2bm.png"
+    },
+    {
+      "id": "t10",
+      "score": 6.6,
+      "name": "TCL 32V4C HD (80 cm)",
+      "tag": "Mic, pentru bucătărie",
+      "feedId": "DB7VJK3BM",
+      "features": [
+        "google-tv"
+      ],
+      "specs": [
+        {
+          "value": "80 cm",
+          "label": "32\" HD"
+        },
+        {
+          "value": "LED HD",
+          "label": "panou"
+        },
+        {
+          "value": "Smart TV",
+          "label": "TCL"
+        },
+        {
+          "value": "Clasa F",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 70
+        },
+        {
+          "label": "Dimensiune",
+          "pct": 92
+        },
+        {
+          "label": "Smart",
+          "pct": 78
+        },
+        {
+          "label": "Preț",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Foarte compact, ideal pentru bucătărie sau dormitor mic",
+        "Smart TV cu aplicații de bază",
+        "Preț foarte mic"
+      ],
+      "cons": [
+        "Rezoluție HD, nu 4K",
+        "Diagonală mică de 32\""
+      ],
+      "review": "32V4C e un televizor mic de 32\" (80 cm) cu rezoluție HD, gândit pentru bucătărie, dormitorul copilului sau o rulotă — nu pentru living. La această diagonală, HD-ul e suficient, iar partea smart acoperă aplicațiile de bază de streaming. Nu are 4K și nu se compară cu televizoarele mari din top la calitatea imaginii, dar nici nu asta e rolul lui: e ieftin, compact și practic pentru spații mici sau ca al doilea/al treilea televizor din casă. Pe baza specificațiilor și a recenziilor, e alegerea potrivită strict pentru un ecran mic, secundar, la preț minim.",
+      "emagUrl": "https://www.emag.ro/televizor-smart-tcl-32v4c-80-cm-hd-clasa-f-271361/pd/DB7VJK3BM/",
+      "rank": 20,
+      "win": false,
+      "affiliateUrl": "https://l.profitshare.ro/l/16205715",
+      "image": "/img/products/db7vjk3bm.jpg"
     }
   ],
   "comparison": {
