@@ -52,6 +52,13 @@ const faqSchema = {
     acceptedAnswer: { '@type': 'Answer', text: f.a },
   })),
 };
+
+// Brand sub-pages (only where they exist as a dedicated route). Show links to the
+// brands that actually have products in the category.
+const BRAND_SUBPAGES: Record<string, string[]> = { 'aspiratoare-verticale': ['Bosch', 'Dyson', 'Philips'] };
+const brandLinks = (BRAND_SUBPAGES[cat.id] ?? [])
+  .filter((b) => d.products.some((p) => p.name.toLowerCase().includes(b.toLowerCase())))
+  .map((b) => ({ label: b, href: `/clasament/${cat.id}/${b.toLowerCase()}/` }));
 ---
 <Base title={d.title} description={d.intro} current="/categorii/" bodyClass="has-mcta">
   <div class="wrap">
@@ -69,6 +76,13 @@ const faqSchema = {
     </section>
 
     <QuickPicks picks={d.quickPicks} products={d.products} />
+
+    {brandLinks.length > 0 && (
+      <div class="brand-nav">
+        <span class="bn-label">Vezi pe brand:</span>
+        {brandLinks.map((b) => <a class="chip" href={b.href}>{b.label}</a>)}
+      </div>
+    )}
   </div>
 
   <div class="toolbar" id="clasament">

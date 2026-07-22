@@ -1,0 +1,151 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProductCard from '../../../components/ProductCard.astro';
+import AffiliateButton from '../../../components/AffiliateButton.astro';
+import Icon from '../../../components/Icon.astro';
+import Jsonld from '../../../components/Jsonld.astro';
+import Byline from '../../../components/Byline.astro';
+import { site } from '../../../data/site';
+import { deeplink, AFFILIATE_REL } from '../../../data/affiliate';
+import { getAuthor } from '../../../data/authors';
+
+// Brand sub-pages for the vertical-vacuum ranking. One page per requested brand
+// that actually has products in the category — brands with 0 matches are skipped
+// (so the page appears automatically once products are added later).
+// NOTE: getStaticPaths runs in isolation, so its constants live inside it.
+export async function getStaticPaths() {
+  const CATEGORY_ID = 'aspiratoare-verticale';
+  const BRANDS = ['Bosch', 'Dyson', 'Philips'];
+  const cats = await getCollection('categories');
+  const cat = cats.find((c) => c.id === CATEGORY_ID);
+  if (!cat) return [];
+  const paths = [];
+  for (const brand of BRANDS) {
+    const matches = cat.data.products
+      .filter((p) => p.name.toLowerCase().includes(brand.toLowerCase()))
+      .sort((a, b) => a.rank - b.rank)
+      .map((p, i) => ({ ...p, rank: i + 1, win: i === 0 }));
+    if (!matches.length) continue;
+    paths.push({ params: { brand: brand.toLowerCase() }, props: { brand, cat, products: matches } });
+  }
+  return paths;
+}
+
+const { brand, cat, products } = Astro.props;
+const BRANDS = ['Bosch', 'Dyson', 'Philips'];
+const d = cat.data;
+const winner = products[0];
+const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
+const fmt = (n: number) => n.toLocaleString('ro-RO');
+
+const h1 = `Cele mai bune aspiratoare verticale ${brand} în 2026`;
+const title = h1;
+const intro = `Am ales și am comparat modelele ${brand} de aspiratoare verticale din topul nostru, pe baza specificațiilor, a dotărilor și a ce spun cumpărătorii — putere de aspirare, autonomie, filtrare și accesorii. Mai jos ai fiecare model ${brand}, cu verdictul nostru și link direct.`;
+
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: h1,
+  itemListElement: products.map((p) => ({
+    '@type': 'ListItem',
+    position: p.rank,
+    item: {
+      '@type': 'Product',
+      name: p.name,
+      ...(p.image ? { image: p.image } : {}),
+      url: deeplink(p.affiliateUrl || p.emagUrl),
+      review: {
+        '@type': 'Review',
+        reviewRating: { '@type': 'Rating', ratingValue: p.score, bestRating: 10, worstRating: 1 },
+        author: { '@type': 'Person', name: getAuthor(d.author).name },
+      },
+    },
+  })),
+};
+---
+<Base title={title} description={intro} current="/categorii/" bodyClass="has-mcta">
+  <div class="wrap">
+    <Breadcrumb items={[
+      { label: 'Acasă', href: '/' },
+      { label: d.parent, href: '/categorii/' },
+      { label: d.h1, href: `/clasament/${cat.id}/` },
+      { label: brand },
+    ]} />
+    <section class="cat-hero">
+      <span class="eyebrow">Recenzii · pe brand · actualizat {updated}</span>
+      <h1>{h1}</h1>
+      <p class="lede">{intro}</p>
+      <div class="meta-row">
+        <span class="m fresh"><Icon name="clock" /> Actualizat <b>{updated}</b></span>
+        <span class="m"><b>{products.length}</b> {products.length === 1 ? 'model' : 'modele'} {brand}</span>
+        <span class="m"><a href={`/clasament/${cat.id}/`} style="color:var(--emerald);font-weight:700">Vezi topul complet →</a></span>
+      </div>
+      <Byline authorId={d.author} updated={d.updated} />
+    </section>
+  </div>
+
+  <div class="wrap">
+    <div class="rank-list">
+      {products.map((p) => <ProductCard product={p} />)}
+    </div>
+  </div>
+
+  <!-- other brands -->
+  <section style="padding-top:0">
+    <div class="wrap prose">
+      <span class="eyebrow">Alte branduri</span>
+      <h2 style="margin-top:10px;margin-bottom:10px">Vezi și celelalte branduri</h2>
+      <div class="chips" role="group" aria-label="Aspiratoare verticale pe brand">
+        {BRANDS.filter((b) => b.toLowerCase() !== brand.toLowerCase()
+            && d.products.some((p) => p.name.toLowerCase().includes(b.toLowerCase())))
+          .map((b) => (
+            <a class="chip" href={`/clasament/${cat.id}/${b.toLowerCase()}/`}>{b}</a>
+          ))}
+        <a class="chip" href={`/clasament/${cat.id}/`}>Toate brandurile</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- METHOD -->
+  <section class="method method-soft">
+    <div class="wrap">
+      <span class="eyebrow">Cum lucrăm</span>
+      <h2 style="margin-top:10px">Cum am ales produsele din acest top</h2>
+      <div class="steps">
+        <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Modelele populare {brand}, cu specificațiile oficiale și ce spun cumpărătorii care le-au folosit deja.</p></div>
+        <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
+        <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
+        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
+      </div>
+      <div class="disclosure">
+        <Icon name="info" />
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din top — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONCLUSION -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="concluzie">
+        <span class="eyebrow">Concluzie</span>
+        <h2>Care e cel mai bun {brand}?</h2>
+        <p>Dintre modelele {brand} din topul nostru, <b>{winner.name}</b> e alegerea de bază pe baza specificațiilor și a recenziilor. Compară-l cu restul brandurilor în <a href={`/clasament/${cat.id}/`}>topul complet de aspiratoare verticale</a>.</p>
+        <div class="pick">
+          <div><b>{winner.name}</b><span>cel mai bun {brand}</span></div>
+          <AffiliateButton url={winner.affiliateUrl || winner.emagUrl} label="Vezi pe eMAG" class="btn btn-gold" icon={false} aria={`Vezi ${winner.name} pe eMAG`} />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- sticky mobile CTA -->
+  <div class="m-cta" slot="after">
+    <div class="p"><b>Cel mai bun {brand}</b><span>{winner.name}</span></div>
+    <a href={deeplink(winner.affiliateUrl || winner.emagUrl)} rel={AFFILIATE_REL} target="_blank" aria-label={`Vezi ${winner.name} pe eMAG`}>Vezi pe eMAG</a>
+  </div>
+
+  <Jsonld schema={itemList} />
+</Base>
