@@ -1,0 +1,742 @@
+{
+  "title": "Cele mai bune tablete în 2026",
+  "h1": "Cele mai bune tablete în 2026",
+  "parent": "Gadgets",
+  "icon": "phone",
+  "order": 28,
+  "intro": "O tabletă bună depinde de ce vrei să faci cu ea, nu de cât de mare scrie pe cutie. Am ales și am comparat 10 modele populare, de la Apple iPad 11 până la tablete Android accesibile precum Toscido, pe baza specificațiilor oficiale și a recenziilor cumpărătorilor, urmărind ecranul, performanța, autonomia și raportul preț/calitate. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "mihai-radu",
+  "updated": "2026-07-22",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p2"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p10"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "wifi",
+      "label": "Wi-Fi"
+    },
+    {
+      "key": "cellular",
+      "label": "4G/Cellular"
+    },
+    {
+      "key": "android",
+      "label": "Android"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Pentru ce vrei să folosești tableta?",
+      "body": "Pentru consum media — filme, seriale, citit — contează un ecran mare și boxe bune, ca la Lenovo Tab Plus cu cele patru boxe JBL sau Huawei MatePad SE cu sistemul Histen. Pentru muncă și productivitate, un iPad cu ecosistemul Apple sau un Samsung Galaxy Tab cu S Pen (Tab S6 Lite) ajută mai mult decât un ecran mare. Pentru copii, o tabletă accesibilă cu baterie mare și fără riscul unei investiții pierdute, gen Samsung Galaxy Tab A9+ sau Honor Pad X8a, e alegerea mai sigură.",
+      "callout": "Nu cumpăra cea mai scumpă tabletă „ca să fie bine” — alege-o pe cea potrivită modului în care chiar o vei folosi."
+    },
+    {
+      "h3": "iPadOS vs. Android: ce ecosistem alegi?",
+      "body": "iPadOS (Apple iPad 11) oferă aplicații optimizate special pentru tabletă, actualizări software garantate mulți ani și integrare strânsă cu restul dispozitivelor Apple, dar la un preț mai mare și cu accesorii — Apple Pencil, tastatură — cumpărate separat. Android (Samsung, Lenovo, Honor, Huawei) vine cu mai multe opțiuni de preț și flexibilitate mai mare, dar aplicațiile optimizate pentru ecran mare sunt mai puține, iar suportul software variază de la un producător la altul. Huawei MatePad SE rulează HarmonyOS, fără acces nativ la Google Play Store — un detaliu de reținut înainte de cumpărare."
+    },
+    {
+      "h3": "Cât RAM și cât spațiu de stocare îți trebuie?",
+      "body": "Pentru navigare, streaming și rețele sociale, 4GB RAM și 64GB stocare — ca la Samsung Galaxy Tab A9+ sau Honor Pad X8a — sunt suficiente. Pentru multitasking mai serios, editare foto/video sau multe aplicații deschise simultan, 6-8GB RAM ajută vizibil, iar 128-256GB stocare — ca la Lenovo Tab Plus sau iPad 256GB — te scutesc de grija spațiului liber. Fii atent la cifrele de RAM „umflate” prin marketing (extensie virtuală din stocare), frecvente la tabletele foarte ieftine.",
+      "callout": "O cifră de RAM neobișnuit de mare la un preț mic e aproape mereu memorie virtuală, nu memorie fizică reală."
+    },
+    {
+      "h3": "Wi-Fi sau tabletă cu 4G?",
+      "body": "Dacă folosești tableta mai ales acasă sau la birou, o variantă Wi-Fi — majoritatea modelelor din top — e suficientă și mai ieftină. Dacă vrei conexiune la internet oriunde, fără să depinzi de hotspot-ul telefonului, o variantă cu 4G/cellular precum iPad Wi-Fi + Cellular sau Samsung Galaxy Tab A11 4G merită diferența de preț, mai ales dacă tableta te însoțește des în deplasări."
+    },
+    {
+      "h3": "Ce diagonală ți se potrivește?",
+      "body": "Sub 9\" (ex. Samsung Galaxy Tab A11 8.7\") înseamnă un format compact, ușor de ținut într-o mână, bun pentru citit sau pentru copii. Între 10.4\" și 11\" — cea mai populară categorie, unde intră iPad 11, Samsung Galaxy Tab A11+/A9+, Honor Pad X8a — echilibrează portabilitatea cu spațiul confortabil pentru filme și lucru. Peste 11\" (Lenovo Tab Plus, 11.5\") înseamnă cea mai bună experiență media, dar și o tabletă mai puțin practică de ținut în mână timp îndelungat."
+    },
+    {
+      "h3": "Accesorii care chiar contează: stylus, tastatură, husă",
+      "body": "Un stylus inclus din fabrică, ca S Pen-ul de la Samsung Galaxy Tab S6 Lite, e un avantaj real pentru notițe și desen, fără cost suplimentar. La iPad, Apple Pencil și tastatura Magic Keyboard se cumpără separat și pot costa aproape cât o tabletă Android întreagă. O husă cu suport, deloc costisitoare, prelungește viața ecranului și transformă orice tabletă într-un mini-laptop pentru scris sau video-call-uri."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi o tabletă",
+      "body": "Cea mai comună greșeală e să te uiți doar la diagonala ecranului și la prețul RAM-ului „mare”, ignorând procesorul real din spate — un Snapdragon 680 sau un Helio G99 spun mai multe despre viteza reală decât cifra de pe cutie. A doua greșeală e să cumperi o tabletă Wi-Fi crezând că poți adăuga ulterior 4G — conectivitatea se stabilește din fabrică și nu se poate schimba după cumpărare. A treia e să alegi un brand complet necunoscut, fără rețea de service în România, doar pentru un preț mic — dacă apare o problemă, garanția nu ajută cu nimic dacă n-ai unde s-o onorezi."
+    }
+  ],
+  "faq": [
+    {
+      "q": "iPad sau tabletă Android — ce aleg?",
+      "a": "Alege iPad dacă vrei aplicații optimizate pentru tabletă, actualizări garantate mulți ani și te integrezi bine în ecosistemul Apple. Alege Android — Samsung, Lenovo, Honor — dacă vrei mai multe opțiuni de preț, mai multă flexibilitate sau un stylus inclus fără cost suplimentar, ca la Samsung Galaxy Tab S6 Lite."
+    },
+    {
+      "q": "Cât RAM îmi trebuie pentru o tabletă?",
+      "a": "Pentru navigare, streaming și rețele sociale, 4GB RAM sunt suficiente. Pentru multitasking și mai multe aplicații deschise simultan, 6-8GB RAM — ca la Samsung Galaxy Tab A11+ sau Lenovo Tab Plus — fac o diferență vizibilă. Ignoră cifrele de RAM neobișnuit de mari la prețuri mici, sunt aproape mereu memorie virtuală."
+    },
+    {
+      "q": "Am nevoie de tabletă cu 4G sau e suficient Wi-Fi?",
+      "a": "Dacă folosești tableta mai ales acasă sau la birou, Wi-Fi e suficient și mai ieftin. Dacă vrei internet oriunde, fără hotspot de la telefon, o variantă cu 4G — iPad Wi-Fi + Cellular sau Samsung Galaxy Tab A11 4G — merită diferența de preț."
+    },
+    {
+      "q": "Ce diagonală aleg pentru copii, pentru muncă sau pentru filme?",
+      "a": "Pentru copii, un format compact sub 9\" e mai ușor de manevrat. Pentru muncă și navigare zilnică, 10.4-11\" e echilibrul bun — aici intră majoritatea modelelor din top. Pentru filme și consum media intens, o diagonală peste 11\", ca la Lenovo Tab Plus, oferă cea mai bună experiență."
+    },
+    {
+      "q": "Merită o tabletă cu S Pen sau stylus inclus?",
+      "a": "Da, dacă iei notițe des sau desenezi. Samsung Galaxy Tab S6 Lite vine cu S Pen inclus din fabrică, fără cost suplimentar. La iPad, Apple Pencil se cumpără separat și poate costa semnificativ — un detaliu de bugetat înainte de cumpărare."
+    },
+    {
+      "q": "De ce sunt unele tablete atât de ieftine, ca Toscido — ce compromisuri fac?",
+      "a": "Prețul mic vine de obicei din procesor mai slab, cameră modestă și, adesea, cifre de RAM „umflate” prin marketing (extensie virtuală, nu memorie fizică reală). Brandul are și o rețea de service mai puțin dezvoltată în România. Pentru uz ocazional sau un buget foarte strict, acoperă nevoile de bază."
+    },
+    {
+      "q": "Câte GB de stocare (64/128/256) sunt suficiente?",
+      "a": "64GB e suficient pentru navigare, streaming și aplicații de bază, mai ales dacă tableta are slot microSD. 128GB acoperă confortabil și fotografii sau jocuri descărcate. 256GB, ca la iPad 256GB, are sens dacă lucrezi cu fișiere media grele sau nu vrei să te gândești vreodată la spațiu liber."
+    },
+    {
+      "q": "Se pot juca jocuri pe tablete de buget?",
+      "a": "Jocuri ușoare și jocuri casual rulează bine pe orice tabletă din top, inclusiv pe cele mai accesibile. Pentru jocuri grafice pretențioase, un procesor mai puternic — Apple A16 Bionic sau MediaTek Helio G99 — face diferența; tabletele foarte ieftine cu procesoare de nivel scăzut pot avea reduceri de cadre la jocuri solicitante."
+    }
+  ],
+  "conclusion": "Dacă vrei o tabletă completă, fără compromisuri, pentru toată familia, Apple iPad 11 128GB Wi-Fi + Cellular e alegerea noastră de bază — ecosistem solid, actualizări pe termen lung și performanță care ține pasul cu anii. Dacă preferi Android și un ecran mare pentru filme, Lenovo Tab Plus oferă cel mai bun raport preț/calitate din top. Pentru un buget strict, Toscido 10.1\" acoperă nevoile de bază la un preț mic.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Apple iPad 11 128GB Wi-Fi + Cellular",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "DT0RXY3BM",
+      "features": [
+        "wifi",
+        "cellular"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "Liquid Retina, 2360×1640"
+        },
+        {
+          "value": "6GB RAM",
+          "label": "+ 128GB stocare"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "+ Cellular (5G)"
+        },
+        {
+          "value": "Apple A16 Bionic",
+          "label": "chipset"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 95
+        },
+        {
+          "label": "Performanță",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Raport preț",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Ecosistem Apple complet, cu actualizări garantate mulți ani",
+        "Chip A16 Bionic rapid, potrivit și pentru editare foto/video"
+      ],
+      "cons": [
+        "Preț cu mult peste tabletele Android din top",
+        "Apple Pencil și tastatura se cumpără separat"
+      ],
+      "review": "L-am pus în vârful topului pentru că e genul de tabletă pe care o cumperi o dată și o folosești ani buni fără să te gândești la actualizări sau compatibilitate. Chipul A16 Bionic ține pasul cu multitasking, editare foto și chiar montaj video ușor, iar ecranul Liquid Retina de 11\" e printre cele mai bune din segmentul lui. Varianta Wi-Fi + Cellular îți dă și conexiune la internet oriunde, fără să depinzi de hotspot-ul telefonului. Prețul e vizibil mai mare decât al alternativelor Android, iar accesorii precum Apple Pencil sau Magic Keyboard se cumpără separat și pot ridica suma finală semnificativ. Dacă vrei un singur dispozitiv, versatil, cu suport software pe termen lung și te integrezi bine în ecosistemul Apple, e alegerea noastră de bază pentru 2026.",
+      "emagUrl": "https://www.emag.ro/apple-ipad-11-128gb-wi-fi-cellular-silver-md7f4hc-a/pd/DT0RXY3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205325"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Lenovo Tab Plus 8GB/256GB Wi-Fi",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 9,
+      "feedId": "DRQLKJYBM",
+      "features": [
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "11.5\"",
+          "label": "2K, 90Hz"
+        },
+        {
+          "value": "8GB RAM",
+          "label": "+ 256GB stocare"
+        },
+        {
+          "value": "MediaTek Helio G99",
+          "label": "octa-core"
+        },
+        {
+          "value": "8600mAh",
+          "label": "baterie + 4 boxe JBL"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 90
+        },
+        {
+          "label": "Performanță",
+          "pct": 84
+        },
+        {
+          "label": "Autonomie",
+          "pct": 93
+        },
+        {
+          "label": "Raport preț",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Ecran mare 2K la 90Hz, excelent pentru filme și citit",
+        "Patru boxe JBL cu Dolby Atmos și baterie mare de 8600mAh"
+      ],
+      "cons": [
+        "Fără variantă cu 4G/cellular",
+        "Camerele sunt modeste pentru fotografie"
+      ],
+      "review": "Pentru cine vrea o experiență media excelentă fără prețul unui iPad, Lenovo Tab Plus e cel mai bun raport preț/calitate din tot topul. Ecranul de 11.5\" cu rezoluție 2K și 90Hz face filmele și lectura foarte plăcute, iar cele patru boxe JBL cu Dolby Atmos oferă un sunet neobișnuit de bun pentru o tabletă. Bateria de 8600mAh cu încărcare rapidă de 45W ține cu ușurință o zi întreagă de streaming. Procesorul MediaTek Helio G99 e suficient pentru navigare și multitasking obișnuit, dar nu impresionează la sarcini grele. Nu are 4G, deci rămâne o alegere de interior. Pentru cineva care vrea o tabletă mare, cu sunet și ecran de nivel premium, la un preț mult sub segmentul Apple, e recomandarea noastră clară.",
+      "emagUrl": "https://www.emag.ro/tableta-lenovo-tab-plus-octa-core-11-5-lcd-2k-8gb-ram-256gb-wi-fi-luna-grey-zadx0035gr/pd/DRQLKJYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205326"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Samsung Galaxy Tab A11+ 6GB/128GB Wi-Fi",
+      "tag": "Cea mai bună alegere Samsung",
+      "score": 8.6,
+      "feedId": "DSKW7Z3BM",
+      "features": [
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "TFT, 1920×1200"
+        },
+        {
+          "value": "6GB RAM",
+          "label": "+ 128GB stocare"
+        },
+        {
+          "value": "Octa-core",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "7040mAh",
+          "label": "baterie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 84
+        },
+        {
+          "label": "Performanță",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 85
+        },
+        {
+          "label": "Raport preț",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Android actualizat, cu suport Samsung pe termen lung",
+        "Ecran mare 11\", bun pentru media și navigare zilnică"
+      ],
+      "cons": [
+        "Fără variantă cellular pentru acest model",
+        "Procesor de nivel mediu, nu pentru gaming solicitant"
+      ],
+      "review": "Dacă vrei o tabletă Android de la un brand cu reputație solidă și suport pe termen lung, Samsung Galaxy Tab A11+ e alegerea sigură. Ecranul de 11\" cu rezoluție 1920×1200 acoperă bine navigarea, streamingul și lectura, iar 6GB RAM plus 128GB stocare sunt suficiente pentru multitasking obișnuit fără să te lovești curând de limita de spațiu. Bateria de 7040mAh ține fără probleme o zi de folosire normală. Procesorul octa-core e de nivel mediu — face treaba bine la aplicații de zi cu zi, dar nu e gândit pentru jocuri grafice pretențioase. Nu există variantă cu 4G la acest model, deci rămâne o tabletă de interior sau conectată prin hotspot. Pentru cineva care vrea Android de încredere, fără riscuri, e recomandarea noastră principală din gama Samsung.",
+      "emagUrl": "https://www.emag.ro/tableta-samsung-galaxy-tab-a11-octa-core-11-6gb-ram-128gb-wifi-gray-sm-x230nzareue/pd/DSKW7Z3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205327"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Apple iPad 11 256GB Wi-Fi + Cellular",
+      "tag": "Cea mai bună pentru spațiu de stocare",
+      "score": 8.5,
+      "feedId": "D90RXY3BM",
+      "features": [
+        "wifi",
+        "cellular"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "Liquid Retina, 2360×1640"
+        },
+        {
+          "value": "6GB RAM",
+          "label": "+ 256GB stocare"
+        },
+        {
+          "value": "Wi-Fi 6E",
+          "label": "+ Cellular (5G)"
+        },
+        {
+          "value": "Apple A16 Bionic",
+          "label": "chipset"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 95
+        },
+        {
+          "label": "Performanță",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Raport preț",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Dublu spațiu de stocare față de varianta de bază, util pentru foto/video",
+        "Aceleași performanțe A16 Bionic și conectivitate 5G"
+      ],
+      "cons": [
+        "Diferență de preț considerabilă pentru încă 128GB",
+        "Tot fără accesorii incluse în cutie"
+      ],
+      "review": "Practic același iPad 11 de pe primul loc, dar cu 256GB de stocare — util dacă lucrezi cu multe fotografii RAW, filmezi video în rezoluție mare sau ții multe aplicații și jocuri instalate simultan. Chipul A16 Bionic și conectivitatea Wi-Fi 6E + Cellular rămân identice cu varianta de 128GB, deci nu pierzi nimic la performanță sau conectivitate alegând mai mult spațiu. Diferența de preț pentru cei 128GB în plus e considerabilă și merită plătită doar dacă știi sigur că vei avea nevoie de ea — pentru navigare, streaming și aplicații obișnuite, varianta de bază e suficientă. O recomandăm cui lucrează activ cu fișiere media grele sau vrea o marjă confortabilă de stocare fără compromisuri de performanță.",
+      "emagUrl": "https://www.emag.ro/apple-ipad-11-256gb-wi-fi-cellular-pink-md7n4hc-a/pd/D90RXY3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205328"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Huawei MatePad SE 11 (2024) 6GB/128GB",
+      "tag": "Cea mai bună pentru multimedia",
+      "score": 8.3,
+      "feedId": "D8XW21YBM",
+      "features": [
+        "wifi"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "FHD+, 1920×1200"
+        },
+        {
+          "value": "6GB RAM",
+          "label": "+ 128GB stocare"
+        },
+        {
+          "value": "Kirin 710A",
+          "label": "octa-core, Wi-Fi"
+        },
+        {
+          "value": "7700mAh",
+          "label": "baterie + 4 boxe Histen"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 86
+        },
+        {
+          "label": "Performanță",
+          "pct": 76
+        },
+        {
+          "label": "Autonomie",
+          "pct": 87
+        },
+        {
+          "label": "Raport preț",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Patru boxe cu sistem Histen 9.0, ecran certificat TÜV pentru ochi",
+        "Baterie mare de 7700mAh, cu încărcare rapidă 22.5W"
+      ],
+      "cons": [
+        "HarmonyOS, fără acces nativ la Google Play Store",
+        "Performanță modestă pentru aplicații grele"
+      ],
+      "review": "Huawei MatePad SE 11 e o alegere bună pentru cineva care vrea mai ales o tabletă de consum media — ecranul FHD+ certificat TÜV Rheinland pentru lumină slabă și fără sclipire e confortabil pentru citit ore în șir, iar cele patru boxe cu sistem Histen 9.0 dau un sunet surprinzător de bun pentru preț. Bateria de 7700mAh cu încărcare rapidă acoperă cu ușurință o zi de streaming. Cel mai important lucru de știut înainte de cumpărare: rulează HarmonyOS, nu Android cu Google Play Store nativ, ceea ce poate fi un blocaj dacă depinzi de anumite aplicații Google. Procesorul Kirin 710A e suficient pentru navigare și media, dar rămâne în urmă la multitasking intens. O recomandăm pentru media și lectură, mai puțin pentru cineva dependent de ecosistemul Google.",
+      "emagUrl": "https://www.emag.ro/tableta-huawei-matepad-se-11-2024-6gb-ram-128gb-wifi-space-gray-53014bah/pd/D8XW21YBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205329"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Samsung Galaxy Tab S6 Lite 4GB/128GB",
+      "tag": "Cea mai bună cu S Pen inclus",
+      "score": 8.1,
+      "feedId": "DLZ6Z7YBM",
+      "features": [
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "10.4\"",
+          "label": "2000×1200"
+        },
+        {
+          "value": "4GB RAM",
+          "label": "+ 128GB stocare"
+        },
+        {
+          "value": "S Pen",
+          "label": "inclus în cutie"
+        },
+        {
+          "value": "Wi-Fi",
+          "label": "Android"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 82
+        },
+        {
+          "label": "Performanță",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Raport preț",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "S Pen inclus, ideal pentru notițe și desen",
+        "Diagonală compactă 10.4\", ușor de purtat"
+      ],
+      "cons": [
+        "Procesor mai vechi, nu ține pasul cu modelele noi",
+        "Doar 4GB RAM, multitasking limitat"
+      ],
+      "review": "Dacă vrei o tabletă pentru notițe, schițe sau organizare, Samsung Galaxy Tab S6 Lite are un avantaj pe care puține modele din top îl oferă: S Pen-ul vine inclus în cutie, fără cost suplimentar, spre deosebire de Apple Pencil la iPad. Ecranul de 10.4\" e potrivit pentru scris de mână și pentru citit, iar formatul rămâne suficient de compact pentru a fi purtat ușor. Cei 4GB RAM și procesorul, deja cu câțiva ani vechime, se simt la multitasking mai intens sau la aplicații grele — nu e o tabletă pentru gaming sau editare. Pentru studenți, profesioniști care iau notițe des sau pentru cineva care vrea un stylus funcțional fără cheltuială în plus, e o alegere solidă și accesibilă din gama Samsung.",
+      "emagUrl": "https://www.emag.ro/tableta-samsung-galaxy-tab-s6-lite-2022-p619-4-gb-ram-128-gb-gri-sm-p619nzae/pd/DLZ6Z7YBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205330"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Honor Pad X8a 4GB/64GB Wi-Fi",
+      "tag": "Cea mai bună baterie la preț mic",
+      "score": 7.8,
+      "feedId": "D1VGNGYBM",
+      "features": [
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "1200×1920, 90Hz"
+        },
+        {
+          "value": "4GB RAM",
+          "label": "+ 64GB stocare"
+        },
+        {
+          "value": "Snapdragon 680",
+          "label": "octa-core"
+        },
+        {
+          "value": "8300mAh",
+          "label": "baterie, ~14h video"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 80
+        },
+        {
+          "label": "Performanță",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Raport preț",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Baterie mare de 8300mAh, autonomie foarte bună",
+        "Patru boxe cu reducere de zgomot pentru voce"
+      ],
+      "cons": [
+        "Doar 64GB stocare de bază",
+        "Camere modeste, 5MP față/spate"
+      ],
+      "review": "Honor Pad X8a se remarcă în primul rând prin autonomie — bateria de 8300mAh ține până la 14 ore de video continuu, printre cele mai bune din top la acest preț. Ecranul de 11\" cu 90Hz face navigarea și scrollul să pară fluide, iar cele patru boxe cu reducere de zgomot ajută la apeluri video clare. Procesorul Snapdragon 680, deși nu e de top, acoperă bine navigarea, streamingul și aplicațiile obișnuite. Cele 64GB de stocare de bază pot deveni strâmte rapid dacă instalezi multe aplicații sau jocuri, iar camerele de 5MP sunt suficiente doar pentru apeluri video, nu pentru fotografie. Pentru cineva care vrea autonomie mare și un preț accesibil, fără să insiste pe cameră sau stocare generoasă, e o alegere echilibrată.",
+      "emagUrl": "https://www.emag.ro/tableta-honor-pad-x8a-octa-core-11-4gb-ram-64gb-wi-fi-space-gray-5301anvr/pd/D1VGNGYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205331"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Samsung Galaxy Tab A11 4GB/64GB 4G",
+      "tag": "Cea mai compactă, cu 4G",
+      "score": 7.6,
+      "feedId": "D3PFG43BM",
+      "features": [
+        "4g",
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "8.7\"",
+          "label": "1340×800, 90Hz"
+        },
+        {
+          "value": "4GB RAM",
+          "label": "+ 64GB stocare"
+        },
+        {
+          "value": "4G",
+          "label": "MediaTek Helio G99"
+        },
+        {
+          "value": "5100mAh",
+          "label": "baterie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 76
+        },
+        {
+          "label": "Performanță",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Raport preț",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Conectivitate 4G, utilă pentru date mobile fără router",
+        "Format compact 8.7\", ușor de ținut într-o mână"
+      ],
+      "cons": [
+        "Ecran mic pentru consum media prelungit",
+        "Doar 64GB stocare, fără variantă mai mare la acest preț"
+      ],
+      "review": "Samsung Galaxy Tab A11 e cea mai compactă tabletă din top, cu un ecran de 8.7\" care încape ușor într-o geantă mică sau chiar într-un buzunar mai mare. Vine cu 4G inclus, deci poți naviga oriunde fără să depinzi de hotspot-ul telefonului — un avantaj rar la acest preț. Procesorul MediaTek Helio G99 cu refresh rate de 90Hz face navigarea plăcută pentru o tabletă din segmentul ei. Ecranul mic o face mai puțin potrivită pentru filme lungi sau lectură prelungită, iar cele 64GB de stocare se pot umple rapid. E o alegere bună ca a doua tabletă, pentru citit, navigat sau apeluri video în deplasare, dar nu ca dispozitiv principal pentru media.",
+      "emagUrl": "https://www.emag.ro/tableta-samsung-galaxy-tab-a11-octa-core-8-7-4gb-ram-64gb-4g-silver-sm-x135fzsaeue/pd/D3PFG43BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205332"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Samsung Galaxy Tab A9+ 4GB/64GB Wi-Fi",
+      "tag": "Alternativă solidă pentru uz zilnic",
+      "score": 7.4,
+      "feedId": "DZBJ8DYBM",
+      "features": [
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "11\"",
+          "label": "1920×1200"
+        },
+        {
+          "value": "4GB RAM",
+          "label": "+ 64GB stocare"
+        },
+        {
+          "value": "Octa-core",
+          "label": "Wi-Fi"
+        },
+        {
+          "value": "7040mAh",
+          "label": "baterie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 78
+        },
+        {
+          "label": "Performanță",
+          "pct": 72
+        },
+        {
+          "label": "Autonomie",
+          "pct": 82
+        },
+        {
+          "label": "Raport preț",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Ecran mare 11\" la un preț accesibil",
+        "Baterie de 7040mAh, suficientă pentru o zi întreagă"
+      ],
+      "cons": [
+        "Doar 4GB RAM, poate rămâne în urmă la multitasking",
+        "Fără variantă cu 4G"
+      ],
+      "review": "Samsung Galaxy Tab A9+ e varianta de bază, dar bine echilibrată, pentru cineva care vrea un ecran mare de 11\" fără să plătească pentru funcții pe care nu le va folosi. Rezoluția 1920×1200 e suficientă pentru navigare, streaming și citit, iar bateria de 7040mAh acoperă lejer o zi de folosire normală. Cei 4GB RAM sunt punctul ei slab — cu multe aplicații deschise sau taburi multiple în browser, se simte încetinirea. Nu există variantă cu 4G, deci rămâne o tabletă gândită pentru acasă sau birou. Pentru cineva care caută un al doilea dispozitiv, o tabletă pentru copii sau o utilizare ocazională, e o alternativă solidă și fără riscuri din gama Samsung.",
+      "emagUrl": "https://www.emag.ro/tableta-samsung-galaxy-tab-a9-octa-core-11-4gb-ram-64gb-wifi-silver-sm-x210nzsaeue/pd/DZBJ8DYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205333"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Toscido 10.1\" 4GB/128GB Dual SIM 4G",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 6.8,
+      "feedId": "DHCFPN3BM",
+      "features": [
+        "4g",
+        "wifi",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "10.1\"",
+          "label": "1280×800"
+        },
+        {
+          "value": "4GB RAM",
+          "label": "+ 128GB stocare"
+        },
+        {
+          "value": "Dual SIM 4G",
+          "label": "+ Wi-Fi 5GHz"
+        },
+        {
+          "value": "8000mAh",
+          "label": "baterie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 72
+        },
+        {
+          "label": "Performanță",
+          "pct": 68
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Raport preț",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Preț mic, cu accesorii incluse (tastatură, mouse, husă)",
+        "Dual SIM 4G, utilă ca dispozitiv de rezervă cu date mobile"
+      ],
+      "cons": [
+        "RAM-ul de 36GB afișat e marketing (extensie virtuală, nu memorie fizică reală)",
+        "Brand puțin cunoscut, fără rețea de service extinsă în România"
+      ],
+      "review": "Pentru un buget strict, Toscido 10.1\" acoperă nevoile de bază — navigare, video, citit — la un preț mult sub restul topului, iar pachetul vine neobișnuit de generos: tastatură Bluetooth, mouse wireless, husă și stylus incluse. Bateria de 8000mAh și conectivitatea Dual SIM 4G sunt puncte forte reale pentru o tabletă la acest preț. Important de știut: cifra de „36GB RAM” afișată în titlu e un artificiu de marketing obișnuit la tabletele foarte ieftine — memoria fizică reală e mult mai mică, restul fiind extensie virtuală din stocare, care nu se comportă ca RAM adevărat. Brandul e puțin cunoscut și nu are o rețea de service extinsă în România. O recomandăm doar ca soluție de buget sau tabletă secundară, nu ca dispozitiv principal pentru folosire zilnică intensă.",
+      "emagUrl": "https://www.emag.ro/tableta-10-1-octa-core-toscido-android-14-0-36-12-24-gb-ram-128gb-rom-dual-sim-4g-lte-5ghz-wifi-8000mah-gri-tos-q10c-kb-b/pd/DHCFPN3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205334"
+    }
+  ],
+  "comparison": {
+    "title": "iPad vs. tabletă Android: ce alegi?",
+    "intro": "Cele două ecosisteme rezolvă aceleași nevoi în mod diferit. Iată cum se compară pe criteriile care contează cel mai mult la cumpărare.",
+    "aLabel": "iPad (iPadOS)",
+    "bLabel": "Tabletă Android (Samsung)",
+    "rows": [
+      {
+        "criteriu": "Preț de achiziție",
+        "a": "Mai mare",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Ecosistem și aplicații",
+        "a": "App Store, aplicații optimizate pentru tabletă",
+        "b": "Google Play, mai puține aplicații optimizate"
+      },
+      {
+        "criteriu": "Actualizări software",
+        "a": "Garantate mulți ani",
+        "b": "Variază pe model, de regulă mai puțini ani"
+      },
+      {
+        "criteriu": "Personalizare",
+        "a": "Limitată la regulile Apple",
+        "b": "Mai flexibilă (launchere, fișiere)"
+      },
+      {
+        "criteriu": "Accesorii",
+        "a": "Apple Pencil, Magic Keyboard (cost separat)",
+        "b": "S Pen inclus la unele modele (Tab S6 Lite)"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Ecosistem Apple, muncă și media pe termen lung",
+        "b": "Buget controlat, opțiuni variate de preț"
+      }
+    ],
+    "verdict": "Alege iPad dacă vrei un singur dispozitiv pe termen lung, cu actualizări garantate ani buni. Alege Android dacă vrei mai multe opțiuni de preț sau un stylus inclus fără cost suplimentar, ca la Samsung Galaxy Tab S6 Lite."
+  },
+  "priceBuckets": []
+}

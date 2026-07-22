@@ -1,0 +1,686 @@
+{
+  "title": "Cele mai bune frigidere în 2026",
+  "h1": "Cele mai bune frigidere în 2026",
+  "parent": "Electrocasnice",
+  "icon": "fridge",
+  "order": 27,
+  "intro": "Un frigider bun se alege după numărul de persoane din casă și spațiul din bucătărie, nu după cea mai mare capacitate din magazin. Am ales și am comparat 9 modele populare — de la combine No Frost cu WiFi, până la side-by-side și variante încorporabile — pe baza specificațiilor și recenziilor cumpărătorilor, urmărind capacitate, clasă energetică, zgomot și dotări. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "ana-popescu",
+  "updated": "2026-07-22",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p6"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "no-frost",
+      "label": "No Frost"
+    },
+    {
+      "key": "wifi",
+      "label": "WiFi"
+    },
+    {
+      "key": "incorporabil",
+      "label": "Încorporabil"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce capacitate alegi în funcție de câți sunteți în familie",
+      "body": "Pentru o persoană sau un cuplu, 200–250 L acoperă nevoile zilnice fără risipă de spațiu sau energie — ca la Heinner HF-H2206E sau Beko BCNA306E4SN. O familie de 3-4 persoane are nevoie de 350–400 L, segmentul unde se încadrează majoritatea combinelor din top, precum Samsung RB38C600 sau Liebherr CNsfd 5703. Peste 4 persoane sau dacă faci cumpărături săptămânale în cantitate mare, orientează-te spre 480 L sau mai mult, ca la Bosch KGN56XIDR sau side-by-side-ul Heinner de 532 L.",
+      "callout": "Un frigider prea mare pentru nevoile tale consumă degeaba curent electric — capacitatea se alege după familie, nu după cel mai mare număr de pe etichetă."
+    },
+    {
+      "h3": "Combină, side-by-side sau încorporabilă: ce diferă",
+      "body": "Combina clasică, cu congelatorul jos și frigiderul sus, e formatul cel mai răspândit și cel mai ușor de integrat în bucătării de dimensiuni normale. Side-by-side-ul, cu cele două compartimente unul lângă altul pe uși verticale, oferă capacitate mare într-un aparat mai lat dar mai scund, potrivit bucătăriilor spațioase. Varianta încorporabilă se ascunde complet în spatele unui front de mobilă la comandă, ideală dacă vrei o bucătărie fără aparate vizibile, dar vine de regulă cu o capacitate mai mică decât o combină de sine stătătoare de aceleași dimensiuni exterioare."
+    },
+    {
+      "h3": "No Frost vs. dezghețare manuală: de ce contează",
+      "body": "Tehnologia No Frost — prezentă la toate modelele din top — circulă aerul rece cu un ventilator și elimină complet formarea de gheață pe pereții congelatorului, deci nu mai trebuie să dezgheți manual aparatul din când în când. Variante precum Total No Frost (Samsung, Haier) sau Full No Frost (Heinner side-by-side) aplică tehnologia și la frigider, nu doar la congelator, deci nici acolo nu se formează condens sau gheață pe alimente. Un frigider fără No Frost e mai rar întâlnit azi, dar dacă îl găsești la un preț mult mai mic, ține cont că va cere întreținere periodică manuală."
+    },
+    {
+      "h3": "Clasa energetică: ce înseamnă literele de pe etichetă",
+      "body": "De la reetichetarea europeană din 2021, scala a fost comprimată și reîncepe de la A, deci clasele C și D de azi sunt de fapt eficiente, nu medii cum ar sugera alfabetul. Din top, Samsung RB38C600 cu clasă C e cel mai eficient, urmat de Bosch, Liebherr și Haier cu clasă D. Clasa E, prezentă la majoritatea combinelor mai accesibile ca preț din listă, înseamnă un consum ceva mai mare, dar tot rezonabil pentru un aparat care funcționează non-stop.",
+      "callout": "Diferența dintre clasă D și clasă E se simte pe factură pe termen lung — verifică eticheta energetică, nu doar prețul de achiziție."
+    },
+    {
+      "h3": "Zgomotul unui frigider: la ce te aștepți",
+      "body": "Majoritatea frigiderelor moderne funcționează între 35–42 dB, un nivel discret care nu deranjează conversația sau somnul dintr-o cameră alăturată. Modelele cu compresor inverter, precum Samsung RB38C600 sau BRB38G705EWW, tind să fie mai silențioase la funcționare constantă, față de compresoarele clasice care pornesc și se opresc brusc. Dacă frigiderul stă lângă zona de living sau într-o garsonieră, un nivel de zgomot mic contează mai mult decât în bucătăriile separate de restul casei."
+    },
+    {
+      "h3": "Funcții utile: umiditate reglabilă, WiFi, iluminare LED",
+      "body": "Sertarele cu umiditate reglabilă (VitaFresh la Bosch, EasyFresh la Liebherr, HarvestFresh la Beko) prelungesc prospețimea legumelor și cărnii cu câteva zile față de un sertar simplu. Conectivitatea Wi-Fi (Samsung, Haier) îți lasă să activezi modul de răcire rapidă înainte să ajungi cu cumpărăturile mari acasă sau să primești alertă dacă ușa rămâne deschisă. Iluminarea LED distribuită pe mai multe niveluri, ca la Bosch sau Heinner, elimină zonele întunecate din interior, un detaliu mic dar util zilnic."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi un frigider nou",
+      "body": "Cea mai comună greșeală e alegerea unei capacități mult peste nevoile reale, motivată de „ca să am loc de rezervă” — un frigider supradimensionat consumă mai mult și costă mai mult la achiziție fără beneficiu real. A doua greșeală e ignorarea dimensiunilor exacte ale nișei din bucătărie, mai ales la variantele încorporabile, unde câțiva centimetri în plus pot bloca montajul. A treia e să te uiți doar la preț și să ignori clasa energetică, care influențează costul real pe termen lung. În fine, verifică distanța minimă față de perete recomandată de producător — un montaj prea strâns reduce eficiența compresorului și îi scurtează durata de viață."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce capacitate de frigider aleg pentru familia mea?",
+      "a": "Pentru 1-2 persoane, 200–250 L sunt suficienți, ca la Heinner HF-H2206E sau Beko BCNA306E4SN. O familie de 3-4 persoane are nevoie de 350–400 L, segmentul unde se încadrează majoritatea combinelor din top. Peste 4 persoane sau cumpărături săptămânale mari, orientează-te spre 480 L sau mai mult."
+    },
+    {
+      "q": "Ce diferență e între combină, side-by-side și frigider încorporabil?",
+      "a": "Combina are congelatorul jos și frigiderul sus și e cel mai comun format. Side-by-side-ul pune cele două compartimente unul lângă altul, pe uși verticale, oferind capacitate mare într-un aparat mai lat. Varianta încorporabilă se ascunde în spatele unui front de mobilă, dar are de regulă o capacitate ceva mai mică."
+    },
+    {
+      "q": "Merită diferența de preț pentru clasa energetică C în locul lui D sau E?",
+      "a": "Da, dacă folosești frigiderul zilnic non-stop, cum face oricine — diferența de consum se recuperează la factură în câțiva ani. Din top, doar Samsung RB38C600 are clasă C; restul modelelor sunt D sau E, tot eficiente pentru scala actuală, dar puțin mai costisitoare la consum."
+    },
+    {
+      "q": "Ce înseamnă No Frost și trebuie să-l am neapărat?",
+      "a": "No Frost circulă aerul rece cu un ventilator și elimină formarea de gheață, deci nu mai trebuie să dezgheți manual aparatul. Toate modelele din topul nostru au această tehnologie, iar variantele Total sau Full No Frost o extind și la compartimentul frigider, nu doar la congelator."
+    },
+    {
+      "q": "Cât de silențios trebuie să fie un frigider?",
+      "a": "Între 35–42 dB e normal și discret pentru majoritatea locuințelor. Modelele cu compresor inverter, ca Samsung RB38C600 sau BRB38G705EWW, sunt de regulă mai silențioase la funcționare constantă decât compresoarele clasice, care pornesc și se opresc brusc."
+    },
+    {
+      "q": "WiFi-ul la un frigider chiar folosește la ceva?",
+      "a": "Da, dacă vrei confort — activezi Supercooling sau Superfreezing de pe telefon înainte să ajungi cu cumpărăturile mari acasă, sau primești alertă dacă ușa rămâne deschisă. Samsung RB38C600 și Haier HTW5618DNMG din top au această conectivitate. Nu e obligatoriu, dar la o diferență mică de preț adaugă comoditate reală."
+    },
+    {
+      "q": "Ce dimensiuni trebuie să verific înainte să cumpăr, mai ales la variantele încorporabile?",
+      "a": "Măsoară exact nișa din bucătărie — lățime, adâncime și înălțime — și lasă câțiva centimetri de rezervă pentru ventilație, esențial la variantele încorporabile precum Samsung BRB38G705EWW sau Beko BCNA306E4SN. Verifică și direcția de deschidere a ușii și spațiul liber necesar în fața aparatului."
+    },
+    {
+      "q": "Cum aleg între un brand premium (Bosch, Liebherr) și unul accesibil (Heinner, Beko)?",
+      "a": "Bosch și Liebherr oferă fiabilitate dovedită în timp și tehnologii precum VitaFresh sau DuoCooling, la un preț mai ridicat. Heinner și Beko acoperă bine nevoile de bază — capacitate, No Frost, dotări utile — la un cost accesibil. Alegerea depinde de buget și de cât de mult contează pentru tine reputația brandului pe termen lung."
+    }
+  ],
+  "conclusion": "Pentru o familie obișnuită, Samsung RB38C600CS9 390 L e alegerea sigură: clasă energetică C, WiFi și AI Energy la un preț justificat de dotări. Dacă vrei cel mai bun raport preț/calitate, Beko B3RDNE504HXB îți dă 477 L la un cost accesibil, iar pentru un buget strict sau un frigider secundar, Heinner HF-H2206E de 206 L acoperă nevoile de bază fără cheltuieli inutile.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Samsung Total No Frost WiFi 390 L",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "DBFR14YBM",
+      "features": [
+        "no-frost",
+        "inverter",
+        "wifi"
+      ],
+      "specs": [
+        {
+          "value": "390 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Combină frigorifică",
+          "label": "tip"
+        },
+        {
+          "value": "C",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "Total No Frost",
+          "label": "răcire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 92
+        },
+        {
+          "label": "Spațiu",
+          "pct": 85
+        },
+        {
+          "label": "Eficiență",
+          "pct": 90
+        },
+        {
+          "label": "Dotări",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Clasă energetică C, cea mai bună din top",
+        "WiFi + AI Energy pentru consum optimizat",
+        "All Around Cooling — răcire uniformă pe toate rafturile"
+      ],
+      "cons": [
+        "Preț mai ridicat decât restul listei"
+      ],
+      "review": "L-am pus în vârful topului pentru că reunește tot ce contează la o combină modernă: clasă energetică C — cu o treaptă peste majoritatea combinelor din listă —, tehnologie Total No Frost care elimină complet dezghețarea manuală și compresor Digital Inverter pentru un consum controlat pe termen lung. All Around Cooling distribuie aerul rece uniform pe toate rafturile, deci alimentele se păstrează la fel de bine indiferent unde le pui. Funcția AI Energy ajustează automat consumul în funcție de obiceiurile familiei, iar aplicația SmartThings te lasă să verifici temperatura sau să primești alertă dacă ușa rămâne deschisă. Finisajul inox cu h 203 cm oferă spațiu generos de 390 L, suficient pentru o familie de 3-4 persoane. Singurul compromis e prețul, ceva mai ridicat decât restul listei, justificat însă de clasa energetică superioară și de dotările smart. Pentru cine vrea o combină completă, fără compromisuri majore, e alegerea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-samsung-390-l-clasa-c-total-no-frost-all-around-cooling-compresor-digital-inverter-wifi-ai-energy-smart-control-h-203-cm-inox-rb38c600cs9-ef/pd/DBFR14YBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205271"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Bosch VitaFresh PerfectFit 508 L",
+      "tag": "Cea mai mare capacitate cu VitaFresh",
+      "score": 9,
+      "feedId": "DS574ZMBM",
+      "features": [
+        "no-frost",
+        "vitafresh",
+        "perfectfit"
+      ],
+      "specs": [
+        {
+          "value": "508 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Combină frigorifică",
+          "label": "tip"
+        },
+        {
+          "value": "D",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "NoFrost",
+          "label": "răcire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 90
+        },
+        {
+          "label": "Spațiu",
+          "pct": 94
+        },
+        {
+          "label": "Eficiență",
+          "pct": 82
+        },
+        {
+          "label": "Dotări",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "508 L — cea mai mare capacitate din top",
+        "Sertar VitaFresh pentru prospețime prelungită"
+      ],
+      "cons": [
+        "Clasă energetică D, fără funcții smart"
+      ],
+      "review": "Pentru o familie numeroasă sau pentru cine face cumpărături săptămânale în cantitate mare, Bosch KGN56XIDR e combina cu cel mai mult spațiu util din top — 508 L împărțiți inteligent datorită designului PerfectFit, care valorifică fiecare colț al interiorului. Sertarul VitaFresh menține legumele și carnea proaspete cu câteva zile mai mult față de un sertar obișnuit, un avantaj real dacă nu faci piața des. Iluminarea LED distribuită pe mai multe niveluri elimină zonele întunecate tipice combinelor mari, iar finisajul inox antiamprentă ține aparatul curat vizual fără efort constant de ștergere. Tehnologia NoFrost scutește de dezghețarea manuală a congelatorului, un plus mai ales la un aparat de această dimensiune. Clasa energetică D e ceva mai modestă decât la liderul topului, iar aparatul nu vine cu funcții smart sau Wi-Fi. Per total, pentru cine pune capacitatea și fiabilitatea Bosch înaintea gadgeturilor conectate, e o alegere solidă și de încredere.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-bosch-508-l-nofrost-perfectfit-raft-sticle-iluminare-led-vitafresh-clasa-d-h-193-cm-inox-antiamprenta-kgn56xidr/pd/DS574ZMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205272"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Liebherr EasyFresh Premium 371 L",
+      "tag": "Premium, cea mai silențioasă",
+      "score": 8.8,
+      "feedId": "D87VFPYBM",
+      "features": [
+        "no-frost",
+        "easyfresh",
+        "duocooling"
+      ],
+      "specs": [
+        {
+          "value": "371 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Combină frigorifică",
+          "label": "tip"
+        },
+        {
+          "value": "D",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "201,5 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 91
+        },
+        {
+          "label": "Spațiu",
+          "pct": 82
+        },
+        {
+          "label": "Eficiență",
+          "pct": 84
+        },
+        {
+          "label": "Dotări",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "DuoCooling separă complet mirosurile",
+        "Sertar EasyFresh pentru carne și mezeluri"
+      ],
+      "cons": [
+        "Preț premium",
+        "Fără Wi-Fi"
+      ],
+      "review": "Liebherr are reputația unui brand premium în refrigerare, iar CNsfd 5703 confirmă asta prin sistemul DuoCooling, care separă complet circuitele de aer ale frigiderului și congelatorului — astfel mirosurile nu se amestecă între cele două compartimente, iar umiditatea rămâne optimă în fiecare zonă. Sertarul EasyFresh prelungește prospețimea cărnii și a mezelurilor cu câteva zile, fără să înghețe conținutul, util pentru cine cumpără în avans. Cei 371 L sunt suficienți pentru un cuplu sau o familie mică-medie, iar finisajul inox cu h 201,5 cm se integrează discret în majoritatea bucătăriilor. Clasa energetică D e în linie cu restul topului, fără să impresioneze, iar aparatul nu are Wi-Fi sau alte funcții conectate — Liebherr mizează pe tehnologia de răcire, nu pe gadgeturi. Prețul reflectă poziționarea premium a brandului. Pentru cineva care caută fiabilitate germană dovedită în timp și separarea reală a mirosurilor, e o investiție care se justifică pe termen lung.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-liebherr-371-l-no-frost-easyfresh-duocooling-interior-fit-clasa-d-h-201-5-cm-inox-cnsfd-5703/pd/D87VFPYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205273"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Samsung Încorporabilă Twin Cooling 389 L",
+      "tag": "Cea mai bună încorporabilă mare",
+      "score": 8.6,
+      "feedId": "D4SBTXYBM",
+      "features": [
+        "no-frost",
+        "incorporabil",
+        "inverter"
+      ],
+      "specs": [
+        {
+          "value": "389 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Încorporabilă",
+          "label": "tip"
+        },
+        {
+          "value": "E",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "193,5 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 88
+        },
+        {
+          "label": "Spațiu",
+          "pct": 80
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "389 L — cea mai încăpătoare variantă încorporabilă",
+        "Twin Cooling + Cool Select flexibil"
+      ],
+      "cons": [
+        "Clasă energetică E, cea mai modestă din top"
+      ],
+      "review": "Pentru bucătăriile cu mobilier la comandă, unde vrei ca frigiderul să dispară vizual în spatele unui front de mobilă, Samsung BRB38G705EWW e cea mai încăpătoare variantă încorporabilă din listă, cu 389 L împărțiți pe h 193,5 cm. Twin Cooling separă circuitele de răcire ale frigiderului și congelatorului, similar conceptului DuoCooling de la Liebherr, deci alimentele nu preiau miros unele de la altele. Cool Select îți dă flexibilitate să transformi o parte din spațiu în zonă mai rece sau mai caldă, în funcție de ce depozitezi, iar compresorul Digital Inverter ține consumul sub control pe termen lung. Clasa energetică E e cea mai modestă din top, un compromis obișnuit la segmentul încorporabil, unde spațiul compact al carcasei limitează izolația. Nu are Wi-Fi sau funcții smart. Dacă vrei spațiu generos într-un montaj complet integrat în bucătărie, fără compromisuri majore la capacitate, e alegerea noastră principală pentru variantele încorporabile.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-incorporabila-samsung-389-l-no-frost-clasa-e-twin-cooling-cool-select-digital-inverter-h-193-5-cm-brb38g705ewwef/pd/D4SBTXYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205274"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Haier 3 Uși Total No Frost 360 L",
+      "tag": "Cea mai versatilă (3 uși)",
+      "score": 8.3,
+      "feedId": "D2DV443BM",
+      "features": [
+        "no-frost",
+        "wifi",
+        "multi-usi"
+      ],
+      "specs": [
+        {
+          "value": "360 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "3 uși",
+          "label": "tip"
+        },
+        {
+          "value": "D",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "Total No Frost",
+          "label": "răcire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 87
+        },
+        {
+          "label": "Spațiu",
+          "pct": 88
+        },
+        {
+          "label": "Eficiență",
+          "pct": 80
+        },
+        {
+          "label": "Dotări",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Configurație cu 3 uși, acces organizat",
+        "Wi-Fi cu Supercooling/Superfreezing din aplicație",
+        "Humidity Zone + My Zone reglabile"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut decât Bosch sau Liebherr"
+      ],
+      "review": "Haier HTW5618DNMG iese din tipar prin configurația cu 3 uși, care separă fizic zona de congelator la mijloc și oferă acces mai organizat la alimente comparativ cu o combină clasică cu 2 uși. Humidity Zone și My Zone îți lasă să ajustezi umiditatea și temperatura independent pentru anumite sertare, util dacă păstrezi simultan legume delicate și mezeluri. Conectivitatea Wi-Fi prin aplicația hOn te lasă să activezi Supercooling sau Superfreezing de pe telefon înainte să aduci cumpărăturile mari acasă, iar modul Holiday reduce consumul automat când pleci în vacanță. Total No Frost elimină dezghețarea manuală în ambele compartimente. Clasa energetică D e onorabilă pentru configurația cu 3 uși, iar finisajul argintiu cu h 185 cm se potrivește bucătăriilor de dimensiuni medii. Brandul Haier nu are reputația Bosch sau Liebherr, dar dotările din acest model sunt peste ce găsești de obicei la acest preț. O alegere versatilă pentru cine vrea organizare mai bună a alimentelor.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-haier-3-usi-360-litri-total-no-frost-h-185-cm-conectivitate-wifi-hon-app-humidity-zone-my-zone-supercooling-superfreezing-holiday-clasa-d-argintiu-htw5618dnmg/pd/D2DV443BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205275"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Beko HarvestFresh AeroFlow XXL 477 L",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.1,
+      "feedId": "D5302RMBM",
+      "features": [
+        "no-frost",
+        "harvestfresh",
+        "aeroflow"
+      ],
+      "specs": [
+        {
+          "value": "477 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "2 uși",
+          "label": "tip"
+        },
+        {
+          "value": "E",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "186,5 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 86
+        },
+        {
+          "label": "Spațiu",
+          "pct": 90
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Cel mai bun raport capacitate/preț din top",
+        "HarvestFresh + AeroFlow XXL pentru prospețime uniformă"
+      ],
+      "cons": [
+        "Clasă energetică E"
+      ],
+      "review": "Beko B3RDNE504HXB e combina cu cel mai bun raport între capacitate și preț din tot topul — 477 L la un cost sensibil mai mic decât Bosch sau Samsung, fără să sacrifice funcțiile esențiale. Tehnologia HarvestFresh simulează ciclul natural zi-noapte cu lumină albastră, roșie și verde, ca să păstreze vitaminele din legume mai mult timp, iar AeroFlow XXL distribuie aerul rece uniform pe toate rafturile pentru o răcire constantă. Suportul XXL pentru sticle e un detaliu practic pentru cine cumpără băuturi la promoție. No Frost elimină dezghețarea manuală, iar display-ul extern face reglarea temperaturii mai simplă decât la modelele fără afișaj. Clasa energetică E e cea mai slabă abordare la eficiență din segmentul de combine mari, un compromis rezonabil având în vedere prețul. Finisajul metal look cu h 186,5 cm arată bine fără costul unui inox real. Pentru o familie care vrea spațiu mult fără să plătească premium, e recomandarea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/frigider-cu-doua-usi-beko-477-l-no-frost-harvestfresh-display-aeroflow-xxl-bottle-holder-clasa-e-h-186-5-cm-metal-look-b3rdne504hxb/pd/D5302RMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205276"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Heinner Side by Side Full No Frost 532 L",
+      "tag": "Cea mai mare capacitate (side-by-side)",
+      "score": 7.8,
+      "feedId": "D138VPYBM",
+      "features": [
+        "no-frost",
+        "touch",
+        "alarma-usa"
+      ],
+      "specs": [
+        {
+          "value": "532 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Side by side",
+          "label": "tip"
+        },
+        {
+          "value": "E",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "177 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 85
+        },
+        {
+          "label": "Spațiu",
+          "pct": 95
+        },
+        {
+          "label": "Eficiență",
+          "pct": 74
+        },
+        {
+          "label": "Dotări",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "532 L — cea mai mare capacitate din tot topul",
+        "Display LED touch + alarmă ușă deschisă"
+      ],
+      "cons": [
+        "Clasă energetică E",
+        "Brand mai puțin premium"
+      ],
+      "review": "Dacă spațiul din bucătărie permite și vrei cea mai mare capacitate din tot topul, Heinner HSBS-HM532NFXE cu 532 L în configurație side-by-side e varianta potrivită. Cele două uși verticale, una pentru frigider și una pentru congelator, oferă acces facil la ambele zone fără să te apleci, iar Full No Frost ține atât frigiderul cât și congelatorul complet lipsite de gheață. Display-ul LED touch de pe ușă face reglarea temperaturii intuitivă, iar alarma de ușă deschisă previne risipa de energie dacă uiți frigiderul neînchis corect. Finisajul inox cu h 177 cm — mai scund decât o combină clasică, dar mai lat — se potrivește bucătăriilor spațioase, nu apartamentelor mici. Clasa energetică E e cea mai modestă din listă, un compromis obișnuit la formatul side-by-side, care are o suprafață de schimb termic mai mare. Brandul Heinner nu are reputația mărcilor premium din top, dar la acest preț pentru 532 L, oferta e greu de egalat.",
+      "emagUrl": "https://www.emag.ro/side-by-side-heinner-532-clasa-e-full-no-frost-display-led-touch-alarma-usa-deschisa-h-177-cm-inox-hsbs-hm532nfxe/pd/D138VPYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205277"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Beko Încorporabilă NeoFrost 284 L",
+      "tag": "Cea mai bună încorporabilă compactă",
+      "score": 7.5,
+      "feedId": "D4JX27MBM",
+      "features": [
+        "no-frost",
+        "incorporabil",
+        "harvestfresh"
+      ],
+      "specs": [
+        {
+          "value": "284 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Încorporabilă",
+          "label": "tip"
+        },
+        {
+          "value": "E",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "193,5 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 83
+        },
+        {
+          "label": "Spațiu",
+          "pct": 76
+        },
+        {
+          "label": "Eficiență",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Compactă și accesibilă pentru bucătării mici",
+        "NeoFrost + DualCooling, fără dezghețare manuală"
+      ],
+      "cons": [
+        "Fără funcții smart"
+      ],
+      "review": "Pentru bucătăriile mici unde vrei un frigider încorporabil dar nu ai nevoie de capacitatea mare a lui Samsung BRB38G705EWW, Beko BCNA306E4SN cu 284 L e alternativa mai compactă și mai accesibilă. NeoFrost elimină dezghețarea manuală, iar DualCooling separă circuitele de aer ale celor două compartimente, similar principiului de la modelele premium din top. HarvestFresh păstrează legumele proaspete mai mult timp prin simularea luminii naturale, iar display-ul touch de pe partea superioară a interiorului face reglarea temperaturii mai comodă decât la un panou mecanic clasic. Finisajul alb cu h 193,5 cm se integrează discret în spatele unui front de mobilă. Clasa energetică E e obișnuită la acest segment compact încorporabil. Nu are funcții smart sau Wi-Fi, dar nici nu sunt esențiale la această dimensiune. Pentru un cuplu sau o familie mică ce vrea montaj integrat fără să dea prea mult spațiu de bucătărie, e o soluție echilibrată și accesibilă.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-incorporabila-beko-284-l-neofrost-dualcooling-harvestfresh-raft-sticle-display-touch-control-clasa-e-h-193-5-cm-alb-bcna306e4sn/pd/D4JX27MBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205278"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Heinner Compact LED 206 L",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.2,
+      "feedId": "DT1BTWMBM",
+      "features": [
+        "no-frost",
+        "led",
+        "compact"
+      ],
+      "specs": [
+        {
+          "value": "206 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "2 uși",
+          "label": "tip"
+        },
+        {
+          "value": "E",
+          "label": "clasă energetică"
+        },
+        {
+          "value": "143 cm",
+          "label": "înălțime"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 78
+        },
+        {
+          "label": "Spațiu",
+          "pct": 70
+        },
+        {
+          "label": "Eficiență",
+          "pct": 76
+        },
+        {
+          "label": "Dotări",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Cel mai accesibil preț din top",
+        "Compact, ideal ca frigider secundar"
+      ],
+      "cons": [
+        "Capacitate redusă, clasă energetică E"
+      ],
+      "review": "Dacă bugetul e principala constrângere sau ai nevoie doar de un frigider secundar — pentru garsonieră, cameră de oaspeți sau birou —, Heinner HF-H2206E cu 206 L e cel mai accesibil model din tot topul. Cele 3 rafturi de sticlă sunt suficiente pentru un consum zilnic obișnuit, iar lumina LED din interior face vizibilitatea bună chiar și în colțurile din spate. Finisajul alb cu h 143 cm îl face compact și ușor de integrat în spații mici, sub un blat de bucătărie sau într-un colț de birou. Clasa energetică E și capacitatea redusă îl recomandă mai degrabă ca frigider secundar decât ca principal pentru o familie. Nu are congelator separat generos și nici funcții suplimentare dincolo de răcirea de bază. Pentru o cameră ocazională sau un buget strict limitat, face treaba corect fără cheltuieli inutile. Pentru folosire zilnică intensă într-o locuință principală, am recomanda totuși un model cu capacitate mai mare din top.",
+      "emagUrl": "https://www.emag.ro/frigider-cu-doua-usi-heinner-206-l-clasa-e-lumina-led-3-rafturi-de-sticla-h-143-cm-alb-hf-h2206e/pd/DT1BTWMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205279"
+    }
+  ],
+  "comparison": {
+    "title": "Frigider încorporabil vs. de sine stătător: ce alegi pentru bucătăria ta?",
+    "intro": "Diferența nu e doar estetică — capacitatea, prețul și flexibilitatea montajului variază semnificativ între cele două variante. Iată cum se compară pe criteriile care contează.",
+    "aLabel": "Încorporabil",
+    "bLabel": "De sine stătător (freestanding)",
+    "rows": [
+      {
+        "criteriu": "Aspect în bucătărie",
+        "a": "Ascuns în spatele frontului de mobilă",
+        "b": "Vizibil, cu finisaj propriu (inox, alb)"
+      },
+      {
+        "criteriu": "Capacitate la aceleași dimensiuni exterioare",
+        "a": "Ceva mai mică",
+        "b": "Mai mare"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Similar sau mai mare",
+        "b": "De regulă mai accesibil"
+      },
+      {
+        "criteriu": "Montaj",
+        "a": "Necesită nișă de mobilă la comandă",
+        "b": "Se poate muta oriunde în bucătărie"
+      },
+      {
+        "criteriu": "Flexibilitate la mutare",
+        "a": "Redusă, legat de mobilier",
+        "b": "Ridicată, independent de mobilier"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Bucătării cu design integrat, la comandă",
+        "b": "Majoritatea locuințelor"
+      }
+    ],
+    "verdict": "Alege încorporabil dacă vrei o bucătărie complet integrată vizual și ai deja mobilierul gândit pentru asta. Pentru flexibilitate maximă și capacitate mai mare la același preț, varianta de sine stătătoare rămâne alegerea sigură pentru majoritatea caselor."
+  },
+  "priceBuckets": []
+}

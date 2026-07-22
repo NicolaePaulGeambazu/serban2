@@ -1,0 +1,722 @@
+{
+  "title": "Cele mai bune baterii externe (power bank) în 2026",
+  "h1": "Cele mai bune baterii externe (power bank) în 2026",
+  "parent": "Gadgets",
+  "icon": "circle",
+  "order": 29,
+  "intro": "O baterie externă bună se alege după cum o folosești, nu după cel mai mare număr de mAh de pe cutie. Am ales și am comparat 10 modele populare de power bank după capacitate, putere de încărcare (W/PD), porturi și portabilitate, de la Anker Prime 140W pentru laptop până la Jonkuu Mini pentru buzunar. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "mihai-radu",
+  "updated": "2026-07-22",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p3"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "fast-charging",
+      "label": "Fast Charging / PD"
+    },
+    {
+      "key": "wireless",
+      "label": "Wireless / MagSafe"
+    },
+    {
+      "key": "display",
+      "label": "Cu afișaj"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce capacitate (mAh) ți se potrivește",
+      "body": "10.000 mAh e potrivit pentru o zi de folosire moderată a telefonului sau ca rezervă de urgență, gen Jonkuu Mini sau Anker MagGo. 20.000 mAh, ca la Baseus Adaman sau Belkin Boost Charge, acoperă două-trei încărcări complete și e alegerea de bază pentru majoritatea oamenilor. Peste 24.000 mAh, ca la Anker Prime sau Ugreen PB722, are sens dacă vrei să încarci și un laptop sau pleci în călătorii mai lungi departe de priză.",
+      "callout": "Capacitatea reală utilizabilă e cu 20-30% mai mică decât cifra de pe cutie, din cauza conversiei de tensiune. E normal, nu un defect."
+    },
+    {
+      "h3": "Putere (W) și PD: telefon vs. laptop",
+      "body": "Pentru un telefon, 15-22,5W acoperă confortabil încărcarea rapidă standard, ca la Belkin, Baseus sau Tellur. Pentru un laptop însă, ai nevoie de mult mai mult: 65W e minimul pentru multe ultrabook-uri, iar 100W sau peste, ca la Prestige Charger, Anker Prime sau Ugreen PB722, e necesar pentru laptopuri mai mari sau MacBook Pro. Verifică întotdeauna puterea maximă cerută de dispozitivul tău, nu doar capacitatea bateriei externe."
+    },
+    {
+      "h3": "USB-C și Power Delivery (PD), pe scurt",
+      "body": "PD (Power Delivery) e standardul modern care permite putere mare pe un singur cablu USB-C și negociază automat câtă energie trimite fiecărui dispozitiv. Aproape toate telefoanele și laptopurile recente îl folosesc, indiferent de brand. Un power bank cu PD, ca Tellur Boost Pro sau Prestige Charger, e mai versatil decât unul doar cu USB-A, pentru că funcționează atât cu telefoane Android, cât și cu iPhone sau laptop."
+    },
+    {
+      "h3": "Wireless și MagSafe: cât de practic e",
+      "body": "Încărcarea wireless, ca la Anker MagGo cu Qi2, elimină nevoia unui cablu — bateria se prinde magnetic pe spatele telefonului compatibil și încarcă direct. E mai lentă decât o încărcare prin cablu (de regulă 7,5-15W) și generează ceva mai multă căldură, dar câștigă enorm la comoditate pentru folosire ocazională, în mers."
+    },
+    {
+      "h3": "Restricția de 100 Wh la avion",
+      "body": "Bateriile externe se calculează în Wh (watt-oră), nu în mAh: Wh = mAh × V ÷ 1.000. Majoritatea modelelor din top, chiar și cele de 24.000-25.000 mAh, rămân sub pragul de 100 Wh admis în bagajul de mână de companiile aeriene. Peste 100 Wh, unele companii cer aprobare, iar bateriile externe nu sunt niciodată acceptate în bagajul de cală, indiferent de capacitate."
+    },
+    {
+      "h3": "Siguranță și întreținere",
+      "body": "Alege modele cu protecție la supraîncărcare, supratensiune și scurtcircuit — majoritatea brandurilor cunoscute din top (Anker, Ugreen, Belkin, Baseus) le au din fabrică. Evită să lași bateria externă la soare direct sau în mașină pe caniculă, iar dacă n-o folosești o vreme, păstrează-o cu o încărcare de 40-60%, nu complet goală sau complet plină."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi o baterie externă",
+      "body": "Cea mai comună greșeală e alegerea doar după cifra de mAh, ignorând puterea de încărcare (W) — o baterie de 25.000 mAh dar cu 10W încarcă un laptop la fel de puțin ca una fără PD deloc. A doua greșeală e ignorarea numărului de porturi, dacă încarci mai multe dispozitive simultan. A treia e să nu te uiți deloc la greutate și dimensiune — un power bank de 200W e util, dar și considerabil mai greu de purtat zilnic. În fine, un brand complet necunoscut, fără recenzii sau certificări vizibile, e un risc, mai ales la produse care se încălzesc și stau lângă telefon în buzunar."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce capacitate aleg: 10.000, 20.000 sau 25.000 mAh?",
+      "a": "10.000 mAh e suficient pentru o zi de folosire moderată sau ca rezervă de urgență. 20.000 mAh, alegerea cea mai populară, acoperă două-trei încărcări complete de telefon. Peste 24.000 mAh are sens doar dacă vrei să încarci și un laptop sau pleci în călătorii mai lungi departe de priză."
+    },
+    {
+      "q": "Cât de repede încarcă un power bank cu 100W+ un laptop?",
+      "a": "Depinde de laptop, dar un model de 100W, ca Prestige Charger, sau de 140-200W, ca Anker Prime sau Ugreen PB722, acoperă necesarul multor ultrabook-uri și MacBook-uri. Verifică întotdeauna puterea maximă acceptată de laptopul tău înainte să cumperi."
+    },
+    {
+      "q": "Pot lua bateria externă în avion?",
+      "a": "Da, în bagajul de mână, atât timp cât rămâne sub 100 Wh — calcul care rezultă din mAh și voltaj. Majoritatea modelelor din top, chiar și cele de 24.000-25.000 mAh, se încadrează. Bateriile externe nu sunt acceptate niciodată în bagajul de cală."
+    },
+    {
+      "q": "De ce mAh-ul real e mai mic decât cel scris pe cutie?",
+      "a": "Conversia de tensiune internă (de la 3,7V la 5V sau mai mult, pentru USB) consumă energie, deci pierzi 20-30% din capacitatea nominală. O baterie de 20.000 mAh oferă practic în jur de 13.000-14.000 mAh utilizabili — e normal la toate bateriile externe, nu un semn de calitate slabă."
+    },
+    {
+      "q": "Merită încărcarea wireless/MagSafe?",
+      "a": "Da, dacă pui comoditatea mai presus de viteză — modele ca Anker MagGo se prind magnetic și încarcă fără cablu. E mai lentă decât o încărcare prin USB-C și PD, deci pentru încărcare rapidă rămâi la un model cu fir, ca Baseus sau Tellur."
+    },
+    {
+      "q": "Câte porturi îmi trebuie?",
+      "a": "Un port e suficient pentru folosire solo, la telefon. Dacă încarci simultan telefon și cască sau tabletă, alege un model cu minimum două porturi, ca Tellur Boost Pro sau Runexr PB900. Pentru telefon plus laptop, ai nevoie de cel puțin un port USB-C cu putere mare, ca la Anker Prime."
+    },
+    {
+      "q": "Anker, Ugreen, Baseus sau un brand mai puțin cunoscut?",
+      "a": "Anker și Ugreen sunt reperele pentru fiabilitate și putere mare, ideale dacă vrei și încărcare de laptop. Baseus și Belkin oferă calitate dovedită la prețuri mai accesibile. Brandurile mai puțin cunoscute, ca Runexr sau Prestige Charger, pot fi o alegere bună pe buget, dar contează mai mult recenziile cumpărătorilor decât reputația producătorului."
+    },
+    {
+      "q": "Cât ține o baterie externă în timp?",
+      "a": "Majoritatea bateriilor externe cu celule Li-Po sau Li-Ion de calitate rezistă la câteva sute de cicluri complete de încărcare-descărcare, ceea ce înseamnă de regulă 2-3 ani de folosire zilnică înainte ca autonomia să scadă vizibil. Depozitarea corectă și evitarea căldurii extreme prelungesc durata de viață."
+    }
+  ],
+  "conclusion": "Pentru majoritatea oamenilor, Anker Prime 24.000 mAh 140W e alegerea sigură: capacitate mare, putere suficientă pentru laptop și porturi multiple într-un singur pachet. Dacă vrei un raport preț/calitate mai bun, Baseus Adaman Metal 20.000 mAh oferă aproape aceeași experiență zilnică la un cost mai mic, iar pentru un buget strict, Runexr PB900 acoperă nevoile de bază cu afișaj și încărcare rapidă.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Anker Prime 24.000 mAh 140W",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "D9HY3DYBM",
+      "features": [
+        "usb-c",
+        "fast-charging"
+      ],
+      "specs": [
+        {
+          "value": "24.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "140W",
+          "label": "putere GaN"
+        },
+        {
+          "value": "2x USB-C",
+          "label": "+ 1x USB-A"
+        },
+        {
+          "value": "GaN Prime",
+          "label": "încărcare rapidă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 90
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 95
+        },
+        {
+          "label": "Porturi",
+          "pct": 90
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Putere GaN de 140W, suficientă pentru laptop",
+        "Trei porturi, poți încărca simultan telefon, tabletă și laptop"
+      ],
+      "cons": [
+        "Preț peste media segmentului",
+        "Mai greu decât un power bank obișnuit de 20.000 mAh"
+      ],
+      "review": "L-am pus în vârful topului pentru că e genul rar de baterie externă care ține pasul și cu un laptop, nu doar cu telefonul. Cu 140W prin tehnologia GaN Prime de la Anker, poate încărca rapid un MacBook sau un ultrabook, iar cele trei porturi — două USB-C și un USB-A — permit încărcarea simultană a mai multor dispozitive fără să aștepți la rând. Capacitatea de 24.000 mAh acoperă confortabil o zi-două de folosire intensă a telefonului sau o încărcare completă de laptop la nevoie. Ecranul afișează procentul rămas și puterea în timp real, util ca să știi exact cât mai ai. Singurele compromisuri sunt prețul, mai ridicat decât la restul topului, și greutatea — la această capacitate și putere, nu e cea mai ușoară opțiune de purtat zilnic în geantă. Pentru cine vrea o singură baterie externă versatilă, pentru telefon și pentru laptop deopotrivă, e alegerea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-24-000mah-140w-2x-usb-c-usb-a-gan-prime-anker-black-a1289011/pd/D9HY3DYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205222"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Ugreen PB722 25.000 mAh 200W",
+      "tag": "Cea mai mare capacitate",
+      "score": 9.1,
+      "feedId": "DBWN6K3BM",
+      "features": [
+        "usb-c",
+        "fast-charging",
+        "display"
+      ],
+      "specs": [
+        {
+          "value": "25.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "200W",
+          "label": "putere max"
+        },
+        {
+          "value": "Ecran digital",
+          "label": "inteligent"
+        },
+        {
+          "value": "Fast Charging",
+          "label": "multi-port"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 93
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 96
+        },
+        {
+          "label": "Porturi",
+          "pct": 84
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Cea mai mare capacitate și putere din top",
+        "Ecran digital arată puterea exactă pe fiecare port"
+      ],
+      "cons": [
+        "Cea mai grea baterie din listă",
+        "Preț ridicat, apropiat de Anker Prime"
+      ],
+      "review": "Dacă îți trebuie și mai multă capacitate sau putere decât oferă Anker Prime, Ugreen PB722 e alternativa firească — 25.000 mAh și până la 200W, cele mai mari cifre din tot topul nostru. Ecranul digital inteligent afișează în timp real puterea livrată pe fiecare port, un detaliu util atunci când încarci simultan mai multe dispozitive și vrei să știi exact cum se împarte puterea. La 200W, poate alimenta laptopuri mari fără probleme, nu doar telefoane și tablete. Compromisul vine din dimensiune și greutate: la această capacitate și putere, e cel mai greu power bank din listă, deci nu e cel mai comod de purtat zilnic în buzunar sau geantă mică. Prețul se apropie de cel al Anker Prime, deci alegerea între cele două ține mai mult de preferința de brand și de ecosistemul deja folosit. Pentru cineva care vrea maximul absolut de capacitate și putere, Ugreen PB722 e recomandarea noastră.",
+      "emagUrl": "https://www.emag.ro/acumulator-extern-ugreen-25000mah-200w-fast-charging-power-bank-pb722-25000mah-200w-ecran-digital-inteligent-gri-ug-35525b/pd/DBWN6K3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205223"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Baseus Adaman Metal 20.000 mAh",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 8.7,
+      "feedId": "DDQS7BYBM",
+      "features": [
+        "usb-c",
+        "fast-charging"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "22,5W",
+          "label": "putere max"
+        },
+        {
+          "value": "Carcasă metal",
+          "label": "design premium"
+        },
+        {
+          "value": "Afișaj digital",
+          "label": "procent baterie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 86
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 78
+        },
+        {
+          "label": "Porturi",
+          "pct": 78
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Carcasă metalică, senzație premium la un preț accesibil",
+        "Afișaj digital clar pentru procentul rămas"
+      ],
+      "cons": [
+        "22,5W e suficient pentru telefon, dar nu pentru laptop"
+      ],
+      "review": "Baseus Adaman Metal e alegerea noastră pentru cel mai bun raport preț/calitate din top. Carcasa din metal dă o senzație de produs premium, vizibil peste segmentul lui de preț, iar afișajul digital arată clar procentul de baterie rămas, fără să ghicești. Puterea de 22,5W e suficientă pentru încărcare rapidă la telefon și tabletă, dar nu e gândită pentru laptop — pentru asta, alege Anker Prime sau Ugreen PB722 din partea de sus a topului. Capacitatea de 20.000 mAh acoperă confortabil două-trei încărcări complete de telefon, ceea ce înseamnă câteva zile bune fără să te gândești la priză. E genul de baterie externă pe care o recomandăm cui vrea calitate vizibilă și fiabilitate de brand cunoscut, fără să plătească în plus pentru putere de care nu are nevoie.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-baseus-adaman-metal-20000-mah-22-5-w-negru-ppad070101/pd/DDQS7BYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205224"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Belkin Boost Charge 20.000 mAh",
+      "tag": "Cea mai fiabilă alegere",
+      "score": 8.4,
+      "feedId": "DZ76FWMBM",
+      "features": [
+        "usb-c"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "15W",
+          "label": "putere max"
+        },
+        {
+          "value": "USB-C",
+          "label": "+ USB-A"
+        },
+        {
+          "value": "Belkin",
+          "label": "brand premium"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 86
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 68
+        },
+        {
+          "label": "Porturi",
+          "pct": 74
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Brand premium cu reputație solidă în accesorii",
+        "Design simplu, fără compromisuri de fiabilitate"
+      ],
+      "cons": [
+        "15W e sub media segmentului la încărcare rapidă"
+      ],
+      "review": "Belkin Boost Charge nu impresionează prin cifre — 15W e sub media topului nostru — dar recuperează prin simplitate și reputația brandului. Belkin e un nume cunoscut în accesorii de peste două decenii, iar Boost Charge e gândit ca o baterie externă „pune-o în geantă și uită de ea”: fără funcții inutile, doar porturile USB-C și USB-A de care ai nevoie zilnic. Capacitatea de 20.000 mAh acoperă bine o zi-două de folosire normală a telefonului. Dacă prioritatea ta e viteza maximă de încărcare, alte modele din top — Baseus sau Tellur — oferă mai mult la acest capitol. Dar dacă vrei o baterie externă de la un brand în care ai încredere, fără riscul unor probleme de calitate întâlnite la mărci mai puțin cunoscute, Belkin Boost Charge e o alegere sigură și fără regrete.",
+      "emagUrl": "https://www.emag.ro/acumulator-extern-belkin-boost-charge-20000-mah-usb-a-c-15w-negru-bpb012btbk/pd/DZ76FWMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205225"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Tellur Boost Pro PD202 20.000 mAh",
+      "tag": "Cu afișaj LCD",
+      "score": 8.2,
+      "feedId": "DFFFDRMBM",
+      "features": [
+        "usb-c",
+        "fast-charging",
+        "display"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "2x QC3.0 22,5W",
+          "label": "+ PD 20W"
+        },
+        {
+          "value": "LCD display",
+          "label": "procent + putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 86
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 80
+        },
+        {
+          "label": "Porturi",
+          "pct": 85
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Combinație QC3.0 + PD, compatibil cu Android și iPhone",
+        "Afișaj LCD detaliat, cu procent și putere"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut decât Anker sau Belkin"
+      ],
+      "review": "Tellur Boost Pro PD202 combină Quick Charge 3.0 pe două porturi cu Power Delivery pe un al treilea, deci acoperă bine atât telefoane Android, cât și iPhone-uri, indiferent de standardul de încărcare rapidă folosit. Afișajul LCD e mai detaliat decât la multe modele din segmentul lui de preț — arată procentul de baterie și puterea livrată în timp real, nu doar un indicator cu LED-uri. Capacitatea de 20.000 mAh și puterea de până la 22,5W îl plasează confortabil la mijlocul topului, cu performanțe solide fără să exceleze la un singur criteriu. Tellur nu are recunoașterea de brand a unui Anker sau Belkin, dar produsele lor sunt distribuite consistent la noi și au reputație bună la raportul preț/funcții. Pentru cineva care vrea un power bank complet, cu afișaj util și compatibilitate largă, la un preț rezonabil, e o alegere solidă.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-tellur-boost-pro-pd202-20000mah-2xqc3-0-22-5w-pd-20w-lcd-display-negru-tll158351/pd/DFFFDRMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205226"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Anker MagGo 10.000 mAh Wireless",
+      "tag": "Cea mai bună pentru iPhone (wireless)",
+      "score": 8,
+      "feedId": "DYWP3GYBM",
+      "features": [
+        "wireless",
+        "fast-charging"
+      ],
+      "specs": [
+        {
+          "value": "10.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "Wireless Qi2",
+          "label": "15W"
+        },
+        {
+          "value": "Magnetic",
+          "label": "MagSafe"
+        },
+        {
+          "value": "Ultra-slim",
+          "label": "design"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 70
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 74
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Se prinde magnetic direct pe spatele iPhone-ului, fără cablu",
+        "Design ultra-subțire, cel mai portabil din top"
+      ],
+      "cons": [
+        "Capacitate mică — o singură încărcare completă de telefon",
+        "Încărcarea wireless e mai lentă decât una prin cablu"
+      ],
+      "review": "Pentru cineva cu iPhone care vrea o baterie externă fără cabluri, Anker MagGo e alegerea evidentă din top. Se prinde magnetic pe spatele telefonului, la fel ca un MagSafe oficial, și încarcă wireless la 15W prin standardul Qi2 — nu cel mai rapid mod de încărcare, dar suficient de comod încât să-l lași atașat în buzunar toată ziua. Designul ultra-subțire îl face cel mai portabil produs din tot topul nostru, aproape imperceptibil când e prins de telefon. Compromisul e capacitatea: la doar 10.000 mAh, acoperă o singură încărcare completă de telefon, nu mai multe zile ca modelele de 20.000+ mAh din listă. Nu e gândit ca baterie externă principală pentru călătorii lungi, ci ca soluție de urgență, mereu la îndemână. Pentru utilizatorii de iPhone care pun comoditatea mai presus de capacitate, e recomandarea noastră clară.",
+      "emagUrl": "https://www.emag.ro/acumulator-extern-magnetic-wireless-anker-maggo-10000-mah-ultra-slim-qi2-15w-alb-a1664h21/pd/DYWP3GYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205227"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Hama Supreme 20HD 20.000 mAh",
+      "tag": "Alternativă solidă",
+      "score": 7.8,
+      "feedId": "DPV45RMBM",
+      "features": [
+        "usb-c"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "USB-C",
+          "label": "+ USB-A"
+        },
+        {
+          "value": "Hama",
+          "label": "brand german"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 85
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 72
+        },
+        {
+          "label": "Porturi",
+          "pct": 74
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Brand german cu istorie lungă în accesorii",
+        "Capacitate generoasă pentru preț"
+      ],
+      "cons": [
+        "Fără funcții suplimentare notabile (fără display, fără wireless)"
+      ],
+      "review": "Hama Supreme 20HD nu are un element care să iasă puternic în evidență, dar bifează corect ce trebuie de la o baterie externă de bază: 20.000 mAh capacitate, porturi USB-C și USB-A pentru compatibilitate largă și un brand cu reputație — Hama e prezent de zeci de ani pe piața de accesorii electronice. Nu vine cu afișaj digital sau încărcare wireless, iar puterea de încărcare rămâne la nivel standard, nu de top precum Baseus sau Tellur din listă. Asta îl face o opțiune fără riscuri pentru cineva care caută pur și simplu o baterie externă de încredere, fără funcții suplimentare de care poate nu are nevoie. Recomandăm Hama Supreme 20HD cui vrea simplitate și un brand cunoscut, fără să plătească în plus pentru ecrane sau tehnologii wireless.",
+      "emagUrl": "https://www.emag.ro/acumulator-extern-hama-supreme-20hd-20000mah-00201669/pd/DPV45RMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205228"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Prestige Charger Powerbank 20.000 mAh 100W",
+      "tag": "Putere mare, brand mai puțin cunoscut",
+      "score": 7.6,
+      "feedId": "D1NH6L3BM",
+      "features": [
+        "usb-c",
+        "fast-charging"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "100W max",
+          "label": "PD"
+        },
+        {
+          "value": "1x USB-A",
+          "label": "+ 2x USB-C"
+        },
+        {
+          "value": "Compatibil",
+          "label": "laptop/MacBook"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 86
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 90
+        },
+        {
+          "label": "Porturi",
+          "pct": 87
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "100W PD, suficient pentru multe laptopuri, la un preț accesibil",
+        "Trei porturi pentru încărcare simultană"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, fără istoricul unui Anker sau Belkin"
+      ],
+      "review": "Dacă vrei puterea unui power bank pentru laptop — 100W prin PD — dar fără să plătești prețul unui Anker Prime, Prestige Charger e compromisul interesant din top. Cu trei porturi (un USB-A și două USB-C), acoperă simultan telefon, tabletă și laptop, iar cifra de 100W e reală concurență pentru multe modele MacBook și ultrabook-uri. Capacitatea de 20.000 mAh e în linia mediei topului nostru. Marele compromis e brandul: Prestige Charger nu are recunoașterea și istoricul unui Anker, Ugreen sau Belkin, deci contează mai mult recenziile cumpărătorilor și politica de garanție a vânzătorului decât un nume consacrat. Pentru cineva cu buget limitat care are totuși nevoie de putere mare pentru laptop, e o opțiune care merită luată în calcul, cu așteptări realiste legate de brand.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-portabila-prestige-charger-powerbank-cu-incarcare-simultana-rapida-premium-putere-acumulator-20-000-mah-1-x-usb-2-x-usb-c-pd-putere-100w-max-telefon-tableta-laptop-macbook-casti-samsun/pd/D1NH6L3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205229"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Runexr PB900 20.000 mAh",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.4,
+      "feedId": "D13CY03BM",
+      "features": [
+        "usb-c",
+        "fast-charging",
+        "display"
+      ],
+      "specs": [
+        {
+          "value": "20.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "22,5W",
+          "label": "încărcare rapidă"
+        },
+        {
+          "value": "3 porturi",
+          "label": "+ display LED"
+        },
+        {
+          "value": "2 cabluri",
+          "label": "Type-C, Lightning incluse"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 84
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 76
+        },
+        {
+          "label": "Porturi",
+          "pct": 82
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Vine cu două cabluri incluse (Type-C și Lightning)",
+        "Preț mic pentru 20.000 mAh cu display LED"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut",
+        "Fără certificări sau reputație pe termen lung"
+      ],
+      "review": "Runexr PB900 e alegerea noastră pentru buget strict — oferă 20.000 mAh, trei porturi și un afișaj LED la un preț sub media topului. Vine cu două cabluri incluse, Type-C și Lightning, deci nu mai cauți separat un cablu compatibil cu iPhone-ul sau cu telefonul Android. Puterea de 22,5W e suficientă pentru încărcare rapidă la telefon, în linie cu majoritatea modelelor din segmentul de mijloc al topului nostru. Compromisul evident e brandul, mai puțin cunoscut și fără istoricul mărcilor consacrate din listă, deci fiabilitatea pe termen lung contează pe recenziile cumpărătorilor mai mult decât pe reputația producătorului. Pentru o cameră secundară, o mașină sau o achiziție de rezervă unde bugetul e principala constrângere, face treaba corect fără să coste mult.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-runexr-model-pb900-20-000mah-power-bank-portabil-incarcare-rapida-22-5w-3-porturi-display-led-compatibil-apple-samsung-universal-acumulator-2-cabluri-type-c-lightning-run019/pd/D13CY03BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205230"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Jonkuu Mini 10.000 mAh",
+      "tag": "Cea mai bună pentru buzunar (mini)",
+      "score": 7.2,
+      "feedId": "DG3K7KYBM",
+      "features": [
+        "usb-c",
+        "display"
+      ],
+      "specs": [
+        {
+          "value": "10.000 mAh",
+          "label": "capacitate"
+        },
+        {
+          "value": "22,5W",
+          "label": "Quick Charge"
+        },
+        {
+          "value": "Display digital",
+          "label": "mini"
+        },
+        {
+          "value": "Format compact",
+          "label": "de buzunar"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Capacitate",
+          "pct": 70
+        },
+        {
+          "label": "Viteză încărcare",
+          "pct": 76
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Portabilitate",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Cel mai compact format din top, încape ușor în buzunar",
+        "Display digital, neobișnuit la această dimensiune"
+      ],
+      "cons": [
+        "Capacitate mică — sub o încărcare completă la unele telefoane mari"
+      ],
+      "review": "Jonkuu Mini e răspunsul pentru cine vrea o baterie externă cât mai mică, pentru buzunar sau geantă mică de zi cu zi, nu pentru capacitate maximă. La 10.000 mAh, nu acoperă mai mult de o încărcare de telefon, uneori chiar mai puțin la telefoanele mari cu baterii de peste 5.000 mAh, dar formatul mini e cel mai compact din tot topul nostru. Are totuși un afișaj digital, un detaliu neobișnuit la această dimensiune și la acest preț, care arată clar procentul rămas. Quick Charge la 22,5W acoperă bine încărcarea rapidă standard pentru telefon. Nu e alegerea potrivită pentru călătorii lungi sau folosire intensă departe de priză, dar ca soluție de urgență mereu la îndemână, pe care abia o simți în buzunar, e cea mai bună opțiune din listă.",
+      "emagUrl": "https://www.emag.ro/baterie-externa-jonkuu-10000mah-quick-charge-2-x-usb-usb-c-pd-22-5w-display-digital-mini-negru-jon-10k-y20-black/pd/DG3K7KYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205231"
+    }
+  ],
+  "comparison": {
+    "title": "USB-C / PD vs. Wireless (MagSafe/Qi2): ce baterie externă alegi?",
+    "intro": "Ambele metode încarcă bine, dar diferă mult la viteză, comoditate și compatibilitate. Iată cum se compară pe criteriile care contează.",
+    "aLabel": "USB-C / PD (cu fir)",
+    "bLabel": "Wireless (MagSafe/Qi2)",
+    "rows": [
+      {
+        "criteriu": "Viteză de încărcare",
+        "a": "Mult mai rapidă, până la 140-200W",
+        "b": "Mai lentă, de regulă 7,5-15W"
+      },
+      {
+        "criteriu": "Comoditate",
+        "a": "Necesită cablu",
+        "b": "Se prinde magnetic, fără cablu"
+      },
+      {
+        "criteriu": "Compatibilitate",
+        "a": "Aproape orice telefon sau laptop cu USB-C",
+        "b": "Telefoane cu MagSafe sau Qi2"
+      },
+      {
+        "criteriu": "Încălzire",
+        "a": "Redusă, la putere corectă",
+        "b": "Mai multă căldură la aceeași putere"
+      },
+      {
+        "criteriu": "Capacitate tipică",
+        "a": "20.000-25.000 mAh, uz zilnic sau laptop",
+        "b": "10.000 mAh, uz ocazional"
+      }
+    ],
+    "verdict": "Pentru încărcare rapidă și pentru laptop, alege un model cu USB-C și PD, precum Anker Prime sau Ugreen PB722. Pentru comoditate maximă la telefon, fără cablu de purtat, Anker MagGo rămâne alegerea potrivită."
+  },
+  "priceBuckets": []
+}

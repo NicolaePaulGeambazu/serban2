@@ -1,0 +1,729 @@
+{
+  "title": "Cele mai bune drujbe și motofierăstraie în 2026",
+  "h1": "Cele mai bune drujbe și motofierăstraie în 2026",
+  "parent": "Unelte & grădină",
+  "icon": "circle",
+  "order": 20,
+  "intro": "O drujbă bună depinde de scopul ei: un motofierăstrău pe benzină pentru lemne de foc, o electrică pentru grădină de dimensiuni medii sau un model pe acumulator pentru crengi și lucrări ocazionale. Am ales și am comparat 10 modele populare — de la Husqvarna 455 Rancher și Bosch UniversalChain 35 până la mini-drujbele pe acumulator Herrgut — pe baza specificațiilor, recenziilor și reputației fiecărui brand. Mai jos găsești ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "mihai-radu",
+  "updated": "2026-07-22",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p2"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p10"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "benzina",
+      "label": "Pe benzină"
+    },
+    {
+      "key": "electric",
+      "label": "Electrică"
+    },
+    {
+      "key": "acumulator",
+      "label": "Pe acumulator"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Benzină, electrică sau pe acumulator: ce alegi?",
+      "body": "Motofierăstrăul pe benzină rămâne alegerea pentru lemne de foc și lucru departe de casă, unde nu ai acces la o priză — are putere mai mare și autonomie nelimitată cât timp ai combustibil, dar cere amestec benzină-ulei, pornire manuală și ceva mai multă întreținere. Drujba electrică, precum Bosch UniversalChain 35 sau Makita UC4041A, pornește instant, e mai silențioasă și nu are miros de eșapament, însă te ține aproape de o priză sau de un prelungitor. Mini-drujba pe acumulator, ca cele de la Herrgut, câștigă în mobilitate și confort — nu ai cablu, nu ai amestec de benzină — dar puterea e limitată la crengi și lemn subțire.",
+      "callout": "Dacă tai lemne de foc constant, benzina rămâne singura variantă realistă. Pentru grădină și curte, o electrică sau o mini-drujbă acoperă majoritatea nevoilor."
+    },
+    {
+      "h3": "Câtă putere și ce lungime de lamă îți trebuie",
+      "body": "Pentru crengi și grădină obișnuită, 1.400–1.800 W (sau 1,8–2 CP la benzină) și o lamă de 30–35 cm sunt suficiente, ca la Husqvarna 120 Mark II sau Bosch UniversalChain 35. Pentru lemne de foc și trunchiuri mai groase, cauți 2.000 W sau peste 3 CP și lamă de 40–45 cm, precum la Einhell GC-EC 2040 sau DAC 506. Lama trebuie să fie puțin mai lungă decât diametrul maxim pe care intenționezi să-l tai, altfel forțezi motorul și lanțul inutil."
+    },
+    {
+      "h3": "Viteza lanțului și lanțul Oregon",
+      "body": "Viteza lanțului, exprimată în m/s, arată cât de repede taie efectiv drujba — valori de 12–15 m/s, ca la modelele electrice din top, înseamnă tăieri rapide și eficiente. Lanțurile de la Oregon, montate din fabrică pe Einhell GC-EC 2040 sau Bosch UniversalChain 35, sunt un reper de calitate cunoscut în domeniu și se găsesc ușor la înlocuire, spre deosebire de lanțuri de marcă necunoscută."
+    },
+    {
+      "h3": "Siguranța la tăiere: ce nu trebuie să lipsească",
+      "body": "Mănușile, ochelarii de protecție și pantalonii anti-tăiere nu sunt opționale, indiferent cât de mică pare lucrarea. Frâna de lanț, prezentă la majoritatea modelelor din top, oprește lanțul instant în caz de recul (kickback) și e unul dintre cele mai importante elemente de siguranță la o drujbă. Ține mereu ambele mâini pe mânere în timpul tăierii și nu lucra niciodată deasupra nivelului umerilor.",
+      "callout": "Reculul (kickback) e principala cauză a accidentelor la drujbe — apare când vârful lamei atinge un obstacol. Ține distanță și verifică traiectoria înainte de fiecare tăiere."
+    },
+    {
+      "h3": "Întreținerea lanțului și a motorului",
+      "body": "Lanțul trebuie tensionat corect — nici prea lejer, nici prea întins — și ascuțit periodic, pentru că un lanț tocit forțează motorul și taie inegal. La modelele pe benzină, verifică regulat filtrul de aer, bujia și amestecul benzină-ulei în proporția recomandată de producător. La electrice și mini-drujbele pe acumulator, sistemul de ungere automată a lanțului, prezent la Bosch, Einhell sau Herrgut, reduce mult din grija zilnică, dar tot merită verificat nivelul de ulei de lanț."
+    },
+    {
+      "h3": "Motofierăstrău pe benzină: pornire și amestec carburant",
+      "body": "Motoarele pe benzină din top, precum Ruris DAC 401S sau DAC 506, funcționează în 2 timpi și cer amestec de benzină cu ulei special, în proporția indicată în manual — de obicei 1:40 sau 1:50. Pornirea se face cu șocul închis la rece, câteva trageri de șnur, apoi deschis progresiv până motorul merge la ralanti stabil. Un amestec greșit sau benzină veche sunt cele mai frecvente cauze pentru pornirea grea la motofierăstraiele pe benzină."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi o drujbă",
+      "body": "Cea mai comună greșeală e alegerea unei lame prea scurte pentru ce vrei să tai, ceea ce te obligă la tăieri în etape și forțează lanțul. A doua e ignorarea reputației brandului la un motofierăstrău pe benzină — piesele și service-ul contează enorm pe termen lung, iar un brand necunoscut poate fi greu de reparat peste câțiva ani. A treia e alegerea unei mini-drujbe pe acumulator pentru lucrări care cer de fapt un motofierăstrău pe benzină — sunt unelte bune, dar pentru crengi și grădină, nu pentru trunchiuri sau lemne de foc. În fine, mulți uită complet de echipamentul de protecție, deși e la fel de important ca drujba în sine."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce lungime de lamă aleg pentru lemne de foc?",
+      "a": "Pentru lemne de foc obișnuite, o lamă de 40–45 cm, ca la DAC 506 sau Ruris DAC 401S, acoperă majoritatea trunchiurilor. Dacă tai frecvent bușteni mai groși, mergi spre 45 cm sau peste, ca la Husqvarna 455 Rancher."
+    },
+    {
+      "q": "Benzină sau electrică pentru grădină?",
+      "a": "Pentru grădină și curte, unde ai acces la curent, o electrică precum Bosch UniversalChain 35 sau Makita UC4041A e mai practică — pornește instant, e mai silențioasă și nu cere amestec de combustibil. Benzina rămâne utilă doar dacă lucrezi departe de o priză."
+    },
+    {
+      "q": "Ce înseamnă motor brushless la o mini-drujbă pe acumulator?",
+      "a": "Motorul brushless (fără perii) are mai puține piese care se uzează prin frecare, deci durează mai mult și consumă bateria mai eficient decât un motor clasic cu perii. La mini-drujbele Herrgut din top, asta se traduce în autonomie mai bună per încărcare."
+    },
+    {
+      "q": "Cât de des trebuie ascuțit lanțul?",
+      "a": "Depinde de cât de des tai și ce anume — lemn cu nisip sau pământ tocește lanțul mai rapid. Ca reper general, verifică ascuțimea la fiecare rezervor de benzină plin sau la fiecare încărcare completă de baterie și ascute-l când observi că taie mai greu sau produce rumeguș fin în loc de așchii."
+    },
+    {
+      "q": "Ce amestec de ulei folosesc la un motofierăstrău pe benzină?",
+      "a": "Modelele în 2 timpi din top, precum Ruris DAC 401S sau DAC 506, cer amestec benzină-ulei special pentru motoare 2 timpi, de obicei în proporție 1:40 sau 1:50 — verifică manualul exact al modelului tău, pentru că proporția diferă între producători."
+    },
+    {
+      "q": "Cât ține o baterie la o mini-drujbă pe acumulator?",
+      "a": "Depinde de capacitate și de cât de des tai continuu, dar o baterie de 4000 mAh, ca la modelele Herrgut din top, acoperă de regulă o sesiune de curățenie de grădină sau tăiat câteva crengi. Modelul cu 2 baterii incluse îți dă practic dublul timpului de lucru."
+    },
+    {
+      "q": "Ce este frâna de lanț și de ce contează?",
+      "a": "Frâna de lanț oprește instant rotația lanțului în cazul unui recul (kickback), unul dintre cele mai frecvente și periculoase incidente la o drujbă. E un element de siguranță esențial, prezent la majoritatea modelelor din top, și merită verificat înainte de fiecare sesiune de lucru."
+    },
+    {
+      "q": "Merită să plătesc mai mult pe un brand ca Husqvarna sau Makita?",
+      "a": "Da, dacă vei folosi drujba regulat. Brandurile consacrate oferă fiabilitate dovedită în timp și acces mai ușor la piese de schimb și service în România. Pentru folosire ocazională, un model mai accesibil de la un brand mai puțin cunoscut poate fi suficient."
+    }
+  ],
+  "conclusion": "Pentru lemne de foc și lucru serios pe termen lung, Husqvarna 455 Rancher e alegerea sigură, cu fiabilitate dovedită și service pe măsură. Dacă vrei o electrică echilibrată, fără bătăile de cap ale benzinei, Bosch UniversalChain 35 oferă cel mai bun raport preț-funcții, iar pentru un buget strict, Herrgut Mini 8\" acoperă lucrările mărunte din jurul casei la un cost minim.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Husqvarna 455 Rancher 18\"",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "DW8WFTYBM",
+      "features": [
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "45 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "Benzină",
+          "label": "tip motor"
+        },
+        {
+          "value": "2 timpi",
+          "label": "motor"
+        },
+        {
+          "value": "Profesională",
+          "label": "clasă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 95
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 82
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 94
+        },
+        {
+          "label": "Dotări",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Motor puternic, potrivit pentru lemne de foc și tăieri repetate",
+        "Brand cu reputație solidă și rețea de service în România"
+      ],
+      "cons": [
+        "Preț peste media segmentului",
+        "Necesită amestec benzină-ulei și întreținere regulată"
+      ],
+      "review": "Husqvarna 455 Rancher e alegerea noastră de vârf pentru cine taie lemne de foc constant sau lucrează frecvent cu drujba, nu doar ocazional. Reputația Husqvarna la capitolul fiabilitate e una dintre cele mai solide din segmentul motofierăstraielor pe benzină, iar rețeaua de service din România înseamnă că găsești piese și tehnicieni fără bătaie de cap, un aspect care contează enorm pe termen lung. Lama de 45 cm acoperă confortabil majoritatea trunchiurilor obișnuite, iar construcția robustă e gândită pentru utilizare intensă, nu pentru câteva tăieri pe an. Fiind pe benzină, cere amestec benzină-ulei corect dozat și puțină întreținere regulată — filtru de aer, bujie, tensionarea lanțului — dar în schimb oferă independență completă față de prize sau baterii, utilă mai ales la distanță de casă. Prețul e peste media segmentului, însă pentru cineva care își dorește un motofierăstrău serios, pe care să-l folosească ani la rând fără compromisuri, e investiția pe care o recomandăm cu încredere.",
+      "emagUrl": "https://www.emag.ro/motoferastrau-husqvarna-455-rancher-18-970613718/pd/DW8WFTYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205261"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Bosch UniversalChain 35 1800 W",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 9,
+      "feedId": "D7LX6JMBM",
+      "features": [
+        "electric"
+      ],
+      "specs": [
+        {
+          "value": "1800 W",
+          "label": "putere"
+        },
+        {
+          "value": "35 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "12 m/s",
+          "label": "viteză lanț"
+        },
+        {
+          "value": "SDS",
+          "label": "tensionare lanț"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 78
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 90
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 88
+        },
+        {
+          "label": "Dotări",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Sistem SDS de tensionare a lanțului fără scule",
+        "Ungere automată a lanțului, lanț Oregon inclus"
+      ],
+      "cons": [
+        "Lamă de doar 35 cm, sub concurența directă"
+      ],
+      "review": "Bosch UniversalChain 35 e drujba electrică pe care o recomandăm pentru cel mai bun echilibru între preț și funcții practice. Sistemul SDS de tensionare a lanțului elimină nevoia de chei sau șurubelniță — reglezi din câteva mișcări, direct din exterior — iar ungerea automată a lanțului ține totul lubrifiat fără să te gândești la asta de fiecare dată. Lanțul Oregon, montat din fabrică, e o garanție de calitate cunoscută în domeniu. Cei 1800 W de putere sunt suficienți pentru curățat grădina, tăiat crengi și lemn subțire-mediu, deși lama de doar 35 cm o limitează puțin față de modelele cu 40 cm din top atunci când vine vorba de trunchiuri mai groase. Fiind electrică, pornește instant, nu are miros de benzină și e mult mai silențioasă decât un motofierăstrău pe benzină, ideală pentru curte sau grădină aproape de casă. Pentru folosire casnică regulată, fără complicațiile unui motor pe benzină, e alegerea noastră de bun-simț.",
+      "emagUrl": "https://www.emag.ro/drujba-electrica-fierastrau-cu-lant-bosch-universalchain-35-putere-1800-w-35-cm-lungime-lama-12-m-s-viteza-lant-lant-oregon-sistem-sds-de-tensionare-lant-ungere-automata-06008b8303/pd/D7LX6JMBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205262"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Makita UC4041A 1800 W",
+      "tag": "Premium pe electric",
+      "score": 8.8,
+      "feedId": "DCGKKMBBM",
+      "features": [
+        "electric"
+      ],
+      "specs": [
+        {
+          "value": "1800 W",
+          "label": "putere"
+        },
+        {
+          "value": "230 V",
+          "label": "alimentare"
+        },
+        {
+          "value": "40 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "14,5 m/s",
+          "label": "viteză lanț"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 84
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 86
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 88
+        },
+        {
+          "label": "Dotări",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Putere solidă pentru o electrică (1800 W), lamă 40 cm",
+        "Viteză mare a lanțului, tăiere rapidă"
+      ],
+      "cons": [
+        "Cablul de alimentare limitează raza de acțiune"
+      ],
+      "review": "Makita UC4041A e drujba electrică pentru cine vrea putere reală fără să treacă la benzină. Cu 1800 W și o lamă de 40 cm, se descurcă bine la tăieri mai consistente decât modelele electrice cu lamă mai scurtă, iar viteza lanțului de 14,5 m/s înseamnă tăiere rapidă și eficientă, fără să forțezi motorul. Reputația Makita pentru scule electrice robuste se simte și aici — e o unealtă gândită pentru folosire repetată, nu doar pentru câteva tăieri ocazionale pe an. Fiind alimentată la 230 V prin cablu, ești legat de o priză sau un prelungitor, ceea ce limitează raza de acțiune față de un model pe acumulator sau pe benzină, dar câștigi în schimb pornire instantă și zero întreținere de motor. Pentru grădini de dimensiuni medii-mari, unde ai acces la curent, e una dintre cele mai bune alegeri electrice din listă — echilibrată, puternică și de la un brand în care poți avea încredere.",
+      "emagUrl": "https://www.emag.ro/drujba-electrica-fierastrau-cu-lant-makita-uc4041a-putere-1800-w-230-v-40-cm-lungime-lama-14-5-m-s-viteza-lant-pl-1032556-uc4041a/pd/DCGKKMBBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205263"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Einhell GC-EC 2040 2000 W",
+      "tag": "Cea mai puternică electrică",
+      "score": 8.6,
+      "feedId": "D03WCBYBM",
+      "features": [
+        "electric"
+      ],
+      "specs": [
+        {
+          "value": "2000 W",
+          "label": "putere"
+        },
+        {
+          "value": "40 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "15,5 m/s",
+          "label": "viteză tăiere"
+        },
+        {
+          "value": "Oregon",
+          "label": "lamă și lanț"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 86
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 82
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 82
+        },
+        {
+          "label": "Dotări",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Cea mai mare putere dintre modelele electrice (2000 W)",
+        "Lamă și lanț Oregon, calitate dovedită"
+      ],
+      "cons": [
+        "Mai grea decât alte modele electrice din top"
+      ],
+      "review": "Dacă vrei cea mai multă putere posibilă dintr-o drujbă electrică, Einhell GC-EC 2040 conduce topul la acest capitol cu 2000 W. Lama de 40 cm și lanțul Oregon montat din fabrică fac echipa potrivită pentru tăieri mai solicitante — crengi groase, buști subțiri, curățenie de grădină după furtună. Viteza de tăiere de 15,5 m/s ține pasul cu modelele mai scumpe din top, iar faptul că vine deja echipat cu lamă și lanț Oregon înseamnă că nu mai cauți separat piese de schimb de calitate chiar de la început. E ceva mai grea decât alte electrice din listă, o consecință firească a motorului mai puternic, dar diferența nu e una care să deranjeze la folosire ocazională sau de weekend. Pentru cineva care vrea maximul de putere dintr-o drujbă electrică, fără să treacă la un motor pe benzină, e alegerea evidentă din segment.",
+      "emagUrl": "https://www.emag.ro/drujba-fierastrau-electric-cu-lant-einhell-gc-ec-2040-putere-2000-w-220-v-40-cm-lungime-lama-15-5-m-s-viteza-taiere-lama-si-lant-oregon-4501230/pd/D03WCBYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205264"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Husqvarna 120 Mark II 1,8 CP",
+      "tag": "Cel mai bun motofierăstrău de start",
+      "score": 8.4,
+      "feedId": "DQZ82ZBBM",
+      "features": [
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "1,8 CP",
+          "label": "putere"
+        },
+        {
+          "value": "38,2 cc",
+          "label": "cilindree"
+        },
+        {
+          "value": "9000 rpm",
+          "label": "turație"
+        },
+        {
+          "value": "35 cm",
+          "label": "lungime lamă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 78
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 80
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 88
+        },
+        {
+          "label": "Dotări",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Brand Husqvarna la un preț accesibil",
+        "Pornire relativ ușoară, bun pentru începători"
+      ],
+      "cons": [
+        "Putere modestă pentru lemn gros"
+      ],
+      "review": "Husqvarna 120 Mark II e poarta de intrare recomandată spre motofierăstraiele pe benzină ale brandului, la un preț mult mai accesibil decât modelele profesionale. Cu 1,8 CP și 38,2 cc, nu e gândită pentru tăieri intensive de lemne de foc, ci pentru lucrări casnice obișnuite — curățat grădina, tăiat crengi, ocazional un buștean subțire. Lama de 35 cm e potrivită pentru acest tip de folosire, iar turația de 9000 rpm oferă o tăiere decentă fără să forțeze motorul mic. Marele avantaj rămâne numele Husqvarna: fiabilitate cunoscută și acces la service și piese oriunde în țară, un lucru pe care brandurile mai mici nu-l pot oferi. Fiind pe benzină, cere amestec corect și pornire manuală, ceva mai multă bătaie de cap decât o electrică, dar și independență totală de priză. Pentru cineva care vrea un prim motofierăstrău pe benzină, de încredere, fără să plătească pentru un model profesional supradimensionat nevoilor lui, e alegerea potrivită.",
+      "emagUrl": "https://www.emag.ro/drujba-motofierastrau-cu-lant-pe-benzina-husqvarna-120-mark-ii-1-8-cp-1400-w-38-2-cc-9000-rpm-35-cm-lungime-lama-967-86-19-03/pd/DQZ82ZBBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205265"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "DAC 506 3 CP",
+      "tag": "Putere mare, preț bun",
+      "score": 8.2,
+      "feedId": "DM10HNBBM",
+      "features": [
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3 CP",
+          "label": "putere"
+        },
+        {
+          "value": "54 cc",
+          "label": "cilindree"
+        },
+        {
+          "value": "45 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "Walbro",
+          "label": "carburator"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 88
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 74
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "3 CP și 54 cc, putere peste media segmentului de benzină",
+        "Carburator Walbro, componentă de calitate"
+      ],
+      "cons": [
+        "Mai zgomotoasă și mai grea decât modelele electrice"
+      ],
+      "review": "DAC 506 e motofierăstrăul pe benzină cu cea mai multă putere din segmentul de preț mediu al topului nostru — 3 CP și 54 cc, suficient pentru tăieri repetate de lemne de foc, nu doar ocazionale. Carburatorul Walbro, o componentă cunoscută pentru fiabilitate în lumea motofierăstraielor, e un detaliu care contează pe termen lung și care lipsește adesea la modelele foarte ieftine. Lama de 45 cm acoperă confortabil trunchiuri de dimensiuni medii-mari, iar pornirea manuală clasică nu ridică probleme după ce înveți procedura corectă. Fiind mai puternică, e și mai grea și mai zgomotoasă decât alternativele electrice din listă, un compromis firesc pentru cineva care are nevoie de putere reală în teren, departe de o priză. Nu are reputația de brand consacrat a unui Husqvarna, dar componentele de calitate — mai ales carburatorul — inspiră încredere pentru cine caută putere multă la un preț rezonabil.",
+      "emagUrl": "https://www.emag.ro/drujba-motofierastrau-cu-lant-pe-benzina-dac-506-3-cp-54-cc-2-timpi-lungime-lama-45-cm-carburator-walbro-pornire-manuala-50620171/pd/DM10HNBBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205266"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Ruris DAC 401S 2 CP",
+      "tag": "Alternativă solidă pe benzină",
+      "score": 8,
+      "feedId": "D0SQRBBBM",
+      "features": [
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "2 CP",
+          "label": "putere"
+        },
+        {
+          "value": "41 cc",
+          "label": "cilindree"
+        },
+        {
+          "value": "2 timpi",
+          "label": "motor"
+        },
+        {
+          "value": "40 cm",
+          "label": "lungime lamă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 74
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 76
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 76
+        },
+        {
+          "label": "Dotări",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Preț accesibil pentru un motofierăstrău pe benzină",
+        "Lamă de 40 cm, suficientă pentru majoritatea lucrărilor casnice"
+      ],
+      "cons": [
+        "Fiabilitate pe termen lung sub Husqvarna"
+      ],
+      "review": "Ruris DAC 401S e opțiunea de buget pentru cine vrea un motofierăstrău pe benzină fără să investească într-un model premium. Cu 2 CP și 41 cc, acoperă nevoile unei gospodării obișnuite — tăiat crengi, curățat grădina, ocazional lemne subțiri — fără pretenția de a înlocui un motofierăstrău profesional pentru foc pe tot sezonul. Lama de 40 cm e generoasă pentru clasa de putere, iar motorul în 2 timpi urmează schema clasică, ușor de întreținut chiar și pentru cineva la prima achiziție de acest tip. Fiabilitatea pe termen lung nu atinge nivelul unui Husqvarna, iar rețeaua de service pentru branduri mai mici poate fi mai greu de găsit în unele zone. Pentru cineva cu buget limitat care are nevoie de o drujbă pe benzină funcțională, fără funcții în plus și fără să plătească pentru un nume consacrat, e o alegere rezonabilă și corectă pentru prețul ei.",
+      "emagUrl": "https://www.emag.ro/drujba-motofierastrau-cu-lant-pe-benzina-ruris-dac-401s-2-cp-41-cc-2-timpi-40-cm-lungime-lama-40120141/pd/D0SQRBBBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205267"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Herrgut Mini 12\" 2x 4000 mAh",
+      "tag": "Cea mai bună pe acumulator",
+      "score": 7.9,
+      "feedId": "D4HNYWYBM",
+      "features": [
+        "acumulator",
+        "brushless"
+      ],
+      "specs": [
+        {
+          "value": "30 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "Brushless",
+          "label": "motor"
+        },
+        {
+          "value": "2x 4000 mAh",
+          "label": "baterii"
+        },
+        {
+          "value": "Fast charging",
+          "label": "încărcare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 70
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 88
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 76
+        },
+        {
+          "label": "Dotări",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Motor brushless, eficiență și durabilitate mai bune",
+        "Vine cu 2 baterii, deci schimbi și continui lucrul"
+      ],
+      "cons": [
+        "Putere insuficientă pentru trunchiuri groase"
+      ],
+      "review": "Herrgut cu lamă de 12\" e cea mai practică alegere pe acumulator din top pentru cine vrea o unealtă ușoară, fără cablu și fără benzină, pentru crengi și lucrări mărunte de grădină. Motorul brushless înseamnă mai puțină uzură și eficiență mai bună a bateriei față de un motor clasic cu perii, iar faptul că vine cu două baterii de 4000 mAh e un avantaj real — schimbi bateria descărcată și continui lucrul fără pauză de încărcare. Sistemul de lubrifiere automată a lanțului și încărcarea rapidă completează un pachet gândit pentru comoditate, nu pentru performanță maximă. Puterea rămâne, evident, sub cea a unui motofierăstrău pe benzină sau a unei electrice cu cablu, deci nu te aștepta să tai trunchiuri groase cu ea. Pentru curățenie de grădină, crengi și lucrări ocazionale în jurul casei, unde mobilitatea contează mai mult decât puterea brută, e alegerea noastră preferată dintre modelele pe acumulator.",
+      "emagUrl": "https://www.emag.ro/mini-fierastrau-electric-cu-lant-herrgut-motor-fara-perii-12-inch-2-x-baterie-4000-mah-putere-1200w-fast-charging-pe-acumulator-cu-sistem-de-lubrifiere-albastru-negru-mini-drujba-hgffp01/pd/D4HNYWYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205268"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Kamrad KR-52 52 cc",
+      "tag": "Alternativă de buget pe benzină",
+      "score": 7.8,
+      "feedId": "DYP0DMYBM",
+      "features": [
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "52 cc",
+          "label": "cilindree"
+        },
+        {
+          "value": "33 dinți",
+          "label": "pinion"
+        },
+        {
+          "value": "0,325\"",
+          "label": "pas lanț"
+        },
+        {
+          "value": "1,5 mm",
+          "label": "grosime lanț"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 82
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 72
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 70
+        },
+        {
+          "label": "Dotări",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Putere mare raportată la preț (52 cc)",
+        "Lanț cu pas 0,325\" potrivit pentru tăieri dese"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, fără istoric solid pe piața din România"
+      ],
+      "review": "Kamrad KR-52 atrage prin cifre — 52 cc și o putere raportată generos pentru segmentul de preț — dar brandul e mai puțin cunoscut decât numele consacrate din listă, ceva de luat în calcul înainte de cumpărare. Lanțul cu pas 0,325\" și grosime 1,5 mm, montat pe un pinion cu 33 de dinți, e configurația potrivită pentru tăieri dese și repetate, iar puterea pe hârtie promite rezultate bune la lemne de dimensiuni medii. Lipsa unui istoric solid pe piața din România înseamnă însă că accesul la piese de schimb sau service specializat poate fi mai limitat decât la Husqvarna sau Ruris, un risc real pentru cineva care vrea o unealtă pe termen lung. Pentru cine caută putere multă la un preț mic și acceptă compromisul unui brand mai puțin testat de timp, poate fi o variantă tentantă, dar o recomandăm mai degrabă ca alternativă de buget decât ca primă opțiune.",
+      "emagUrl": "https://www.emag.ro/drujba-pe-benzina-kamrad-kr-52-5-8-cp-52cc-33-dinti-0-325-1-5mm-kmr0004/pd/DYP0DMYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205269"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Herrgut Mini 8\" 4000 mAh",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.7,
+      "feedId": "DVHNYWYBM",
+      "features": [
+        "acumulator",
+        "brushless"
+      ],
+      "specs": [
+        {
+          "value": "20 cm",
+          "label": "lungime lamă"
+        },
+        {
+          "value": "Brushless",
+          "label": "motor"
+        },
+        {
+          "value": "4000 mAh",
+          "label": "baterie"
+        },
+        {
+          "value": "15 cm",
+          "label": "lanț extra"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 70
+        },
+        {
+          "label": "Ergonomie",
+          "pct": 85
+        },
+        {
+          "label": "Fiabilitate",
+          "pct": 74
+        },
+        {
+          "label": "Dotări",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Foarte ușoară și compactă, ideală pentru crengi și grădină",
+        "Preț mic de intrare pe acumulator"
+      ],
+      "cons": [
+        "Lamă de doar 8\", nepotrivită pentru trunchiuri sau lemne groase"
+      ],
+      "review": "Herrgut cu lamă de 8\" e cea mai accesibilă și mai ușoară opțiune din tot topul, gândită strict pentru lucrări mărunte — crengi subțiri, curățenie ocazională de grădină, nicidecum trunchiuri sau lemne de foc. Motorul brushless și bateria de 4000 mAh (plus lanțul extra de 6\" inclus) fac din ea o unealtă convenabilă pentru cineva care are nevoie de o soluție rapidă, ușor de manevrat cu o singură mână, fără greutatea sau zgomotul unei drujbe clasice. Sistemul de lubrifiere automată e un plus binevenit la acest nivel de preț, rar întâlnit la mini-drujbele foarte ieftine. Limitarea evidentă e puterea și lungimea lamei — 8\" înseamnă strict tăieri subțiri, nimic mai mult, iar cine are nevoie și ocazional de puțin mai multă capacitate ar trebui să ia în calcul varianta cu lamă de 12\" din același brand. Pentru cea mai mică investiție posibilă într-o unealtă pe acumulator utilă în jurul casei, își face treaba corect.",
+      "emagUrl": "https://www.emag.ro/mini-fierastrau-electric-cu-lant-herrgut-motor-fara-perii-8-inch-1-x-baterie-4000-mah-lant-extra-de-6-inch-baterie-extra-2000-mah-fast-charging-pe-acumulator-cu-sistem-de-lubrifiere-albastru-negru-min/pd/DVHNYWYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205270"
+    }
+  ],
+  "comparison": {
+    "title": "Benzină vs. electrică: ce motofierăstrău alegi?",
+    "intro": "Cele două tipuri de motoare taie la fel de bine, dar diferă mult la putere, autonomie, zgomot și întreținere. Iată cum se compară pe criteriile care contează.",
+    "aLabel": "Benzină",
+    "bLabel": "Electrică",
+    "rows": [
+      {
+        "criteriu": "Putere",
+        "a": "Mare, pentru lemne groase",
+        "b": "Bună pentru grădină, mai slabă la trunchiuri groase"
+      },
+      {
+        "criteriu": "Autonomie",
+        "a": "Nelimitată, cât ai combustibil",
+        "b": "Limitată la lungimea cablului"
+      },
+      {
+        "criteriu": "Greutate",
+        "a": "Mai grea",
+        "b": "Mai ușoară"
+      },
+      {
+        "criteriu": "Zgomot",
+        "a": "Zgomotoasă, necesită protecție auditivă",
+        "b": "Mult mai silențioasă"
+      },
+      {
+        "criteriu": "Pornire",
+        "a": "Manuală, cere tehnică",
+        "b": "Instant, la un buton"
+      },
+      {
+        "criteriu": "Întreținere",
+        "a": "Amestec benzină-ulei, filtru, bujie",
+        "b": "Aproape zero întreținere de motor"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Lemne de foc, teren fără curent",
+        "b": "Grădină, curte, aproape de priză"
+      }
+    ],
+    "verdict": "Pentru lemne de foc și lucru departe de casă, alege benzină. Pentru grădină și curte, unde ai acces la curent, o electrică e mai practică, mai silențioasă și mai ușor de întreținut."
+  },
+  "priceBuckets": []
+}

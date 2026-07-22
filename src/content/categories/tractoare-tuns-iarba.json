@@ -1,0 +1,729 @@
+{
+  "title": "Cele mai bune tractoare de tuns iarba în 2026",
+  "h1": "Cele mai bune tractoare de tuns iarba în 2026",
+  "parent": "Unelte & grădină",
+  "icon": "circle",
+  "order": 24,
+  "intro": "Un tractoraș de tuns iarbă bun se alege după suprafața curții tale, nu după cel mai mare motor din magazin. Am ales și am comparat 10 modele populare după putere, lățime de tăiere, transmisie și capacitatea coșului colector, de la Husqvarna TC 138 și Stiga Estate 384 până la EGO Power, singurul model electric din top. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "mihai-radu",
+  "updated": "2026-07-22",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p2"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p10"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "hidrostatica",
+      "label": "Transmisie hidrostatică"
+    },
+    {
+      "key": "cos-colector",
+      "label": "Cu coș colector"
+    },
+    {
+      "key": "acumulator",
+      "label": "Pe acumulator"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce suprafață ai? Așa alegi lățimea de tăiere și puterea",
+      "body": "Regula de bază: cu cât suprafața e mai mare, cu atât ai nevoie de o lățime de tăiere mai generoasă, ca să nu petreci ore întregi cosind. Pentru curți mici, până la 3.000–4.000 m², un model compact ca Villager Rider VTR 650, cu 61 cm lățime, e suficient și ușor de manevrat printre alei sau copaci. Pentru terenuri medii, de 3.000–6.000 m², modelele cu 84–98 cm — Stiga Estate 384, Alpina AT3 98 HA — țin un echilibru bun între viteza de lucru și manevrabilitate. Peste 6.000–8.000 m², merită să treci la 102–107 cm, ca la Cub Cadet XT2 QR106, Snapper RTX102 sau EGO Power ZT4201E-L, unde fiecare centimetru în plus se traduce direct în timp economisit.",
+      "callout": "O lățime de tăiere prea mare pe o curte mică nu ajută cu nimic — devine greu de manevrat în colțuri și pe lângă garduri."
+    },
+    {
+      "h3": "Transmisie hidrostatică vs. mecanică: de ce contează",
+      "body": "Transmisia hidrostatică reglează viteza de înaintare continuu, cu o singură pedală, fără să schimbi treptele de viteză — mult mai confortabil mai ales la întoarceri dese sau pe teren cu denivelări. O regăsești la majoritatea modelelor din partea de sus a topului nostru: Husqvarna TC 138, Stiga Estate 384, Cub Cadet XT2 QR106, Snapper RTX102, MTD Optima LN200H și Alpina AT3 98 HA. Transmisia mecanică, cu trepte fixe — ca la Hecht 5102, Ruris RX Explorer 920M sau Villager Rider VTR 650 — cere puțin mai multă atenție la manevrare, dar costă mai puțin și rămâne o soluție simplă și fiabilă pentru cine tunde ocazional sau are un teren mai mic."
+    },
+    {
+      "h3": "Benzină sau acumulator: ce alegi pentru curtea ta",
+      "body": "Majoritatea tractoraselor din top funcționează pe benzină, cu motoare de la 6,4 CP până la 24 CP, suficiente pentru orice tip de teren rezidențial. EGO Power ZT4201E-L e singurul model electric din listă — fără miros de benzină, fără zgomotul motorului termic, dar cu acumulatorii Li-Ion de 56V vânduți separat, un cost suplimentar important de luat în calcul de la început. Dacă ai deja acumulatori compatibili EGO de la alte unelte de grădină sau vrei să eviți complet întreținerea unui motor pe benzină, varianta electrică merită luată în calcul. Pentru restul situațiilor, un model pe benzină rămâne alegerea mai predictibilă ca autonomie și cost inițial."
+    },
+    {
+      "h3": "Coș colector sau mulcire: ce faci cu iarba cosită",
+      "body": "Un coș colector generos — 280–320 de litri la Ruris RX Explorer, Snapper RTX102 sau Cub Cadet XT2 QR106 — înseamnă mai puține opriri pentru golire pe suprafețe mari. Alte modele, ca MTD Optima LN200H sau Alpina AT3 98 HA, nu vin cu coș colector inclus standard, ci mizează pe mulcire sau evacuare laterală, deci dacă vrei neapărat să aduni iarba cosită, bugetează accesoriul separat. EGO Power ZT4201E-L, fiind un model de tip zero-turn, funcționează tot pe mulcire sau evacuare laterală. Alege în funcție de cât de des vrei să scapi de iarba cosită și cât timp ești dispus să petreci golind coșul."
+    },
+    {
+      "h3": "Puterea motorului: CP sau kW, ce înseamnă în practică",
+      "body": "Producătorii afișează puterea fie în CP, fie în kW, iar cele două unități nu sunt direct comparabile fără conversie (1 CP ≈ 0,735 kW). Pentru un teren obișnuit de câteva mii de metri pătrați, 12–17 CP — ca la Stiga Estate 384, Hecht 5102, MTD Optima LN200H sau Alpina AT3 98 HA — sunt suficienți. Pentru terenuri mari sau iarbă deasă și înaltă, motoarele de 16–24 CP, ca la Cub Cadet XT2 QR106 sau Snapper RTX102, oferă rezerva de putere necesară fără să forțeze motorul. Nu alege doar după cifra cea mai mare — un motor supradimensionat pentru o curte mică înseamnă doar consum mai mare, fără beneficii reale."
+    },
+    {
+      "h3": "Întreținere: ce trebuie să faci an de an",
+      "body": "Schimbă uleiul motorului conform intervalului din manual, de obicei la 25–50 de ore de funcționare, și verifică filtrul de aer periodic — praful și resturile de iarbă îl înfundă rapid în sezon. Curăță partea de dedesubt a platoului de tăiere după fiecare cosire, ca resturile uscate să nu ruginească structura metalică. La modelele cu coș colector, verifică și pânza coșului, care se poate rupe în timp. Iarna, golește rezervorul de benzină sau adaugă stabilizator de combustibil, iar bateria de pornire electrică se ține la încărcat sau se demontează pentru depozitare.",
+      "callout": "Un tractoraș întreținut corect ține motorul și transmisia sănătoase cu ani buni mai mult decât unul neglijat."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi un tractoraș de tuns iarbă",
+      "body": "Cea mai comună greșeală e alegerea unei lățimi de tăiere prea mari pentru o curte mică — mașina devine greu de manevrat pe lângă garduri, copaci sau alei înguste. A doua e ignorarea tipului de transmisie: cineva care tunde des și vrea confort ar trebui să prioritizeze hidrostatica, nu doar puterea motorului. A treia e să nu verifici dacă modelul vine cu coș colector inclus sau dacă acesta se cumpără separat — o surpriză neplăcută dacă bugetul e strict calculat. În fine, evită brandurile fără rețea de service și piese de schimb ușor de găsit în România, mai ales pentru un echipament care ar trebui să reziste mai mulți ani."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce lățime de tăiere aleg pentru curtea mea?",
+      "a": "Pentru curți mici, sub 4.000 m², 61–84 cm e suficient, ca la Villager Rider VTR 650 sau Stiga Estate 384. Pentru terenuri medii, 92–98 cm ține un echilibru bun. Peste 6.000–8.000 m², modelele de 102–107 cm, ca Cub Cadet XT2 QR106 sau Snapper RTX102, economisesc timp semnificativ."
+    },
+    {
+      "q": "Merită diferența de preț pentru transmisia hidrostatică?",
+      "a": "Da, dacă tunzi des sau ai un teren cu denivelări și întoarceri dese. Confortul de a regla viteza continuu, fără trepte, se simte la fiecare cosire. Transmisia mecanică rămâne o opțiune bună dacă bugetul e principala constrângere sau folosești tractorasul ocazional."
+    },
+    {
+      "q": "EGO Power ZT4201E-L merită față de un model pe benzină?",
+      "a": "Dacă ai deja acumulatori compatibili EGO sau vrei să renunți complet la benzină și zgomotul motorului termic, da. De reținut că acumulatorii Li-Ion de 56V nu sunt incluși în preț și se cumpără separat, un cost suplimentar important."
+    },
+    {
+      "q": "Ce înseamnă că un model nu are coș colector inclus?",
+      "a": "Modele ca MTD Optima LN200H sau Alpina AT3 98 HA vin din fabrică pregătite pentru mulcire sau evacuare laterală a ierbii, nu pentru colectare. Dacă vrei neapărat să aduni iarba cosită, coșul colector se cumpără separat ca accesoriu."
+    },
+    {
+      "q": "Câți CP îmi trebuie, de fapt?",
+      "a": "Pentru un teren obișnuit, 12–17 CP sunt suficienți — ca la Stiga Estate 384, Hecht 5102 sau MTD Optima LN200H. Pentru terenuri mari sau iarbă deasă și înaltă, 16–24 CP, ca la Cub Cadet XT2 QR106 sau Snapper RTX102, oferă rezerva de putere de care ai nevoie."
+    },
+    {
+      "q": "Cât de des trebuie să fac întreținere?",
+      "a": "Schimbă uleiul la 25–50 de ore de funcționare conform manualului, curăță filtrul de aer periodic în sezon și spală platoul de tăiere după fiecare cosire. O verificare anuală completă, înainte de sezon, ține motorul și transmisia la parametri optimi."
+    },
+    {
+      "q": "Transmisia mecanică e un impediment real?",
+      "a": "Nu, dacă accepți să schimbi manual treptele de viteză. Modele ca Ruris RX Explorer 920M sau Villager Rider VTR 650 sunt simple de folosit după un scurt acomodaj și costă, de regulă, mai puțin decât variantele hidrostatice echivalente ca putere."
+    },
+    {
+      "q": "Ce brand aleg dintre cele din top?",
+      "a": "Husqvarna și Cub Cadet au reputație solidă pentru fiabilitate pe termen lung. Stiga și MTD oferă un raport bun preț/echipare cu transmisie hidrostatică. Snapper mizează pe motoare puternice pentru terenuri mari, iar Ruris, Hecht și Villager rămân opțiuni accesibile pentru bugete mai mici."
+    }
+  ],
+  "conclusion": "Pentru un teren obișnuit, Husqvarna TC 138 e alegerea sigură: motor Briggs & Stratton fiabil, transmisie hidrostatică și un coș colector de 220 de litri la un preț echilibrat. Dacă vrei confortul transmisiei hidrostatice la un cost mai mic, Stiga Estate 384 oferă un raport preț/calitate foarte bun, iar pentru o curte mică, Villager Rider VTR 650 rămâne varianta noastră pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Husqvarna TC 138 97 cm",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "DHT6JTYBM",
+      "features": [
+        "hidrostatica",
+        "cos-colector"
+      ],
+      "specs": [
+        {
+          "value": "8,6 kW",
+          "label": "putere motor Briggs & Stratton"
+        },
+        {
+          "value": "97 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie"
+        },
+        {
+          "value": "220 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 82
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 88
+        },
+        {
+          "label": "Confort",
+          "pct": 93
+        },
+        {
+          "label": "Colectare",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Motor Briggs & Stratton, fiabil pe termen lung",
+        "Transmisie hidrostatică, ușor de manevrat"
+      ],
+      "cons": [
+        "Coș colector de 220 L, mai mic decât la alte modele din top"
+      ],
+      "review": "L-am pus în fruntea topului pentru echilibrul dintre motor, transmisie și fiabilitatea mărcii Husqvarna. Motorul Briggs & Stratton de 8,6 kW oferă putere suficientă pentru un teren de dimensiuni medii, iar transmisia hidrostatică înseamnă că nu mai schimbi manual vitezele — reglezi doar viteza de înaintare cu o pedală, ceea ce contează enorm dacă tunzi des sau ai un teren cu denivelări. Lățimea de tăiere de 97 cm reduce numărul de treceri fără să facă mașina greu de manevrat în colțuri. Coșul colector de 220 litri e ceva mai mic decât la modelele profesionale din top, deci pe curți mari s-ar putea să golești puțin mai des. Pe baza specificațiilor și a recenziilor cumpărătorilor, e genul de tractoraș pe care îl recomandăm cui vrea un echipament de încredere, cu piese și service ușor de găsit în România, fără să investească în segmentul premium. Pentru un teren obișnuit de câteva mii de metri pătrați, e alegerea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/tractor-tuns-gazon-husqvarna-tc-138-960510200/pd/DHT6JTYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205359"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Stiga Estate 384 84 cm",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 9.1,
+      "feedId": "DL0FDHYBM",
+      "features": [
+        "hidrostatica",
+        "cos-colector",
+        "led"
+      ],
+      "specs": [
+        {
+          "value": "14 CP",
+          "label": "putere"
+        },
+        {
+          "value": "84 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie"
+        },
+        {
+          "value": "240 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 85
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 78
+        },
+        {
+          "label": "Confort",
+          "pct": 92
+        },
+        {
+          "label": "Colectare",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Coș colector generos de 240 L",
+        "Faruri LED pentru vizibilitate serii"
+      ],
+      "cons": [
+        "Lățime de tăiere mai mică (84 cm) pe suprafețe mari"
+      ],
+      "review": "Stiga Estate 384 e alegerea noastră de preț/calitate pentru că oferă transmisie hidrostatică și un coș colector generos de 240 de litri la un cost mai accesibil decât modelele cu motoare mai mari. Puterea de 14 CP acoperă confortabil un teren de dimensiuni medii, iar farurile LED sunt un plus care nu se regăsește la toate modelele din această categorie de preț — util dacă tunzi seara sau devreme dimineața. Lățimea de tăiere de 84 cm e mai mică decât la alte tractorașe din top, deci pe suprafețe mari vei avea nevoie de câteva treceri în plus, dar în schimb mașina rămâne compactă și ușor de depozitat. Reglajul înălțimii de tăiere între 25 și 80 mm acoperă majoritatea situațiilor, de la gazon des tuns la iarbă lăsată puțin mai mare. Pe baza specificațiilor, recomandăm Stiga Estate 384 cuiva care vrea confortul unei transmisii hidrostatice fără să plătească prețul unui model de top de gamă.",
+      "emagUrl": "https://www.emag.ro/tractoras-de-tuns-iarba-stiga-estate-384-14-cp-transmisie-hidrostatica-cos-colectare-240-l-latime-taiere-84-cm-lumini-led-25-80-mm-k603841/pd/DL0FDHYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205360"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Cub Cadet XT2 QR106 106 cm",
+      "tag": "Cea mai bună pentru terenuri mari",
+      "score": 8.9,
+      "feedId": "DHWCXW3BM",
+      "features": [
+        "hidrostatica",
+        "cos-colector"
+      ],
+      "specs": [
+        {
+          "value": "16 CP",
+          "label": "motor Kawasaki V-Twin 726 cm³"
+        },
+        {
+          "value": "106 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie"
+        },
+        {
+          "value": "320 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 90
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 93
+        },
+        {
+          "label": "Confort",
+          "pct": 90
+        },
+        {
+          "label": "Colectare",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Motor Kawasaki V-Twin, robust pentru uz intens",
+        "Coș colector mare de 320 L, ideal pentru curți de peste 8000 m²"
+      ],
+      "cons": [
+        "Preț ridicat, pentru terenuri cu adevărat mari"
+      ],
+      "review": "Cub Cadet XT2 QR106 e alegerea noastră pentru terenuri mari, peste 8.000 m², unde un motor puternic și un coș colector generos chiar contează. Motorul Kawasaki V-Twin de 726 cm³ și 16 CP e construit pentru uz intens, iar transmisia hidrostatică face manevrarea previzibilă chiar și pe ore întregi de folosire. Lățimea de tăiere de 106 cm reduce semnificativ timpul de lucru pe suprafețe extinse, iar coșul colector de 320 de litri înseamnă mai puține opriri pentru golire. Reglajul înălțimii de tăiere în 12 trepte, între 25 și 100 mm, acoperă orice tip de gazon, de la întreținere deasă la iarbă lăsată mai mare. Prețul e pe măsura specificațiilor — mai ridicat decât la modelele de mijloc de gamă din top — dar pentru cineva cu un teren cu adevărat mare, investiția se justifică prin robustețea motorului Kawasaki și prin timpul economisit la fiecare cosire. Pe baza specificațiilor și recenziilor, e alegerea noastră pentru curți generoase.",
+      "emagUrl": "https://www.emag.ro/tractor-de-tuns-iarba-cub-cadet-xt2-qr106-motor-kawasaki-v-twin-726-cm3-latime-taiere-106-cm-capacitate-cos-320-l-m13afa1tr603/pd/DHWCXW3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205361"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Snapper RTX102 102 cm",
+      "tag": "Cea mai multă putere",
+      "score": 8.7,
+      "feedId": "DYPRLSYBM",
+      "features": [
+        "hidrostatica",
+        "cos-colector"
+      ],
+      "specs": [
+        {
+          "value": "24 CP",
+          "label": "motor Briggs & Stratton V-Twin"
+        },
+        {
+          "value": "102 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie Tuff Torq"
+        },
+        {
+          "value": "320 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 95
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 90
+        },
+        {
+          "label": "Confort",
+          "pct": 88
+        },
+        {
+          "label": "Colectare",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Cel mai puternic motor din top (24 CP V-Twin)",
+        "Transmisie hidrostatică Tuff Torq, foarte fluidă"
+      ],
+      "cons": [
+        "Consum de carburant mai mare la puterea asta"
+      ],
+      "review": "Snapper RTX102 are cel mai puternic motor din tot topul nostru — un Briggs & Stratton V-Twin de 24 CP, gândit pentru folosire intensă și terenuri cu iarbă deasă sau denivelări. Transmisia hidrostatică Tuff Torq K46 e una dintre cele mai apreciate din segmentul acesta, oferind control fin al vitezei fără șocuri la accelerare sau frânare. Lățimea de tăiere de 102 cm, combinată cu coșul colector de 320 de litri, înseamnă sesiuni de cosire rapide chiar și pe suprafețe generoase. Reglajul înălțimii de tăiere în 7 trepte, între 25 și 90 mm, acoperă toate tipurile de gazon. Toată această putere vine, firesc, cu un consum de carburant mai mare decât la modelele de 14-17 CP din listă, iar prețul reflectă poziționarea premium a mărcii Snapper. Pe baza specificațiilor, îl recomandăm cui are un teren mare și pune pe primul loc puterea și fiabilitatea transmisiei, nu prețul de achiziție.",
+      "emagUrl": "https://www.emag.ro/tractor-de-tuns-gazon-snapper-rtx102-latime-de-taiere-102-cm-cu-cos-colector-320-l-2692056/pd/DYPRLSYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205362"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "MTD Optima LN200H 105 cm",
+      "tag": "Echilibrată, transmisie hidrostatică",
+      "score": 8.4,
+      "feedId": "DM598WMBM",
+      "features": [
+        "hidrostatica",
+        "mulcire"
+      ],
+      "specs": [
+        {
+          "value": "17 CP",
+          "label": "putere"
+        },
+        {
+          "value": "105 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie"
+        },
+        {
+          "value": "30-95 mm",
+          "label": "înălțime tăiere reglabilă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 87
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 91
+        },
+        {
+          "label": "Confort",
+          "pct": 86
+        },
+        {
+          "label": "Colectare",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Putere solidă de 17 CP pe o lățime de 105 cm",
+        "Transmisie hidrostatică, confort la manevrare"
+      ],
+      "cons": [
+        "Coșul colector nu vine inclus standard"
+      ],
+      "review": "MTD Optima LN200H combină o putere solidă de 17 CP cu o lățime de tăiere de 105 cm, deci acoperă rapid un teren de dimensiuni medii-mari. Transmisia hidrostatică e principalul argument de confort — reglezi viteza de înaintare continuu, fără trepte de viteză, ceea ce ușurează manevrarea mai ales la întoarceri și pe teren cu denivelări. Reglajul înălțimii de tăiere între 30 și 95 mm acoperă majoritatea tipurilor de gazon. Spre deosebire de alte modele din top, coșul colector nu vine inclus standard, deci dacă vrei să aduni iarba cosită și nu doar s-o lași pe teren, va trebui să bugetezi separat accesoriul. Pentru cineva care preferă mulcirea sau evacuarea laterală și nu are nevoie de colectare, asta nu e un impediment real. Pe baza specificațiilor, recomandăm MTD Optima LN200H cuiva care caută putere și confortul transmisiei hidrostatice la un preț de mijloc de gamă, fără accesoriile complete ale modelelor mai scumpe.",
+      "emagUrl": "https://www.emag.ro/tractoras-de-tuns-iarba-mtd-optima-ln-200-h-putere-17-cp-diametru-taiere-105-cm-30-95-mm-transmisie-hidrostatica-prod100k606594/pd/DM598WMBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205363"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Alpina AT3 98 HA 98 cm",
+      "tag": "Alternativă solidă",
+      "score": 8.2,
+      "feedId": "D3598WMBM",
+      "features": [
+        "hidrostatica",
+        "mulcire"
+      ],
+      "specs": [
+        {
+          "value": "14 CP",
+          "label": "putere"
+        },
+        {
+          "value": "98 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Hidrostatică",
+          "label": "transmisie"
+        },
+        {
+          "value": "25-80 mm",
+          "label": "înălțime tăiere reglabilă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 84
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 84
+        },
+        {
+          "label": "Confort",
+          "pct": 85
+        },
+        {
+          "label": "Colectare",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Transmisie hidrostatică la un preț de mijloc de gamă",
+        "Reglaj înălțime tăiere în trepte fine (25-80 mm)"
+      ],
+      "cons": [
+        "Coșul colector se achiziționează separat"
+      ],
+      "review": "Alpina AT3 98 HA aduce transmisia hidrostatică — de obicei rezervată modelelor mai scumpe — la un preț de mijloc de gamă, ceea ce îl face o alternativă solidă pentru cineva care nu vrea să facă rabat la confortul de manevrare. Puterea de 14 CP e suficientă pentru un teren obișnuit, iar lățimea de tăiere de 98 cm ține un echilibru bun între viteza de lucru și manevrabilitate. Reglajul înălțimii de tăiere între 25 și 80 mm, în trepte fine, acoperă bine variațiile de sezon. La fel ca la MTD Optima, coșul colector nu vine inclus standard, deci se achiziționează separat dacă vrei să aduni iarba cosită în loc s-o lași pe teren. Nu are un punct forte care să iasă puternic în evidență, dar tocmai echilibrul dintre putere, lățime de tăiere și transmisie hidrostatică îl face o alegere sigură. Pe baza specificațiilor, e o alternativă bună la Stiga sau MTD, mai ales dacă bugetul e ceva mai strâns.",
+      "emagUrl": "https://www.emag.ro/tractoras-de-tuns-iarba-alpina-at3-98-ha-putere-14-cp-diametru-taiere-98-cm-25-80-mm-transmisie-hidrostatica-prod100k603779/pd/D3598WMBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205364"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Hecht 5102 102 cm",
+      "tag": "Putere bună la preț accesibil",
+      "score": 7.9,
+      "feedId": "DPP3QBYBM",
+      "features": [
+        "cos-colector",
+        "manuala"
+      ],
+      "specs": [
+        {
+          "value": "12,5 kW",
+          "label": "putere maximă"
+        },
+        {
+          "value": "102 cm",
+          "label": "lățime de lucru"
+        },
+        {
+          "value": "Mecanică",
+          "label": "transmisie în trepte"
+        },
+        {
+          "value": "245 L",
+          "label": "volum coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 84
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 88
+        },
+        {
+          "label": "Confort",
+          "pct": 76
+        },
+        {
+          "label": "Colectare",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Putere bună (12,5 kW) la un preț accesibil",
+        "Coș colector de 245 L inclus standard"
+      ],
+      "cons": [
+        "Transmisie mecanică, nu hidrostatică"
+      ],
+      "review": "Hecht 5102 mizează pe putere multă la un preț accesibil — 12,5 kW înseamnă un motor generos pentru un tractoraș din acest segment de preț, iar lățimea de lucru de 102 cm ține pasul cu modele mult mai scumpe. Coșul colector de 245 de litri vine inclus standard, un avantaj real față de alte modele din top care cer accesoriul separat. Diferența majoră față de Stiga, MTD sau Alpina e transmisia mecanică, în trepte, nu hidrostatică — trebuie să schimbi viteza manual, ceea ce cere puțin mai mult efort la manevrare, mai ales pe teren cu denivelări sau la întoarceri dese. Pentru cineva care nu are o problemă cu asta și vrea în schimb putere și lățime de tăiere mari la un preț controlat, e un compromis rezonabil. Pe baza specificațiilor, recomandăm Hecht 5102 cuiva care pune pe primul loc raportul putere-preț și acceptă schimbarea manuală a treptelor de viteză.",
+      "emagUrl": "https://www.emag.ro/tractoras-pentru-tuns-iarba-putere-maxima-12-5-kw-latime-de-lucru-102-cm-volum-cos-245-l-hecht5102/pd/DPP3QBYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205365"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "EGO Power ZT4201E-L 107 cm",
+      "tag": "Cea mai bună alegere electrică",
+      "score": 7.7,
+      "feedId": "D93FKN3BM",
+      "features": [
+        "acumulator",
+        "mulcire"
+      ],
+      "specs": [
+        {
+          "value": "Echivalent 22 CP",
+          "label": "motor electric fără perii"
+        },
+        {
+          "value": "107 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "56 V Li-Ion",
+          "label": "acumulatori (neincluși)"
+        },
+        {
+          "value": "25-100 mm",
+          "label": "înălțime tăiere, 10 trepte"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 80
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 92
+        },
+        {
+          "label": "Confort",
+          "pct": 88
+        },
+        {
+          "label": "Colectare",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Fără emisii, fără zgomotul motorului pe benzină",
+        "Lățime de tăiere mare, 107 cm"
+      ],
+      "cons": [
+        "Acumulatorii se cumpără separat",
+        "Fără coș colector standard, doar mulcire/evacuare laterală"
+      ],
+      "review": "EGO Power ZT4201E-L e singurul model electric din top și are sens mai ales pentru cine vrea să renunțe complet la mirosul de benzină și la zgomotul unui motor termic. Puterea echivalentă cu un motor pe benzină de 22 CP și lățimea de tăiere de 107 cm — cea mai mare din listă alături de Cub Cadet — înseamnă că randamentul nu are de suferit față de variantele clasice. Reglajul înălțimii de tăiere în 10 trepte, între 25 și 100 mm, acoperă orice tip de gazon. De reținut: acumulatorii Li-Ion de 56V nu sunt incluși și se cumpără separat, un cost suplimentar important de bugetat de la început. De asemenea, nu vine cu coș colector standard — funcționează pe mulcire sau evacuare laterală, deci nu e ideal dacă vrei neapărat să aduni iarba cosită. Pe baza specificațiilor, îl recomandăm cuiva care are deja acumulatori compatibili EGO sau vrea să investească într-un ecosistem fără benzină pe termen lung.",
+      "emagUrl": "https://www.emag.ro/tractor-de-tuns-iarba-ego-power-zt4201e-l-107-cm-fara-acumulatori-li-ion-56-v-0500042002/pd/D93FKN3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205366"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Ruris RX Explorer 920M 92 cm",
+      "tag": "Motor puternic, preț accesibil",
+      "score": 7.5,
+      "feedId": "DJ94B32BM",
+      "features": [
+        "cos-colector",
+        "manuala",
+        "led"
+      ],
+      "specs": [
+        {
+          "value": "16 CP",
+          "label": "motor Loncin, benzină"
+        },
+        {
+          "value": "92 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "Mecanică",
+          "label": "transmisie, 5 trepte"
+        },
+        {
+          "value": "280 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 83
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 82
+        },
+        {
+          "label": "Confort",
+          "pct": 74
+        },
+        {
+          "label": "Colectare",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Motor puternic de 16 CP la un preț accesibil",
+        "Coș colector mare, 280 L"
+      ],
+      "cons": [
+        "Transmisie mecanică, în trepte, nu hidrostatică"
+      ],
+      "review": "Ruris RX Explorer 920M oferă un motor Loncin de 16 CP la un preț accesibil, ceea ce îl face o opțiune atractivă pentru cineva care vrea putere fără să plătească pentru transmisie hidrostatică sau branduri premium. Lățimea de tăiere de 92 cm și coșul colector de 280 de litri — unul dintre cele mai mari din top — acoperă bine un teren de dimensiuni medii-mari. Transmisia mecanică, cu 5 trepte de mers înainte și una de mers înapoi, cere puțin mai multă atenție la manevrare decât variantele hidrostatice, dar rămâne simplă de folosit după un scurt acomodaj. Farurile LED incluse sunt un plus neașteptat la acest nivel de preț. Pe baza specificațiilor și recenziilor cumpărătorilor, recomandăm Ruris RX Explorer 920M cuiva care caută motor puternic și coș colector generos, și e dispus să schimbe manual vitezele pentru un preț mai bun.",
+      "emagUrl": "https://www.emag.ro/tractor-de-tuns-gazon-ruris-rx-explorer-920m-92000rur25a/pd/DJ94B32BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205367"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Villager Rider VTR 650 61 cm",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.2,
+      "feedId": "DTRGLVMBM",
+      "features": [
+        "cos-colector",
+        "manuala"
+      ],
+      "specs": [
+        {
+          "value": "6,4 CP",
+          "label": "motor Loncin 196 cm³"
+        },
+        {
+          "value": "61 cm",
+          "label": "lățime de lucru"
+        },
+        {
+          "value": "4000 m²",
+          "label": "suprafață recomandată"
+        },
+        {
+          "value": "150 L",
+          "label": "coș colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 70
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 70
+        },
+        {
+          "label": "Confort",
+          "pct": 72
+        },
+        {
+          "label": "Colectare",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Preț accesibil, potrivit pentru curți mici-medii",
+        "Compact și ușor de manevrat pe 61 cm lățime"
+      ],
+      "cons": [
+        "Lățime de tăiere mică, mai multe treceri pe suprafețe mari"
+      ],
+      "review": "Villager Rider VTR 650 e cel mai compact tractoraș din top, gândit pentru curți mici și medii, până la aproximativ 4.000 m². Motorul Loncin de 196 cm³ și 6,4 CP e mai modest decât restul listei, dar suficient pentru o suprafață de această mărime, iar lățimea de tăiere de 61 cm face mașina foarte ușor de manevrat printre alei, garduri sau copaci. Transmisia mecanică, cu 4 trepte înainte și una înapoi, e simplă și fără pretenții. Coșul colector de 150 de litri e mai mic decât la restul modelelor din top, deci pe curți cu iarbă deasă vei goli ceva mai des. Dacă ai un teren mare, alte modele din listă, cu lățime de tăiere peste 90 cm, se termină mult mai repede. Dar pentru o curte mică, unde prețul contează mai mult decât viteza de lucru, e alegerea noastră pe buget — simplu, accesibil și suficient de puternic pentru nevoia reală.",
+      "emagUrl": "https://www.emag.ro/tractor-de-tuns-iarba-villager-rider-vtr-650-putere-6-4-cp-latime-lucru-61-cm-motor-loncin-196-cmc-suprafata-cosirii-4000-m2-051438/pd/DTRGLVMBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205368"
+    }
+  ],
+  "comparison": {
+    "title": "Transmisie hidrostatică vs. mecanică: ce tractoraș alegi?",
+    "intro": "Ambele tipuri de transmisie tund la fel de bine, dar diferă la confort, preț și efortul de manevrare. Iată cum se compară pe criteriile care contează.",
+    "aLabel": "Hidrostatică",
+    "bLabel": "Mecanică (în trepte)",
+    "rows": [
+      {
+        "criteriu": "Reglare viteză",
+        "a": "Continuă, cu o pedală",
+        "b": "În trepte fixe, cu manetă"
+      },
+      {
+        "criteriu": "Confort la manevrare",
+        "a": "Foarte ridicat",
+        "b": "Necesită mai multă atenție"
+      },
+      {
+        "criteriu": "Preț de achiziție",
+        "a": "Cost inițial mai mare",
+        "b": "Mai accesibil"
+      },
+      {
+        "criteriu": "Complexitate mecanică",
+        "a": "Mai multe componente hidraulice",
+        "b": "Mai simplă, mai puține defecțiuni"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Cosire deasă, terenuri cu denivelări",
+        "b": "Cosire ocazională, buget mai mic"
+      }
+    ],
+    "verdict": "Pentru cosire deasă și confort maxim, alege transmisie hidrostatică — se simte la fiecare folosire. Transmisia mecanică rămâne o soluție solidă și mai ieftină dacă tunzi ocazional sau ai un teren mic."
+  },
+  "priceBuckets": []
+}

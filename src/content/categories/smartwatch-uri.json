@@ -1,0 +1,691 @@
+{
+  "title": "Cele mai bune smartwatch-uri în 2026",
+  "h1": "Cele mai bune smartwatch-uri în 2026",
+  "parent": "Gadgets",
+  "icon": "clock",
+  "order": 26,
+  "intro": "Un smartwatch bun se alege după telefonul pe care îl ai în buzunar, nu după cea mai lungă listă de senzori. Am ales și am comparat 9 modele populare după autonomie, ecosistem, funcții de sănătate și compatibilitate, de la Apple Watch 11 și SE pentru utilizatorii de iPhone până la Huawei Watch GT 6 Pro și Samsung Galaxy Watch6 Classic pentru cei cu Android. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "author": "ana-popescu",
+  "updated": "2026-07-22",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cea mai bună autonomie",
+      "productId": "p2"
+    },
+    {
+      "label": "Cea mai bună alegere pentru Android",
+      "productId": "p4"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "lte",
+      "label": "Cellular / LTE"
+    },
+    {
+      "key": "gps",
+      "label": "GPS"
+    },
+    {
+      "key": "android",
+      "label": "Compatibil Android"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Compatibilitate: iPhone sau Android?",
+      "body": "Cea mai importantă decizie, înaintea oricăror specificații, e telefonul pe care îl ai. Apple Watch — fie Seria 11, fie SE — funcționează complet doar alături de un iPhone; fără el, pierzi notificările, apelurile și cea mai mare parte din funcții. Samsung Galaxy Watch, Huawei Watch GT și OnePlus Watch, în schimb, se conectează la telefoane Android și, parțial, chiar la iPhone, dar doar cu notificări de bază, fără toate funcțiile. Dacă ai Android, un Apple Watch nu are sens, oricât de bun ar fi pe hârtie.",
+      "callout": "Verifică întotdeauna compatibilitatea înainte de cumpărare — un Apple Watch luat pentru un telefon Android rămâne, practic, un ceas cu pași și notificări limitate."
+    },
+    {
+      "h3": "Autonomia bateriei: o zi sau două săptămâni?",
+      "body": "Aici diferențele sunt uriașe. Apple Watch și Samsung Galaxy Watch cu LTE, cu ecrane luminoase și procesoare puternice, țin de regulă sub 24-36 de ore și cer încărcare zilnică. Huawei Watch GT 6 Pro și GT 5, construite pe un sistem de operare mai simplu, ajung la aproape două săptămâni de utilizare normală, pe baza specificațiilor producătorului. OnePlus Watch 2R, cu Wear OS complet, se situează undeva la mijloc — peste o săptămână, dar sub autonomia modelelor Huawei."
+    },
+    {
+      "h3": "GPS, LTE și 4G — ce înseamnă fiecare",
+      "body": "GPS-ul localizează ceasul și îți urmărește traseele de alergare sau ciclism fără telefon lângă tine, dar nu permite apeluri independente. Cellular (LTE) la Apple Watch și Samsung îți permite să suni și să primești mesaje chiar dacă telefonul a rămas acasă, contra unui abonament suplimentar la operator. 4G, la ceasurile pentru copii, funcționează similar — asigură localizare și apel video fără telefon, printr-un card SIM propriu sau eSIM."
+    },
+    {
+      "h3": "Funcții de sănătate și fitness care chiar contează",
+      "body": "Toate modelele din top măsoară puls, somn și pași, dar diferă la detalii: Apple Watch și Samsung Galaxy Watch au ECG și senzor de temperatură cutanată, utile pentru monitorizare mai avansată. Huawei pune accent pe acuratețea senzorilor și pe recuperare, cu scoruri zilnice de stres și somn. Pentru sport de performanță, verifică dacă modelul are GPS dual-band, util pentru trasee mai precise în oraș, printre clădiri înalte."
+    },
+    {
+      "h3": "Ce mărime de carcasă aleg?",
+      "body": "Carcasele de 40-42mm (Apple Watch SE, Apple Watch 11, Huawei GT 5 la 41mm) sunt potrivite pentru încheieturi medii spre fine și arată mai discret sub o cămașă cu mânecă lungă. Modelele de 46-47mm (Huawei Watch GT 6 Pro, Samsung Galaxy Watch6 Classic) au ecrane mai mari și baterii mai generoase, dar pot părea voluminoase pe încheieturi subțiri. Dacă e prima ta achiziție, încearcă un model similar ca dimensiune la un magazin fizic înainte să cumperi online."
+    },
+    {
+      "h3": "Smartwatch pentru copii: o categorie diferită",
+      "body": "Ceasurile smartwatch pentru copii, precum modelul cu GPS 4G din lista noastră, nu se compară direct cu un Apple Watch sau un Galaxy Watch — scopul lor e siguranța, nu fitness-ul sau notificările de birou. Localizarea GPS în timp real, apelul video și butonul SOS sunt funcțiile care contează cu adevărat. Accesul la Google Play și la aplicații precum WhatsApp sau TikTok poate fi util, dar cere supraveghere și setări de restricționare atente din partea părinților.",
+      "callout": "Pentru copii, prioritizează localizarea și butonul SOS, nu lista de aplicații disponibile."
+    },
+    {
+      "h3": "Greșeli frecvente când cumperi un smartwatch",
+      "body": "Cea mai comună greșeală e ignorarea compatibilității — un Apple Watch cumpărat pentru cineva cu Android rămâne, practic, un ceas cu pași. A doua e supraestimarea autonomiei: dacă vrei un ceas care ține două săptămâni, un model Apple sau Samsung cu LTE nu se potrivește, oricât de bun ar fi ecranul. A treia e ignorarea mărimii carcasei — un ceas de 47mm poate fi incomod pe o încheietură subțire, indiferent cât de bune sunt specificațiile. În fine, pentru copii, evită să te uiți doar la preț și verifică dacă aplicația de control parental chiar limitează accesul la rețelele sociale."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apple Watch merge cu un telefon Android?",
+      "a": "Nu, nu complet. Apple Watch (Seria 11 sau SE) are nevoie de un iPhone pentru instalare, notificări complete, Apple Health și Apple Pay. Pe un telefon Android pur și simplu nu se poate configura — dacă ai Android, alege Samsung Galaxy Watch, Huawei Watch GT sau OnePlus Watch."
+    },
+    {
+      "q": "Cât ține bateria la un smartwatch?",
+      "a": "Depinde enorm de model. Apple Watch și Samsung Galaxy Watch cu LTE țin de regulă sub 24-36 de ore. Huawei Watch GT 6 Pro și GT 5 ajung la aproape două săptămâni, pe baza specificațiilor producătorului, datorită unui sistem de operare mai simplu. OnePlus Watch 2R, cu Wear OS complet, se situează la mijloc, peste o săptămână."
+    },
+    {
+      "q": "Ce diferență e între GPS și Cellular/LTE?",
+      "a": "GPS-ul localizează ceasul și urmărește traseele sportive, dar nu permite apeluri fără telefonul aproape. Cellular (LTE) adaugă un abonament separat la operator și îți permite să suni sau să primești mesaje chiar dacă telefonul a rămas acasă — util la alergare sau când nu vrei să cari telefonul."
+    },
+    {
+      "q": "Huawei sau Samsung — ce aleg dacă am telefon Android?",
+      "a": "Samsung Galaxy Watch6 Classic oferă cel mai bogat ecosistem de aplicații prin Wear OS și Google Play, plus integrare nativă cu telefoanele Samsung. Huawei Watch GT 6 Pro și GT 5 câștigă clar la autonomie, dar au un magazin de aplicații mai restrâns. Alege Samsung pentru aplicații și notificări complete, Huawei pentru autonomie lungă."
+    },
+    {
+      "q": "Ce mărime de carcasă aleg pentru încheietura mea?",
+      "a": "Pentru încheieturi medii spre fine, mergi pe 40-42mm (Apple Watch SE, Apple Watch 11, Huawei GT 5 la 41mm). Pentru încheieturi mai late sau dacă vrei ecran și baterie mai mari, alege 46-47mm (Huawei GT 6 Pro, Samsung Galaxy Watch6 Classic)."
+    },
+    {
+      "q": "E sigur un smartwatch cu GPS 4G pentru copii?",
+      "a": "Poate fi o soluție bună pentru localizare și comunicare, dar cere supraveghere activă din partea părinților. Setează restricțiile din aplicația de control parental înainte să activezi accesul la rețele sociale sau la Google Play, și explică-i copilului cum și când să folosească butonul SOS."
+    },
+    {
+      "q": "Merită Apple Watch SE 2025 față de Seria 11?",
+      "a": "Dacă nu ai nevoie de Cellular, ecran always-on sau senzori avansați precum ECG, Apple Watch SE 2025 acoperă funcțiile esențiale la un preț mult mai accesibil. Seria 11 se justifică pentru cine vrea experiența Apple completă, cu Cellular și toate funcțiile de sănătate."
+    },
+    {
+      "q": "Ce senzori de sănătate contează cu adevărat?",
+      "a": "Pulsul, oxigenul din sânge (SpO2) și urmărirea somnului sunt utile la toate modelele din top. ECG-ul, disponibil la Apple Watch și Samsung Galaxy Watch, adaugă o măsurătoare medicală suplimentară, dar nu înlocuiește un consult medical. Pentru majoritatea utilizatorilor, senzorii de bază sunt suficienți pentru a urmări tendințele zilnice."
+    }
+  ],
+  "conclusion": "Dacă ești în ecosistemul Apple și vrei experiența completă, Apple Watch 11 GPS + Cellular rămâne alegerea de bază, cu mențiunea că funcționează complet doar alături de un iPhone. Pentru autonomie de invidiat și un preț mai prietenos, Huawei Watch GT 6 Pro e opțiunea noastră, iar pentru cine are telefon Android și vrea acces complet la Google Play, Samsung Galaxy Watch6 Classic rămâne varianta cea mai echilibrată.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Apple Watch 11 GPS + Cellular 42mm Jet Black",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.3,
+      "feedId": "DTW8XV3BM",
+      "features": [
+        "lte",
+        "gps",
+        "amoled",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "42mm",
+          "label": "carcasă aluminiu"
+        },
+        {
+          "value": "GPS + Cellular",
+          "label": "conectivitate"
+        },
+        {
+          "value": "Sport Band S/M",
+          "label": "curea inclusă"
+        },
+        {
+          "value": "iPhone",
+          "label": "compatibilitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Fitness",
+          "pct": 90
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Cellular — apeluri și mesaje fără telefonul aproape",
+        "Ecosistem Apple complet (Apple Health, Find My, Apple Pay)"
+      ],
+      "cons": [
+        "Funcționează complet doar cu iPhone",
+        "Autonomie sub o zi la utilizare intensă"
+      ],
+      "review": "L-am pus în vârful topului pentru că e cea mai completă alegere din gama Apple Watch 11: varianta GPS + Cellular îți permite să răspunzi la apeluri și mesaje chiar și fără telefonul lângă tine, ceva util la sport sau când vrei o pauză de la ecranul telefonului. Ecranul rămâne cel mai luminos și mai receptiv dintre toate opțiunile comparate, iar integrarea cu Apple Health, Find My și Apple Pay e fără cusur pentru cineva deja în ecosistemul Apple. Pe baza specificațiilor și recenziilor cumpărătorilor, autonomia rămâne punctul slab — sub o zi la utilizare intensă cu Cellular pornit, deci vei încărca zilnic. De asemenea, funcționează complet doar alături de un iPhone, deci nu are sens pentru cineva cu telefon Android. Dacă ești deja în ecosistemul Apple și vrei cel mai bun smartwatch posibil, fără compromisuri la funcții, e alegerea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/apple-watch-11-gps-cellular-carcasa-jet-black-aluminium-42mm-black-sport-band-s-m-mf834et-a/pd/DTW8XV3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205316"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Huawei Watch GT 6 Pro 46mm Black Titanium",
+      "tag": "Cea mai bună autonomie",
+      "score": 9,
+      "feedId": "DQC6GS3BM",
+      "features": [
+        "gps",
+        "amoled",
+        "android",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "46mm",
+          "label": "carcasă titan"
+        },
+        {
+          "value": "Fluoroelastomer",
+          "label": "curea neagră"
+        },
+        {
+          "value": "GPS",
+          "label": "localizare"
+        },
+        {
+          "value": "~14 zile",
+          "label": "autonomie estimată"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 88
+        },
+        {
+          "label": "Autonomie",
+          "pct": 95
+        },
+        {
+          "label": "Fitness",
+          "pct": 88
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Autonomie de până la două săptămâni",
+        "Carcasă din titan, ușoară și rezistentă"
+      ],
+      "cons": [
+        "Ecosistem de aplicații mai restrâns decât Wear OS",
+        "Notificările pe iPhone sunt limitate"
+      ],
+      "review": "Pentru cineva care se plictisește să încarce ceasul zilnic, Huawei Watch GT 6 Pro e alegerea evidentă din comparația noastră — pe baza specificațiilor producătorului, autonomia ajunge la aproape două săptămâni de utilizare normală, de câteva ori mai mult decât un Apple Watch sau un Galaxy Watch cu LTE. Carcasa din aliaj de titan ține greutatea jos, dar rezistența rămâne ridicată, iar cureaua din fluoroelastomer negru e potrivită pentru sport și transpirație. Ecranul AMOLED rămâne clar și luminos, deși nu ajunge la finețea celui de la Apple Watch. Compromisul vine din ecosistem: notificările și integrarea pe iPhone sunt limitate, iar magazinul de aplicații nu se apropie de Wear OS sau watchOS. Pentru cineva cu telefon Android care pune autonomia pe primul loc și nu are nevoie de mii de aplicații pe ceas, e alegerea noastră de bază — mai ales pentru cine face sport regulat și urăște încărcatul zilnic.",
+      "emagUrl": "https://www.emag.ro/smartwatch-huawei-watch-gt-6-pro-46mm-black-titanium-alloy-case-black-fluoroelastomer-strap-55020ftu/pd/DQC6GS3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205317"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Apple Watch 11 GPS + Cellular 42mm Rose Gold",
+      "tag": "Cea mai elegantă variantă Apple",
+      "score": 8.9,
+      "feedId": "DHW8XV3BM",
+      "features": [
+        "lte",
+        "gps",
+        "amoled",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "42mm",
+          "label": "carcasă aluminiu rose gold"
+        },
+        {
+          "value": "GPS + Cellular",
+          "label": "conectivitate"
+        },
+        {
+          "value": "Light Blush Sport Band",
+          "label": "curea inclusă"
+        },
+        {
+          "value": "iPhone",
+          "label": "compatibilitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Fitness",
+          "pct": 90
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Design elegant, potrivit pentru încheietură fină",
+        "Aceleași funcții Cellular ca varianta standard"
+      ],
+      "cons": [
+        "Necesită iPhone pentru funcționare completă"
+      ],
+      "review": "Aceeași platformă ca Apple Watch 11 Jet Black, dar într-o variantă mai elegantă — carcasa din aluminiu rose gold și cureaua Light Blush o recomandă pentru cine vrea un design mai discret, fără să renunțe la funcțiile Cellular. Tehnic, specificațiile sunt identice cu varianta neagră: ecran luminos, senzori de sănătate completi și integrare deplină cu Apple Health și Apple Pay. Diferența e pur estetică, deci alegerea între cele două variante ține exclusiv de gust. Ca și la restul gamei Apple Watch 11, funcționarea completă depinde de un iPhone — nu are sens pentru cineva cu Android. O recomandăm celor care vor exact experiența Apple Watch 11, dar preferă o culoare mai caldă și mai feminină decât negrul clasic.",
+      "emagUrl": "https://www.emag.ro/apple-watch-11-gps-cellular-carcasa-rose-gold-aluminium-42mm-light-blush-sport-band-s-m-mf8e4et-a/pd/DHW8XV3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205318"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Samsung Galaxy Watch6 Classic 47mm LTE",
+      "tag": "Cea mai bună alegere pentru Android",
+      "score": 8.7,
+      "feedId": "DPMJVMYBM",
+      "features": [
+        "lte",
+        "amoled",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "47mm",
+          "label": "carcasă inox"
+        },
+        {
+          "value": "LTE",
+          "label": "conectivitate"
+        },
+        {
+          "value": "Ramă rotativă",
+          "label": "navigare fizică"
+        },
+        {
+          "value": "Wear OS",
+          "label": "+ Samsung Health"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 91
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Fitness",
+          "pct": 87
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Ramă rotativă fizică, navigare rapidă",
+        "Wear OS cu acces la Google Play și Samsung Health"
+      ],
+      "cons": [
+        "Autonomie modestă cu LTE activ"
+      ],
+      "review": "Pentru utilizatorii Android care nu vor să renunțe la o ramă fizică rotativă, Samsung Galaxy Watch6 Classic rămâne reperul din comparația noastră. Carcasa din inox de 47mm, varianta LTE, îi dă un aer premium și permite apeluri fără telefon aproape, iar Wear OS combinat cu Samsung Health oferă acces la Google Play și la un ecosistem de aplicații mult mai bogat decât la Huawei sau OnePlus. Ecranul AMOLED e vibrant și luminos, iar rama rotativă face navigarea prin meniuri mult mai rapidă decât gesturile pe ecran tactil. Pe baza recenziilor utilizatorilor, autonomia cu LTE activ scade sub o zi și jumătate, deci va trebui să încarci des dacă folosești toate funcțiile smart. Pentru cineva cu telefon Samsung sau Android în general care vrea echivalentul Android al unui Apple Watch, e alegerea noastră de bază.",
+      "emagUrl": "https://www.emag.ro/samsung-galaxy-watch6-classic-47mm-lte-black-sm-r965fzkaeue/pd/DPMJVMYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205319"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Huawei Watch GT 5 41mm Pale Gold",
+      "tag": "Cel mai rafinat design Huawei",
+      "score": 8.5,
+      "feedId": "D9XVQCYBM",
+      "features": [
+        "gps",
+        "amoled",
+        "android",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "41mm",
+          "label": "carcasă inox"
+        },
+        {
+          "value": "Piele compozit",
+          "label": "curea albă"
+        },
+        {
+          "value": "GPS",
+          "label": "localizare"
+        },
+        {
+          "value": "~14 zile",
+          "label": "autonomie estimată"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 85
+        },
+        {
+          "label": "Autonomie",
+          "pct": 92
+        },
+        {
+          "label": "Fitness",
+          "pct": 84
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 73
+        }
+      ],
+      "pros": [
+        "Design premium cu curea din piele compozit",
+        "Autonomie foarte bună pentru utilizare zilnică"
+      ],
+      "cons": [
+        "Ecosistem de aplicații mai restrâns"
+      ],
+      "review": "Huawei Watch GT 5 în varianta 41mm cu carcasă din inox pale gold și curea din piele compozit albă e gândit pentru cine vrea un smartwatch cu aspect mai elegant, nu sportiv. Diagonala mai mică de 41mm îl face potrivit pentru încheieturi fine, fără să sacrifice prea mult din autonomie — pe baza specificațiilor, rămâne aproape de două săptămâni de utilizare normală, similar cu fratele mai mare GT 6 Pro. Ecranul AMOLED și senzorii de sănătate acoperă nevoile de bază: puls, somn, SpO2 și modurile sportive uzuale. Ecosistemul de aplicații rămâne însă restrâns comparativ cu Wear OS sau watchOS, iar integrarea pe iPhone e limitată la notificări de bază. Pentru cineva care caută un design premium și autonomie lungă, fără să aibă nevoie de o platformă bogată în aplicații, e o alegere solidă.",
+      "emagUrl": "https://www.emag.ro/smartwatch-huawei-watch-gt-5-41mm-pale-gold-stainless-steel-case-white-composite-leather-strap-55020djt/pd/D9XVQCYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205320"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "OnePlus Watch 2R Gunmetal Gray",
+      "tag": "Cel mai bun preț pentru Wear OS",
+      "score": 8.2,
+      "feedId": "DB4598YBM",
+      "features": [
+        "gps",
+        "amoled",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "GPS",
+          "label": "localizare"
+        },
+        {
+          "value": "Android",
+          "label": "compatibilitate"
+        },
+        {
+          "value": "Wear OS",
+          "label": "platformă"
+        },
+        {
+          "value": "Gunmetal Gray",
+          "label": "carcasă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 84
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Fitness",
+          "pct": 82
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Preț competitiv pentru un smartwatch Wear OS",
+        "Autonomie solidă pentru segmentul Android"
+      ],
+      "cons": [
+        "Ecosistem OnePlus Health mai puțin matur"
+      ],
+      "review": "OnePlus Watch 2R e opțiunea pe care o recomandăm cui vrea Wear OS complet — cu acces la Google Play, Google Maps și notificări native Android — fără să plătească prețul unui Galaxy Watch Classic. Carcasa gunmetal gray are un aspect discret, iar pe baza specificațiilor și recenziilor, autonomia stă confortabil peste o săptămână la utilizare normală, un avantaj real față de alte ceasuri Wear OS care abia trec de o zi-două. Ecranul AMOLED e clar, iar funcțiile de fitness acoperă majoritatea nevoilor zilnice. Ecosistemul OnePlus Health e însă mai puțin matur decât Samsung Health sau Huawei Health, iar suportul pe termen lung pentru actualizări rămâne un semn de întrebare. Pentru cineva cu telefon Android care vrea Wear OS la un preț accesibil și nu vrea compromisuri majore la autonomie, e o alegere bună.",
+      "emagUrl": "https://www.emag.ro/smartwatch-oneplus-watch-2r-gps-compatibil-android-gunmetal-gray-opwwe234gg/pd/DB4598YBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205321"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Apple Watch SE 2025 GPS 40mm",
+      "tag": "Cea mai accesibilă intrare în ecosistemul Apple",
+      "score": 8,
+      "feedId": "D3G8XV3BM",
+      "features": [
+        "gps",
+        "amoled",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "40mm",
+          "label": "carcasă aluminiu"
+        },
+        {
+          "value": "GPS",
+          "label": "conectivitate (fără Cellular)"
+        },
+        {
+          "value": "Starlight Sport Band",
+          "label": "curea inclusă"
+        },
+        {
+          "value": "iPhone",
+          "label": "compatibilitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 86
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Fitness",
+          "pct": 85
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Cea mai accesibilă poartă către ecosistemul Apple",
+        "Funcțiile esențiale de sănătate și fitness"
+      ],
+      "cons": [
+        "Fără Cellular și fără ecran always-on"
+      ],
+      "review": "Apple Watch SE 2025 e poarta de intrare recomandată în ecosistemul Apple pentru cineva care nu are nevoie de toate funcțiile premium ale Seriei 11. Varianta GPS, fără Cellular, acoperă funcțiile esențiale — notificări, urmărirea activității, somn și modurile sportive de bază — la un preț semnificativ mai mic. Carcasa de 40mm din aluminiu starlight rămâne compactă și ușoară pentru încheieturi mai fine. Lipsesc ecranul always-on și senzorii avansați de sănătate (ECG, temperatură cutanată) de pe modelele Seriei 11, iar fără Cellular nu poți primi apeluri departe de telefon. Pentru cineva la prima achiziție de smartwatch Apple sau care vrea un cadou accesibil, dar tot cu integrarea completă Apple Health și Find My, e alegerea noastră de bază — cu mențiunea că, la fel ca restul gamei Apple, funcționează complet doar cu iPhone.",
+      "emagUrl": "https://www.emag.ro/apple-watch-se-2025-gps-carcasa-starlight-aluminium-40mm-starlight-sport-band-s-m-meh34et-a/pd/D3G8XV3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205322"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Huawei Watch GT 6 Pro 46mm Brown Woven",
+      "tag": "Aceeași putere GT 6 Pro, design casual",
+      "score": 7.8,
+      "feedId": "D5C6GS3BM",
+      "features": [
+        "gps",
+        "amoled",
+        "android",
+        "ios"
+      ],
+      "specs": [
+        {
+          "value": "46mm",
+          "label": "carcasă titan"
+        },
+        {
+          "value": "Woven",
+          "label": "curea maro"
+        },
+        {
+          "value": "GPS",
+          "label": "localizare"
+        },
+        {
+          "value": "~14 zile",
+          "label": "autonomie estimată"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 88
+        },
+        {
+          "label": "Autonomie",
+          "pct": 95
+        },
+        {
+          "label": "Fitness",
+          "pct": 88
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Aceeași autonomie lungă ca varianta neagră",
+        "Curea woven cu aspect casual, versatilă"
+      ],
+      "cons": [
+        "Fără NFC pentru plăți în majoritatea regiunilor"
+      ],
+      "review": "Practic același ceas ca Huawei Watch GT 6 Pro Black Titanium din topul nostru, dar cu o curea woven maro care schimbă complet aspectul — de la sportiv la casual-elegant. Specificațiile tehnice rămân identice: carcasă din titan, autonomie de aproape două săptămâni și ecran AMOLED clar. Alegerea între cele două variante ține strict de stil: dacă porți ceasul mai des la birou sau cu ținute casual decât la sport, cureaua woven se potrivește mai bine decât fluoroelastomerul negru. Compromisurile sunt aceleași ca la varianta principală — ecosistem de aplicații limitat și integrare parțială pe iPhone. O recomandăm celor care vor exact autonomia și fiabilitatea GT 6 Pro, dar preferă un look mai puțin sportiv pe încheietură.",
+      "emagUrl": "https://www.emag.ro/smartwatch-huawei-watch-gt-6-pro-46mm-titanium-alloy-case-brown-woven-strap-55020fts/pd/D5C6GS3BM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205323"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Smartwatch copii GPS 4G Wingereich",
+      "tag": "Cel mai potrivit pentru copii",
+      "score": 7.4,
+      "feedId": "DDVXVGYBM",
+      "features": [
+        "gps",
+        "4g",
+        "camera",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "GPS + 4G",
+          "label": "localizare"
+        },
+        {
+          "value": "Super AMOLED",
+          "label": "ecran"
+        },
+        {
+          "value": "IP67",
+          "label": "rezistență la apă"
+        },
+        {
+          "value": "Cameră HD",
+          "label": "apel video"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 75
+        },
+        {
+          "label": "Autonomie",
+          "pct": 72
+        },
+        {
+          "label": "Fitness",
+          "pct": 70
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "GPS 4G pentru localizare în timp real",
+        "Cameră și apel video pentru comunicare cu părinții"
+      ],
+      "cons": [
+        "Nu ține pasul cu funcțiile fitness ale unui smartwatch pentru adulți",
+        "Aplicațiile sociale necesită supraveghere parentală"
+      ],
+      "review": "Diferit de restul topului, acest smartwatch pentru copii nu concurează pe autonomie sau ecosistem de fitness, ci pe siguranță și comunicare. GPS-ul 4G permite localizarea în timp real din aplicația părinților, iar camera și apelul video HD țin legătura fără să fie nevoie de un telefon separat pentru cel mic. Ecranul Super AMOLED și rezistența la apă IP67 fac ceasul potrivit pentru joacă zilnică, iar accesul la Google Play deschide aplicații educative, dar și WhatsApp, TikTok sau Instagram — de aici nevoia clară de supraveghere parentală și setări atente de restricționare. Pe baza descrierii producătorului, funcția SOS oferă un plus de liniște în situații de urgență. Nu îl comparăm direct cu celelalte smartwatch-uri din top, pentru că are un scop diferit — dar pentru un părinte care vrea localizare și comunicare de bază cu copilul, e alegerea potrivită.",
+      "emagUrl": "https://www.emag.ro/ceas-smartwatch-copii-gps-4g-google-play-whatsapp-tiktok-instagram-youtube-facebook-camera-hd-wingereich-tm-localizare-gps-telefon-apel-video-hd-super-amoled-wifi-bluetooth-apa-ip67-android-ios-sos-mo/pd/DDVXVGYBM",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205324"
+    }
+  ],
+  "comparison": {
+    "title": "Apple Watch vs. Android (Samsung / Huawei): ce smartwatch alegi?",
+    "intro": "Alegerea depinde în primul rând de telefonul din buzunar. Iată cum se compară cele două lumi pe criteriile care contează cu adevărat.",
+    "aLabel": "Apple Watch (iPhone)",
+    "bLabel": "Android (Samsung / Huawei)",
+    "rows": [
+      {
+        "criteriu": "Compatibilitate telefon",
+        "a": "Necesită iPhone",
+        "b": "Android (și parțial iOS)"
+      },
+      {
+        "criteriu": "Autonomie baterie",
+        "a": "Sub 36 de ore",
+        "b": "Până la 2 săptămâni (Huawei)"
+      },
+      {
+        "criteriu": "Ecosistem de aplicații",
+        "a": "Cel mai bogat (App Store)",
+        "b": "Wear OS (Samsung) sau mai limitat (Huawei)"
+      },
+      {
+        "criteriu": "Plăți contactless",
+        "a": "Apple Pay nativ",
+        "b": "Samsung Pay / Huawei Pay, variabil"
+      },
+      {
+        "criteriu": "Design și materiale",
+        "a": "Aluminiu, finisaje premium",
+        "b": "Titan (Huawei), inox (Samsung)"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Mediu-ridicat",
+        "b": "Variază larg, de la accesibil la premium"
+      }
+    ],
+    "verdict": "Alege Apple Watch dacă ai iPhone și vrei ecosistemul cel mai matur. Pentru Android, Samsung Galaxy Watch oferă cel mai complet Wear OS, iar Huawei câștigă clar la autonomie."
+  },
+  "priceBuckets": []
+}
