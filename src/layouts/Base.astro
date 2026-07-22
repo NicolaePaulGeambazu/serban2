@@ -87,6 +87,29 @@ const website = {
     <slot name="after" />
     <CookieConsent />
     <script>
+      // ProfitShare automatic affiliate-link script (converts outbound links to
+      // affiliate links at click-time). Loaded only after the visitor accepts
+      // marketing cookies — mirrors the gclid logic below — but injected the moment
+      // consent is granted (via the vk-consent event) so no reload is needed.
+      (function () {
+        var loaded = false;
+        function hasMarketing() {
+          try { var c = JSON.parse(localStorage.getItem('vk_consent_v2') || 'null'); return !!(c && c.marketing); } catch (e) { return false; }
+        }
+        function load() {
+          if (loaded || !hasMarketing()) return;
+          loaded = true;
+          var bsa = document.createElement('script');
+          bsa.type = 'text/javascript';
+          bsa.async = true;
+          bsa.src = '//l.profitshare.ro/files_shared/lps/js/0BC/xI.js?v=1784750891';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bsa);
+        }
+        load();                                   // on load (if consent already given)
+        window.addEventListener('vk-consent', load); // the moment the user accepts
+      })();
+    </script>
+    <script>
       // Google Ads attribution: capture gclid and pass it into Profitshare links
       // (so a commission can be matched back to the ad click). Only when the visitor
       // has accepted marketing cookies.
