@@ -46,7 +46,7 @@ const catBlocks = cats.map((c) => {
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <span class="eyebrow">Recenzii · teste · verdicte</span>
+        <span class="eyebrow">Recenzii · comparații · verdicte</span>
         <h1>Nu ghici.<br />Vezi <span class="u">verdictul.</span></h1>
         <p class="lede">Analizăm specificațiile care contează cu adevărat și citim ce spun cumpărătorii, ca tu să alegi în două minute — nu în două seri.</p>
         <form class="search-big" role="search" action="/cauta/" method="get">
@@ -54,9 +54,6 @@ const catBlocks = cats.map((c) => {
           <input type="search" name="q" placeholder="Ce vrei să cumperi? ex. aspirator robot" aria-label="Caută un produs sau o categorie" />
           <button type="submit">Vezi verdictul</button>
         </form>
-        <div class="pills" aria-label="Categorii populare">
-          {cats.map((c) => <a href={`/clasament/${c.id}/`}>{c.data.parent === c.data.h1 ? c.data.h1 : c.data.h1.replace('Cele mai bune ', '').replace(/ în 2026$/, '')}</a>)}
-        </div>
         <div class="trust-row">
           <div><span class="n">{nProducts}</span><span class="l">produse comparate</span></div>
           <div><span class="n">{cats.length}</span><span class="l">categorii</span></div>

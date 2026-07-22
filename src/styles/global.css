@@ -81,7 +81,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .m-menu.open{display:flex}
 
 /* ---------- hero (home) ---------- */
-.hero{background:radial-gradient(1200px 500px at 80% -10%, #16345c 0%, transparent 60%),var(--ink);color:#EAF0F6;position:relative;overflow:hidden;padding:clamp(52px,7vw,84px) 0 clamp(60px,8vw,96px)}
+.hero{background:radial-gradient(1200px 500px at 80% -10%, #16345c 0%, transparent 60%),var(--ink);color:#EAF0F6;position:relative;overflow:hidden;padding:clamp(32px,4.5vw,56px) 0 clamp(38px,5vw,64px)}
 .hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(var(--line-dark) 1px,transparent 1px),linear-gradient(90deg,var(--line-dark) 1px,transparent 1px);background-size:52px 52px;opacity:.35;mask-image:radial-gradient(900px 500px at 30% 0%,#000,transparent 75%)}
 .hero-grid{position:relative;display:grid;grid-template-columns:1.05fr .95fr;gap:52px;align-items:center}
 .hero .eyebrow{color:var(--gold)}
