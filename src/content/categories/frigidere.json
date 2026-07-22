@@ -7,7 +7,7 @@
   "intro": "Un frigider bun se alege după numărul de persoane din casă și spațiul din bucătărie, nu după cea mai mare capacitate din magazin. Am ales și am comparat 9 modele populare — de la combine No Frost cu WiFi, până la side-by-side și variante încorporabile — pe baza specificațiilor și recenziilor cumpărătorilor, urmărind capacitate, clasă energetică, zgomot și dotări. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "ana-popescu",
   "updated": "2026-07-22",
-  "productsCount": 9,
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -641,6 +641,64 @@
       "review": "Dacă bugetul e principala constrângere sau ai nevoie doar de un frigider secundar — pentru garsonieră, cameră de oaspeți sau birou —, Heinner HF-H2206E cu 206 L e cel mai accesibil model din tot topul. Cele 3 rafturi de sticlă sunt suficiente pentru un consum zilnic obișnuit, iar lumina LED din interior face vizibilitatea bună chiar și în colțurile din spate. Finisajul alb cu h 143 cm îl face compact și ușor de integrat în spații mici, sub un blat de bucătărie sau într-un colț de birou. Clasa energetică E și capacitatea redusă îl recomandă mai degrabă ca frigider secundar decât ca principal pentru o familie. Nu are congelator separat generos și nici funcții suplimentare dincolo de răcirea de bază. Pentru o cameră ocazională sau un buget strict limitat, face treaba corect fără cheltuieli inutile. Pentru folosire zilnică intensă într-o locuință principală, am recomanda totuși un model cu capacitate mai mare din top.",
       "emagUrl": "https://www.emag.ro/frigider-cu-doua-usi-heinner-206-l-clasa-e-lumina-led-3-rafturi-de-sticla-h-143-cm-alb-hf-h2206e/pd/DT1BTWMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205279"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Liebherr CNbed-5703 371 L (bej)",
+      "tag": "Variantă de culoare",
+      "score": 7.1,
+      "feedId": "DF9G4PYBM",
+      "features": [
+        "no-frost"
+      ],
+      "specs": [
+        {
+          "value": "371 L",
+          "label": "capacitate"
+        },
+        {
+          "value": "Combină",
+          "label": "tip"
+        },
+        {
+          "value": "No Frost",
+          "label": "răcire"
+        },
+        {
+          "value": "Clasa D",
+          "label": "energetic"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Răcire",
+          "pct": 88
+        },
+        {
+          "label": "Spațiu",
+          "pct": 80
+        },
+        {
+          "label": "Eficiență",
+          "pct": 82
+        },
+        {
+          "label": "Dotări",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Calitate Liebherr: EasyFresh și DuoCooling pentru prospețime",
+        "Finisaj bej, alternativă la varianta inox pentru bucătării mai calde"
+      ],
+      "cons": [
+        "Clasa D — nu cea mai eficientă din top",
+        "Capacitate medie pentru familii numeroase"
+      ],
+      "review": "Este exact aceeași combină Liebherr de 371 de litri din listă, în finisaj bej în loc de inox — o alegere de estetică pentru bucătăriile în tonuri calde sau clasice, unde inoxul nu se potrivește. Tehnic, oferă tot ce a dus modelul în top: sistemul No Frost care elimină decongelarea manuală, EasyFresh pentru păstrarea legumelor și fructelor neambalate proaspete mai mult timp și DuoCooling, cu circuite separate pentru frigider și congelator, ca mirosurile să nu treacă dintr-o zonă în alta. Cei 371 de litri și înălțimea de peste doi metri o fac potrivită pentru un cuplu sau o familie mică-medie. Clasa energetică D nu e vârful eficienței, dar construcția Liebherr și fiabilitatea recunoscută compensează pe termen lung. Pe baza specificațiilor și a recenziilor, o recomandăm cui vrea calitate Liebherr într-o culoare diferită de inox.",
+      "emagUrl": "https://www.emag.ro/combina-frigorifica-liebherr-371-l-no-frost-easyfresh-duocooling-interior-fit-clasa-d-h-201-5-cm-bej-cnbed-5703/pd/DF9G4PYBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205391"
     }
   ],
   "comparison": {

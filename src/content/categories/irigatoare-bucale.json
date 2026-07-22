@@ -7,7 +7,7 @@
   "intro": "Un irigator bucal bun completează periajul și ața dentară, dar alegerea depinde de unde și cum îl folosești. Am ales și am comparat 7 modele populare, de la Waterpik Aquarius Professional și Philips Sonicare Power Flosser 7000, pentru baie fixă, până la variante portabile de călătorie ca Philips Sonicare HX3826 sau Panasonic EW-DJ86, după presiune, capete incluse și capacitatea rezervorului. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "ana-popescu",
   "updated": "2026-07-22",
-  "productsCount": 7,
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -507,6 +507,182 @@
       "review": "Waterpik Whitening Professional aduce un plus punctual față de restul topului: cele 30 de tablete de albire incluse, gândite să fie folosite direct în rezervorul aparatului pentru o curățare care ajută și la aspectul dinților, nu doar la igiena interdentară. Dincolo de acest detaliu, rămâne un irigator fix din seria Professional Waterpik, o gamă recomandată frecvent de stomatologi pentru eficiența jetului de apă. E o alegere de nișă, potrivită mai ales pentru cineva care vrea combinația curățare plus albire într-un singur aparat, nu neapărat pentru o familie numeroasă, pentru că nu vine cu multiple tipuri de capete incluse ca alte modele fixe din listă. Pe baza specificațiilor și a recenziilor, îl recomandăm cui caută explicit componenta de albire pe lângă igiena interdentară de bază, ca supliment la periajul zilnic.",
       "emagUrl": "https://www.emag.ro/irigator-dus-bucal-waterpik-whitening-professional-wf-05e-include-30-tablete-albire-wf-05eu010/pd/D28TT3MBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205286"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Philips Sonicare Portabil HX3826 (verde-mentă)",
+      "tag": "Variantă de culoare portabilă",
+      "score": 7.5,
+      "feedId": "DSNZMV3BM",
+      "features": [
+        "portabil",
+        "quadstream"
+      ],
+      "specs": [
+        {
+          "value": "Portabil",
+          "label": "tip aparat"
+        },
+        {
+          "value": "QuadStream",
+          "label": "tehnologie jet"
+        },
+        {
+          "value": "3 niveluri",
+          "label": "intensitate"
+        },
+        {
+          "value": "2 capete + husă",
+          "label": "în pachet"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Curățare",
+          "pct": 84
+        },
+        {
+          "label": "Presiune reglabilă",
+          "pct": 80
+        },
+        {
+          "label": "Rezervor",
+          "pct": 72
+        },
+        {
+          "label": "Dotări",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Tehnologie QuadStream care direcționează jetul din mai multe unghiuri",
+        "Compact și cu husă de transport, bun pentru călătorii"
+      ],
+      "cons": [
+        "Rezervor mic, ca la orice model portabil"
+      ],
+      "review": "Este aceeași unitate Philips Sonicare portabilă din vârful listei, în varianta de culoare verde-mentă — utilă dacă preferi altă nuanță sau o găsești la un preț mai bun. Tehnologia QuadStream direcționează jetul de apă din mai multe unghiuri, ceea ce ajută la curățarea spațiilor interdentare fără să muți mereu capul aparatului. Vine cu două capete de curățare și o husă de transport, deci e gândit pentru cineva care vrea igienă interdentară și când e plecat de acasă. Ca la orice irigator portabil, rezervorul e mic și trebuie reumplut la o sesiune mai lungă, iar autonomia depinde de încărcare. Pe baza specificațiilor și a recenziilor, rămâne o alegere solidă pentru uz personal și călătorii, doar cu o culoare diferită față de varianta neagră.",
+      "emagUrl": "https://www.emag.ro/irigator-bucal-tip-dus-bucal-philips-sonicare-cu-tehnologie-quadstream-portabil-2-moduri-de-curatare-3-niveluri-de-intensitate-include-2-x-capete-de-curatare-si-1-x-husa-trasport-verde-menta-hx3826-24/pd/DSNZMV3BM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205392"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Zoopier Floss Water Flosser",
+      "tag": "Buget, portabil",
+      "score": 7.4,
+      "feedId": "D784ZSMBM",
+      "features": [
+        "portabil",
+        "buget"
+      ],
+      "specs": [
+        {
+          "value": "Portabil",
+          "label": "tip aparat"
+        },
+        {
+          "value": "200 ml",
+          "label": "rezervor"
+        },
+        {
+          "value": "1400/min",
+          "label": "pulsații"
+        },
+        {
+          "value": "4 programe / 8 viteze",
+          "label": "reglaje"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Curățare",
+          "pct": 76
+        },
+        {
+          "label": "Presiune reglabilă",
+          "pct": 80
+        },
+        {
+          "label": "Rezervor",
+          "pct": 70
+        },
+        {
+          "label": "Dotări",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Multe trepte de reglaj (4 programe, 8 viteze) la preț mic",
+        "Protecție IPX7 și rezervor de 200 ml pentru adulți și copii"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, service incert",
+        "Rezervor mic pentru sesiuni lungi"
+      ],
+      "review": "Zoopier Floss este opțiunea de buget din listă: un irigator portabil cu rezervor de 200 ml, până la 1400 de pulsații pe minut și un număr surprinzător de reglaje pentru preț — 4 programe și 8 viteze, plus protecție la apă IPX7. Pentru cineva care vrea să încerce dușul bucal fără o investiție mare, sau ca aparat secundar de călătorie, acoperă nevoile de bază fără compromisuri majore pe partea de reglaj al presiunii, util mai ales pentru gingii sensibile. Compromisurile sunt cele așteptate la acest nivel: e un brand mai puțin cunoscut, deci rețeaua de service e incertă, iar rezervorul mic cere reumplere la o curățare mai amănunțită. Pe baza specificațiilor și a recenziilor, îl recomandăm ca alegere de intrare sau aparat secundar, nu ca soluție principală pe termen lung.",
+      "emagUrl": "https://www.emag.ro/irigator-bucal-tip-dus-bucal-portabil-zoopier-floss-water-flosser-pentru-adulti-copii-ipx7-irigator-oral-cu-presiune-1400-pulsatii-min-4-programe-8-viteze-rezervor-200ml-protectie-supraincalzire-mater/pd/D784ZSMBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205393"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Gemevor Family EVO44",
+      "tag": "Portabil pentru familie",
+      "score": 7.3,
+      "feedId": "DV7RZWMBM",
+      "features": [
+        "portabil",
+        "profesional"
+      ],
+      "specs": [
+        {
+          "value": "Portabil fără fir",
+          "label": "tip aparat"
+        },
+        {
+          "value": "300 ml",
+          "label": "rezervor"
+        },
+        {
+          "value": "5 trepte + 12 niveluri",
+          "label": "presiune"
+        },
+        {
+          "value": "IPX8",
+          "label": "protecție apă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Curățare",
+          "pct": 78
+        },
+        {
+          "label": "Presiune reglabilă",
+          "pct": 84
+        },
+        {
+          "label": "Rezervor",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Rezervor generos de 300 ml pentru un portabil",
+        "5 trepte de presiune plus 12 niveluri și mod DIY, foarte flexibil",
+        "IPX8, se poate folosi lejer la baie"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut în România"
+      ],
+      "review": "Gemevor Family EVO44 încearcă să aducă flexibilitatea unui aparat fix într-un format portabil fără fir: rezervor de 300 ml, peste media categoriei portabile, plus un control fin al presiunii cu 5 trepte și 12 niveluri de intensitate și un mod DIY care lasă utilizatorul să-și seteze propriul program. Protecția IPX8 înseamnă că se folosește fără griji la baie. Rezervorul mai mare îl face potrivit pentru mai mulți membri ai familiei care vor să împartă un singur aparat portabil, iar reglajele multiple ajută la adaptarea jetului pentru gingii sensibile sau pentru aparate dentare. Minusul principal e că brandul e mai puțin cunoscut la noi, deci merită verificată disponibilitatea capetelor de schimb. Pe baza specificațiilor și a recenziilor, e o alegere bună pentru cine vrea un portabil cu rezervor mare și control detaliat al presiunii.",
+      "emagUrl": "https://www.emag.ro/irigator-bucal-profesional-tip-dus-bucal-gemevor-family-irigator-oral-fara-fir-portabil-5-trepte-de-presiune-12-niveluri-de-intensitate-mod-diy-ipx8-rezervor-300-ml-culoare-negru-mat-evo44/pd/DV7RZWMBM/",
+      "affiliateUrl": "https://l.profitshare.ro/l/16205394"
     }
   ],
   "comparison": {
