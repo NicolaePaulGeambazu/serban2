@@ -456,17 +456,17 @@ footer li a:hover{color:#fff}
 .m-cta a{margin-left:auto;background:var(--emerald);color:#fff;font-weight:700;padding:12px 18px;border-radius:10px;font-size:.9rem}
 
 /* ---------- cookie ---------- */
-.cookie{position:fixed;left:0;right:0;bottom:0;z-index:90;background:var(--ink);color:#DCE5EF;border-top:1px solid var(--line-dark);box-shadow:var(--shadow-lg);padding:16px 24px}
+.cookie{position:fixed;left:0;right:0;bottom:0;z-index:90;background:var(--paper-2);color:var(--text);border-top:1px solid var(--line);box-shadow:var(--shadow-lg);padding:16px 24px}
 .ck-inner{width:100%;max-width:var(--maxw);margin:0 auto;display:flex;align-items:center;gap:24px}
 .cookie p{font-size:.88rem;line-height:1.5;flex:1;min-width:0}
 .ck-btns{display:flex;gap:10px;flex-wrap:wrap;flex:0 0 auto}
 .ck-btns button{border-radius:10px;padding:11px 16px;font-weight:700;font-size:.85rem;cursor:pointer;font-family:var(--sans);border:1px solid transparent}
 .ck-ok{background:var(--emerald);color:#fff}
 .ck-ok:hover{background:var(--emerald-d)}
-.ck-alt{background:transparent;color:#DCE5EF;border-color:var(--line-dark)}
-.ck-alt:hover{border-color:#4a5f7e}
-.ck-link{background:transparent;color:#9DB0C6;border:0;text-decoration:underline;padding:11px 6px;cursor:pointer;font:inherit;font-weight:700;font-size:.85rem}
-.ck-link:hover{color:#fff}
+.ck-alt{background:transparent;color:var(--text);border-color:var(--line)}
+.ck-alt:hover{border-color:var(--muted)}
+.ck-link{background:transparent;color:var(--muted);border:0;text-decoration:underline;padding:11px 6px;cursor:pointer;font:inherit;font-weight:700;font-size:.85rem}
+.ck-link:hover{color:var(--text)}
 .ck-modal{position:fixed;inset:0;z-index:100;display:none;align-items:center;justify-content:center;padding:20px}
 .ck-modal.open{display:flex}
 .ck-modal .bg{position:absolute;inset:0;background:rgba(9,15,26,.55)}
