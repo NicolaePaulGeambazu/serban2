@@ -10,6 +10,7 @@ import Jsonld from '../../components/Jsonld.astro';
 import { site } from '../../data/site';
 import { deeplink, AFFILIATE_REL } from '../../data/affiliate';
 import { getAuthor } from '../../data/authors';
+import { segmentsWithProducts, CATEGORY_SEGMENTS } from '../../data/subcategories';
 import Byline from '../../components/Byline.astro';
 
 export async function getStaticPaths() {
@@ -53,12 +54,10 @@ const faqSchema = {
   })),
 };
 
-// Brand sub-pages (only where they exist as a dedicated route). Show links to the
-// brands that actually have products in the category.
-const BRAND_SUBPAGES: Record<string, string[]> = { 'aspiratoare-verticale': ['Bosch', 'Dyson', 'Philips'] };
-const brandLinks = (BRAND_SUBPAGES[cat.id] ?? [])
-  .filter((b) => d.products.some((p) => p.name.toLowerCase().includes(b.toLowerCase())))
-  .map((b) => ({ label: b, href: `/clasament/${cat.id}/${b.toLowerCase()}/` }));
+// Sub-ranking segments (brand or spec) that have products in this category.
+const segLinks = segmentsWithProducts(cat.id, d.products)
+  .map((s) => ({ label: s.label, href: `/clasament/${cat.id}/${s.slug}/` }));
+const segNavLabel = CATEGORY_SEGMENTS[cat.id]?.navLabel ?? 'Vezi pe segment';
 ---
 <Base title={d.title} description={d.intro} current="/categorii/" bodyClass="has-mcta">
   <div class="wrap">
@@ -77,10 +76,10 @@ const brandLinks = (BRAND_SUBPAGES[cat.id] ?? [])
 
     <QuickPicks picks={d.quickPicks} products={d.products} />
 
-    {brandLinks.length > 0 && (
+    {segLinks.length > 0 && (
       <div class="brand-nav">
-        <span class="bn-label">Vezi pe brand:</span>
-        {brandLinks.map((b) => <a class="chip" href={b.href}>{b.label}</a>)}
+        <span class="bn-label">{segNavLabel}:</span>
+        {segLinks.map((s) => <a class="chip" href={s.href}>{s.label}</a>)}
       </div>
     )}
   </div>

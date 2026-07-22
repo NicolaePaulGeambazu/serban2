@@ -5,6 +5,7 @@ import Icon from '../components/Icon.astro';
 import Seal from '../components/Seal.astro';
 import AffiliateButton from '../components/AffiliateButton.astro';
 import { site } from '../data/site';
+import { segmentsWithProducts, productMatchesSegment, CATEGORY_SEGMENTS } from '../data/subcategories';
 
 const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
 const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order).slice(0, 3);
@@ -13,6 +14,30 @@ const fmt = (n: number) => n.toLocaleString('ro-RO');
 const nProducts = cats.reduce((n, c) => n + c.data.products.length, 0);
 const featured = cats[0];
 const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0];
+
+const cleanCat = (h1: string) =>
+  h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace(/ în 2026$/, '');
+// One block per category. The row leads with a "Top N" general card, then either
+// segment cards (brand / spec sub-rankings) or, if none are configured, the next
+// top products as cards.
+const catBlocks = cats.map((c) => {
+  const sorted = [...c.data.products].sort((a, b) => a.rank - b.rank);
+  const cfg = CATEGORY_SEGMENTS[c.id];
+  const segs = segmentsWithProducts(c.id, c.data.products).map((s) => {
+    const top = sorted.find((p) => productMatchesSegment(p, s));
+    return { slug: s.slug, label: s.label, count: s.count, image: top?.image };
+  });
+  return {
+    id: c.id,
+    name: cleanCat(c.data.h1),
+    icon: c.data.icon,
+    count: c.data.productsCount,
+    winner: sorted[0],
+    top: sorted.slice(1, 4),
+    segs,
+    navLabel: cfg?.navLabel ?? '',
+  };
+});
 ---
 <Base current="/">
   <!-- HERO -->
@@ -74,31 +99,61 @@ const fp = featured.data.products.find((p) => p.win) ?? featured.data.products[0
         </div>
         <a class="more" href="/categorii/">Toate categoriile →</a>
       </div>
-      <div class="cats-win">
-        {cats.map((c) => {
-          const w = c.data.products.find((p) => p.win) ?? c.data.products[0];
-          const catName = c.data.h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace('Cele mai bune ', '').replace(/ în 2026$/, '');
-          return (
-            <a class="cat-win" href={`/clasament/${c.id}/`} aria-label={`Vezi topul: ${catName}`}>
-              <div class="cat-shot">
-                {w?.image
-                  ? <img src={w.image} alt={`Câștigător ${catName}: ${w.name}`} width="140" height="118" loading="lazy" decoding="async" />
-                  : <span class="ic-fallback"><Icon name={c.data.icon} /></span>}
-                <span class="cat-badge">Top {c.data.productsCount}</span>
+      <div class="cat-blocks">
+        {catBlocks.map((c) => (
+          <div class="cat-block">
+            <div class="cb-head">
+              <div>
+                <h3>{c.name}</h3>
+                <span class="cb-meta">Top {c.count} · actualizat {c.updated}</span>
               </div>
-              <div class="cat-info">
-                <h3>{catName}</h3>
-                <div class="cat-win-row"><span class="cat-score">★ {w.score.toFixed(1)}</span><span class="cat-win-name">{w.name}</span></div>
-                <span class="cat-cta">Vezi topul <Icon name="arrow" /></span>
-              </div>
-            </a>
-          );
-        })}
-        <a class="cat-win cat-more" href="/categorii/">
-          <span class="ic"><Icon name="basket" /></span>
-          <h3>Toate categoriile</h3>
-          <span class="cat-cta">Vezi tot <Icon name="arrow" /></span>
-        </a>
+              <a class="cb-all" href={`/clasament/${c.id}/`}>Vezi toate <Icon name="arrow" /></a>
+            </div>
+            <div class="cb-row">
+              <a class="pcard pcard-top" href={`/clasament/${c.id}/`} aria-label={`Top ${c.count} ${c.name}`}>
+                <div class="pcard-shot">
+                  {c.winner?.image
+                    ? <img src={c.winner.image} alt={`Cele mai bune ${c.name}`} width="150" height="128" loading="lazy" decoding="async" />
+                    : <span class="ic-fallback"><Icon name={c.icon} /></span>}
+                  <span class="pcard-badge">Top {c.count}</span>
+                </div>
+                <div class="pcard-body">
+                  <span class="pcard-kicker">Clasament general</span>
+                  <span class="pcard-name">Cele mai bune {c.name}</span>
+                </div>
+              </a>
+
+              {c.segs.length > 0
+                ? c.segs.map((s) => (
+                    <a class="pcard" href={`/clasament/${c.id}/${s.slug}/`} aria-label={`${c.name} ${s.label}`}>
+                      <div class="pcard-shot">
+                        {s.image
+                          ? <img src={s.image} alt={`${c.name} ${s.label}`} width="150" height="128" loading="lazy" decoding="async" />
+                          : <span class="ic-fallback"><Icon name={c.icon} /></span>}
+                      </div>
+                      <div class="pcard-body">
+                        <span class="pcard-kicker">{c.navLabel}</span>
+                        <span class="pcard-name">{s.label}</span>
+                      </div>
+                    </a>
+                  ))
+                : c.top.map((p) => (
+                    <a class="pcard" href={`/clasament/${c.id}/#${p.id}`} aria-label={`${p.name} — locul ${p.rank}`}>
+                      <div class="pcard-shot">
+                        {p.image
+                          ? <img src={p.image} alt={p.name} width="150" height="128" loading="lazy" decoding="async" />
+                          : <span class="ic-fallback"><Icon name={c.icon} /></span>}
+                        <span class="pcard-rank">{p.rank}</span>
+                      </div>
+                      <div class="pcard-body">
+                        <span class="pcard-score">★ {p.score.toFixed(1)}</span>
+                        <span class="pcard-name">{p.name}</span>
+                      </div>
+                    </a>
+                  ))}
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   </section>
