@@ -35,6 +35,23 @@ export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
       { slug: 'philips', label: 'Philips', keywords: ['philips'] },
     ],
   },
+  'epilatoare': {
+    kind: 'brand', navLabel: 'Pe brand',
+    segments: [
+      { slug: 'braun', label: 'Braun', keywords: ['braun'] },
+      { slug: 'ipl', label: 'IPL', keywords: ['ipl'] },
+      { slug: 'philips', label: 'Philips', keywords: ['philips'] },
+    ],
+  },
+  'friteuze-aer-cald': {
+    kind: 'brand', navLabel: 'Pe brand',
+    segments: [
+      { slug: 'biovita', label: 'Biovita', keywords: ['biovita'] },
+      { slug: 'cosori', label: 'Cosori', keywords: ['cosori'] },
+      { slug: 'philips', label: 'Philips', keywords: ['philips'] },
+      { slug: 'tefal', label: 'Tefal', keywords: ['tefal'] },
+    ],
+  },
   'aer-conditionat': {
     kind: 'spec', navLabel: 'Pe putere',
     segments: [

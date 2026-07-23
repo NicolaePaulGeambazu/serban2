@@ -1,0 +1,721 @@
+{
+  "title": "Cei mai buni roboți de spălat geamuri în 2026",
+  "h1": "Cei mai buni roboți de spălat geamuri în 2026",
+  "parent": "Electrocasnice",
+  "icon": "window-robot",
+  "order": 35,
+  "intro": "Am comparat cei mai populari roboți autonomi de spălat geamuri de pe eMAG, judecați după aderența și siguranța pe geam, calitatea curățării, autonomia bateriei de rezervă și raportul preț/valoare. În listă găsești atât modele simple, cu telecomandă și tehnologie vacuum, cât și variante smart, cu control din aplicație, pulverizare automată și baterie UPS pentru cazul unei pene de curent. Mai jos ai topul, plus un ghid cu ce specificații contează cu adevărat înainte să montezi un robot pe geamul de la etaj.",
+  "author": "mihai-radu",
+  "updated": "2026-07-23",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "d1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p3"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p2"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "wifi",
+      "label": "Control din aplicație"
+    },
+    {
+      "key": "telecomanda",
+      "label": "Cu telecomandă"
+    },
+    {
+      "key": "spray",
+      "label": "Pulverizare automată"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Cum rămân lipite de geam: aspirație (vacuum) vs. mopuri cu vibrație",
+      "body": "Majoritatea roboților din acest top folosesc un motor de aspirație (vacuum) care creează o zonă de vid între robot și geam — cu cât Pa-ul e mai mare, cu atât aderența e mai fermă, mai ales pe geamuri mari sau montate vertical. Hobot S7 Pro folosește în schimb mopuri cu vibrație patentate, gândite să scoată murdăria uscată prin frecare, nu doar prin aspirație. Ambele tehnologii au nevoie de alimentare continuă cât timp robotul e pe geam — de aici importanța bateriei de rezervă.",
+      "callout": "Peste 2700 Pa aderența e considerată solidă pentru majoritatea geamurilor; sub acest prag, verifică și greutatea robotului."
+    },
+    {
+      "h3": "Bateria UPS: ce se întâmplă la o pană de curent",
+      "body": "Toți roboții din top depind de alimentare electrică pentru a rămâne lipiți de geam, deci o pană de curent e principalul risc de siguranță. De aceea, modelele mai bune includ o baterie internă (UPS) care preia aspirația pentru o perioadă limitată — de la 25-30 de minute la iMA Trendr și la modelul fără brand, până la 60 de minute pe acumulator la Liectroux HCR-09. Cu cât acest interval e mai mare, cu atât ai mai mult timp să intervii manual înainte ca robotul să rămână fără aderență.",
+      "callout": "La geamuri de la etaj 3 sau mai sus, o autonomie de rezervă mai mare (precum cele 60 de minute ale Liectroux) contează cât o dotare smart."
+    },
+    {
+      "h3": "Frânghia de siguranță: o precauție pe care n-o sari",
+      "body": "Indiferent cât de lungă e autonomia de rezervă, producătorii recomandă folosirea unei frânghii de siguranță atașate la robot, mai ales la geamuri de la etaj sau la clădiri înalte. Fișele de produs din acest top nu detaliază mereu dacă frânghia vine inclusă în pachet, așa că verifică înainte de cumpărare și, dacă lipsește, cumpăr-o separat — e o precauție ieftină față de riscul unei căderi."
+    },
+    {
+      "h3": "Pulverizare automată vs. udare manuală",
+      "body": "O parte din roboți (iMA Trendr, Buntz WindowGlow, Hobot S7 Pro, Tosima W3, modelul fără brand din acest top) au pulverizare automată integrată, cu rezervor propriu de apă, deci geamul se udă singur în timpul curățării. Alții, precum modelele iHunt din listă, nu au pulverizare automată — geamul trebuie umezit manual înainte, cu lavetele incluse. Pulverizarea automată e mai comodă pentru sesiuni lungi sau geamuri foarte murdare, dar cere realimentare periodică a rezervorului."
+    },
+    {
+      "h3": "Detectarea automată a marginilor geamului",
+      "body": "Senzorii de detectare a marginilor opresc robotul înainte să treacă de conturul geamului, esențial mai ales pe geamuri fără ramă sau cu ramă foarte subțire. Aproape toate modelele din top menționează explicit această funcție; e unul dintre puținele lucruri pe care n-ar trebui să le sari la cumpărare, indiferent de buget."
+    },
+    {
+      "h3": "Ce tipuri de geamuri pot curăța",
+      "body": "Roboții din acest top sunt gândiți pentru suprafețe plane și netede: geamuri clasice, uși de sticlă, unele vitrine sau oglinzi mari. Nu funcționează bine pe geamuri curbate, foarte texturate sau cu ornamente în relief, iar grosimea geamului contează — verifică limita indicată de producător (de obicei undeva între 3 și 24 mm) înainte de cumpărare, mai ales dacă ai geamuri termopan mai groase."
+    },
+    {
+      "h3": "Puterea de aspirație (Pa) din acest top",
+      "body": "În lotul analizat, aspirația variază de la 2000-2800 Pa la modelele mai simple, până la 3300-3800 Pa la Hutt A1 și Tosima W3. Un Pa mai mare ajută mai ales pe geamuri mari sau grele de curățat, dar nu e singurul factor — greutatea robotului și calitatea garniturii de etanșare contează la fel de mult pentru o aderență sigură."
+    },
+    {
+      "h3": "Control: telecomandă simplă vs. aplicație mobilă",
+      "body": "Telecomanda oferă control direct, fără să depinzi de o rețea Wi-Fi lângă geam — utilă dacă semnalul e slab acolo. Aplicația mobilă adaugă, în schimb, programare, moduri suplimentare de curățare și monitorizare de la distanță. Dacă vrei ambele opțiuni, modele precum iMA Trendr sau iHunt Smart Window Robot 3 PRO combină telecomanda cu controlul din aplicație."
+    },
+    {
+      "h3": "Greșeli frecvente la alegerea unui robot de spălat geamuri",
+      "body": "Cea mai frecventă greșeală e să ignori autonomia de rezervă la pană de curent și să montezi robotul pe un geam de la etaj fără o frânghie de siguranță suplimentară. A doua greșeală e să te uiți doar la Pa, fără să verifici dacă geamul tău (grosime, tip, ramă) e compatibil. A treia e să alegi un model fără pulverizare automată pentru geamuri foarte murdare, unde udarea manuală repetată devine incomodă."
+    }
+  ],
+  "faq": [
+    {
+      "q": "E sigur să las robotul nesupravegheat pe geam?",
+      "a": "Modelele din acest top au senzori anti-cădere și, în multe cazuri, o baterie de rezervă (UPS) care preia aspirația la o pană de curent. Producătorii recomandă totuși o frânghie de siguranță suplimentară, mai ales la etaje înalte, plus verificare periodică în primele sesiuni de curățare."
+    },
+    {
+      "q": "Ce se întâmplă dacă se ia curentul cât robotul e pe geam?",
+      "a": "Modelele cu baterie UPS (iMA Trendr, modelul fără brand, Liectroux HCR-09) rămân lipite de geam pe acumulator între 25 și 60 de minute, timp suficient să intervii manual. Verifică această specificație înainte de cumpărare dacă locuiești la etaj."
+    },
+    {
+      "q": "Merge pe orice tip de geam?",
+      "a": "Funcționează pe suprafețe plane și netede — geamuri clasice, uși de sticlă, unele oglinzi și vitrine. Nu recomandăm pe geamuri curbate, foarte texturate sau cu grosimi peste limita indicată de producător."
+    },
+    {
+      "q": "Trebuie să ud geamul înainte sau o face robotul singur?",
+      "a": "Depinde de model. Cele cu pulverizare automată (iMA Trendr, Buntz, Hobot S7 Pro, Tosima W3) au rezervor propriu și udă geamul singure. La modelele iHunt din acest top, geamul trebuie umezit manual înainte de curățare."
+    },
+    {
+      "q": "Cât de mare poate fi geamul curățat?",
+      "a": "Robotul se mișcă pe un traseu programat și acoperă suprafața indiferent de mărime, atât timp cât bateria și rezervorul de apă țin. La geamuri foarte mari, un rezervor mai mic (30-60 ml) poate cere o realimentare pe parcurs."
+    },
+    {
+      "q": "Care e diferența dintre telecomandă și control din aplicație?",
+      "a": "Telecomanda oferă control direct, fără nevoie de Wi-Fi. Aplicația mobilă adaugă programare, moduri suplimentare și monitorizare de la distanță, dar cere o conexiune stabilă lângă geam."
+    },
+    {
+      "q": "Are nevoie de întreținere?",
+      "a": "Da — lavetele/șervețelele se spală sau se înlocuiesc periodic, iar rezervorul de apă (la modelele cu pulverizare automată) trebuie realimentat înainte de fiecare sesiune mai lungă."
+    },
+    {
+      "q": "Merită o frânghie de siguranță suplimentară?",
+      "a": "Da, mai ales la geamuri de la etaj. Chiar și cu senzori anti-cădere și baterie de rezervă, o frânghie atașată de robot e o precauție ieftină față de riscul, oricât de mic, al unei căderi."
+    }
+  ],
+  "conclusion": "Pentru majoritatea cumpărătorilor, iMA Trendr (varianta neagră) e alegerea cea mai completă: control dublu din aplicație și telecomandă, pulverizare ultrasonică și UPS de 30 de minute la pană de curent. Dacă vrei aproape aceleași dotări la un preț mai mic, iHunt Smart Window Robot 3 PRO adaugă Wi-Fi peste tehnologia vacuum de bază, la un cost aproape identic cu varianta simplă, iar iHunt Smart Window Robot 3 rămâne cea mai ieftină poartă de intrare, cu telecomandă și aderență fermă pe vacuum.",
+  "products": [
+    {
+      "id": "d1",
+      "rank": 1,
+      "name": "Robot Curatare Geamuri, IMA Trend®, Robot Spalat Geamuri cu Aplicatie Tuya, Detectare Automata a Marginilor, Pulverizare Ultrasonica, Control prin Aplicatie si Telecomanda, 3 Moduri de Curatare, Rezervor Dublu 60 ml, 2700 Pa, 72 W, UPS 30 Minute, Negru",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.5,
+      "feedId": "DHT6NW3BM",
+      "features": [
+        "wifi",
+        "telecomanda",
+        "spray"
+      ],
+      "specs": [
+        {
+          "value": "2700 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "App + telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "60 ml (dublu)",
+          "label": "rezervor apă"
+        },
+        {
+          "value": "UPS 30 min",
+          "label": "siguranță la pană"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 96
+        },
+        {
+          "label": "Curățare",
+          "pct": 95
+        },
+        {
+          "label": "Autonomie",
+          "pct": 90
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Control dublu, din aplicația Tuya și din telecomandă, cu detectare automată a marginilor geamului",
+        "Pulverizare ultrasonică cu rezervor dublu de 60 ml, pentru curățare fără urme",
+        "UPS de 30 de minute care ține robotul lipit de geam la o eventuală pană de curent"
+      ],
+      "cons": [
+        "Rezervorul de 60 ml poate cere realimentare la geamuri foarte mari",
+        "Prima conectare la aplicația Tuya poate cere puțină răbdare"
+      ],
+      "review": "Robotul iMA Trendr vine cu cea mai completă listă de dotări din top: control dublu, din aplicația Tuya și de la telecomandă, detectare automată a marginilor geamului și pulverizare ultrasonică din rezervorul dublu de 60 ml. Cei 2700 Pa și motorul de 72 W țin robotul bine lipit de geam, iar sistemul UPS de 30 de minute e un plus important — dacă se ia curentul, robotul rămâne agățat de geam până rezolvi problema, în loc să cadă. Cele 3 moduri de curățare acoperă atât geamurile ușor murdare, cât și pe cele cu depuneri mai vechi. Rezervorul de 60 ml poate cere o realimentare la geamuri foarte mari, iar prima conectare la aplicație cere puțină răbdare. Pe baza specificațiilor și a recenziilor, e alegerea cea mai echilibrată din top pentru cine vrea control complet și siguranță la pană de curent, fără compromisuri.",
+      "emagUrl": "https://www.emag.ro/robot-curatare-geamuri-ima-trendr-robot-spalat-geamuri-cu-aplicatie-tuya-detectare-automata-a-marginilor-pulverizare-ultrasonica-control-prin-aplicatie-si-telecomanda-3-moduri-de-curatare-rezervor-dub/pd/DHT6NW3BM/",
+      "image": "/img/products/dht6nw3bm.png",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211038"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "iHunt Smart Window Robot 3 (telecomandă), robot spălat geamuri, tehnologie vacuum 90W, senzori margini, 10 lavete, Alb",
+      "tag": "iHunt Robot 3 · doar telecomandă",
+      "score": 9,
+      "feedId": "D0G6YCMBM",
+      "features": [
+        "telecomanda"
+      ],
+      "specs": [
+        {
+          "value": "90 W",
+          "label": "putere motor"
+        },
+        {
+          "value": "Vacuum",
+          "label": "tehnologie aderență"
+        },
+        {
+          "value": "Telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "10 lavete",
+          "label": "accesorii incluse"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 90
+        },
+        {
+          "label": "Curățare",
+          "pct": 78
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Cel mai mic preț din top, ideal ca primă achiziție",
+        "Tehnologie vacuum apreciată în recenzii pentru aderență fermă pe geam",
+        "10 lavete incluse, suficiente pentru mai multe sesiuni"
+      ],
+      "cons": [
+        "Fără pulverizare automată — geamul trebuie umezit manual înainte de curățare",
+        "Fără Wi-Fi sau aplicație, doar telecomandă"
+      ],
+      "review": "iHunt Smart Window Robot 3 e cel mai accesibil model din top și mizează pe simplitate: tehnologie vacuum pentru aderență, motor de 90 W, senzori de detectare a marginilor și control clasic din telecomandă, fără dependență de aplicație sau Wi-Fi. Vine cu 10 lavete incluse, suficiente pentru mai multe sesiuni de curățare fără cumpărături suplimentare. Lipsa pulverizării automate înseamnă că geamul trebuie umezit manual înainte de curățare, iar fără aplicație nu ai programare sau monitorizare de la distanță. În schimb, aderența pe vacuum e apreciată în recenzii ca fiind foarte fermă, iar robotul e mai puțin predispus la probleme de conectivitate, tocmai pentru că nu depinde de o rețea Wi-Fi. Pe baza specificațiilor și a recenziilor, e alegerea logică pentru cine vrea un robot de bază, de încredere, la cel mai mic preț din listă.",
+      "emagUrl": "https://www.emag.ro/robot-autonom-curatare-geamuri-ihunt-smart-window-robot-3-tehnologie-vacuum-90w-senzori-detectie-margini-control-telecomanda-10-lavete-incluse-alb-00001886/pd/D0G6YCMBM/",
+      "image": "/img/products/d0g6ycmbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211039"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "iHunt Smart Window Robot 3 PRO Wi-Fi, robot spălat geamuri, tehnologie vacuum 90W, control din app + telecomandă, 10 lavete, Alb",
+      "tag": "iHunt Robot 3 PRO · cu Wi-Fi + app",
+      "score": 8.9,
+      "feedId": "D146YCMBM",
+      "features": [
+        "wifi",
+        "telecomanda"
+      ],
+      "specs": [
+        {
+          "value": "90 W",
+          "label": "putere motor"
+        },
+        {
+          "value": "Wi-Fi + telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "Vacuum",
+          "label": "tehnologie aderență"
+        },
+        {
+          "value": "10 lavete",
+          "label": "accesorii incluse"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 90
+        },
+        {
+          "label": "Curățare",
+          "pct": 80
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Adaugă Wi-Fi și control din aplicație la un preț aproape identic cu varianta de bază",
+        "Aceeași aderență fermă pe vacuum și aceiași senzori de detectare a marginilor",
+        "10 lavete incluse"
+      ],
+      "cons": [
+        "Tot fără pulverizare automată — geamul se umezește manual",
+        "Unele funcții din aplicație cer o conexiune Wi-Fi stabilă lângă geam"
+      ],
+      "review": "Varianta PRO a lui iHunt Smart Window Robot 3 adaugă Wi-Fi și control din aplicație peste aceeași bază solidă: tehnologie vacuum, motor de 90 W și senzori de detectare a marginilor, plus cele 10 lavete incluse. Diferența de preț față de modelul simplu e mică, dar diferența de confort e mare — poți porni, opri sau monitoriza curățarea din telefon, nu doar de la telecomandă. Rămâne fără pulverizare automată, deci geamul trebuie umezit manual, la fel ca la varianta de bază, iar unele funcții avansate din aplicație pot cere o conexiune Wi-Fi stabilă lângă geam. Din recenzii reiese că aderența pe vacuum e la fel de fermă ca la modelul standard, ceea ce contează mai mult decât orice altă dotare pentru un robot montat vertical. Pe baza specificațiilor, e raportul preț/calitate cel mai bun din top: cumperi controlul din aplicație aproape la prețul variantei de bază.",
+      "emagUrl": "https://www.emag.ro/robot-autonom-curatare-geamuri-ihunt-smart-window-robot-3-pro-wi-fi-tehnologie-vacuum-90w-senzori-detectie-margini-control-din-aplicatie-si-telecomanda-10-lavete-incluse-alb-00001885/pd/D146YCMBM/",
+      "image": "/img/products/d146ycmbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211040"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Robot automat de spalat geamuri Buntz WindowGlow BRC-J2– Putere de 72W, 2500Pa, tehnologie duala de pulverizare, sistem anti-urme si control inteligent, Alb",
+      "tag": "Pulverizare duală anti-urme",
+      "score": 8.7,
+      "feedId": "D8RN4ZYBM",
+      "features": [
+        "spray"
+      ],
+      "specs": [
+        {
+          "value": "2500 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "72 W",
+          "label": "putere motor"
+        },
+        {
+          "value": "Pulverizare duală",
+          "label": "curățare"
+        },
+        {
+          "value": "Control inteligent",
+          "label": "operare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 87
+        },
+        {
+          "label": "Curățare",
+          "pct": 90
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Tehnologie duală de pulverizare, cu sistem anti-urme pentru un finisaj curat",
+        "Aspirație solidă de 2500 Pa și motor de 72 W"
+      ],
+      "cons": [
+        "Fișa tehnică nu menționează Wi-Fi sau telecomandă dedicată",
+        "Preț peste alte modele cu specificații similare din top"
+      ],
+      "review": "Buntz WindowGlow BRC-J2 mizează pe curățare temeinică: tehnologia duală de pulverizare udă geamul din ambele direcții, iar sistemul anti-urme e gândit să lase geamul limpede, nu cu dâre. Motorul de 72 W și cei 2500 Pa asigură o aderență solidă, comparabilă cu a modelelor din vârful topului, iar „controlul inteligent” gestionează automat traseul de curățare pe suprafață. Fișa tehnică nu menționează Wi-Fi sau telecomandă dedicată, deci operarea pare mai degrabă automată, cu intervenție minimă din partea utilizatorului. Prețul e peste al altor modele cu specificații similare din listă, ceea ce îl plasează mai degrabă ca alegere pentru cine pune pulverizarea duală și finisajul fără urme înaintea altor dotări smart. Pe baza specificațiilor, e gândit pentru cine vrea un rezultat vizibil curat pe geam, fără să se complice cu setări din aplicație.",
+      "emagUrl": "https://www.emag.ro/robot-automat-de-spalat-geamuri-buntz-windowglow-putere-de-72w-2500pa-tehnologie-duala-de-pulverizare-sistem-anti-urme-si-control-inteligent-alb-brc-j2/pd/D8RN4ZYBM/",
+      "image": "/img/products/d8rn4zybm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211041"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Robot Curatare Geamuri, IMA Trend®, Robot Spalat Geamuri cu Aplicatie Tuya, Detectare Automata a Marginilor, Pulverizare Ultrasonica, Control prin Aplicatie si Telecomanda, 3 Moduri de Curatare, Rezervor Dublu 60 ml, 2700 Pa, 72 W, UPS 30 Minute, Alb",
+      "tag": "Aceeași performanță, în alb",
+      "score": 8.6,
+      "feedId": "DG20D03BM",
+      "features": [
+        "wifi",
+        "telecomanda",
+        "spray"
+      ],
+      "specs": [
+        {
+          "value": "2700 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "App + telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "60 ml (dublu)",
+          "label": "rezervor apă"
+        },
+        {
+          "value": "UPS 30 min",
+          "label": "siguranță la pană"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 95
+        },
+        {
+          "label": "Curățare",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 89
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Aceleași dotări ca liderul topului: 2700 Pa, pulverizare ultrasonică, UPS 30 minute",
+        "Control din aplicație și telecomandă, cu detectare automată a marginilor",
+        "Varianta albă se potrivește mai bine cu rame sau electrocasnice deschise la culoare"
+      ],
+      "cons": [
+        "Rezervorul de 60 ml poate cere realimentare la geamuri mari",
+        "Aceeași curbă de conectare inițială la aplicație ca la varianta neagră"
+      ],
+      "review": "Practic același robot ca liderul topului, doar în alb: aceeași bază de 2700 Pa, motor de 72 W, rezervor dublu de 60 ml pentru pulverizare ultrasonică, detectare automată a marginilor și control din aplicația Tuya sau telecomandă. UPS-ul de 30 de minute oferă aceeași plasă de siguranță în caz de pană de curent, iar cele 3 moduri de curățare acoperă aceleași scenarii, de la praf ușor la depuneri mai vechi. Practic, alegerea dintre variantele negru și alb ține strict de estetică — dacă rama geamului sau restul electrocasnicelor din casă sunt albe, această variantă se integrează mai natural. Rămân aceleași atenționări ca la modelul negru: rezervorul de 60 ml poate cere realimentare la geamuri mari, iar conectarea inițială la aplicație cere puțin timp. Pe baza specificațiilor, e alegerea pentru cine vrea exact dotările liderului de top, dar într-o culoare deschisă.",
+      "emagUrl": "https://www.emag.ro/robot-curatare-geamuri-ima-trendr-robot-spalat-geamuri-cu-aplicatie-tuya-detectare-automata-a-marginilor-pulverizare-ultrasonica-control-prin-aplicatie-si-telecomanda-3-moduri-de-curatare-rezervor-dub/pd/DG20D03BM/",
+      "image": "/img/products/dg20d03bm.png",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211042"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Robot autonom curatare geamuri cu 2 pulverizatoare HOBOT S7 Pro, Patentat mopuri cu vibratii duble, Aplicatie mobila",
+      "tag": "Premium: dublu pulverizator",
+      "score": 8.4,
+      "feedId": "DWYDSX3BM",
+      "features": [
+        "wifi",
+        "spray"
+      ],
+      "specs": [
+        {
+          "value": "2× pulverizatoare",
+          "label": "curățare"
+        },
+        {
+          "value": "Vibrații duble",
+          "label": "tehnologie mop"
+        },
+        {
+          "value": "Aplicație mobilă",
+          "label": "control"
+        },
+        {
+          "value": "Brevetat",
+          "label": "tehnologie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 85
+        },
+        {
+          "label": "Curățare",
+          "pct": 93
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 62
+        }
+      ],
+      "pros": [
+        "Tehnologie patentată cu mopuri cu vibrații duble pentru murdărie uscată",
+        "2 pulverizatoare pentru udare din ambele părți",
+        "Brand consacrat, cu reputație bună în recenziile cumpărătorilor"
+      ],
+      "cons": [
+        "Preț mult peste restul topului",
+        "Fără telecomandă separată menționată — control doar din aplicație"
+      ],
+      "review": "Hobot e un brand consacrat pe zona roboților de curățat geamuri, iar S7 Pro vine cu o soluție patentată: mopuri cu vibrații duble, gândite să scoată murdăria uscată mult mai eficient decât o simplă ștergere, plus 2 pulverizatoare care udă geamul din ambele părți pentru un finisaj curat. Controlul se face din aplicația mobilă dedicată, cu opțiuni de reglare a modului de curățare. Fișa de produs nu menționează o telecomandă separată, deci aplicația rămâne principalul mod de control. Prețul e semnificativ mai mare decât al celorlalte modele din top, ceea ce îl plasează într-o categorie premium, justificată însă de tehnologia brevetată de vibrație dublă și de reputația brandului în recenziile cumpărătorilor. Pe baza specificațiilor, e gândit pentru cine caută cea mai avansată tehnologie de curățare din listă și e dispus să plătească un premium pentru ea.",
+      "emagUrl": "https://www.emag.ro/robot-autonom-curatare-geamuri-cu-2-pulverizatoare-hobot-s7-pro-patentat-mopuri-cu-vibratii-duble-aplicatie-mobila-s7pro/pd/DWYDSX3BM/",
+      "image": "/img/products/dwydsx3bm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211043"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Robot de curatare geamuri Hutt A1, tehnologie AI cu frecventa variabila, rezervor apa 150 ml, 2000~3300 Pa, alb",
+      "tag": "AI cu frecvență variabilă",
+      "score": 8.2,
+      "feedId": "D8VFDB3BM",
+      "features": [],
+      "specs": [
+        {
+          "value": "2000 Pa",
+          "label": "aspirație (min)"
+        },
+        {
+          "value": "3300 Pa",
+          "label": "aspirație (max)"
+        },
+        {
+          "value": "150 ml",
+          "label": "rezervor apă"
+        },
+        {
+          "value": "AI",
+          "label": "frecvență variabilă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 86
+        },
+        {
+          "label": "Curățare",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Aspirație adaptivă între 2000 și 3300 Pa, ajustată automat de sistemul AI",
+        "Rezervor de 150 ml, cel mai mare din tot topul"
+      ],
+      "cons": [
+        "Fără Wi-Fi, aplicație sau telecomandă menționate în fișa tehnică",
+        "Fără pulverizare automată — pare să ceară udare manuală"
+      ],
+      "review": "Hutt A1 se remarcă prin aspirația adaptivă, între 2000 și 3300 Pa, ajustată automat de un sistem cu frecvență variabilă, gândit să mențină aderența constantă indiferent de mărimea sau greutatea geamului. Rezervorul de 150 ml e cel mai mare din tot topul, ceea ce înseamnă mai puține opriri pentru realimentare cu apă la sesiuni lungi de curățare. În schimb, fișa tehnică nu menționează Wi-Fi, aplicație, telecomandă sau pulverizare automată, ceea ce sugerează un mod de operare mai simplu și mai puțin „smart” decât la restul topului. Pentru cineva care vrea doar un robot eficient la aspirație și cu rezervor generos, fără să-i pese de control din telefon, asta nu e neapărat un minus. Pe baza specificațiilor, e gândit pentru geamuri mari, unde rezervorul mare și aspirația adaptivă contează mai mult decât dotările smart.",
+      "emagUrl": "https://www.emag.ro/robot-de-curatare-geamuri-tehnologie-ai-cu-frecventa-variabila-rezervor-apa-150-ml-2000-3300-pa-alb-hutt-a1/pd/D8VFDB3BM/",
+      "image": "/img/products/d8vfdb3bm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211044"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Robot curatate geamuri Tosima W3 3800PA Smart, Functie automata de pulverizare cu rezervor de 80 ml, navigare inteligenta, telecomanda, sistem triplu de siguranta, pentru toate suprafetele netede, cu 12 servetele (6 perechi), alb",
+      "tag": "Siguranță triplă și rezervor mare",
+      "score": 8,
+      "feedId": "D8G9VLYBM",
+      "features": [
+        "spray",
+        "telecomanda"
+      ],
+      "specs": [
+        {
+          "value": "3800 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "80 ml",
+          "label": "rezervor apă"
+        },
+        {
+          "value": "Telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "Sistem triplu",
+          "label": "siguranță"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 91
+        },
+        {
+          "label": "Curățare",
+          "pct": 89
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Cea mai mare aspirație din top, 3800 Pa",
+        "Pulverizare automată cu rezervor de 80 ml și sistem triplu de siguranță",
+        "12 șervețele incluse (6 perechi) și compatibil cu toate suprafețele netede"
+      ],
+      "cons": [
+        "Fără Wi-Fi sau aplicație — doar telecomandă"
+      ],
+      "review": "Tosima W3 are cea mai mare putere de aspirație din tot topul, 3800 Pa, dublată de o funcție automată de pulverizare cu rezervor de 80 ml și de un sistem triplu de siguranță — un argument solid pentru cine vrea liniște la geamuri montate sus. Navigarea inteligentă și telecomanda acoperă controlul de bază, iar cele 12 șervețele incluse (6 perechi) țin de partea de consumabile pentru mai multe sesiuni. Producătorul indică funcționarea pe toate suprafețele netede, nu doar pe geamuri clasice. Nu are Wi-Fi sau aplicație dedicată în fișa de produs, așa că operarea rămâne la nivel de telecomandă, fără programare de la distanță. Pe baza specificațiilor, e gândit pentru cine pune aspirația maximă și siguranța triplă înaintea controlului din aplicație.",
+      "emagUrl": "https://www.emag.ro/robot-curatate-geamuri-tosima-w3-3800pa-smart-functie-automata-de-pulverizare-cu-rezervor-de-80-ml-navigare-inteligenta-telecomanda-sistem-triplu-de-siguranta-pentru-toate-suprafetele-netede-cu-12-ser/pd/D8G9VLYBM/",
+      "image": "/img/products/d8g9vlybm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211045"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Robot Curatare Geamuri Liectroux HCR-09(D6808), 2800Pa, protectie anti cadere, baterie 500mAh, autonomie 60 de minute pe acumulator in caz de pana de curent, capacitate 30ml, 295x145x120mm, Alb",
+      "tag": "Cel mai accesibil cu protecție anti-cădere",
+      "score": 7.8,
+      "feedId": "D9Z271YBM",
+      "features": [],
+      "specs": [
+        {
+          "value": "2800 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "500 mAh",
+          "label": "baterie rezervă"
+        },
+        {
+          "value": "60 min",
+          "label": "autonomie la pană"
+        },
+        {
+          "value": "30 ml",
+          "label": "rezervor apă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 89
+        },
+        {
+          "label": "Curățare",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 92
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "Cea mai lungă autonomie de rezervă la pană de curent din top: 60 de minute",
+        "Protecție anti-cădere dedicată și dimensiuni compacte",
+        "Preț printre cele mai mici din listă"
+      ],
+      "cons": [
+        "Rezervor de doar 30 ml, cel mai mic din top — realimentări dese",
+        "Fără telecomandă sau aplicație menționate"
+      ],
+      "review": "Liectroux HCR-09 (D6808) mizează pe siguranță: are protecție anti-cădere dedicată și o baterie de 500 mAh care ține robotul lipit de geam până la 60 de minute în caz de pană de curent — cea mai lungă autonomie de rezervă din tot topul. Aspirația de 2800 Pa e peste medie, iar dimensiunile compacte (295x145x120mm) îl fac ușor de manevrat. Rezervorul de doar 30 ml e cel mai mic din listă, deci va cere realimentări mai dese la geamuri mari. Fișa de produs nu menționează telecomandă sau aplicație, ceea ce sugerează un mod de operare de bază. Prețul e printre cele mai mici din top, aproape de al variantei simple iHunt. Pe baza specificațiilor, e alegerea pe buget pentru cine pune siguranța la pană de curent mai presus de orice altă dotare.",
+      "emagUrl": "https://www.emag.ro/robot-curatare-geamuri-liectroux-hcr-09-d6808-2800pa-protectie-anti-cadere-baterie-500mah-autonomie-60-de-minute-pe-acumulator-in-caz-de-pana-de-curent-capacitate-30ml-295x145x120mm-alb-d6808-robot-cu/pd/D9Z271YBM/",
+      "image": "/img/products/d9z271ybm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211046"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Robot De Curatat Geamuri, Control APP Si Telecomanda, Robot de Spalat Ferestre, Smart Work AI, 3 Moduri Curatare, Spala Si Sterge, Detectare Automata a Marginilor, Pulverizare Ultrasonica Ambele Parti, 2700Pa, UPS Incorporat 25 Min, 72W, 10 Lavete, Negru",
+      "tag": "Control complet din aplicație și telecomandă",
+      "score": 7.6,
+      "feedId": "DZ14MGYBM",
+      "features": [
+        "wifi",
+        "telecomanda",
+        "spray"
+      ],
+      "specs": [
+        {
+          "value": "2700 Pa",
+          "label": "aspirație"
+        },
+        {
+          "value": "72 W",
+          "label": "putere motor"
+        },
+        {
+          "value": "App + telecomandă",
+          "label": "control"
+        },
+        {
+          "value": "UPS 25 min",
+          "label": "siguranță la pană"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Aderență/siguranță",
+          "pct": 86
+        },
+        {
+          "label": "Curățare",
+          "pct": 86
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 83
+        }
+      ],
+      "pros": [
+        "Fișă tehnică aproape identică cu a liderului topului: 2700 Pa, 72 W, pulverizare pe ambele părți",
+        "Control complet din aplicație și telecomandă, cu UPS încorporat de 25 de minute",
+        "10 lavete incluse"
+      ],
+      "cons": [
+        "Fără un brand consacrat pus în evidență — informații despre garanție mai greu de verificat",
+        "UPS puțin mai scurt decât la liderul topului (25 față de 30 de minute)"
+      ],
+      "review": "Acest model nu vine cu un brand pus în evidență în titlu, dar fișa tehnică e aproape identică cu a liderului din top: aceiași 2700 Pa, motor de 72 W, pulverizare ultrasonică pe ambele părți, 3 moduri de curățare, detectare automată a marginilor și control complet din aplicație și telecomandă. Diferența notabilă e sistemul UPS încorporat, de 25 de minute în loc de 30, tot gândit să țină robotul lipit de geam la o pană de curent. Vine cu 10 lavete incluse, similar cu modelele iHunt. Fără un nume de brand consacrat în spate, informațiile despre suport sau garanție pot fi mai greu de verificat înainte de cumpărare. Pe baza specificațiilor, e o alternativă solidă la liderul topului, cu aproape aceleași dotări, pentru cine nu pune un brand cunoscut pe primul loc.",
+      "emagUrl": "https://www.emag.ro/robot-de-curatat-geamuri-control-app-si-telecomanda-robot-de-spalat-ferestre-smart-work-ai-3-moduri-curatare-spala-si-sterge-detectare-automata-a-marginilor-pulverizare-ultrasonica-ambele-parti-2700pa/pd/DZ14MGYBM/",
+      "image": "/img/products/dz14mgybm.png",
+      "affiliateUrl": "https://l.profitshare.ro/l/16211047"
+    }
+  ]
+}
