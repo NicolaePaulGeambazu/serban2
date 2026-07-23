@@ -40,7 +40,7 @@ do {
   }
   totalPages = r.json.result.total_pages || 1;
   for (const c of r.json.result.commissions || []) {
-    const gclid = c.hash; // the value we passed via psntrf on the affiliate link
+    const gclid = c.hash; // the value we appended as /l/<id>/<gclid> on the affiliate link
     if (!gclid) continue; // no ad click id → not from Google Ads, skip
     const value = sumCommission(c.items_commision).toFixed(2);
     const time = (c.order_date || '').trim(); // "YYYY-MM-DD HH:mm:ss"
