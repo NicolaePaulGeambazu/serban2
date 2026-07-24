@@ -12,8 +12,10 @@
  * products you've chosen to feature.
  */
 
+// eMAG serves a small "eMAG Captcha" stub to plain desktop/server user-agents.
+// A mobile UA with a Google referer gets the real product page through.
 const UA =
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36';
+  'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1';
 
 function decodeEntities(s) {
   return String(s || '')
@@ -49,7 +51,14 @@ function slugify(s) {
 }
 
 async function getProduct(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'ro-RO,ro' } });
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': UA,
+      'Accept-Language': 'ro-RO,ro',
+      Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+      Referer: 'https://www.google.com/',
+    },
+  });
   const html = await res.text();
   const ld = findProductLd(html);
 

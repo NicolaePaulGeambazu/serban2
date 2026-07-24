@@ -52,6 +52,24 @@ export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
       { slug: 'tefal', label: 'Tefal', keywords: ['tefal'] },
     ],
   },
+  'placi-video': {
+    kind: 'brand', navLabel: 'Pe brand',
+    segments: [
+      { slug: 'nvidia', label: 'NVIDIA GeForce', keywords: ['geforce', 'rtx'] },
+      { slug: 'amd', label: 'AMD Radeon', keywords: ['radeon'] },
+    ],
+  },
+  'boilere-electrice': {
+    kind: 'spec', navLabel: 'Pe capacitate',
+    // Substring match on normalised text: "150l" contains "50l", so the single
+    // 150 L unit is authored as "150 de litri" ("150delitri", no "50l") to avoid
+    // a false match here. The 50/80/100 L units use "<n> L" spec values.
+    segments: [
+      { slug: '50-litri', label: '50 L', keywords: ['50l'] },
+      { slug: '80-litri', label: '80 L', keywords: ['80l'] },
+      { slug: '100-litri', label: '100 L', keywords: ['100l'] },
+    ],
+  },
   'aer-conditionat': {
     kind: 'spec', navLabel: 'Pe putere',
     segments: [

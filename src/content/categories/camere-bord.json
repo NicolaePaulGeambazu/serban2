@@ -1,0 +1,666 @@
+{
+  "title": "Cele mai bune camere de bord (auto) în 2026",
+  "h1": "Cele mai bune camere de bord (auto) în 2026",
+  "parent": "Auto",
+  "icon": "dashcam",
+  "order": 41,
+  "intro": "Am comparat cele mai bune camere de bord (DVR auto) disponibile pe eMAG, de la modelele 4K cu GPS și ADAS până la kiturile față+spate și variantele compacte de buget, după rezoluție, calitatea imaginii pe timp de noapte, dotările din aplicație și raportul preț/valoare. Mai jos găsești clasamentul complet, plus un ghid despre ce specificații chiar contează înainte să cumperi.",
+  "author": "andrei-ionescu",
+  "updated": "2026-07-24",
+  "productsCount": 9,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "c1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "c3"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "c7"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "4k",
+      "label": "Rezoluție 4K"
+    },
+    {
+      "key": "gps",
+      "label": "GPS"
+    },
+    {
+      "key": "spate",
+      "label": "Cameră spate / dublă"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Rezoluție: 4K vs. 2K/1440p vs. Full HD",
+      "body": "Rezoluția determină cât de multe detalii prinzi — mai ales numerele de înmatriculare la distanță sau în trafic. Modelele 4K UltraHD (precum 70mai A800S/A800SE sau Nextbase) oferă cea mai clară imagine și permit decuparea unui cadru fără să pierzi lizibilitatea. 2K/1440p (DDPAI Mola N3 Pro, 70mai A500S la 2,7K) e un compromis bun între claritate și dimensiunea fișierelor, iar Full HD 1080p rămâne suficient pentru nevoi de bază. Reține că o rezoluție mai mare umple cardul mai repede.",
+      "callout": "4K nu garantează imagine bună noaptea — senzorul (ex. Sony STARVIS) și diafragma contează la fel de mult ca numărul de pixeli."
+    },
+    {
+      "h3": "De ce contează GPS-ul și G-senzorul",
+      "body": "GPS-ul înregistrează viteza și traseul peste imagine, informații utile în cazul unui accident sau al unei dispute. G-senzorul detectează impacturile și blochează automat fișierul relevant, ca să nu fie suprascris de înregistrarea în buclă. Majoritatea modelelor de top din acest clasament (70mai, Redtiger, Nextbase, DDPAI Mini Pro) au GPS integrat sau prin modul dedicat. Dacă folosești camera mai ales ca dovadă în trafic, GPS-ul și un G-senzor reglabil sunt dotări pe care merită să nu le sari.",
+      "callout": "Un G-senzor prea sensibil blochează prea multe fișiere și umple cardul — caută modele la care sensibilitatea se poate regla din aplicație."
+    },
+    {
+      "h3": "Cameră unică vs. kit față+spate (dublă/triplă)",
+      "body": "O cameră unică filmează doar în față și e cea mai simplă de montat. Kiturile față+spate (70mai A800S + RC06, DDPAI Mola N3 Pro, Redtiger F9) adaugă o cameră pe lunetă, esențială pentru tamponări din spate și parcare. Sistemele cu 3 canale (Medeyatech V58) acoperă și interiorul — util pentru ride-sharing sau flote. Cu cât mai multe canale, cu atât montajul e mai laborios (cablu pe lunetă) și fișierele mai mari, așa că alege în funcție de scenariul tău real.",
+      "callout": "Camera de spate se montează cel mai curat trasând cablul pe sub garnituri; lasă-ți timp la instalare sau apelează la un service."
+    },
+    {
+      "h3": "Vederea nocturnă și senzorul de imagine",
+      "body": "Cea mai mare diferență între modele apare noaptea. Senzorii Sony STARVIS și STARVIS 2 (Medeyatech V58) captează mai multă lumină și reduc zgomotul în condiții slabe de iluminare, iar funcția „night vision” prezentă la 70mai, Redtiger și Navitel îmbunătățește lizibilitatea în zone neluminate. Conform specificațiilor, modelele cu diafragmă luminoasă și senzor mare filmează vizibil mai curat în oraș noaptea decât camerele de buget. Dacă circuli mult pe timp de noapte, prioritizează senzorul, nu doar rezoluția.",
+      "callout": "„Night vision” e un termen de marketing — verifică numele senzorului (Sony IMX/STARVIS) pentru o estimare reală a performanței nocturne."
+    },
+    {
+      "h3": "Unghiul de filmare (FOV)",
+      "body": "Unghiul larg prinde mai mult din carosabil și de pe benzile laterale. Majoritatea modelelor bune stau între 130° și 170°: 70mai filmează la 140°, Redtiger F9 ajunge la 170°, iar Navitel la 160° în față. Un unghi prea mare poate distorsiona marginile („efect fisheye”) și micșora obiectele îndepărtate, deci un FOV de 140-160° e de obicei echilibrul optim. Verifică unghiul separat pentru camera din față și cea din spate, pentru că adesea diferă.",
+      "callout": "Un FOV foarte mare arată impresionant, dar poate face plăcuțele îndepărtate mai greu de citit — 140-160° e sweet spot-ul."
+    },
+    {
+      "h3": "Monitorizare parcare, alimentare și supercondensator",
+      "body": "Modul de parcare înregistrează evenimentele când mașina e oprită, dar are nevoie de alimentare permanentă printr-un hardwire kit (adesea vândut separat). Verifică dacă modelul suportă acest mod (Nextbase, Redtiger F9, DDPAI îl au). La căldură mare, camerele cu supercondensator (Medeyatech V58) rezistă mai bine în bord decât cele cu baterie litiu, care se pot degrada vara. Dacă parchezi mult pe stradă, monitorizarea parcării plus un supercondensator sunt combinația recomandată conform producătorilor.",
+      "callout": "Modul de parcare cere de obicei un hardwire kit cumpărat separat — bugetează-l când compari prețurile."
+    },
+    {
+      "h3": "Cardul microSD și greșeli frecvente",
+      "body": "Cea mai comună greșeală e să folosești un card obișnuit: camerele suprascriu continuu, iar un microSD non-High Endurance se uzează în câteva luni. Alege un card High Endurance de minim 64-128 GB (Medeyatech V58 vine cu 128 GB inclus). A doua greșeală e să alegi 4K fără să iei un card încăpător — spațiul se umple rapid. A treia e să confunzi „dual” cu „față+spate”: unele modele numite dual au două canale, dar camera secundară se cumpără separat. Verifică mereu ce e inclus în pachet.",
+      "callout": "Formatează cardul din meniul camerei o dată la câteva săptămâni pentru a preveni erorile de scriere și fișierele corupte."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ce rezoluție să aleg la o cameră de bord?",
+      "a": "Pentru cea mai bună lizibilitate a numerelor de înmatriculare, alege 4K. 2K/1440p e un compromis bun între claritate și dimensiunea fișierelor, iar Full HD 1080p acoperă nevoile de bază. Ține cont că 4K umple cardul microSD mai repede și cere un card încăpător, High Endurance."
+    },
+    {
+      "q": "E obligatoriu GPS-ul la o cameră auto?",
+      "a": "Nu e obligatoriu, dar e foarte util: GPS-ul suprapune viteza și traseul peste înregistrare, informații care pot conta ca dovadă în cazul unui accident sau al unei dispute. Multe modele din top au GPS integrat sau printr-un modul dedicat. Dacă folosești camera strict ca martor în trafic, merită."
+    },
+    {
+      "q": "Merită să iau și cameră de spate (kit față+spate)?",
+      "a": "Da, dacă vrei acoperire la tamponări din spate și în parcare. Kiturile față+spate (precum 70mai A800S + RC06 sau Redtiger F9) și sistemele cu 3 canale adaugă protecție reală. Montajul e mai laborios, pentru că trebuie tras un cablu până la lunetă, dar acoperirea suplimentară justifică efortul pentru majoritatea șoferilor."
+    },
+    {
+      "q": "Ce card microSD trebuie folosit?",
+      "a": "Folosește un card High Endurance, gândit pentru înregistrare continuă, de minim 64-128 GB. Cardurile obișnuite se uzează rapid din cauza suprascrierii permanente. Unele modele, cum e Medeyatech V58, vin cu card de 128 GB inclus. Pentru filmare 4K, alege capacitate cât mai mare, ca să nu se umple prea des."
+    },
+    {
+      "q": "Cum filmează camerele de bord noaptea?",
+      "a": "Depinde mai mult de senzor decât de rezoluție. Senzorii Sony STARVIS și STARVIS 2 captează mai multă lumină și reduc zgomotul în condiții slabe. Funcția „night vision” prezentă la 70mai, Redtiger sau Navitel ajută lizibilitatea în zone neluminate. Conform specificațiilor, modelele cu senzor mare filmează vizibil mai curat noaptea în oraș."
+    },
+    {
+      "q": "Camera consumă bateria mașinii când parchez?",
+      "a": "În modul de parcare, da — camera are nevoie de alimentare permanentă printr-un hardwire kit, adesea vândut separat. Sistemele bune întrerup alimentarea la o tensiune-prag, ca să nu descarce bateria. Dacă nu folosești modul de parcare, camera se oprește odată cu contactul și nu consumă nimic."
+    },
+    {
+      "q": "Ce e mai bun în bord vara: supercondensator sau baterie?",
+      "a": "Supercondensatorul (prezent la Medeyatech V58) rezistă mai bine la temperaturile mari din bord vara decât o baterie litiu, care se poate degrada în timp la căldură. Dacă parchezi des în soare sau folosești intens modul de parcare, un model cu supercondensator e opțiunea recomandată de producători pentru durabilitate."
+    },
+    {
+      "q": "Ce înseamnă „dual” la o cameră de bord?",
+      "a": "„Dual” poate însemna două canale (față + spate) sau doar capacitatea de a conecta o a doua cameră, care uneori se cumpără separat. Verifică mereu descrierea pachetului: unele kituri includ camera de spate, altele doar suportul. Nu presupune că „dual” înseamnă automat că lentila secundară vine în cutie."
+    }
+  ],
+  "conclusion": "Pentru majoritatea șoferilor, kitul 70mai A800S Dash Cam Pro Plus cu cameră de spate RC06 e alegerea completă: 4K UltraHD, GPS, ADAS, night vision și acoperire față+spate într-un singur pachet. Dacă vrei aceeași filozofie dublă la un preț mult mai accesibil, Redtiger F9 oferă cel mai bun raport preț/calitate, cu 4K în față și 1080p în spate. Pentru un buget redus fără să renunți la camera de spate, kitul 70mai A500S 2,7K + RC06 e alegerea pe buget, cu GPS și night vision la un preț de intrare în categorie.",
+  "products": [
+    {
+      "id": "c1",
+      "rank": 1,
+      "name": "Cameră auto DVR Xiaomi 70mai A800S Dash Cam Pro Plus, 4K UltraHD, IPS 3.0\", FOV 140°, ADAS, GPS, night vision, Wi-Fi + cameră spate 70mai RC06 Full HD 30 fps, unghi 130°",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.6,
+      "feedId": "DBLZJTMBM",
+      "features": [
+        "4k",
+        "gps",
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "4K UltraHD",
+          "label": "rezoluție"
+        },
+        {
+          "value": "140°",
+          "label": "unghi"
+        },
+        {
+          "value": "3.0\" IPS",
+          "label": "ecran"
+        },
+        {
+          "value": "față + spate",
+          "label": "canale"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 96
+        },
+        {
+          "label": "Noapte",
+          "pct": 90
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 95
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "4K UltraHD în față plus cameră de spate RC06 inclusă, acoperire completă",
+        "GPS, ADAS și night vision într-un singur pachet",
+        "Ecran IPS 3.0\" și Wi-Fi pentru configurare ușoară din aplicație"
+      ],
+      "cons": [
+        "Camera de spate filmează doar Full HD, sub rezoluția din față",
+        "Montajul kitului față+spate cere trasarea unui cablu până la lunetă"
+      ],
+      "review": "70mai A800S Dash Cam Pro Plus e modelul de referință al categoriei atunci când îl iei la pachet cu camera de spate RC06: filmezi 4K UltraHD în față, la un unghi de 140°, plus Full HD pe lunetă, pentru acoperire completă a mașinii. Are GPS integrat, funcția ADAS de avertizare și night vision pentru condiții slabe de lumină, iar ecranul IPS 3.0\" și Wi-Fi-ul simplifică setările din aplicație. E gândit pentru șoferul care vrea o singură soluție completă, fără compromisuri la rezoluție sau dotări. Singurele minusuri sunt că lentila de spate rămâne la Full HD și că montajul kitului cere puțină răbdare pentru cablu. Pe baza specificațiilor și a recenziilor cumpărătorilor, e alegerea completă pentru cine vrea tot ce contează într-un pachet.",
+      "emagUrl": "https://www.emag.ro/camera-auto-dvr-xiaomi-70mai-a800s-dash-cam-pro-plus-4k-ultrahd-ips-3-0-140-fov-adas-gps-night-vision-wi-fi-camera-spate-xiaomi-70mai-rc06-full-hd-la-30-fps-unghi-vizualizare-130-midrive-a800s-rc06/pd/DBLZJTMBM/",
+      "image": "/img/products/dblzjtmbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214376"
+    },
+    {
+      "id": "c2",
+      "rank": 2,
+      "name": "Cameră auto DVR 70mai A800SE Dash Cam Pro Plus, 4K UltraHD, IPS 3.0\", FOV 140°, ADAS, GPS, night vision, Wi-Fi",
+      "tag": "Cea mai bună cameră unică 4K",
+      "score": 9.4,
+      "feedId": "DFR2LF3BM",
+      "features": [
+        "4k",
+        "gps"
+      ],
+      "specs": [
+        {
+          "value": "4K UltraHD",
+          "label": "rezoluție"
+        },
+        {
+          "value": "140°",
+          "label": "unghi"
+        },
+        {
+          "value": "3.0\" IPS",
+          "label": "ecran"
+        },
+        {
+          "value": "GPS + ADAS",
+          "label": "dotări"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 95
+        },
+        {
+          "label": "Noapte",
+          "pct": 89
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 93
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "4K UltraHD cu GPS și ADAS, la nivelul modelului de top",
+        "Ecran IPS 3.0\" și Wi-Fi pentru control din aplicație",
+        "Versiune actualizată a popularului A800S, ca și cameră unică"
+      ],
+      "cons": [
+        "Nu include cameră de spate în pachet",
+        "Unghiul de 140° e mai strâns decât la modelele de 170°"
+      ],
+      "review": "70mai A800SE Dash Cam Pro Plus e practic aceeași cameră excelentă ca A800S, dar ca soluție de sine stătătoare, fără cameră de spate: filmezi 4K UltraHD la 140°, cu GPS, ADAS și night vision. Ecranul IPS 3.0\" și Wi-Fi-ul fac configurarea simplă din aplicație, iar calitatea imaginii în față e la nivelul modelului de top din clasament. E alegerea ideală pentru cine vrea cea mai bună cameră unică 4K și nu are nevoie de acoperire pe lunetă. Compromisul evident e lipsa camerei de spate din pachet și un unghi ceva mai strâns decât variantele de 170°. Pe baza specificațiilor și a recenziilor, e opțiunea recomandată pentru o cameră frontală premium, curată și fiabilă.",
+      "emagUrl": "https://www.emag.ro/camera-auto-dvr-70mai-a800se-dash-cam-pro-plus-4k-ultrahd-ips-3-0-140-fov-adas-gps-night-vision-wi-fi-upgraded-version-of-70mai-a800s-midrive-a800se/pd/DFR2LF3BM/",
+      "image": "/img/products/dfr2lf3bm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214377"
+    },
+    {
+      "id": "c3",
+      "rank": 3,
+      "name": "Cameră auto de bord duală Redtiger F9, 4K + 1080p, Wi-Fi, night vision, 170°, GPS, aplicație dedicată, G-sensor, monitorizare parcare",
+      "tag": "Cel mai bun preț/calitate",
+      "score": 9.2,
+      "feedId": "DLDVD9YBM",
+      "features": [
+        "4k",
+        "gps",
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "4K + 1080p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "170°",
+          "label": "unghi"
+        },
+        {
+          "value": "GPS",
+          "label": "dotări"
+        },
+        {
+          "value": "față + spate",
+          "label": "canale"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 92
+        },
+        {
+          "label": "Noapte",
+          "pct": 87
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 90
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Kit dual 4K în față + 1080p spate, la un preț foarte competitiv",
+        "Unghi larg de 170° și GPS integrat",
+        "G-sensor și monitorizare parcare cu aplicație dedicată"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut la noi decât 70mai sau Nextbase",
+        "Modul de parcare cere de obicei un hardwire kit separat"
+      ],
+      "review": "Redtiger F9 e argumentul preț/calitate al clasamentului: primești un kit dual, cu 4K în față și 1080p pe lunetă, la un preț sub cel al kiturilor 70mai echivalente. Unghiul larg de 170° prinde mult din carosabil, iar GPS-ul, G-senzorul și monitorizarea parcării, controlate din aplicația dedicată, acoperă tot ce ai nevoie ca dovadă în trafic. Night vision-ul ajută la lizibilitate în zonele neluminate. E gândit pentru șoferul care vrea acoperire față+spate 4K fără să plătească premium. Compromisurile sunt un brand mai puțin cunoscut pe piața locală și faptul că modul de parcare cere de regulă un hardwire kit separat. Pe baza specificațiilor și a recenziilor, e cel mai bun raport preț/calitate din categorie.",
+      "emagUrl": "https://www.emag.ro/camera-auto-de-bord-duala-redtiger-f9-4k-1080p-wifi-night-vision-170-gps-aplicatie-dedicata-g-sensor-si-monitorizare-parcare-rdt-f9/pd/DLDVD9YBM/",
+      "image": "/img/products/dldvd9ybm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214378"
+    },
+    {
+      "id": "c4",
+      "rank": 4,
+      "name": "Cameră de bord Medeyatech V58, 3 canale, 4K + 1080p + 1080p, Sony IMX678 STARVIS 2, Wi-Fi 5.8 GHz, GPS, supercondensator, card 128 GB inclus",
+      "tag": "Premium 3 canale",
+      "score": 9.1,
+      "feedId": "D7D22T2BM",
+      "features": [
+        "4k",
+        "gps",
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "4K + 1080p + 1080p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "3 canale",
+          "label": "canale"
+        },
+        {
+          "value": "Sony STARVIS 2",
+          "label": "senzor"
+        },
+        {
+          "value": "128 GB inclus",
+          "label": "stocare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 94
+        },
+        {
+          "label": "Noapte",
+          "pct": 94
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 92
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "3 canale (față + interior + spate) cu senzor Sony IMX678 STARVIS 2",
+        "Supercondensator, rezistent la căldura din bord vara",
+        "Card microSD de 128 GB inclus și GPS integrat"
+      ],
+      "cons": [
+        "Sistem cu 3 canale, mai complex de montat",
+        "Preț ridicat, orientat spre entuziaști și flote"
+      ],
+      "review": "Medeyatech V58 e opțiunea de entuziast a clasamentului: un sistem cu 3 canale — 4K în față plus 1080p pentru interior și spate — construit în jurul senzorului Sony IMX678 STARVIS 2, unul dintre cele mai bune pentru filmare nocturnă. Supercondensatorul îl face rezistent la temperaturile mari din bord vara, iar cardul microSD de 128 GB inclus și GPS-ul integrat completează un pachet foarte complet, potrivit și pentru ride-sharing sau flote. Wi-Fi-ul pe 5,8 GHz permite transfer rapid al fișierelor. Compromisurile sunt montajul mai laborios cu trei camere și prețul ridicat, care îl scot din zona mainstream. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea acoperire completă și cea mai bună performanță nocturnă din clasament.",
+      "emagUrl": "https://www.emag.ro/camera-de-bord-medeyatech-v58-3-canale-4k-1080p-1080p-sony-imx678-starvis-2-wifi-5-8ghz-gps-supercondensator-card-128gb-inclus-b-081/pd/D7D22T2BM/",
+      "image": "/img/products/d7d22t2bm.png",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214379"
+    },
+    {
+      "id": "c5",
+      "rank": 5,
+      "name": "Cameră auto DVR 4K Nextbase, display IPS 3\", stabilizator digital de imagine, Bluetooth, Wi-Fi, aplicație iOS/Android, GPS, unghi 140°, mod parcare inteligent, filtru de polarizare",
+      "tag": "Premium, dotări bogate",
+      "score": 9,
+      "feedId": "D3FC43MBM",
+      "features": [
+        "4k",
+        "gps"
+      ],
+      "specs": [
+        {
+          "value": "4K",
+          "label": "rezoluție"
+        },
+        {
+          "value": "140°",
+          "label": "unghi"
+        },
+        {
+          "value": "3\" IPS",
+          "label": "ecran"
+        },
+        {
+          "value": "GPS + parcare",
+          "label": "dotări"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 93
+        },
+        {
+          "label": "Noapte",
+          "pct": 88
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 91
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 83
+        }
+      ],
+      "pros": [
+        "4K cu stabilizator digital de imagine și filtru de polarizare inclus",
+        "GPS, Bluetooth, Wi-Fi și aplicație iOS/Android",
+        "Mod parcare inteligent pentru supraveghere când mașina e oprită"
+      ],
+      "cons": [
+        "Cameră unică, fără lentilă de spate în pachet",
+        "Preț premium pentru un singur canal"
+      ],
+      "review": "Nextbase 4K e opțiunea premium pentru cine pune preț pe dotări și rafinament: filmezi 4K cu stabilizator digital de imagine și filtru de polarizare inclus, care reduce reflexiile din parbriz — o dotare rar întâlnită la această categorie. Are GPS, Bluetooth, Wi-Fi și aplicație pentru iOS și Android, plus un mod de parcare inteligent care supraveghează mașina când e oprită. Ecranul IPS de 3\" și unghiul de 140° completează o cameră frontală foarte bine echipată. Compromisurile sunt că e o cameră unică, fără lentilă de spate în pachet, și un preț premium pentru un singur canal. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea o cameră frontală rafinată, cu filtru de polarizare și integrare smart completă.",
+      "emagUrl": "https://www.emag.ro/camera-auto-dvr-4k-nextbase-display-ips-3-hd-stabilizator-digital-imagine-bluetoothtm-wi-fi-aplicatie-ios-android-localizare-gps-m-140-unghi-de-vizualizare-mod-parcare-inteligent-filtru-de-polarizare-/pd/D3FC43MBM/",
+      "image": "/img/products/d3fc43mbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214380"
+    },
+    {
+      "id": "c6",
+      "rank": 6,
+      "name": "Kit față-spate cameră auto DVR DDPAI Mola N3 Pro, 2K, 5 MP, Wi-Fi, negru",
+      "tag": "Kit față+spate 2K",
+      "score": 8.7,
+      "feedId": "DL6Q5CMBM",
+      "features": [
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "2K",
+          "label": "rezoluție"
+        },
+        {
+          "value": "5 MP",
+          "label": "senzor"
+        },
+        {
+          "value": "Wi-Fi",
+          "label": "conectivitate"
+        },
+        {
+          "value": "față + spate",
+          "label": "canale"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 85
+        },
+        {
+          "label": "Noapte",
+          "pct": 82
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 78
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Kit complet față+spate 2K la un preț accesibil",
+        "Senzor de 5 MP și Wi-Fi pentru transfer din aplicație",
+        "Brand DDPAI, cunoscut pentru fiabilitate în segmentul mediu"
+      ],
+      "cons": [
+        "Rezoluție 2K, sub modelele 4K din top",
+        "Fără GPS integrat menționat în specificații"
+      ],
+      "review": "DDPAI Mola N3 Pro e un kit solid față+spate la 2K, gândit pentru cine vrea acoperire completă fără să intre în zona 4K și prețurile ei. Senzorul de 5 MP oferă o imagine clară pentru trafic urban, iar Wi-Fi-ul permite transferul rapid al fișierelor din aplicația DDPAI, un brand cunoscut pentru fiabilitate în segmentul mediu. E o alegere echilibrată pentru șoferul care pune acoperirea față+spate înaintea rezoluției maxime. Compromisurile sunt rezoluția de 2K, sub modelele 4K din vârful clasamentului, și lipsa unui GPS integrat menționat în specificații. Pe baza specificațiilor și a recenziilor, e opțiunea recomandată pentru un kit dual fiabil, la un preț rezonabil.",
+      "emagUrl": "https://www.emag.ro/kit-fata-spate-camera-auto-dvr-ddpai-mola-n3-pro-2k-5-mp-wifi-negru-6934915202942/pd/DL6Q5CMBM/",
+      "image": "/img/products/dl6q5cmbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214381"
+    },
+    {
+      "id": "c7",
+      "rank": 7,
+      "name": "Cameră auto DVR 70mai A500S Dash Cam Pro Plus, 2.7K 1944p, IPS 2.0\", FOV 140°, ADAS, GPS, night vision, Wi-Fi + cameră spate 70mai RC06 Full HD 30 fps, unghi 130°",
+      "tag": "Alegere pe buget",
+      "score": 8.6,
+      "feedId": "DWCZJTMBM",
+      "features": [
+        "gps",
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "2.7K 1944p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "140°",
+          "label": "unghi"
+        },
+        {
+          "value": "2.0\" IPS",
+          "label": "ecran"
+        },
+        {
+          "value": "față + spate",
+          "label": "canale"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 84
+        },
+        {
+          "label": "Noapte",
+          "pct": 83
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 88
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "GPS, ADAS și night vision la un preț de buget",
+        "Cameră de spate RC06 inclusă pentru acoperire față+spate",
+        "Brand 70mai de încredere, cu aplicație bine pusă la punct"
+      ],
+      "cons": [
+        "Rezoluție 2,7K, sub 4K din modelele de top",
+        "Ecran IPS mai mic, de 2.0\""
+      ],
+      "review": "70mai A500S Dash Cam Pro Plus e alegerea pe buget a clasamentului atunci când îl iei cu camera de spate RC06: primești un kit față+spate de la un brand de încredere, cu GPS, ADAS și night vision, la un preț de intrare în categorie. Filmează 2,7K 1944p în față — sub 4K, dar suficient de clar pentru trafic — și Full HD pe lunetă, pentru acoperire completă. Ecranul IPS de 2.0\" și Wi-Fi-ul păstrează aplicația 70mai la fel de simplă ca la modelele superioare. E opțiunea ideală pentru cine vrea dotările 70mai și camera de spate fără să plătească pentru 4K. Compromisurile sunt rezoluția mai mică și ecranul mai mic. Pe baza specificațiilor și a recenziilor, e cea mai bună alegere pe buget cu cameră de spate inclusă.",
+      "emagUrl": "https://www.emag.ro/camera-auto-dvr-70mai-a500s-dash-cam-pro-plus-2-7k-1944p-ips-2-0-140-fov-adas-gps-night-vision-wi-fi-camera-spate-70mai-rc06-full-hd-la-30-fps-unghi-vizualizare-130-midrive-a500s-rc06/pd/DWCZJTMBM/",
+      "image": "/img/products/dwczjtmbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214382"
+    },
+    {
+      "id": "c8",
+      "rank": 8,
+      "name": "Cameră auto DDPAI Mini Pro, GPS, dual (cameră față 1296p UHD), Wi-Fi, unghi 140°, negru",
+      "tag": "Compactă",
+      "score": 8.3,
+      "feedId": "DK30B3YBM",
+      "features": [
+        "gps",
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "1296p UHD",
+          "label": "rezoluție"
+        },
+        {
+          "value": "140°",
+          "label": "unghi"
+        },
+        {
+          "value": "GPS",
+          "label": "dotări"
+        },
+        {
+          "value": "Wi-Fi",
+          "label": "conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 82
+        },
+        {
+          "label": "Noapte",
+          "pct": 80
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 85
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Format compact și discret, ușor de montat lângă oglindă",
+        "GPS integrat și posibilitate de configurare dual",
+        "1296p UHD, peste Full HD standard, la preț accesibil"
+      ],
+      "cons": [
+        "Rezoluție sub modelele 2K/4K din top",
+        "Camera secundară pentru configurația dual poate fi opțională"
+      ],
+      "review": "DDPAI Mini Pro e opțiunea compactă și discretă a clasamentului: un corp mic, ușor de ascuns lângă oglinda retrovizoare, cu GPS integrat și Wi-Fi pentru configurare din aplicație. Filmează la 1296p UHD, o rezoluție peste Full HD-ul standard, la un unghi de 140°, iar suportul pentru configurație dual permite adăugarea unei a doua camere. E gândit pentru șoferul care vrea o cameră cât mai puțin vizibilă, fără să renunțe la GPS și la o imagine decentă. Compromisurile sunt rezoluția sub modelele 2K/4K din top și faptul că lentila secundară pentru dual poate fi opțională. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine pune discreția și formatul compact pe primul loc.",
+      "emagUrl": "https://www.emag.ro/camera-auto-ddpai-mini-pro-gps-dual-camera-fata-1296p-uhd-wifi-unghi-140-grade-negru-ddpai-mini-pro/pd/DK30B3YBM/",
+      "image": "/img/products/dk30b3ybm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214383"
+    },
+    {
+      "id": "c9",
+      "rank": 9,
+      "name": "Cameră auto DVR Navitel MR250NV cu night vision, fixare pe oglinda retrovizoare, ecran 5\" IPS, carcasă metal, cameră față 160° FHD 30 fps + cameră spate, IP65",
+      "tag": "Montaj pe oglindă",
+      "score": 8,
+      "feedId": "D2TQL5BBM",
+      "features": [
+        "spate"
+      ],
+      "specs": [
+        {
+          "value": "FHD 30 fps",
+          "label": "rezoluție"
+        },
+        {
+          "value": "160°",
+          "label": "unghi"
+        },
+        {
+          "value": "5\" IPS",
+          "label": "ecran"
+        },
+        {
+          "value": "IP65",
+          "label": "protecție"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Calitate imagine",
+          "pct": 78
+        },
+        {
+          "label": "Noapte",
+          "pct": 80
+        },
+        {
+          "label": "Dotări (GPS/ADAS)",
+          "pct": 72
+        },
+        {
+          "label": "Preț/valoare",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Fixare pe oglinda retrovizoare, ecran mare de 5\" IPS",
+        "Include cameră de spate rezistentă la apă (IP65)",
+        "Unghi larg de 160° în față și night vision"
+      ],
+      "cons": [
+        "Rezoluție Full HD, cea mai mică din top",
+        "Format tip oglindă, nu convine tuturor șoferilor"
+      ],
+      "review": "Navitel MR250NV e opțiunea de nișă a clasamentului: se montează pe oglinda retrovizoare, cu un ecran mare de 5\" IPS și carcasă metalică, iar camera de spate inclusă e rezistentă la apă (IP65), utilă pentru montaj exterior pe portbagaj. Filmează Full HD la 160° în față, cu night vision pentru condiții slabe de lumină. E alegerea pentru cine preferă formatul tip oglindă, care înlocuiește oglinda originală și afișează imaginea din spate pe tot ecranul. Compromisurile sunt rezoluția Full HD, cea mai mică din top, și faptul că formatul de oglindă nu convine tuturor. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea un sistem de tip oglindă cu cameră de spate rezistentă la apă.",
+      "emagUrl": "https://www.emag.ro/camera-auto-dvr-navitel-mr250nv-cu-night-vision-fixare-pe-oglinda-retovizoare-ecran-5-ips-carcasa-din-metal-camera-fata-160-fhd-30fps-cu-night-vision-si-camera-secundara-spate-ip65-d3zk7sbbm/pd/D2TQL5BBM/",
+      "image": "/img/products/d2tql5bbm.jpg",
+      "affiliateUrl": "https://l.profitshare.ro/l/16214384"
+    }
+  ]
+}
