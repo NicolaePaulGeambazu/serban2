@@ -66,6 +66,9 @@ async function getProduct(url) {
   name = name.replace(/\s*[-–]\s*eMAG.*/i, '').replace(/\s*\|\s*eMAG.*/i, '').trim();
 
   let image = (Array.isArray(ld?.image) ? ld.image[0] : ld?.image) || firstMatch(/<meta property=["']og:image["'] content=["']([^"']+)["']/i, html);
+  // eMAG's og:image is often a tiny lazy-load thumbnail (?width=80&height=80&hash=…).
+  // Strip the resize query on akamaized URLs so we download the full-res original.
+  if (/akamaized\.net\/products\//.test(image)) image = image.split('?')[0];
 
   let price = '';
   const offers = ld?.offers && (Array.isArray(ld.offers) ? ld.offers[0] : ld.offers);
