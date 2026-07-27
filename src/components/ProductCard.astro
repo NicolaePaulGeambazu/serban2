@@ -30,7 +30,17 @@ const { product: p } = Astro.props;
         {p.specs.map((s) => <span>{s.label ? `${s.value} ${s.label}` : s.value}</span>)}
       </div>
     )}
-    {p.review && <p class="pc-review">{p.review}</p>}
+    {p.review && (
+      <div class="pc-more">
+        <input type="checkbox" id={`more-${p.id}`} class="pc-more-cb" />
+        <label class="pc-more-t" for={`more-${p.id}`}>
+          <span class="pc-more-open">Vrei să știi mai multe despre {p.name}?</span>
+          <span class="pc-more-close">Ascunde detaliile</span>
+          <Icon name="plus" class="pc-more-ic" />
+        </label>
+        <p class="pc-review">{p.review}</p>
+      </div>
+    )}
   </div>
 
   <div class="pc-buy">
