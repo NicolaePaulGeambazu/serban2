@@ -24,8 +24,15 @@ const cap = (s: string) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s);
 const catBlocks = cats.map((c) => {
   const sorted = [...c.data.products].sort((a, b) => a.rank - b.rank);
   const cfg = CATEGORY_SEGMENTS[c.id];
+  // Give each segment card a DISTINCT image: overlapping segments (e.g. "IPL"
+  // and "Philips") and the winner otherwise all resolve to the same top product,
+  // showing the identical photo 3x in one row. Prefer the highest-ranked product
+  // in the segment whose image isn't already used by the winner or another card.
+  const usedImages = new Set([sorted[0]?.image]);
   const segs = segmentsWithProducts(c.id, c.data.products).map((s) => {
-    const top = sorted.find((p) => productMatchesSegment(p, s));
+    const matches = sorted.filter((p) => productMatchesSegment(p, s));
+    const top = matches.find((p) => !usedImages.has(p.image)) ?? matches[0];
+    if (top?.image) usedImages.add(top.image);
     return { slug: s.slug, label: s.label, count: s.count, image: top?.image, group: s.group ?? cfg?.navLabel ?? '' };
   });
   return {
