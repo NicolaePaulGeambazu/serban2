@@ -186,8 +186,11 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .method{background:var(--ink);color:#DCE5EF}
 /* light variant used on ranking pages so it doesn't read as a dark page-ending band */
 .method-soft{background:var(--paper);color:var(--text);border-top:1px solid var(--line)}
-.method-soft .eyebrow{color:var(--emerald)}
-.method-soft h2{color:var(--text)}
+/* .method.method-soft (both classes on the element) beats the later, equal-
+   specificity `.method .eyebrow`/`.method h2` dark-section rules — otherwise the
+   heading renders white and the eyebrow gold on this light-background variant. */
+.method.method-soft .eyebrow{color:var(--emerald)}
+.method.method-soft h2{color:var(--text)}
 .method-soft .steps{background:var(--line);border-color:var(--line)}
 .method-soft .step{background:var(--paper-2)}
 .method-soft .step .no{color:var(--emerald)}
