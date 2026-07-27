@@ -47,12 +47,43 @@ function queryVariants(name, code) {
   return [...new Set(qs.map((s) => s.trim()).filter(Boolean))];
 }
 
-// Return akamaized candidate URLs for a product, trying query variants until one
-// yields code-matched results.
+// DuckDuckGo image search fallback — different index coverage than Bing, same
+// idea: keep akamaized results whose source page URL carries the eMAG code.
+async function ddgSearch(query, code) {
+  const tok = await (await fetch(`https://duckduckgo.com/?q=${encodeURIComponent(query)}`, {
+    headers: { 'User-Agent': BING_UA },
+  })).text();
+  const vqd = (tok.match(/vqd=["']?([0-9-]+)["']?/) || [])[1];
+  if (!vqd) return [];
+  const j = await (await fetch(
+    `https://duckduckgo.com/i.js?l=ro-ro&o=json&q=${encodeURIComponent(query)}&vqd=${vqd}`,
+    { headers: { 'User-Agent': BING_UA, Referer: 'https://duckduckgo.com/' } },
+  )).json();
+  const out = [], seen = new Set();
+  for (const r of j.results || []) {
+    const murl = (r.image || '').split('?')[0];
+    if (!/akamaized\.net\/products\//.test(murl)) continue;
+    if (code && !new RegExp(code, 'i').test(r.url || '') && !new RegExp(code, 'i').test(murl)) continue;
+    if (seen.has(murl)) continue;
+    seen.add(murl);
+    out.push(murl);
+  }
+  return out;
+}
+
+// Return akamaized candidate URLs for a product: try Bing query variants first,
+// then DuckDuckGo, until one source yields code-matched results.
 export async function bingCandidates(name, code) {
   for (const q of queryVariants(name, code)) {
     const hits = await bingSearch(q, code);
     if (hits.length) return hits;
+    await sleep(700);
+  }
+  for (const q of queryVariants(name, code)) {
+    try {
+      const hits = await ddgSearch(q, code);
+      if (hits.length) return hits;
+    } catch { /* DDG hiccup — try next variant */ }
     await sleep(700);
   }
   return [];
