@@ -12,7 +12,7 @@ name: Sync affiliate conversions to Google Ads
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour, on the hour (UTC)
+    - cron: '0 */4 * * *' # every 4 hours (UTC) — safety net; the webhook is the primary path
   workflow_dispatch: {}   # allow manual run from the Actions tab
 
 jobs:

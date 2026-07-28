@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "node --test scripts/*.test.mjs",
+    "test": "node --test scripts/*.test.mjs lib/*.test.mjs api/*.test.mjs",
     "check:images": "node scripts/check-images.mjs",
     "prebuild": "node scripts/check-images.mjs"
   },
