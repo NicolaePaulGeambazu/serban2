@@ -9,7 +9,7 @@ import { handleWebhook } from '../lib/webhook-core.mjs';
 
 export async function handler(req, res) {
   const env = process.env;
-  const ua = req.headers['user-agent'] || '';
+  const ua = (req.headers || {})['user-agent'] || '';
   if (!ua.startsWith('ProfitshareWebhooks/')) console.warn('profitshare-webhook: unexpected user-agent', ua);
   try {
     const client = makeClient(env);

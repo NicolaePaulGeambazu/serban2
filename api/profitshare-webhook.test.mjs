@@ -28,3 +28,20 @@ test('handler skips (200) a request with no hash and never calls Google', async 
   assert.equal(res._json.action, 'skip');
   process.env.PROFITSHARE_WEBHOOK_TOKEN = prev;
 });
+
+test('handler returns 200 with {ok:false, error:internal} when internals throw (no network)', async () => {
+  const prev = process.env.PROFITSHARE_WEBHOOK_TOKEN;
+  process.env.PROFITSHARE_WEBHOOK_TOKEN = 'secret-token';
+  const res = fakeRes();
+  // A req whose `query` getter throws forces the catch branch before any Google call.
+  const req = {
+    headers: { authorization: 'Bearer secret-token', 'user-agent': 'ProfitshareWebhooks/v1.0' },
+    get query() { throw new Error('boom'); },
+  };
+  await handler(req, res);
+  assert.equal(res._status, 200);
+  assert.equal(res._json.ok, false);
+  assert.equal(res._json.error, 'internal');
+  if (prev === undefined) delete process.env.PROFITSHARE_WEBHOOK_TOKEN;
+  else process.env.PROFITSHARE_WEBHOOK_TOKEN = prev;
+});
