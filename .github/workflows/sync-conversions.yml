@@ -1,7 +1,8 @@
 name: Sync affiliate conversions to Google Ads
 
-# Runs daily and uploads confirmed Profitshare commissions (that carry a gclid)
-# to Google Ads as offline conversions. Fully automatic — no manual CSV.
+# Runs every 4 hours as a safety net behind the real-time webhook, uploading any
+# confirmed Profitshare commissions (that carry a gclid) to Google Ads as offline
+# conversions that the webhook may have missed. Fully automatic — no manual CSV.
 #
 # Add these repository secrets first (Settings → Secrets and variables → Actions):
 #   PROFITSHARE_API_USER, PROFITSHARE_API_KEY
@@ -12,7 +13,7 @@ name: Sync affiliate conversions to Google Ads
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour, on the hour (UTC)
+    - cron: '0 */4 * * *' # every 4 hours (UTC) — safety net; the webhook is the primary path
   workflow_dispatch: {}   # allow manual run from the Actions tab
 
 jobs:
