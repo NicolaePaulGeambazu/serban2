@@ -21,11 +21,7 @@
 import { psRequest } from './ps-api.mjs';
 import { makeClient } from '../lib/google-ads.mjs';
 
-const {
-  GOOGLE_ADS_DEVELOPER_TOKEN, GOOGLE_OAUTH_CLIENT_ID, GOOGLE_OAUTH_CLIENT_SECRET,
-  GOOGLE_OAUTH_REFRESH_TOKEN, GOOGLE_ADS_CUSTOMER_ID, GOOGLE_ADS_CONVERSION_ACTION_ID,
-  GOOGLE_ADS_LOGIN_CUSTOMER_ID,
-} = process.env;
+const { GOOGLE_ADS_CUSTOMER_ID, GOOGLE_ADS_CONVERSION_ACTION_ID } = process.env;
 const TZ = process.env.GOOGLE_TZ_OFFSET || '+03:00';
 const LOOKBACK = parseInt(process.env.LOOKBACK_DAYS || '40', 10);
 
