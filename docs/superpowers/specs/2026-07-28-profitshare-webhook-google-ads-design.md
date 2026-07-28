@@ -60,7 +60,7 @@ ProfitShare  ──GET──▶  /api/profitshare-webhook  (Vercel Function)
                         ▼
                  Google Ads API (v21)   ◀── api/_lib/google-ads.mjs (shared)
                         ▲
-   daily cron (safety net) ── scripts/upload-conversions.mjs (approved, 40-day lookback)
+   cron every 4h (safety net) ── scripts/upload-conversions.mjs (approved, 40-day lookback)
 ```
 
 ## Components
@@ -95,7 +95,7 @@ Extracted from `upload-conversions.mjs`:
 - Behaviour otherwise unchanged (approved-only, 40-day lookback).
 
 ### `.github/workflows/sync-conversions.yml` (edit)
-- Change schedule from `0 * * * *` (hourly) to `0 3 * * *` (daily) — safety net.
+- Change schedule from `0 * * * *` (hourly) to `0 */4 * * *` (every 4 hours) — safety net.
 
 ### Docs
 - Setup notes: Vercel env vars, ProfitShare account webhook URL + token, and
@@ -117,8 +117,8 @@ Extracted from `upload-conversions.mjs`:
 - The Google Ads conversion action must be set to **Count: "One"** per click, so
   the same `gclid` counts once even if both the webhook and the daily cron send
   it. (Config step in the Google Ads UI — part of the plan checklist.)
-- The daily cron only recovers approved conversions the webhook may have missed
-  (endpoint down, no retry). It never double-counts thanks to "count one".
+- The 4-hourly cron only recovers approved conversions the webhook may have
+  missed (endpoint down, no retry). It never double-counts thanks to "count one".
 
 ## Consent Mode (secondary deliverable)
 
