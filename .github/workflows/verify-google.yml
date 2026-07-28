@@ -1,7 +1,12 @@
 name: Verify Google Ads access
 
-# Manual check that the Google Ads API credentials work (no real conversion needed).
+# Checks the Google Ads API credentials work (no real conversion needed).
+# Runs daily as a health check: the OAuth refresh token silently expires if the
+# consent screen is in "Testing" mode, which breaks BOTH the webhook and the cron.
+# A failed scheduled run notifies the repo (GitHub emails watchers) so it's caught early.
 on:
+  schedule:
+    - cron: '0 6 * * *' # daily 06:00 UTC
   workflow_dispatch: {}
 
 jobs:
