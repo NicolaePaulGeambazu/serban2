@@ -36,6 +36,6 @@ needs sufficient traffic volume.
 
 ## Limitations
 
-- If a `canceled` update omits `order_reference`, retraction is impossible → logged and skipped.
+- If a `canceled` update omits `order_reference`, retraction is impossible → skipped (no retraction possible).
 - `order_reference ↔ order_ref` equivalence is assumed for cross-path dedup; confirm on a
   real payload. Primary dedup relies on the "count one per click" action setting, not orderId.
