@@ -1,41 +1,55 @@
 # ProfitShare Webhook → Google Ads (real-time conversions)
 
-Endpoint: `POST/GET https://<your-domain>/api/profitshare-webhook`
-(ProfitShare sends **GET**.) The site stays static; this is a standalone Vercel Function.
+Endpoint: `https://www.topalegeri.ro/api/profitshare-webhook/` (ProfitShare sends **GET**;
+note the **trailing slash** — `vercel.json` has `trailingSlash: true`, so the no-slash URL
+308-redirects). The site stays static; this is a standalone Vercel Function.
+
+Conversions are delivered to Google Ads via the **Data Manager API** (`events:ingest`) —
+Google closed the classic `UploadClickConversions` endpoint to new integrations.
 
 ## One-time setup
 
-1. **Vercel env vars** (Project → Settings → Environment Variables), same values as the
-   GitHub Actions secrets, plus the new webhook token:
-   - `PROFITSHARE_WEBHOOK_TOKEN` — a long random string you choose.
-   - `GOOGLE_ADS_DEVELOPER_TOKEN`, `GOOGLE_OAUTH_CLIENT_ID`, `GOOGLE_OAUTH_CLIENT_SECRET`,
-     `GOOGLE_OAUTH_REFRESH_TOKEN`, `GOOGLE_ADS_CUSTOMER_ID`, `GOOGLE_ADS_CONVERSION_ACTION_ID`.
-   - Optional: `GOOGLE_ADS_LOGIN_CUSTOMER_ID`, `GOOGLE_TZ_OFFSET` (default `+03:00`).
-2. **ProfitShare account** → set the Webhook URL to the endpoint above and the token to
-   the same `PROFITSHARE_WEBHOOK_TOKEN`. ProfitShare sends it as `Authorization: Bearer {token}`.
-3. **Google Ads conversion action** (the "Comision eMAG" action referenced by
-   `GOOGLE_ADS_CONVERSION_ACTION_ID`): set **Count = "One"** per click. This is what makes
-   the webhook and the 4-hourly safety-net cron idempotent — the same `gclid` counts once
-   even if both send it.
+1. **Vercel env vars** (Project → Settings → Environment Variables):
+   - `PROFITSHARE_WEBHOOK_TOKEN` — a long random string you choose (the webhook's Bearer token).
+   - `GOOGLE_OAUTH_CLIENT_ID`, `GOOGLE_OAUTH_CLIENT_SECRET`, `GOOGLE_OAUTH_REFRESH_TOKEN`,
+     `GOOGLE_ADS_CUSTOMER_ID` (digits, no dashes), `GOOGLE_ADS_CONVERSION_ACTION_ID`.
+   - Optional: `GOOGLE_ADS_LOGIN_CUSTOMER_ID` (MCC), `GOOGLE_TZ_OFFSET` (default `+03:00`),
+     `DATAMANAGER_VALIDATE_ONLY=1` (dry-run: validate without recording).
+   - **No developer token** is needed (Data Manager auth is OAuth Bearer only).
+2. **Refresh token scope** — the `GOOGLE_OAUTH_REFRESH_TOKEN` MUST be minted with the
+   **`https://www.googleapis.com/auth/datamanager`** scope (the old `adwords` scope will
+   fail). Mint it in the OAuth Playground with "Use your own OAuth credentials" set to the
+   SAME client id/secret above. Keep the OAuth consent screen **Published** so the token
+   doesn't expire every 7 days.
+3. **ProfitShare account** (API & Webhooks) → set the Webhook URL to the endpoint above,
+   tick **"Include an API key on request"**, and paste `PROFITSHARE_WEBHOOK_TOKEN` into the
+   **API KEY (BEARER TOKEN)** field. ProfitShare then sends `Authorization: Bearer {token}`.
+4. **Google Ads conversion action** (`GOOGLE_ADS_CONVERSION_ACTION_ID`): set **Count = "One"**
+   per click, so the webhook and the safety-net cron dedupe to one conversion per `gclid`.
 
 ## Behaviour
 
-- `order_add` → uploads a click conversion (pending value) keyed on `gclid` (from `hash`)
-  and `orderId` (from `order_reference`).
-- `order_update` with `status=canceled` → RETRACTION by `orderId`.
-- `order_update` that approves/updates → RESTATEMENT to the final `commissions` value.
-- No `hash` (gclid) → 200 + skip. Consent-refusers are never uploaded here.
+Every event needs a `gclid` (from `hash`) and an `order_reference` (used as the Data Manager
+`transactionId`, which dedupes across the webhook, the cron, and resends).
+
+- `order_add` → **ingest** the conversion (pending value) — fast signal.
+- approving `order_update` → **re-ingest** the same `transactionId` with the final value;
+  Data Manager overrides the recorded value (a restate).
+- `order_update` with `status=canceled` → **soft-retract**: re-ingest the same `transactionId`
+  with `conversionValue: 0`. Data Manager has **no true retraction** for events, so zeroing
+  the value is the best available correction (the conversion *count* may linger).
+- No `hash`, or no `order_reference` → 200 + skip (nothing to attribute / no dedup key).
 
 ## Consent Mode (cookie-refusers)
 
-Refusers are **not** uploaded by this webhook — that is by design (clean-legal posture).
-They can only appear in Google Ads as **modeled "Unknown" conversions** via Consent Mode v2.
-Verify (no code change): `<head>` sets consent default `denied`; accepting cookies fires a
-`consent update` (see `src/components/CookieConsent.astro`); GA4/Ads are linked. Modeling
-needs sufficient traffic volume.
+Refusers are **not** uploaded by this webhook — by design (clean-legal posture). They can
+only appear in Google Ads as **modeled "Unknown" conversions** via Consent Mode v2. The
+request always sends `consent: { adUserData: CONSENT_GRANTED, adPersonalization: CONSENT_GRANTED }`
+because only consented, gclid-carrying conversions ever reach the ingest call.
 
 ## Limitations
 
-- If a `canceled` update omits `order_reference`, retraction is impossible → skipped (no retraction possible).
+- **No true retraction** (Data Manager events are add/override only). Cancels zero the value.
 - `order_reference ↔ order_ref` equivalence is assumed for cross-path dedup; confirm on a
-  real payload. Primary dedup relies on the "count one per click" action setting, not orderId.
+  real payload. Primary dedup relies on `transactionId` + the "count one per click" setting.
+- `gbraid`/`wbraid` clicks (iOS/in-app) are currently sent in the `gclid` field — follow-up.
