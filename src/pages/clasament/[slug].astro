@@ -24,11 +24,16 @@ const fmt = (n: number) => n.toLocaleString('ro-RO');
 const winner = d.products.find((p) => p.win) ?? d.products[0];
 const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
 
+// Main ranking shows the top 10; overflow stays reachable via the brand/spec
+// segment pages below. Segments + QuickPicks still use the full `d.products`.
+const MAX_RANK = 10;
+const ranked = [...d.products].sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0)).slice(0, MAX_RANK);
+
 const itemList = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
   name: d.h1,
-  itemListElement: d.products.map((p) => ({
+  itemListElement: ranked.map((p) => ({
     '@type': 'ListItem',
     position: p.rank,
     item: {
@@ -90,7 +95,7 @@ const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g)
 
   <div class="toolbar" id="clasament">
     <div class="wrap tb-row">
-      <span class="count" id="count">{d.products.length} modele</span>
+      <span class="count" id="count">{ranked.length} modele</span>
       <div class="chips" role="group" aria-label="Filtre funcții">
         {d.featureFilters.map((f) => (
           <button class="chip" data-feat={f.key} aria-pressed="false">{f.label}</button>
@@ -101,7 +106,7 @@ const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g)
 
   <div class="wrap">
     <div class="rank-list" id="rankList">
-      {d.products.map((p) => <ProductCard product={p} />)}
+      {ranked.map((p) => <ProductCard product={p} />)}
       <p class="empty" id="empty">Niciun model nu se potrivește cu filtrele alese. <button class="ck-link" id="clearF" style="color:var(--emerald)">Resetează filtrele</button></p>
     </div>
   </div>
