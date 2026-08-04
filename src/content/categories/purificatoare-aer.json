@@ -42,32 +42,32 @@
     {
       "h3": "Ce CADR îți trebuie pentru camera ta",
       "body": "CADR (Clean Air Delivery Rate) arată câți metri cubi de aer curat livrează purificatorul pe oră și e cel mai important indicator, mai important decât puterea motorului sau designul. Regula generală: CADR-ul (în m³/h) ar trebui să fie de aproximativ 3-4 ori suprafața camerei în m², ca aparatul să recircule aerul de câteva ori pe oră. Pentru un dormitor de 16-27 m², un CADR de 230 m³/h ca la Xiaomi 4 Compact e suficient. Pentru un living de 35-60 m², treci la 500-600 m³/h, ca la Xiaomi 4 Pro, Xiaomi Elite sau Philips Seria 4200.",
-      "callout": "Un purificator subdimensionat rulează constant la turație maximă și tot nu ține pasul cu o cameră mare — verifică CADR-ul înainte de orice altă funcție."
+      "callout": "Un purificator subdimensionat rulează constant la turație maximă și tot nu ține pasul cu o cameră mare, verifică CADR-ul înainte de orice altă funcție."
     },
     {
       "h3": "HEPA, True HEPA H13 și carbune activ: ce filtre contează",
-      "body": "Eticheta „HEPA” e uneori folosită liber de producători, fără o certificare reală. „True HEPA” sau „HEPA H13” înseamnă că filtrul e testat și certificat să rețină minimum 99,95-99,97% din particulele de până la 0,3 microni — praf, polen, păr de animale, chiar și unele bacterii. Carbunele activ e un filtru separat, chimic, care absoarbe mirosurile și compușii organici volatili, util în bucătărie sau dacă ai animale de companie. Modelele AlecoAir și Levoit din top combină ambele straturi într-un singur filtru, în timp ce Xiaomi și Philips folosesc formule proprii de filtrare HEPA."
+      "body": "Eticheta „HEPA” e uneori folosită liber de producători, fără o certificare reală. „True HEPA” sau „HEPA H13” înseamnă că filtrul e testat și certificat să rețină minimum 99,95-99,97% din particulele de până la 0,3 microni, praf, polen, păr de animale, chiar și unele bacterii. Carbunele activ e un filtru separat, chimic, care absoarbe mirosurile și compușii organici volatili, util în bucătărie sau dacă ai animale de companie. Modelele AlecoAir și Levoit din top combină ambele straturi într-un singur filtru, în timp ce Xiaomi și Philips folosesc formule proprii de filtrare HEPA."
     },
     {
       "h3": "Senzori PM2.5 și mod automat: de ce merită",
-      "body": "Un senzor PM2.5 citește în timp real concentrația de particule fine din aer și ajustează automat turația ventilatorului — mai rapid când aerul e poluat, mai lent și silențios când e curat. Fără senzor, trebuie să reglezi manual viteza sau să lași aparatul la turație constantă, ceea ce fie irosește energie, fie nu filtrează suficient. Levoit Core 600S, Xiaomi 4 Compact și AlecoAir P30 Silk din top au acest senzor, iar diferența se simte mai ales dacă gătești des sau ai animale în casă."
+      "body": "Un senzor PM2.5 citește în timp real concentrația de particule fine din aer și ajustează automat turația ventilatorului, mai rapid când aerul e poluat, mai lent și silențios când e curat. Fără senzor, trebuie să reglezi manual viteza sau să lași aparatul la turație constantă, ceea ce fie irosește energie, fie nu filtrează suficient. Levoit Core 600S, Xiaomi 4 Compact și AlecoAir P30 Silk din top au acest senzor, iar diferența se simte mai ales dacă gătești des sau ai animale în casă."
     },
     {
       "h3": "Cât zgomot accepți, mai ales în dormitor",
-      "body": "La turație minimă, majoritatea purificatoarelor moderne sunt aproape imperceptibile, dar la turație maximă — necesară atunci când aerul e foarte poluat — zgomotul poate deveni supărător noaptea. Modelele compacte precum Philips Seria 900i sunt gândite special pentru camere mici și dormitor, cu un echilibru bun între filtrare și liniște. Pentru living-uri mari, unde aparatul stă departe de zona de somn, zgomotul contează mai puțin decât CADR-ul brut."
+      "body": "La turație minimă, majoritatea purificatoarelor moderne sunt aproape imperceptibile, dar la turație maximă, necesară atunci când aerul e foarte poluat, zgomotul poate deveni supărător noaptea. Modelele compacte precum Philips Seria 900i sunt gândite special pentru camere mici și dormitor, cu un echilibru bun între filtrare și liniște. Pentru living-uri mari, unde aparatul stă departe de zona de somn, zgomotul contează mai puțin decât CADR-ul brut."
     },
     {
       "h3": "Costul filtrelor de schimb: un cost ascuns",
-      "body": "Filtrele HEPA și cele cu carbune activ se schimbă de obicei la 6-12 luni, în funcție de cât de poluat e aerul și cât de des rulează aparatul. Filtrele True HEPA combinate cu carbune activ, ca la AlecoAir sau Levoit, costă de regulă mai mult decât un filtru HEPA simplu, dar durează la fel. Bugetează acest cost din start — un purificator ieftin la achiziție poate ajunge mai scump pe termen lung dacă filtrele de schimb sunt greu de găsit sau costisitoare.",
-      "callout": "Verifică disponibilitatea filtrelor de schimb pe eMAG înainte să cumperi — unele modele mai puțin cunoscute au filtre greu de găsit după un an-doi."
+      "body": "Filtrele HEPA și cele cu carbune activ se schimbă de obicei la 6-12 luni, în funcție de cât de poluat e aerul și cât de des rulează aparatul. Filtrele True HEPA combinate cu carbune activ, ca la AlecoAir sau Levoit, costă de regulă mai mult decât un filtru HEPA simplu, dar durează la fel. Bugetează acest cost din start, un purificator ieftin la achiziție poate ajunge mai scump pe termen lung dacă filtrele de schimb sunt greu de găsit sau costisitoare.",
+      "callout": "Verifică disponibilitatea filtrelor de schimb pe eMAG înainte să cumperi, unele modele mai puțin cunoscute au filtre greu de găsit după un an-doi."
     },
     {
       "h3": "Wi-Fi, aplicații și asistenți vocali: merită diferența de preț?",
-      "body": "Controlul prin aplicație (Mi Home la Xiaomi, VeSync la Levoit) îți arată calitatea aerului de pe telefon și permite programare pe ore, chiar și de la distanță. Compatibilitatea cu Alexa sau Google Home, ca la Levoit Core 600S sau AlecoAir P30 Silk, adaugă control prin voce. Nu sunt funcții obligatorii — un aparat cu buton fizic filtrează la fel de bine — dar pentru cineva care vrea automatizare completă a locuinței, diferența de preț merită."
+      "body": "Controlul prin aplicație (Mi Home la Xiaomi, VeSync la Levoit) îți arată calitatea aerului de pe telefon și permite programare pe ore, chiar și de la distanță. Compatibilitatea cu Alexa sau Google Home, ca la Levoit Core 600S sau AlecoAir P30 Silk, adaugă control prin voce. Nu sunt funcții obligatorii, un aparat cu buton fizic filtrează la fel de bine, dar pentru cineva care vrea automatizare completă a locuinței, diferența de preț merită."
     },
     {
       "h3": "Greșeli frecvente când cumperi un purificator de aer",
-      "body": "Cea mai comună greșeală e alegerea unui CADR prea mic pentru cameră, crezând că orice purificator „face treaba” — de fapt, un aparat subdimensionat rulează constant la maxim și tot nu ține pasul cu poluarea din cameră. A doua greșeală e ignorarea costului filtrelor de schimb, care se adaugă la prețul de achiziție an de an. A treia e poziționarea greșită — un purificator băgat într-un colț, blocat de mobilă, nu circulă aerul eficient prin toată camera. În fine, pentru modelele cu ionizare, evită folosirea constantă în camere foarte mici și fără ventilație, ca să nu acumulezi ozon în concentrații inutile."
+      "body": "Cea mai comună greșeală e alegerea unui CADR prea mic pentru cameră, crezând că orice purificator „face treaba”, de fapt, un aparat subdimensionat rulează constant la maxim și tot nu ține pasul cu poluarea din cameră. A doua greșeală e ignorarea costului filtrelor de schimb, care se adaugă la prețul de achiziție an de an. A treia e poziționarea greșită, un purificator băgat într-un colț, blocat de mobilă, nu circulă aerul eficient prin toată camera. În fine, pentru modelele cu ionizare, evită folosirea constantă în camere foarte mici și fără ventilație, ca să nu acumulezi ozon în concentrații inutile."
     }
   ],
   "faq": [
@@ -89,11 +89,11 @@
     },
     {
       "q": "Merită un purificator cu Wi-Fi și aplicație?",
-      "a": "Dacă vrei să vezi calitatea aerului de pe telefon, să programezi funcționarea sau să folosești Alexa/Google Home, da — Xiaomi (Mi Home), Levoit (VeSync) și AlecoAir oferă asta. Dacă vrei doar filtrare simplă, un model cu buton fizic, ca AlecoAir P12 Pixy, face aceeași treabă la un preț mai mic."
+      "a": "Dacă vrei să vezi calitatea aerului de pe telefon, să programezi funcționarea sau să folosești Alexa/Google Home, da, Xiaomi (Mi Home), Levoit (VeSync) și AlecoAir oferă asta. Dacă vrei doar filtrare simplă, un model cu buton fizic, ca AlecoAir P12 Pixy, face aceeași treabă la un preț mai mic."
     },
     {
-      "q": "Xiaomi, Philips, Levoit sau AlecoAir — ce brand aleg?",
-      "a": "Xiaomi oferă cel mai bun raport CADR/preț din top, cu ecosistem Mi Home solid. Philips e reperul premium, cu senzori preciși și filtre NanoProtect certificate. Levoit mizează pe integrare smart-home completă (Alexa, Google). AlecoAir e brandul de buget generos, cu pachete tehnologice complete — True HEPA, UV-C, ionizare — la prețuri accesibile."
+      "q": "Xiaomi, Philips, Levoit sau AlecoAir, ce brand aleg?",
+      "a": "Xiaomi oferă cel mai bun raport CADR/preț din top, cu ecosistem Mi Home solid. Philips e reperul premium, cu senzori preciși și filtre NanoProtect certificate. Levoit mizează pe integrare smart-home completă (Alexa, Google). AlecoAir e brandul de buget generos, cu pachete tehnologice complete, True HEPA, UV-C, ionizare, la prețuri accesibile."
     },
     {
       "q": "Un purificator de aer ajută cu alergiile?",
@@ -403,7 +403,7 @@
       "cons": [
         "Zgomot mai prezent la turație maximă"
       ],
-      "review": "Pentru camere mari, AlecoAir P45 Silk combină un filtru True HEPA cu carbune activ pentru mirosuri și o lampă UV-C pentru sterilizare suplimentară, plus funcția de ionizare pentru particule foarte fine. Controlul prin Wi-Fi permite pornirea de la distanță, util dacă vrei ca aerul să fie deja curat când ajungi acasă. E un brand românesc cu prezență solidă la eMAG, cu specificații care acoperă practic toate bazele: filtrare mecanică, chimică (carbon), UV și ionizare. Zgomotul la turație maximă e ceva mai prezent decât la modelele premium Philips sau Levoit, un compromis rezonabil pentru un preț mai accesibil. Recomandăm acest model pentru cineva care vrea un pachet complet de tehnologii de filtrare — mecanică, UV și ionizare — într-un singur aparat, la un cost mai prietenos decât variantele Philips sau Levoit echivalente ca funcții.",
+      "review": "Pentru camere mari, AlecoAir P45 Silk combină un filtru True HEPA cu carbune activ pentru mirosuri și o lampă UV-C pentru sterilizare suplimentară, plus funcția de ionizare pentru particule foarte fine. Controlul prin Wi-Fi permite pornirea de la distanță, util dacă vrei ca aerul să fie deja curat când ajungi acasă. E un brand românesc cu prezență solidă la eMAG, cu specificații care acoperă practic toate bazele: filtrare mecanică, chimică (carbon), UV și ionizare. Zgomotul la turație maximă e ceva mai prezent decât la modelele premium Philips sau Levoit, un compromis rezonabil pentru un preț mai accesibil. Recomandăm acest model pentru cineva care vrea un pachet complet de tehnologii de filtrare, mecanică, UV și ionizare, într-un singur aparat, la un cost mai prietenos decât variantele Philips sau Levoit echivalente ca funcții.",
       "emagUrl": "https://www.emag.ro/purificator-de-aer-alecoair-p45-silk-wi-fi-lampa-uv-c-filtru-true-hepa-si-carbune-activ-functie-ionizare-p45silk/pd/DW1164YBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205310",
       "image": "/img/products/dw1164ybm.jpg"
@@ -523,7 +523,7 @@
       "cons": [
         "Potrivit mai ales pentru camere medii, nu living mare"
       ],
-      "review": "AlecoAir P30 Silk aduce aceleași tehnologii ca fratele mai mare P45 — filtru True HEPA cu carbune activ, lampă UV-C și ionizare — dar adaugă un senzor PM2.5 dedicat și control prin asistenți vocali, ceva ce P45 nu menționează explicit în fișa tehnică. E un aparat gândit pentru cineva care vrea monitorizare activă a calității aerului și comandă vocală prin Alexa sau Google, fără să plătească prețul unui Levoit sau Xiaomi Elite. Wi-Fi-ul completează pachetul smart, iar combinația de filtre acoperă atât particulele, cât și mirosurile din bucătărie sau de la animale de companie. Nu are CADR-ul unui model de cameră mare, deci e mai potrivit pentru dormitor sau birou decât pentru un living generos. Recomandăm acest model cui vrea senzor PM2.5 și control vocal la un preț accesibil, într-un pachet de dimensiuni medii.",
+      "review": "AlecoAir P30 Silk aduce aceleași tehnologii ca fratele mai mare P45, filtru True HEPA cu carbune activ, lampă UV-C și ionizare, dar adaugă un senzor PM2.5 dedicat și control prin asistenți vocali, ceva ce P45 nu menționează explicit în fișa tehnică. E un aparat gândit pentru cineva care vrea monitorizare activă a calității aerului și comandă vocală prin Alexa sau Google, fără să plătească prețul unui Levoit sau Xiaomi Elite. Wi-Fi-ul completează pachetul smart, iar combinația de filtre acoperă atât particulele, cât și mirosurile din bucătărie sau de la animale de companie. Nu are CADR-ul unui model de cameră mare, deci e mai potrivit pentru dormitor sau birou decât pentru un living generos. Recomandăm acest model cui vrea senzor PM2.5 și control vocal la un preț accesibil, într-un pachet de dimensiuni medii.",
       "emagUrl": "https://www.emag.ro/purificator-de-aer-alecoair-p30-silk-wi-fi-lampa-uv-c-filtru-true-hepa-si-carbune-activ-functie-ionizare-senzor-pm2-5-control-prin-asistenti-vocali-p30silk/pd/D5ZWRRMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205312",
       "image": "/img/products/d5zwrrmbm.jpg"
@@ -582,7 +582,7 @@
       "cons": [
         "Fără senzor PM2.5 dedicat"
       ],
-      "review": "Xiaomi Smart Air Purifier 4 Lite e varianta echilibrată pentru camere medii: CADR de 360 m³/h acoperă 25-43 m², suficient pentru un dormitor mare sau o cameră de birou. Display-ul LED arată rapid starea aparatului, iar aplicația Mi Home permite control de la distanță și programare, ca la restul familiei Xiaomi din top. E o variantă mai accesibilă decât 4 Pro, cu un compromis firesc la CADR și acoperire — nu se potrivește pentru un living mare, dar face treaba bine într-o cameră obișnuită. Nu are senzor PM2.5 dedicat menționat explicit, dar filtrul HEPA acoperă nevoia de bază de filtrare a particulelor. Recomandăm acest model cui vrea un Xiaomi de încredere pentru o cameră medie, fără să plătească pentru CADR-ul mai mare al variantei Pro.",
+      "review": "Xiaomi Smart Air Purifier 4 Lite e varianta echilibrată pentru camere medii: CADR de 360 m³/h acoperă 25-43 m², suficient pentru un dormitor mare sau o cameră de birou. Display-ul LED arată rapid starea aparatului, iar aplicația Mi Home permite control de la distanță și programare, ca la restul familiei Xiaomi din top. E o variantă mai accesibilă decât 4 Pro, cu un compromis firesc la CADR și acoperire, nu se potrivește pentru un living mare, dar face treaba bine într-o cameră obișnuită. Nu are senzor PM2.5 dedicat menționat explicit, dar filtrul HEPA acoperă nevoia de bază de filtrare a particulelor. Recomandăm acest model cui vrea un Xiaomi de încredere pentru o cameră medie, fără să plătească pentru CADR-ul mai mare al variantei Pro.",
       "emagUrl": "https://www.emag.ro/purificator-de-aer-xiaomi-smart-air-purifier-4-lite-eu-pcadr-360-m3-h-mi-home-display-led-acoperire-25-43-m2-alb-bhr5274gl/pd/DKL7NFMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205313",
       "image": "/img/products/dkl7nfmbm.jpg"
@@ -641,7 +641,7 @@
       "cons": [
         "CADR mic, nepotrivit pentru living mare"
       ],
-      "review": "Dacă bugetul e principala constrângere, Xiaomi Smart Air Purifier 4 Compact e cea mai accesibilă alegere din top care păstrează totuși filtrul HEPA, senzorul PM2.5 și controlul Wi-Fi prin Mi Home. CADR-ul de 230 m³/h și acoperirea de 16-27 m² îl fac potrivit pentru un dormitor obișnuit sau o cameră secundară, nu pentru un living generos. E un punct de intrare bun în ecosistemul Xiaomi, cu funcțiile esențiale — filtrare HEPA, monitorizare PM2.5, control din aplicație — fără costurile suplimentare ale variantelor Pro sau Elite. Pentru o cameră mică sau o a doua locuință, face treaba corect la un preț mic. Pentru un living mare sau folosire intensă în spații generoase, am recomanda totuși un model cu CADR mai mare din top.",
+      "review": "Dacă bugetul e principala constrângere, Xiaomi Smart Air Purifier 4 Compact e cea mai accesibilă alegere din top care păstrează totuși filtrul HEPA, senzorul PM2.5 și controlul Wi-Fi prin Mi Home. CADR-ul de 230 m³/h și acoperirea de 16-27 m² îl fac potrivit pentru un dormitor obișnuit sau o cameră secundară, nu pentru un living generos. E un punct de intrare bun în ecosistemul Xiaomi, cu funcțiile esențiale, filtrare HEPA, monitorizare PM2.5, control din aplicație, fără costurile suplimentare ale variantelor Pro sau Elite. Pentru o cameră mică sau o a doua locuință, face treaba corect la un preț mic. Pentru un living mare sau folosire intensă în spații generoase, am recomanda totuși un model cu CADR mai mare din top.",
       "emagUrl": "https://www.emag.ro/purificator-de-aer-xiaomi-smart-air-purifier-4-compact-smart-wi-fi-cadr-230m3-h-filtru-hepa-pm2-5-acoperire-16-27-m2-alb-bhr5860eu/pd/DWMH4LMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205314",
       "image": "/img/products/dwmh4lmbm.jpg"
@@ -700,7 +700,7 @@
       "cons": [
         "Fără Wi-Fi sau senzor PM2.5"
       ],
-      "review": "AlecoAir P12 Pixy e cel mai compact aparat din top, gândit explicit pentru camere de până la 12 mp — un dormitor mic, o cameră de copil sau un birou. Filtrul HEPA H13 combinat cu carbune activ acoperă atât particulele fine, cât și mirosurile, iar funcția child lock previne modificările accidentale ale setărilor, un detaliu util dacă ai copii în casă. Timerul permite programarea automată a opririi, fără să trebuiască să te ridici să închizi aparatul manual. Nu are Wi-Fi sau senzori PM2.5 ca modelele mai scumpe din listă, deci reglajele se fac manual, dar pentru o cameră mică asta nu e neapărat un dezavantaj. Recomandăm acest model pentru camere mici, dormitorul unui copil sau un birou, unde un aparat simplu, compact și cu child lock contează mai mult decât funcțiile smart.",
+      "review": "AlecoAir P12 Pixy e cel mai compact aparat din top, gândit explicit pentru camere de până la 12 mp, un dormitor mic, o cameră de copil sau un birou. Filtrul HEPA H13 combinat cu carbune activ acoperă atât particulele fine, cât și mirosurile, iar funcția child lock previne modificările accidentale ale setărilor, un detaliu util dacă ai copii în casă. Timerul permite programarea automată a opririi, fără să trebuiască să te ridici să închizi aparatul manual. Nu are Wi-Fi sau senzori PM2.5 ca modelele mai scumpe din listă, deci reglajele se fac manual, dar pentru o cameră mică asta nu e neapărat un dezavantaj. Recomandăm acest model pentru camere mici, dormitorul unui copil sau un birou, unde un aparat simplu, compact și cu child lock contează mai mult decât funcțiile smart.",
       "emagUrl": "https://www.emag.ro/purificator-de-aer-alecoair-p12-pixy-filtru-hepa-h13-si-carbune-activ-child-lock-timer-pentru-12-mp-p12pixy/pd/D8GR0M3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205315",
       "image": "/img/products/d8gr0m3bm.jpg"

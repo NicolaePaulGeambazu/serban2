@@ -1,4 +1,4 @@
-// Sub-ranking segments per category — the single source of truth used by:
+// Sub-ranking segments per category, the single source of truth used by:
 //  - src/pages/clasament/[cat]/[seg].astro (generates the segment pages)
 //  - src/pages/clasament/[slug].astro (segment chips on the category page)
 //  - src/pages/index.astro (segment cards in each homepage category row)

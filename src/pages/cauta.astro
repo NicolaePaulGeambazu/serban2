@@ -49,7 +49,7 @@ for (const cmp of comparisons) {
 
     function render(query) {
       var nq = norm((query || '').trim());
-      if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs, o categorie sau un ghid — ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
+      if (!nq) { box.innerHTML = '<p class="hint">Scrie un produs, o categorie sau un ghid, ex. „aer condiționat", „LG OLED", „Bosch".</p>'; return; }
       var hits = index.filter(function (it) { return norm(it.s).indexOf(nq) > -1; }).slice(0, 60);
       if (!hits.length) { box.innerHTML = '<p class="hint">Niciun rezultat pentru „' + esc(query) + '". Încearcă alt cuvânt.</p>'; return; }
       var groups = {};

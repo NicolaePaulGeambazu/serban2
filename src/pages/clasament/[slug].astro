@@ -177,11 +177,11 @@ const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g)
         <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și ce spun cumpărătorii care le-au folosit deja.</p></div>
         <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
         <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
-        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
+        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și prețurile se schimbă des, revizuim periodic. Prețul exact e pe eMAG.</p></div>
       </div>
       <div class="disclosure">
         <Icon name="info" />
-        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din top — <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
+        <span><b style="color:#fff">Transparență afiliat.</b> Când cumperi printr-un link de pe {site.name} primim un comision de la eMAG. Nu te costă nimic în plus și nu influențează ordinea din top, <a href="/legal/afiliere/" style="color:#fff;text-decoration:underline">detalii aici</a>.</span>
       </div>
     </div>
   </section>
@@ -245,7 +245,7 @@ const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g)
       apply();
     });
 
-    // quick-pick highlight — scroll to the product card via JS (no href, so no URL shows on hover)
+    // quick-pick highlight, scroll to the product card via JS (no href, so no URL shows on hover)
     document.querySelectorAll('[data-flash]').forEach((btn) => {
       btn.addEventListener('click', () => {
         const id = btn.getAttribute('data-target');

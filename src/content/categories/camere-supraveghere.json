@@ -46,27 +46,27 @@
     },
     {
       "h3": "Rezoluție: Full HD, 2K sau 4K",
-      "body": "Rezoluția determină cât de multe detalii prinzi — o față la ușă sau un număr de înmatriculare în curte. Full HD 1080p (Tapo C501GW, Xiaomi C201) acoperă supravegherea de bază a unei camere sau a unei intrări. 2K/4MP (Tapo C220, Hikvision DS-2DE2C400MWG-E, Ezviz H90) e echilibrul recomandabil azi, cu detalii clar mai bune. 4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și permite decuparea unui cadru fără să pierzi lizibilitatea. Reține însă că o rezoluție mai mare umple mai repede cardul microSD.",
+      "body": "Rezoluția determină cât de multe detalii prinzi, o față la ușă sau un număr de înmatriculare în curte. Full HD 1080p (Tapo C501GW, Xiaomi C201) acoperă supravegherea de bază a unei camere sau a unei intrări. 2K/4MP (Tapo C220, Hikvision DS-2DE2C400MWG-E, Ezviz H90) e echilibrul recomandabil azi, cu detalii clar mai bune. 4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și permite decuparea unui cadru fără să pierzi lizibilitatea. Reține însă că o rezoluție mai mare umple mai repede cardul microSD.",
       "callout": "Numărul de megapixeli nu spune totul: pentru noapte, senzorul și tehnologia Starlight/Color Night Vision contează la fel de mult ca rezoluția."
     },
     {
       "h3": "Vedere nocturnă: color (Starlight) vs. infraroșu",
-      "body": "Sunt două abordări. Vederea nocturnă clasică cu infraroșu (IR) redă o imagine alb-negru și e discretă, pentru că LED-urile IR sunt invizibile. Vederea nocturnă color, numită Starlight sau Color Night Vision (Tapo C501GW, Tapo C660 KIT, IMOU Cruiser), folosește un senzor luminos și, uneori, un spot alb, ca să păstreze culorile pe timp de noapte — util pentru a distinge culoarea hainelor sau a unei mașini. Multe modele de exterior combină ambele, cu iluminare duală (Ezviz H90), și comută automat în funcție de lumina disponibilă.",
+      "body": "Sunt două abordări. Vederea nocturnă clasică cu infraroșu (IR) redă o imagine alb-negru și e discretă, pentru că LED-urile IR sunt invizibile. Vederea nocturnă color, numită Starlight sau Color Night Vision (Tapo C501GW, Tapo C660 KIT, IMOU Cruiser), folosește un senzor luminos și, uneori, un spot alb, ca să păstreze culorile pe timp de noapte, util pentru a distinge culoarea hainelor sau a unei mașini. Multe modele de exterior combină ambele, cu iluminare duală (Ezviz H90), și comută automat în funcție de lumina disponibilă.",
       "callout": "Vederea color noaptea are nevoie de puțină lumină ambientală sau de un spot alb; în beznă totală, camera revine oricum la infraroșu alb-negru."
     },
     {
       "h3": "Detecție AI: persoane, animale și vehicule",
-      "body": "Detecția de mișcare simplă îți trimite notificări la orice — o frunză, o umbră, o pisică. Detecția AI face diferența între o persoană, un animal și un vehicul, așa că primești alerte relevante și mai puține false alarme. Modelele bune din acest clasament (Tapo C220, Hikvision cu detecție umană, eufy S350, Ezviz H90) filtrează inteligent evenimentele, iar unele adaugă urmărire automată (Smart Tracking), prin care camera Pan/Tilt rotește pentru a menține subiectul în cadru. Pentru interior, detecția separată de persoane și animale e utilă dacă ai animale de companie.",
-      "callout": "Verifică dacă detecția AI e gratuită sau blocată în spatele unui abonament — la unele branduri, filtrarea persoane/vehicule vine doar cu plan cloud plătit."
+      "body": "Detecția de mișcare simplă îți trimite notificări la orice, o frunză, o umbră, o pisică. Detecția AI face diferența între o persoană, un animal și un vehicul, așa că primești alerte relevante și mai puține false alarme. Modelele bune din acest clasament (Tapo C220, Hikvision cu detecție umană, eufy S350, Ezviz H90) filtrează inteligent evenimentele, iar unele adaugă urmărire automată (Smart Tracking), prin care camera Pan/Tilt rotește pentru a menține subiectul în cadru. Pentru interior, detecția separată de persoane și animale e utilă dacă ai animale de companie.",
+      "callout": "Verifică dacă detecția AI e gratuită sau blocată în spatele unui abonament, la unele branduri, filtrarea persoane/vehicule vine doar cu plan cloud plătit."
     },
     {
       "h3": "Stocare: microSD, cloud și abonament",
       "body": "Ai trei opțiuni, adesea combinabile. Cardul microSD (până la 512 GB la Ezviz H90) stochează local, fără costuri lunare, dar filmările se pierd dacă hoțul ia camera. Stocarea în cloud (Ezviz CloudPlay, Tapo Care) e sigură în afara casei, însă cere de regulă un abonament lunar. Unele branduri oferă și o stație de bază cu stocare locală extinsă. Cea mai sigură strategie e combinată: card local pentru înregistrare continuă plus un plan cloud pentru evenimentele importante, ca să ai o copie în afara locuinței.",
-      "callout": "Folosește un card microSD High Endurance, gândit pentru scriere continuă — un card obișnuit se uzează în câteva luni de înregistrare 24/7."
+      "callout": "Folosește un card microSD High Endurance, gândit pentru scriere continuă, un card obișnuit se uzează în câteva luni de înregistrare 24/7."
     },
     {
       "h3": "Alimentare și confidențialitate (GDPR)",
-      "body": "Camerele cu fir (majoritatea celor de interior și Hikvision PoE) filmează neîntrerupt, dar cer o priză sau cablu de rețea în apropiere. Cele pe baterie sunt fără fir, ușor de montat oriunde, însă trebuie reîncărcate periodic. Kiturile cu panou solar (Tapo C660 KIT, cu baterie de 10000 mAh) rezolvă problema: panoul reîncarcă bateria din lumina zilei, ideal pentru un colț de curte fără priză. Pe partea de confidențialitate, în România o cameră care filmează spațiul public sau proprietatea vecinului poate intra sub incidența GDPR — orientează câmpul strict spre propria locuință.",
+      "body": "Camerele cu fir (majoritatea celor de interior și Hikvision PoE) filmează neîntrerupt, dar cer o priză sau cablu de rețea în apropiere. Cele pe baterie sunt fără fir, ușor de montat oriunde, însă trebuie reîncărcate periodic. Kiturile cu panou solar (Tapo C660 KIT, cu baterie de 10000 mAh) rezolvă problema: panoul reîncarcă bateria din lumina zilei, ideal pentru un colț de curte fără priză. Pe partea de confidențialitate, în România o cameră care filmează spațiul public sau proprietatea vecinului poate intra sub incidența GDPR, orientează câmpul strict spre propria locuință.",
       "callout": "Din motive GDPR, evită să înregistrezi trotuarul, strada sau curtea vecinului. Un mod de confidențialitate (privacy) care acoperă lentila când ești acasă e un plus real pentru camerele de interior."
     }
   ],
@@ -88,7 +88,7 @@
       },
       {
         "criteriu": "Întreținere",
-        "a": "Zero — merge cât are curent",
+        "a": "Zero, merge cât are curent",
         "b": "Reîncărcare periodică (sau panou solar care o alimentează)"
       },
       {
@@ -106,7 +106,7 @@
     },
     {
       "q": "Merită 4K la o cameră de supraveghere?",
-      "a": "4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și îți permite să mărești un cadru fără să pierzi detaliile — util pentru curte sau perimetru. Pentru o cameră de interior sau o simplă supraveghere a intrării, 2K/4MP e de regulă suficient. Ține cont că 4K umple mai repede cardul microSD și cere un card mai încăpător."
+      "a": "4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și îți permite să mărești un cadru fără să pierzi detaliile, util pentru curte sau perimetru. Pentru o cameră de interior sau o simplă supraveghere a intrării, 2K/4MP e de regulă suficient. Ține cont că 4K umple mai repede cardul microSD și cere un card mai încăpător."
     },
     {
       "q": "Cum văd camerele noaptea?",
@@ -122,7 +122,7 @@
     },
     {
       "q": "Pot monta o cameră de supraveghere fără priză?",
-      "a": "Da. Kiturile cu baterie și panou solar, precum TP-Link Tapo C660 KIT cu baterie de 10000 mAh, se montează oriunde: panoul reîncarcă bateria din lumina zilei. Există și camere 4G (Tapo C501GW), care funcționează pe cartelă SIM acolo unde nu ai WiFi — utile la o casă de vacanță sau o parcelă izolată."
+      "a": "Da. Kiturile cu baterie și panou solar, precum TP-Link Tapo C660 KIT cu baterie de 10000 mAh, se montează oriunde: panoul reîncarcă bateria din lumina zilei. Există și camere 4G (Tapo C501GW), care funcționează pe cartelă SIM acolo unde nu ai WiFi, utile la o casă de vacanță sau o parcelă izolată."
     },
     {
       "q": "E legal să film cu o cameră de supraveghere acasă?",
@@ -247,7 +247,7 @@
         "Rezoluție Full HD 1080p, sub modelele 2K/4K de exterior",
         "Cartela 4G presupune un cost lunar de date"
       ],
-      "review": "TP-Link Tapo C501GW e cea mai bună alegere pentru exterior atunci când WiFi-ul nu ajunge — funcționează pe cartelă 4G LTE, deci o poți monta la o casă de vacanță, pe un teren sau într-un colț de curte fără rețea. Carcasa IP66 rezistă la ploaie și praf, iar mecanismul Pan/Tilt acoperă 360°, cu detectare de persoane și mișcare plus alarmă sonoră pentru descurajarea intrușilor. Vederea nocturnă color de tip Starlight păstrează culorile pe timp de noapte, un avantaj real față de infraroșul alb-negru. Suportă și alimentare PoE și audio bidirecțional. Compromisurile sunt rezoluția Full HD 1080p, sub modelele 2K/4K de exterior, și costul lunar al cartelei 4G. Pe baza fișei tehnice și a recenziilor, e opțiunea recomandată pentru supraveghere de exterior fără dependență de rețeaua WiFi.",
+      "review": "TP-Link Tapo C501GW e cea mai bună alegere pentru exterior atunci când WiFi-ul nu ajunge, funcționează pe cartelă 4G LTE, deci o poți monta la o casă de vacanță, pe un teren sau într-un colț de curte fără rețea. Carcasa IP66 rezistă la ploaie și praf, iar mecanismul Pan/Tilt acoperă 360°, cu detectare de persoane și mișcare plus alarmă sonoră pentru descurajarea intrușilor. Vederea nocturnă color de tip Starlight păstrează culorile pe timp de noapte, un avantaj real față de infraroșul alb-negru. Suportă și alimentare PoE și audio bidirecțional. Compromisurile sunt rezoluția Full HD 1080p, sub modelele 2K/4K de exterior, și costul lunar al cartelei 4G. Pe baza fișei tehnice și a recenziilor, e opțiunea recomandată pentru supraveghere de exterior fără dependență de rețeaua WiFi.",
       "emagUrl": "https://www.emag.ro/camera-de-supraveghere-smart-tp-link-4g-lte-outdoor-pan-tilt-360-grade-full-hd-1080p-wireless-poe-starlight-color-night-vision-ip66-two-way-audio-detectarea-persoanelor-si-miscarilor-alarma-sonora-tap/pd/DGGL9QYBM/",
       "image": "/img/products/dggl9qybm.jpg"
     },
@@ -368,7 +368,7 @@
         "Preț ridicat pentru un singur post de supraveghere",
         "Panoul solar cere expunere bună la soare pentru autonomie completă"
       ],
-      "review": "TP-Link Tapo C660 KIT e soluția pentru colțul de curte fără priză: kitul include un panou solar și o baterie de 10000 mAh, care se reîncarcă din lumina zilei, deci montajul e complet fără fir. În ciuda alimentării autonome, nu face compromisuri la imagine — filmează 4K 8MP, cu Pan/Tilt 360° și vedere nocturnă color Starlight care păstrează culorile pe timp de noapte. Carcasa IP65 rezistă la intemperii, iar detecția AI filtrează evenimentele relevante. E gândit pentru cine vrea supraveghere de exterior de înaltă rezoluție acolo unde tragerea unui cablu ar fi complicată. Compromisurile sunt prețul, ridicat pentru un singur post, și faptul că panoul solar are nevoie de expunere bună la soare pentru autonomie completă în lunile mohorâte. Pe baza fișei tehnice și a recenziilor, e cea mai bună cameră fără fir, cu alimentare solară.",
+      "review": "TP-Link Tapo C660 KIT e soluția pentru colțul de curte fără priză: kitul include un panou solar și o baterie de 10000 mAh, care se reîncarcă din lumina zilei, deci montajul e complet fără fir. În ciuda alimentării autonome, nu face compromisuri la imagine, filmează 4K 8MP, cu Pan/Tilt 360° și vedere nocturnă color Starlight care păstrează culorile pe timp de noapte. Carcasa IP65 rezistă la intemperii, iar detecția AI filtrează evenimentele relevante. E gândit pentru cine vrea supraveghere de exterior de înaltă rezoluție acolo unde tragerea unui cablu ar fi complicată. Compromisurile sunt prețul, ridicat pentru un singur post, și faptul că panoul solar are nevoie de expunere bună la soare pentru autonomie completă în lunile mohorâte. Pe baza fișei tehnice și a recenziilor, e cea mai bună cameră fără fir, cu alimentare solară.",
       "emagUrl": "https://www.emag.ro/kit-camera-de-supraveghere-wireles-cu-panou-solar-tp-link-cu-pan-tilt-360-grade-8mp-4k-3840x2160-starlight-color-night-vision-detectie-ai-baterie-10000mah-two-way-audio-ip65-tapo-c660-kit/pd/D5QFLX3BM/",
       "image": "/img/products/d5qflx3bm.jpg"
     },
@@ -488,7 +488,7 @@
         "Configurație triplă mai complexă de setat decât o cameră simplă",
         "Aplicația IMOU e mai puțin lustruită decât cea Tapo"
       ],
-      "review": "IMOU Cruiser Triple e opțiunea pentru acoperire maximă dintr-un singur punct: combină trei lentile — una principală de 5MP și două suplimentare de 3MP — pentru un câmp vizual foarte larg, la 2304x1296. Mecanismul Pan/Tilt 360°, zoom-ul digital 8× și Smart Tracking-ul mențin subiectul în cadru pe măsură ce se mișcă, iar Smart Color Night Vision păstrează culorile pe timp de noapte. Audio bidirecțional și detecția inteligentă completează un pachet de exterior generos. E gândit pentru cine vrea să supravegheze o zonă amplă — o curte mare sau o fațadă — fără să monteze mai multe camere. Compromisurile sunt configurația triplă, mai complexă de setat decât o cameră simplă, și o aplicație IMOU mai puțin lustruită decât Tapo. Pe baza fișei tehnice și a recenziilor, e alegerea pentru acoperire largă dintr-o singură cameră.",
+      "review": "IMOU Cruiser Triple e opțiunea pentru acoperire maximă dintr-un singur punct: combină trei lentile, una principală de 5MP și două suplimentare de 3MP, pentru un câmp vizual foarte larg, la 2304x1296. Mecanismul Pan/Tilt 360°, zoom-ul digital 8× și Smart Tracking-ul mențin subiectul în cadru pe măsură ce se mișcă, iar Smart Color Night Vision păstrează culorile pe timp de noapte. Audio bidirecțional și detecția inteligentă completează un pachet de exterior generos. E gândit pentru cine vrea să supravegheze o zonă amplă, o curte mare sau o fațadă, fără să monteze mai multe camere. Compromisurile sunt configurația triplă, mai complexă de setat decât o cameră simplă, și o aplicație IMOU mai puțin lustruită decât Tapo. Pe baza fișei tehnice și a recenziilor, e alegerea pentru acoperire largă dintr-o singură cameră.",
       "emagUrl": "https://www.emag.ro/camera-de-supraveghere-wireless-imou-cruiser-triple-cu-pan-tilt-360-grade-5-3-3mp-2304x1296-8x-digital-zoom-smart-color-night-vision-smart-detection-smart-tracking-aor-mode-algo-play-two-way-talk-ipc-/pd/DF4VY23BM/",
       "image": "/img/products/df4vy23bm.jpg"
     },
@@ -724,7 +724,7 @@
         "Preț ridicat pentru o cameră axată pe monitorizarea copilului",
         "Funcțiile de nișă pentru bebeluși nu sunt utile tuturor"
       ],
-      "review": "TP-Link Tapo C840 e cea mai specializată cameră din clasament, dedicată monitorizării bebelușului. Are două obiective — unul 2K 4MP și unul 1080p — cu vedere la 360°, ca să urmărești atât camera în ansamblu, cât și un prim-plan al pătuțului. Funcțiile de nișă fac diferența: detectează plânsul bebelușului și situația în care fața e acoperită, oferă analiză și raport de somn, iar vederea nocturnă HD folosește infraroșu invizibil, care nu deranjează copilul. Audio-ul bidirecțional permite să liniștești copilul de la distanță. E o alegere excelentă pentru părinți, dar prețul ridicat și funcțiile foarte specifice o scot din zona camerei de supraveghere de uz general. Compromisurile sunt tocmai acestea: cost mare și utilitate concentrată pe un singur scenariu. Pe baza fișei tehnice și a recenziilor, e cea mai bună alegere strict pentru monitorizarea bebelușului.",
+      "review": "TP-Link Tapo C840 e cea mai specializată cameră din clasament, dedicată monitorizării bebelușului. Are două obiective, unul 2K 4MP și unul 1080p, cu vedere la 360°, ca să urmărești atât camera în ansamblu, cât și un prim-plan al pătuțului. Funcțiile de nișă fac diferența: detectează plânsul bebelușului și situația în care fața e acoperită, oferă analiză și raport de somn, iar vederea nocturnă HD folosește infraroșu invizibil, care nu deranjează copilul. Audio-ul bidirecțional permite să liniștești copilul de la distanță. E o alegere excelentă pentru părinți, dar prețul ridicat și funcțiile foarte specifice o scot din zona camerei de supraveghere de uz general. Compromisurile sunt tocmai acestea: cost mare și utilitate concentrată pe un singur scenariu. Pe baza fișei tehnice și a recenziilor, e cea mai bună alegere strict pentru monitorizarea bebelușului.",
       "emagUrl": "https://www.emag.ro/camera-de-supraveghere-wireless-tp-link-cu-2-obiective-2k-4mp-si-1080p-vedere-360-monitorizare-bebelusi-detectie-plans-bebelus-fata-acoperita-audio-bidirectional-analiza-si-raport-somn-bebelus-vedere-/pd/DCRHGS3BM/",
       "image": "/img/products/dcrhgs3bm.jpg"
     }

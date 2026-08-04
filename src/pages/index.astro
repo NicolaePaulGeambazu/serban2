@@ -55,7 +55,7 @@ const catBlocks = cats.map((c) => {
       <div>
         <span class="eyebrow">Recenzii · comparații · verdicte</span>
         <h1>Nu ghici.<br />Vezi <span class="u">verdictul.</span></h1>
-        <p class="lede">Analizăm specificațiile care contează cu adevărat și citim ce spun cumpărătorii, ca tu să alegi în două minute — nu în două seri.</p>
+        <p class="lede">Analizăm specificațiile care contează cu adevărat și citim ce spun cumpărătorii, ca tu să alegi în două minute, nu în două seri.</p>
         <form class="search-big" role="search" action="/cauta/" method="get">
           <Icon name="search" />
           <input type="search" name="q" placeholder="Ce vrei să cumperi? ex. aspirator robot" aria-label="Caută un produs sau o categorie" />
@@ -144,7 +144,7 @@ const catBlocks = cats.map((c) => {
                     </a>
                   ))
                 : c.top.map((p) => (
-                    <a class="pcard" href={`/clasament/${c.id}/#${p.id}`} aria-label={`${p.name} — locul ${p.rank}`}>
+                    <a class="pcard" href={`/clasament/${c.id}/#${p.id}`} aria-label={`${p.name}, locul ${p.rank}`}>
                       <div class="pcard-shot">
                         {p.image
                           ? <img src={p.image} alt={p.name} width="150" height="128" loading="lazy" decoding="async" />
@@ -171,7 +171,7 @@ const catBlocks = cats.map((c) => {
         <div>
           <span class="eyebrow">Cum lucrăm</span>
           <h2 style="margin-top:10px">Cum alegem produsele</h2>
-          <p class="sub" style="color:#9DB0C6">Fără păreri plătite. Analizăm specificațiile reale, citim ce spun cumpărătorii — un produs urcă doar dacă merită, nu după cine plătește mai mult.</p>
+          <p class="sub" style="color:#9DB0C6">Fără păreri plătite. Analizăm specificațiile reale, citim ce spun cumpărătorii, un produs urcă doar dacă merită, nu după cine plătește mai mult.</p>
         </div>
         <a class="more" href="/cum-testam/" style="color:var(--gold)">Cum lucrăm →</a>
       </div>
@@ -179,7 +179,7 @@ const catBlocks = cats.map((c) => {
         <div class="step"><div class="no">01</div><h3>Pornim de la ce contează</h3><p>Produsele populare din categorie, cu specificațiile oficiale și ce spun cumpărătorii care le-au folosit deja.</p></div>
         <div class="step"><div class="no">02</div><h3>Comparăm pe fapte</h3><p>Caracteristicile relevante și ce spun cumpărătorii. Fără note inventate sau teste de laborator.</p></div>
         <div class="step"><div class="no">03</div><h3>Recomandăm pe buget</h3><p>Ordonăm după cea mai bună alegere pentru fiecare gamă de preț.</p></div>
-        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și piața se schimbă des — revizuim periodic. Prețul exact e pe eMAG.</p></div>
+        <div class="step"><div class="no">04</div><h3>Actualizăm</h3><p>Modelele și piața se schimbă des, revizuim periodic. Prețul exact e pe eMAG.</p></div>
       </div>
       <div class="disclosure">
         <Icon name="info" />
@@ -195,7 +195,7 @@ const catBlocks = cats.map((c) => {
         <div>
           <span class="eyebrow">Ghiduri de cumpărare</span>
           <h2 style="margin-top:10px">Înțelege înainte să cumperi</h2>
-          <p class="sub">Explicăm pe înțelesul tuturor ce contează cu adevărat — fără jargon de fișă tehnică.</p>
+          <p class="sub">Explicăm pe înțelesul tuturor ce contează cu adevărat, fără jargon de fișă tehnică.</p>
         </div>
         <a class="more" href="/ghiduri/">Toate ghidurile →</a>
       </div>

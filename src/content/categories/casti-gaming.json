@@ -41,40 +41,40 @@
   "guide": [
     {
       "h3": "Wireless sau cu fir: ce alegi pentru gaming?",
-      "body": "Wireless-ul modern cu dongle 2.4GHz, ca la Logitech Lightspeed sau Razer HyperSpeed, are o întârziere practic imperceptibilă și e alegerea potrivită pentru majoritatea jucătorilor, mai ales dacă vrei libertate de mișcare fără cablu care se agață de mouse sau de scaun. Căștile cu fir, ca HyperX Cloud Alpha, rămân o soluție solidă dacă vrei sunet consistent fără să te gândești vreodată la baterie sau dacă bugetul e strict limitat — de regulă costă mai puțin la aceleași specificații de bază.",
-      "callout": "Bluetooth-ul singur, fără dongle dedicat, poate introduce o întârziere vizibilă în jocuri rapide — verifică dacă modelul wireless ales are și conexiune 2.4GHz."
+      "body": "Wireless-ul modern cu dongle 2.4GHz, ca la Logitech Lightspeed sau Razer HyperSpeed, are o întârziere practic imperceptibilă și e alegerea potrivită pentru majoritatea jucătorilor, mai ales dacă vrei libertate de mișcare fără cablu care se agață de mouse sau de scaun. Căștile cu fir, ca HyperX Cloud Alpha, rămân o soluție solidă dacă vrei sunet consistent fără să te gândești vreodată la baterie sau dacă bugetul e strict limitat, de regulă costă mai puțin la aceleași specificații de bază.",
+      "callout": "Bluetooth-ul singur, fără dongle dedicat, poate introduce o întârziere vizibilă în jocuri rapide, verifică dacă modelul wireless ales are și conexiune 2.4GHz."
     },
     {
       "h3": "Drivere și sunet: ce înseamnă cifrele",
-      "body": "Diametrul driverului (40-50 mm la majoritatea modelelor din top) influențează cât de bine reproduc căștile bass-ul și detaliile fine, dar contează la fel de mult designul intern — driverele Dual Chamber de la HyperX sau cele Graphene de la Logitech separă frecvențele mai curat decât un driver simplu de aceeași dimensiune. Sunetul surround 7.1, fie el prin software (Logitech, Razer) sau prin poziționare spațială reală (Sony 360 Spatial Sound), ajută mai ales în jocuri competitive, unde direcția pașilor sau a împușcăturilor contează."
+      "body": "Diametrul driverului (40-50 mm la majoritatea modelelor din top) influențează cât de bine reproduc căștile bass-ul și detaliile fine, dar contează la fel de mult designul intern, driverele Dual Chamber de la HyperX sau cele Graphene de la Logitech separă frecvențele mai curat decât un driver simplu de aceeași dimensiune. Sunetul surround 7.1, fie el prin software (Logitech, Razer) sau prin poziționare spațială reală (Sony 360 Spatial Sound), ajută mai ales în jocuri competitive, unde direcția pașilor sau a împușcăturilor contează."
     },
     {
       "h3": "Microfonul contează la fel de mult ca sunetul",
-      "body": "Un microfon detașabil, ca la PRO X 2 sau Cloud Alpha, e util dacă joci mai ales solo și vrei să-l scoți din priză când nu ai nevoie de el. Tehnologiile de reducere a zgomotului — Blue VO!CE la Logitech, ClearCast la SteelSeries, sau procesarea prin AI de la Sony — fac diferența reală în chatul de echipă, mai ales dacă ai zgomot de fundal acasă. Un microfon nedetașabil, ca la Razer BlackShark V3X, nu e neapărat un dezavantaj dacă izolarea lui fonică e bună.",
+      "body": "Un microfon detașabil, ca la PRO X 2 sau Cloud Alpha, e util dacă joci mai ales solo și vrei să-l scoți din priză când nu ai nevoie de el. Tehnologiile de reducere a zgomotului, Blue VO!CE la Logitech, ClearCast la SteelSeries, sau procesarea prin AI de la Sony, fac diferența reală în chatul de echipă, mai ales dacă ai zgomot de fundal acasă. Un microfon nedetașabil, ca la Razer BlackShark V3X, nu e neapărat un dezavantaj dacă izolarea lui fonică e bună.",
       "callout": "Certificarea Discord sau TeamSpeak, ca la HyperX, garantează o calitate minimă recunoscută pe platformele de chat cele mai folosite."
     },
     {
       "h3": "Confort și greutate pentru sesiuni lungi",
-      "body": "Greutatea sub 300 de grame și o bandă suspendată, ca la Logitech G733, reduc oboseala pe sesiuni de câteva ore. Materialul pernuțelor contează la fel de mult — spuma cu memorie (Cloud Alpha) sau pernuțele detașabile (Cloud Flight 2) mențin confortul chiar și pe vreme caldă. Dacă porți ochelari, verifică lățimea benzii care trece peste urechi, pentru că unele modele mai strânse pot deveni incomode după o oră-două."
+      "body": "Greutatea sub 300 de grame și o bandă suspendată, ca la Logitech G733, reduc oboseala pe sesiuni de câteva ore. Materialul pernuțelor contează la fel de mult, spuma cu memorie (Cloud Alpha) sau pernuțele detașabile (Cloud Flight 2) mențin confortul chiar și pe vreme caldă. Dacă porți ochelari, verifică lățimea benzii care trece peste urechi, pentru că unele modele mai strânse pot deveni incomode după o oră-două."
     },
     {
       "h3": "Compatibilitate: PC, PlayStation, Switch",
-      "body": "Nu toate căștile wireless funcționează la fel de bine pe toate platformele. Arctis Nova 5P și Sony INZONE WH-G500W sunt gândite explicit pentru multiplatformă, respectiv pentru ecosistemul PlayStation, în timp ce alte modele din top sunt optimizate în primul rând pentru PC, chiar dacă tehnic funcționează și pe consolă prin jack 3.5mm sau USB. Verifică întotdeauna dacă softul de configurare (Logitech G Hub, SteelSeries GG, NGENUITY) e disponibil și pe platforma ta, altfel unele funcții — EQ personalizat, surround virtual — pot rămâne inaccesibile."
+      "body": "Nu toate căștile wireless funcționează la fel de bine pe toate platformele. Arctis Nova 5P și Sony INZONE WH-G500W sunt gândite explicit pentru multiplatformă, respectiv pentru ecosistemul PlayStation, în timp ce alte modele din top sunt optimizate în primul rând pentru PC, chiar dacă tehnic funcționează și pe consolă prin jack 3.5mm sau USB. Verifică întotdeauna dacă softul de configurare (Logitech G Hub, SteelSeries GG, NGENUITY) e disponibil și pe platforma ta, altfel unele funcții, EQ personalizat, surround virtual, pot rămâne inaccesibile."
     },
     {
       "h3": "Greșeli frecvente când cumperi căști gaming",
-      "body": "Cea mai comună greșeală e alegerea unui model doar după aspectul RGB, ignorând microfonul, care e la fel de important într-un joc de echipă. A doua e ignorarea autonomiei la wireless — o diferență între 20 și 100 de ore chiar contează dacă joci zilnic. A treia e să cumperi căști wireless doar cu Bluetooth pentru gaming competitiv, unde întârzierea se simte. În fine, verifică greutatea dacă știi că porți căștile ore în șir — un model ușor cu sunet ceva mai modest poate fi mai plăcut de purtat decât un flagship greu.",
+      "body": "Cea mai comună greșeală e alegerea unui model doar după aspectul RGB, ignorând microfonul, care e la fel de important într-un joc de echipă. A doua e ignorarea autonomiei la wireless, o diferență între 20 și 100 de ore chiar contează dacă joci zilnic. A treia e să cumperi căști wireless doar cu Bluetooth pentru gaming competitiv, unde întârzierea se simte. În fine, verifică greutatea dacă știi că porți căștile ore în șir, un model ușor cu sunet ceva mai modest poate fi mai plăcut de purtat decât un flagship greu.",
       "callout": "Pentru sesiuni de peste 3-4 ore, confortul contează adesea mai mult decât ultimul procent de calitate a sunetului."
     }
   ],
   "faq": [
     {
       "q": "Wireless sau cu fir pentru gaming competitiv?",
-      "a": "Pentru gaming competitiv, un wireless cu dongle 2.4GHz dedicat (Lightspeed, HyperSpeed) e la fel de rapid ca un cablu, cu întârziere practic imperceptibilă. Bluetooth-ul simplu, fără dongle, poate introduce o întârziere vizibilă — verifică ce tip de conexiune wireless oferă modelul înainte să cumperi, dacă joci shootere rapide."
+      "a": "Pentru gaming competitiv, un wireless cu dongle 2.4GHz dedicat (Lightspeed, HyperSpeed) e la fel de rapid ca un cablu, cu întârziere practic imperceptibilă. Bluetooth-ul simplu, fără dongle, poate introduce o întârziere vizibilă, verifică ce tip de conexiune wireless oferă modelul înainte să cumperi, dacă joci shootere rapide."
     },
     {
       "q": "Cât de important e microfonul detașabil?",
-      "a": "Util mai ales dacă folosești căștile și în afara jocurilor, de exemplu la muzică sau filme, unde microfonul rămas pe cap nu are rost. Din punct de vedere al calității vocii, contează mai mult tehnologia din spate — Blue VO!CE, ClearCast Gen2 sau procesarea AI — decât faptul că microfonul se detașează fizic."
+      "a": "Util mai ales dacă folosești căștile și în afara jocurilor, de exemplu la muzică sau filme, unde microfonul rămas pe cap nu are rost. Din punct de vedere al calității vocii, contează mai mult tehnologia din spate, Blue VO!CE, ClearCast Gen2 sau procesarea AI, decât faptul că microfonul se detașează fizic."
     },
     {
       "q": "Ce autonomie ar trebui să caut la o pereche wireless?",
@@ -82,11 +82,11 @@
     },
     {
       "q": "Sunetul surround 7.1 e mai bun decât stereo?",
-      "a": "Pentru gaming competitiv, da — surround-ul, fie prin software, fie prin poziționare spațială reală ca la Sony, ajută să localizezi mai precis direcția sunetelor din joc. Pentru muzică sau filme, diferența e mai mică și unii preferă stereo simplu, fără procesare suplimentară."
+      "a": "Pentru gaming competitiv, da, surround-ul, fie prin software, fie prin poziționare spațială reală ca la Sony, ajută să localizezi mai precis direcția sunetelor din joc. Pentru muzică sau filme, diferența e mai mică și unii preferă stereo simplu, fără procesare suplimentară."
     },
     {
       "q": "Merită căști gaming special gândite pentru PS5, ca Sony INZONE?",
-      "a": "Da, dacă joci în principal pe PlayStation 5 — funcția 360 Spatial Sound se activează nativ, fără configurare suplimentară, și oferă o experiență mai bună decât un model generic wireless conectat la consolă printr-un adaptor generic."
+      "a": "Da, dacă joci în principal pe PlayStation 5, funcția 360 Spatial Sound se activează nativ, fără configurare suplimentară, și oferă o experiență mai bună decât un model generic wireless conectat la consolă printr-un adaptor generic."
     },
     {
       "q": "Cum aleg între HyperX, Logitech, SteelSeries, Razer și ASUS?",
@@ -219,7 +219,7 @@
       "cons": [
         "Bass mai discret decât la alte modele"
       ],
-      "review": "Dacă joci pe mai multe platforme — PC, PS4, PS5, Switch, mobil sau chiar Mac — Arctis Nova 5P e cea mai versatilă alegere din listă. Vine cu dongle USB wireless pentru latență minimă și Bluetooth simultan, deci poți prelua un apel pe telefon fără să scoți căștile de pe cap. Microfonul retractabil ClearCast Gen2 cu izolare fonică bidirecțională redă vocea curat și taie zgomotul de fundal, iar drivere de 40 mm acoperă bine gama de frecvențe tipică pentru gaming. Confortul e unul dintre punctele forte, cu pernuțe moi și o bandă care distribuie greutatea uniform pe sesiuni lungi. Nu impresionează la fel de mult la bass profund ca alte modele din top, dar echilibrul pe toate criteriile o face o alegere sigură pentru cineva care schimbă des platforma de joc. Pentru multiplatformă, e recomandarea noastră clară.",
+      "review": "Dacă joci pe mai multe platforme, PC, PS4, PS5, Switch, mobil sau chiar Mac, Arctis Nova 5P e cea mai versatilă alegere din listă. Vine cu dongle USB wireless pentru latență minimă și Bluetooth simultan, deci poți prelua un apel pe telefon fără să scoți căștile de pe cap. Microfonul retractabil ClearCast Gen2 cu izolare fonică bidirecțională redă vocea curat și taie zgomotul de fundal, iar drivere de 40 mm acoperă bine gama de frecvențe tipică pentru gaming. Confortul e unul dintre punctele forte, cu pernuțe moi și o bandă care distribuie greutatea uniform pe sesiuni lungi. Nu impresionează la fel de mult la bass profund ca alte modele din top, dar echilibrul pe toate criteriile o face o alegere sigură pentru cineva care schimbă des platforma de joc. Pentru multiplatformă, e recomandarea noastră clară.",
       "emagUrl": "https://www.emag.ro/casti-gaming-wireless-steelseries-arctis-nova-5p-pentru-pc-ps4-5-switch-mobile-mac-oculus-quest-2-usb-wireless-bluetooth-drivere-40-mm-microfon-retractabil-arctis-clearcast-gen2-bidirectional-noise-ca/pd/DKVT3SYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205233",
       "image": "/img/products/dkvt3sybm.jpg"
@@ -396,7 +396,7 @@
       "cons": [
         "Ceva mai grele, 318 g"
       ],
-      "review": "ASUS ROG Delta II Wireless mizează pe autonomie și flexibilitate de conectare. Tehnologia ROG SpeedNova combină Bluetooth și Wi-Fi 2.4GHz pentru o legătură stabilă, iar bateria ține până la 100 de ore, una dintre cele mai mari din top — practic încarci căștile o dată pe săptămână, nu zilnic. Dual Flow Audio permite să mixezi sunetul din joc cu chatul de pe telefon sau alt dispozitiv simultan, o funcție utilă dacă joci și vorbești pe Discord de pe mobil în paralel. La 318 grame e ceva mai grea decât alte modele wireless din listă, dar iluminarea RGB Aura Sync compensează vizual pentru cine vrea un setup asortat. Sunetul e echilibrat, bun pentru gaming competitiv și pentru filme. Recomandăm ROG Delta II în special celor care urăsc să încarce des căștile și vor conectivitate flexibilă între mai multe surse audio.",
+      "review": "ASUS ROG Delta II Wireless mizează pe autonomie și flexibilitate de conectare. Tehnologia ROG SpeedNova combină Bluetooth și Wi-Fi 2.4GHz pentru o legătură stabilă, iar bateria ține până la 100 de ore, una dintre cele mai mari din top, practic încarci căștile o dată pe săptămână, nu zilnic. Dual Flow Audio permite să mixezi sunetul din joc cu chatul de pe telefon sau alt dispozitiv simultan, o funcție utilă dacă joci și vorbești pe Discord de pe mobil în paralel. La 318 grame e ceva mai grea decât alte modele wireless din listă, dar iluminarea RGB Aura Sync compensează vizual pentru cine vrea un setup asortat. Sunetul e echilibrat, bun pentru gaming competitiv și pentru filme. Recomandăm ROG Delta II în special celor care urăsc să încarce des căștile și vor conectivitate flexibilă între mai multe surse audio.",
       "emagUrl": "https://www.emag.ro/casti-gaming-wireless-asus-rog-delta-ii-jack-3-5mm-bt-si-wi-fi-2-4-ghz-prin-rog-speednova-dual-flow-audio-autonomie-100-ore-iluminare-rgb-318-gr-alb-90yh03w0-bhua10/pd/D1BKP43BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205236",
       "image": "/img/products/d1bkp43bm.png"
@@ -455,7 +455,7 @@
       "cons": [
         "Autonomie mai mică, 28 ore"
       ],
-      "review": "Sony INZONE WH-G500W e gândită special pentru ecosistemul PlayStation 5, unde funcția 360 Spatial Sound se activează nativ și oferă o poziționare a sunetului spațial remarcabil de precisă — auzi clar din ce direcție vine un pas sau o împușcătură. Pe PC funcționează la fel de bine prin aplicația dedicată, care calibrează sunetul spațial pe baza formei urechilor tale. Microfonul cu procesare AI reduce zgomotul de fundal fără să sacrifice claritatea vocii, util dacă joci într-o cameră cu zgomot ambiental. Autonomia de 28 de ore e printre cele mai modeste din top, deci va trebui să le încarci mai des decât la concurență. Designul alb, minimalist, se potrivește vizual cu un setup PS5, dar poate ieși din temă lângă un PC cu RGB colorat. Pentru cineva centrat pe consola Sony, e cea mai bună alegere din listă la capitolul sunet spațial.",
+      "review": "Sony INZONE WH-G500W e gândită special pentru ecosistemul PlayStation 5, unde funcția 360 Spatial Sound se activează nativ și oferă o poziționare a sunetului spațial remarcabil de precisă, auzi clar din ce direcție vine un pas sau o împușcătură. Pe PC funcționează la fel de bine prin aplicația dedicată, care calibrează sunetul spațial pe baza formei urechilor tale. Microfonul cu procesare AI reduce zgomotul de fundal fără să sacrifice claritatea vocii, util dacă joci într-o cameră cu zgomot ambiental. Autonomia de 28 de ore e printre cele mai modeste din top, deci va trebui să le încarci mai des decât la concurență. Designul alb, minimalist, se potrivește vizual cu un setup PS5, dar poate ieși din temă lângă un PC cu RGB colorat. Pentru cineva centrat pe consola Sony, e cea mai bună alegere din listă la capitolul sunet spațial.",
       "emagUrl": "https://www.emag.ro/casti-gaming-sony-inzone-wh-g500w-wireless-360-spatial-sound-autonomie-baterie-28-ore-microfon-cu-ai-pentru-pc-playstation5-alb-whg500w-ce7/pd/D4LXQ2YBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205237",
       "image": "/img/products/d4lxq2ybm.jpg"
@@ -512,7 +512,7 @@
         "Certificate Discord/TeamSpeak"
       ],
       "cons": [
-        "Cablu — libertate de mișcare limitată"
+        "Cablu, libertate de mișcare limitată"
       ],
       "review": "HyperX Cloud Alpha rămâne referința pentru cine preferă conexiunea prin fir și vrea sunet consistent, fără să se gândească vreodată la baterie. Drivere Dual Chamber de 50 mm separă frecvențele joase de cele înalte, deci bass-ul nu acoperă vocile sau efectele subtile, un avantaj clar față de multe căști wireless din aceeași gamă de preț. Microfonul detașabil cu noise cancelling e certificat Discord și TeamSpeak, deci calitatea vocii în chat e garantată pe platformele populare. Spuma cu memorie ține confortabil pe cap chiar și după ore lungi, iar construcția multiplatformă merge pe PC, consolă sau mobil printr-un simplu jack 3.5mm. Compromisul evident e cablul, care limitează libertatea de mișcare față de restul topului, mai ales wireless. Pentru cineva care nu vrea să se gândească niciodată la încărcare și pune sunetul clar înaintea libertății wireless, e alegerea noastră cu fir.",
       "emagUrl": "https://www.emag.ro/casti-gaming-hyperx-cloud-alpha-drivere-50mm-dual-chamber-microfon-detasabil-cu-noise-cancelling-certificat-discord-teamspeak-spuma-cu-memorie-multiplatforma-negru-rosu-4p5l1am-abb/pd/DTNT1FMBM",
@@ -573,7 +573,7 @@
       "cons": [
         "Sunet sub nivelul liderilor din top"
       ],
-      "review": "HyperX Cloud Flight 2 combină conectivitatea dublă 2.4GHz și Bluetooth cu o autonomie de până la 100 de ore, deci acoperă zile întregi de utilizare fără încărcare. Iluminarea RGB personalizabilă prin software-ul NGENUITY îți lasă control fin asupra culorilor și efectelor, iar funcția Instant Pair se conectează automat cu anumite laptopuri fără emparare manuală. Plăcuțele detașabile pentru cupe sunt un detaliu practic — poți alege între piele ecologică pentru izolare fonică mai bună sau material respirabil pentru sesiuni lungi pe vreme caldă. Sunetul e bun pentru gaming casual, dar nu impresionează la fel de mult ca modelele Logitech sau SteelSeries din top la claritate și separare a instrumentelor. Microfonul e funcțional pentru chat de echipă, fără pretenții mai mari. Pentru cineva care vrea RGB personalizabil și autonomie mare la un preț de mijloc, Cloud Flight 2 e o opțiune solidă.",
+      "review": "HyperX Cloud Flight 2 combină conectivitatea dublă 2.4GHz și Bluetooth cu o autonomie de până la 100 de ore, deci acoperă zile întregi de utilizare fără încărcare. Iluminarea RGB personalizabilă prin software-ul NGENUITY îți lasă control fin asupra culorilor și efectelor, iar funcția Instant Pair se conectează automat cu anumite laptopuri fără emparare manuală. Plăcuțele detașabile pentru cupe sunt un detaliu practic, poți alege între piele ecologică pentru izolare fonică mai bună sau material respirabil pentru sesiuni lungi pe vreme caldă. Sunetul e bun pentru gaming casual, dar nu impresionează la fel de mult ca modelele Logitech sau SteelSeries din top la claritate și separare a instrumentelor. Microfonul e funcțional pentru chat de echipă, fără pretenții mai mari. Pentru cineva care vrea RGB personalizabil și autonomie mare la un preț de mijloc, Cloud Flight 2 e o opțiune solidă.",
       "emagUrl": "https://www.emag.ro/casti-gaming-wireless-hyperx-cloud-flight-2-iluminare-rgb-personalizabila-cu-placute-detasabile-pentru-cupe-autonomie-max-100-ore-2-4ghz-bluetooth-software-ngenuity-instant-pair-cu-anumite-laptopuri-o/pd/DXTW0W3BM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205239",
       "image": "/img/products/dxtw0w3bm.jpg"
@@ -633,7 +633,7 @@
       "cons": [
         "Microfon sub nivelul PRO X"
       ],
-      "review": "Logitech G735 țintește un public care vrea căști wireless compacte, ușor de asortat cu un setup colorat, nu neapărat cel mai puternic sunet din top. Conexiunea duală Lightspeed și Bluetooth oferă flexibilitate — te conectezi la PC pentru gaming și la telefon pentru muzică sau apeluri fără să schimbi dispozitivul. Iluminarea RGB în tonuri pastelate diferă vizual de restul modelelor mai „gamer” din listă, iar autonomia ajunge la aproximativ 40 de ore cu RGB oprit. Microfonul detașabil cu boom e clar pentru chat de echipă, deși nu la nivelul Blue VO!CE de la modelele Logitech mai scumpe. Confortul e bun pentru sesiuni medii, dar pernuțele sunt ceva mai subțiri decât la G733 sau PRO X 2. Pentru cineva care vrea un design compact, culori diferite de negrul clasic și conectivitate duală, G735 e o alegere plăcută, fără să fie vârful topului.",
+      "review": "Logitech G735 țintește un public care vrea căști wireless compacte, ușor de asortat cu un setup colorat, nu neapărat cel mai puternic sunet din top. Conexiunea duală Lightspeed și Bluetooth oferă flexibilitate, te conectezi la PC pentru gaming și la telefon pentru muzică sau apeluri fără să schimbi dispozitivul. Iluminarea RGB în tonuri pastelate diferă vizual de restul modelelor mai „gamer” din listă, iar autonomia ajunge la aproximativ 40 de ore cu RGB oprit. Microfonul detașabil cu boom e clar pentru chat de echipă, deși nu la nivelul Blue VO!CE de la modelele Logitech mai scumpe. Confortul e bun pentru sesiuni medii, dar pernuțele sunt ceva mai subțiri decât la G733 sau PRO X 2. Pentru cineva care vrea un design compact, culori diferite de negrul clasic și conectivitate duală, G735 e o alegere plăcută, fără să fie vârful topului.",
       "emagUrl": "https://www.emag.ro/casti-wireless-gaming-logitech-g735-alb-981-001083/pd/DS1L5CMBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205240",
       "image": "/img/products/ds1l5cmbm.jpg"

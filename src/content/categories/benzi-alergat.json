@@ -50,11 +50,11 @@
     },
     {
       "h3": "Greutatea maximă suportată",
-      "body": "Alege o bandă cu greutate maximă cu cel puțin 20 kg peste greutatea ta — marja asigură stabilitate, durabilitate și un motor care nu se chinuie. O bandă folosită aproape de limita ei se uzează rapid."
+      "body": "Alege o bandă cu greutate maximă cu cel puțin 20 kg peste greutatea ta, marja asigură stabilitate, durabilitate și un motor care nu se chinuie. O bandă folosită aproape de limita ei se uzează rapid."
     },
     {
       "h3": "Amortizarea și zgomotul",
-      "body": "Un sistem bun de amortizare protejează genunchii și articulațiile la impact — esențial dacă alergi des. Verifică și nivelul de zgomot dacă locuiești la bloc; motoarele inverter și platformele bine amortizate sunt mai silențioase."
+      "body": "Un sistem bun de amortizare protejează genunchii și articulațiile la impact, esențial dacă alergi des. Verifică și nivelul de zgomot dacă locuiești la bloc; motoarele inverter și platformele bine amortizate sunt mai silențioase."
     },
     {
       "h3": "Înclinarea: automată vs. manuală",
@@ -62,19 +62,19 @@
     },
     {
       "h3": "Conectivitate și pliere",
-      "body": "Aplicațiile (Kinomap, Zwift, FitShow) aduc trasee video și antrenamente ghidate care fac alergarea mai puțin plictisitoare. Verifică și dacă banda se pliază și are roți de transport — contează enorm pentru spațiul de acasă."
+      "body": "Aplicațiile (Kinomap, Zwift, FitShow) aduc trasee video și antrenamente ghidate care fac alergarea mai puțin plictisitoare. Verifică și dacă banda se pliază și are roți de transport, contează enorm pentru spațiul de acasă."
     },
     {
       "h3": "Mers vs. alergare: ce bandă ți se potrivește",
-      "body": "Nu toate benzile sunt gândite pentru alergare. Dacă vrei mai ales mers alert sau jogging ocazional, un motor de 2–2,5 CP și o viteză maximă de 10–12 km/h sunt suficiente, iar suprafața poate fi mai mică. Pentru alergare de antrenament, cauți motor de 3+ CP, viteză de minimum 16 km/h și o suprafață mai lungă, ca să nu simți că îți lipsește pasul. Stabilește din start scopul principal — economisești bani dacă nu plătești pentru performanță de care nu ai nevoie, sau eviți frustrarea unei benzi prea slabe pentru ce vrei să faci pe ea."
+      "body": "Nu toate benzile sunt gândite pentru alergare. Dacă vrei mai ales mers alert sau jogging ocazional, un motor de 2–2,5 CP și o viteză maximă de 10–12 km/h sunt suficiente, iar suprafața poate fi mai mică. Pentru alergare de antrenament, cauți motor de 3+ CP, viteză de minimum 16 km/h și o suprafață mai lungă, ca să nu simți că îți lipsește pasul. Stabilește din start scopul principal, economisești bani dacă nu plătești pentru performanță de care nu ai nevoie, sau eviți frustrarea unei benzi prea slabe pentru ce vrei să faci pe ea."
     },
     {
       "h3": "Greșeli frecvente când cumperi o bandă de alergat",
-      "body": "Cea mai comună greșeală e să te uiți doar la viteza maximă din reclamă și să ignori puterea continuă a motorului — o bandă cu motor slab, dar viteză mare pe hârtie, se va supraîncălzi rapid la alergare susținută. A doua greșeală: să cumperi la limita greutății tale, fără marjă, ceea ce scurtează viața motorului și a curelei. A treia: să ignori spațiul necesar la pliere și transportul — o bandă grea, fără roți, devine incomodă de mutat chiar dacă se pliază tehnic. Verifică toate astea înainte, nu după ce ai despachetat-o."
+      "body": "Cea mai comună greșeală e să te uiți doar la viteza maximă din reclamă și să ignori puterea continuă a motorului, o bandă cu motor slab, dar viteză mare pe hârtie, se va supraîncălzi rapid la alergare susținută. A doua greșeală: să cumperi la limita greutății tale, fără marjă, ceea ce scurtează viața motorului și a curelei. A treia: să ignori spațiul necesar la pliere și transportul, o bandă grea, fără roți, devine incomodă de mutat chiar dacă se pliază tehnic. Verifică toate astea înainte, nu după ce ai despachetat-o."
     },
     {
       "h3": "Întreținerea benzii: ungere, curea și curățare",
-      "body": "O bandă de alergat are nevoie de întreținere minimă, dar constantă. Cureaua trebuie unsă periodic — unele modele au sistem de ungere automată (self-oil), altele cer silicon aplicat manual la câteva luni, în funcție de cât de des alergi. Praful și firele de păr se strâng sub bandă și pot afecta senzorii sau tensiunea curelei, așa că o curățare regulată cu aspiratorul prelungește viața motorului. Verifică din când în când și tensiunea și alinierea curelei — o bandă care alunecă sau merge strâmb înseamnă uzură inegală și, în timp, poate deteriora motorul."
+      "body": "O bandă de alergat are nevoie de întreținere minimă, dar constantă. Cureaua trebuie unsă periodic, unele modele au sistem de ungere automată (self-oil), altele cer silicon aplicat manual la câteva luni, în funcție de cât de des alergi. Praful și firele de păr se strâng sub bandă și pot afecta senzorii sau tensiunea curelei, așa că o curățare regulată cu aspiratorul prelungește viața motorului. Verifică din când în când și tensiunea și alinierea curelei, o bandă care alunecă sau merge strâmb înseamnă uzură inegală și, în timp, poate deteriora motorul."
     }
   ],
   "faq": [
@@ -104,7 +104,7 @@
     },
     {
       "q": "Se pliază pentru spațiu mic?",
-      "a": "Majoritatea benzilor de casă se pliază pe verticală și au roți de transport. Verifică dimensiunile în stare pliată și greutatea totală — unele modele sunt grele de manevrat singur, chiar dacă se pliază."
+      "a": "Majoritatea benzilor de casă se pliază pe verticală și au roți de transport. Verifică dimensiunile în stare pliată și greutatea totală, unele modele sunt grele de manevrat singur, chiar dacă se pliază."
     },
     {
       "q": "De ce viteză maximă am nevoie?",
@@ -229,7 +229,7 @@
       "cons": [
         "Ocupă mai mult spațiu chiar și pliată"
       ],
-      "review": "Delta 550 e concurenta directă a locului 1, și diferența dintre ele e mică. Motorul de 4.0 CP susține alergare intensă fără să vibreze, iar înclinarea automată de până la 18% e cea mai mare din tot topul — utilă dacă vrei să simulezi urcușuri reale. Cele trei aplicații compatibile (Kinomap, Zwift, Newrunway) sunt un plus real, nu doar bifă de marketing, pentru că poți alege ce te motivează mai mult. Ce ne-a deranjat: chiar pliată, banda tot cere spațiu de depozitare serios, deci nu e alegerea potrivită pentru o garsonieră mică. Dacă ai loc pentru ea, însă, primești aproape tot ce oferă un model de top, la un scor foarte apropiat de liderul topului.",
+      "review": "Delta 550 e concurenta directă a locului 1, și diferența dintre ele e mică. Motorul de 4.0 CP susține alergare intensă fără să vibreze, iar înclinarea automată de până la 18% e cea mai mare din tot topul, utilă dacă vrei să simulezi urcușuri reale. Cele trei aplicații compatibile (Kinomap, Zwift, Newrunway) sunt un plus real, nu doar bifă de marketing, pentru că poți alege ce te motivează mai mult. Ce ne-a deranjat: chiar pliată, banda tot cere spațiu de depozitare serios, deci nu e alegerea potrivită pentru o garsonieră mică. Dacă ai loc pentru ea, însă, primești aproape tot ce oferă un model de top, la un scor foarte apropiat de liderul topului.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-550-putere-motor-4-0-cp-greutate-suportata-140-kg-acum-3-aplicatii-kinomap-zwift-newrunway-inclinatie-automata-18-viteza-pana-la-18km-h-pliabila-intrare-usb/pd/D12GX3BBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205033"
     },
@@ -289,7 +289,7 @@
       "cons": [
         "Greutate maximă mai mică (120 kg)"
       ],
-      "review": "FIT700 e echilibrul pe care îl recomandăm celor care vor performanță fără să plătească pentru vârful de gamă. Motorul de 3.5 CP duce alergare regulată fără probleme, înclinarea automată pe 15 nivele oferă variație reală de antrenament, iar cele 15 programe presetate ajută mai ales când nu ai chef să-ți construiești singur sesiunea. Pliarea hidraulică e un detaliu care contează în fiecare zi — nu forțezi banda, coboară controlat. Limita clară e greutatea maximă de 120 kg, ceva mai mică decât la modelele de top, deci utilizatorii mai grei ar trebui să se uite în altă parte. Pentru restul, e genul de bandă pe care o alegi când vrei aproape tot ce contează, fără să întinzi bugetul la maximum.",
+      "review": "FIT700 e echilibrul pe care îl recomandăm celor care vor performanță fără să plătească pentru vârful de gamă. Motorul de 3.5 CP duce alergare regulată fără probleme, înclinarea automată pe 15 nivele oferă variație reală de antrenament, iar cele 15 programe presetate ajută mai ales când nu ai chef să-ți construiești singur sesiunea. Pliarea hidraulică e un detaliu care contează în fiecare zi, nu forțezi banda, coboară controlat. Limita clară e greutatea maximă de 120 kg, ceva mai mică decât la modelele de top, deci utilizatorii mai grei ar trebui să se uite în altă parte. Pentru restul, e genul de bandă pe care o alegi când vrei aproape tot ce contează, fără să întinzi bugetul la maximum.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-go4fitr-model-fit700-viteza-maxima-18-km-h-motor-3-5-cp-inclinare-automata-15-nivele-pliere-hidraulica-15-programe-bluetooth-greutate-utilizator-120-kg-ecran-led-cheie-de-siguranta-ro/pd/D4RNZD2BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205034"
     },
@@ -349,7 +349,7 @@
       "cons": [
         "Fără specificarea greutății maxime suportate"
       ],
-      "review": "A5000 e potrivită pentru cineva care aleargă de câteva ori pe săptămână, fără pretenții de performanță maximă. Motorul de 3.25 CP și înclinarea automată acoperă confortabil alergarea regulată, iar viteza de 16 km/h e suficientă pentru majoritatea antrenamentelor de acasă. Aplicația Fitshow, plus intrările MP3 și USB, fac sesiunile mai plăcute fără să complice lucrurile. Ce ne-a lăsat un semn de întrebare e lipsa unei cifre clare pentru greutatea maximă suportată în fișa produsului — dacă ești un utilizator mai greu, merită să verifici acest detaliu înainte să cumperi. În rest, e o bandă solidă, fără artificii, pentru alergare consecventă acasă.",
+      "review": "A5000 e potrivită pentru cineva care aleargă de câteva ori pe săptămână, fără pretenții de performanță maximă. Motorul de 3.25 CP și înclinarea automată acoperă confortabil alergarea regulată, iar viteza de 16 km/h e suficientă pentru majoritatea antrenamentelor de acasă. Aplicația Fitshow, plus intrările MP3 și USB, fac sesiunile mai plăcute fără să complice lucrurile. Ce ne-a lăsat un semn de întrebare e lipsa unei cifre clare pentru greutatea maximă suportată în fișa produsului, dacă ești un utilizator mai greu, merită să verifici acest detaliu înainte să cumperi. În rest, e o bandă solidă, fără artificii, pentru alergare consecventă acasă.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-bodyfitr-motor-3-25-cp-aplicatia-fitshow-viteza-pana-la-16-km-h-inclinatie-automata-intrare-mp3-si-usb-pliabila-a5000/pd/DTF7PGBBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205035"
     },
@@ -408,7 +408,7 @@
       "cons": [
         "Fără înclinare automată"
       ],
-      "review": "Delta 100 e cea pe care o recomandăm cel mai des când cineva ne întreabă care e raportul preț/calitate bun. Amortizarea în 6 puncte cu arcuri se simte net mai blândă cu genunchii decât la restul modelelor din jumătatea de jos a topului, iar sistemul de ungere automată (self-oil) scutește de o grijă de întreținere pe care mulți o uită. Aplicațiile Kinomap și Zwift prin Bluetooth aduc trasee și antrenamente ghidate la un preț la care nu te-ai aștepta. Compromisul e lipsa înclinării automate — dacă vrei simulare de urcuș, trebuie să cauți mai sus în top. Pentru cineva care vrea alergare confortabilă, fără dureri de articulații, la un buget rezonabil, e alegerea noastră de bun-simț.",
+      "review": "Delta 100 e cea pe care o recomandăm cel mai des când cineva ne întreabă care e raportul preț/calitate bun. Amortizarea în 6 puncte cu arcuri se simte net mai blândă cu genunchii decât la restul modelelor din jumătatea de jos a topului, iar sistemul de ungere automată (self-oil) scutește de o grijă de întreținere pe care mulți o uită. Aplicațiile Kinomap și Zwift prin Bluetooth aduc trasee și antrenamente ghidate la un preț la care nu te-ai aștepta. Compromisul e lipsa înclinării automate, dacă vrei simulare de urcuș, trebuie să cauți mai sus în top. Pentru cineva care vrea alergare confortabilă, fără dureri de articulații, la un buget rezonabil, e alegerea noastră de bun-simț.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-100-motor-2-5-cp-bluetooth-kinomap-zwift-newrunway-self-oil-ungere-automata-sistem-de-amortizare-in-6-puncte-arcuri-pliabila-cu-cilindru-intrare-mp3-si-usb-/pd/D5Z0GYBBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205036"
     },
@@ -467,7 +467,7 @@
       "cons": [
         "Viteză maximă limitată la 12 km/h"
       ],
-      "review": "MT10A e o soluție bună pentru cine vrea înclinare automată fără să plătească prețul modelelor de top. Suportă 130 kg, are boxe încorporate și intrări MP3/USB, deci e gândită să facă mersul zilnic mai plăcut, nu neapărat alergarea intensă. Aici e și limita ei clară: viteza maximă de 12 km/h o încadrează la categoria mers și jogging ușor, nu la alergare de antrenament serios. Dacă știi de la început că nu ai nevoie de viteze mari, primești înclinare automată — un lucru rar la acest nivel — plus câteva facilități de confort. Pentru cine merge mult pe bandă și vrea variație de pantă, e un compromis rezonabil.",
+      "review": "MT10A e o soluție bună pentru cine vrea înclinare automată fără să plătească prețul modelelor de top. Suportă 130 kg, are boxe încorporate și intrări MP3/USB, deci e gândită să facă mersul zilnic mai plăcut, nu neapărat alergarea intensă. Aici e și limita ei clară: viteza maximă de 12 km/h o încadrează la categoria mers și jogging ușor, nu la alergare de antrenament serios. Dacă știi de la început că nu ai nevoie de viteze mari, primești înclinare automată, un lucru rar la acest nivel, plus câteva facilități de confort. Pentru cine merge mult pe bandă și vrea variație de pantă, e un compromis rezonabil.",
       "emagUrl": "https://www.emag.ro/banda-alergare-cu-inclinare-automata-energy-fit-viteza-maxima-12km-h-greutate-maxima-utilizator-130kg-mp3-input-usb-boxe-incorporate-pliabila-pe-cilindru-roti-transport-mt10a/pd/D4KNF3BBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205037"
     },
@@ -580,7 +580,7 @@
       "cons": [
         "Motor mic (2 CP), fără aplicații"
       ],
-      "review": "Delta 2000 nu încearcă să fie o bandă de performanță, și tocmai asta ne-a plăcut la ea — face bine ce își propune. Suprafața de 122x42 cm e mai generoasă decât te-ai aștepta la acest nivel, deci nici cei mai înalți nu se simt înghesuiți la mers. Comenzile simple și lipsa oricărei complicații tehnice o fac ușor de folosit din prima zi, fără manual citit pe îndelete. Motorul de 2.0 CP și viteza maximă de 12 km/h sunt însă limitele clare: e o bandă pentru mers și jogging ușor, nu pentru alergare susținută, și nu vine cu aplicații sau programe elaborate. Pentru cineva care vrea doar să se miște zilnic, fără pretenții, își face treaba onest.",
+      "review": "Delta 2000 nu încearcă să fie o bandă de performanță, și tocmai asta ne-a plăcut la ea, face bine ce își propune. Suprafața de 122x42 cm e mai generoasă decât te-ai aștepta la acest nivel, deci nici cei mai înalți nu se simt înghesuiți la mers. Comenzile simple și lipsa oricărei complicații tehnice o fac ușor de folosit din prima zi, fără manual citit pe îndelete. Motorul de 2.0 CP și viteza maximă de 12 km/h sunt însă limitele clare: e o bandă pentru mers și jogging ușor, nu pentru alergare susținută, și nu vine cu aplicații sau programe elaborate. Pentru cineva care vrea doar să se miște zilnic, fără pretenții, își face treaba onest.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-fittronicr-delta-2000-putere-max-motor-2-0-cp-suprafata-de-alergare-122x42-cm-viteza-12-km-h-d2000/pd/DT3H1MMBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205039"
     },
@@ -639,7 +639,7 @@
       "cons": [
         "Doar înclinare manuală"
       ],
-      "review": "Runex R3 e alegerea evidentă dacă spațiul de depozitare e principala ta grijă — se pliază 100% și ocupă foarte puțin loc lipită de perete, spre deosebire de multe modele din segmentul ei care rămân voluminoase chiar pliate. Compatibilitatea cu Fitshow, Kinomap și Zwift prin Bluetooth e un plus neașteptat la acest preț și aduce ceva varietate în antrenamente. Suprafața de 105x40 cm și greutatea maximă de 100 kg sunt însă modeste, deci nu e potrivită pentru alergători înalți sau grei. Înclinarea rămâne strict manuală, ceea ce înseamnă că trebuie să te oprești ca s-o ajustezi. Pentru un apartament mic, unde spațiul contează mai mult decât performanța de vârf, e o soluție onestă.",
+      "review": "Runex R3 e alegerea evidentă dacă spațiul de depozitare e principala ta grijă, se pliază 100% și ocupă foarte puțin loc lipită de perete, spre deosebire de multe modele din segmentul ei care rămân voluminoase chiar pliate. Compatibilitatea cu Fitshow, Kinomap și Zwift prin Bluetooth e un plus neașteptat la acest preț și aduce ceva varietate în antrenamente. Suprafața de 105x40 cm și greutatea maximă de 100 kg sunt însă modeste, deci nu e potrivită pentru alergători înalți sau grei. Înclinarea rămâne strict manuală, ceea ce înseamnă că trebuie să te oprești ca s-o ajustezi. Pentru un apartament mic, unde spațiul contează mai mult decât performanța de vârf, e o soluție onestă.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-lotto-runex-r3-inclinare-manuala-bluetooth-fitshow-kinomap-zwift-viteza-maxima-12-km-h-motor-2cp-greutate-maxima-suportata-100kg-100-pliabila-suprafata-alergare-105x40-cm-ru/pd/DD7GG83BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205040"
     },
@@ -698,7 +698,7 @@
       "cons": [
         "Fără înclinare automată, motor modest"
       ],
-      "review": "Sprint C1 e răspunsul pentru cine vrea pur și simplu o bandă funcțională, fără să caute performanță. Cele 12 programe presetate plus compatibilitatea cu Fitshow, Kinomap și Zwift prin Bluetooth sunt neașteptat de multe pentru cea mai accesibilă bandă din top, iar faptul că se pliază ușurează depozitarea într-un spațiu mic. Motorul e însă modest și viteza maximă de 12 km/h te încadrează strict la mers și jogging lejer — nu te aștepta la mai mult. Nu are înclinare automată, deci antrenamentele rămân relativ plate ca intensitate. Pentru cineva care vrea doar să înceapă să se miște zilnic acasă, fără să investească mult, e o alegere onestă de intrare.",
+      "review": "Sprint C1 e răspunsul pentru cine vrea pur și simplu o bandă funcțională, fără să caute performanță. Cele 12 programe presetate plus compatibilitatea cu Fitshow, Kinomap și Zwift prin Bluetooth sunt neașteptat de multe pentru cea mai accesibilă bandă din top, iar faptul că se pliază ușurează depozitarea într-un spațiu mic. Motorul e însă modest și viteza maximă de 12 km/h te încadrează strict la mers și jogging lejer, nu te aștepta la mai mult. Nu are înclinare automată, deci antrenamentele rămân relativ plate ca intensitate. Pentru cineva care vrea doar să înceapă să se miște zilnic acasă, fără să investească mult, e o alegere onestă de intrare.",
       "emagUrl": "https://www.emag.ro/banda-de-alergat-electrica-orion-sprint-c1-bluetooth-fitshow-kinomap-zwift-viteza-maxima-12-km-h-greutate-maxima-suportata-100kg-pliabila-12-programe-presetate-sprintc1/pd/D6SWG8BBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205041"
     }
@@ -740,7 +740,7 @@
         "b": "Buget, mers/jogging ușor"
       }
     ],
-    "verdict": "Ia înclinare automată dacă vrei antrenamente variate, programe și integrare cu aplicații — schimbi panta fără să te oprești. Înclinarea manuală e suficientă și mai ieftină dacă folosești banda mai ales pentru mers sau jogging ușor."
+    "verdict": "Ia înclinare automată dacă vrei antrenamente variate, programe și integrare cu aplicații, schimbi panta fără să te oprești. Înclinarea manuală e suficientă și mai ieftină dacă folosești banda mai ales pentru mers sau jogging ușor."
   },
   "priceBuckets": []
 }

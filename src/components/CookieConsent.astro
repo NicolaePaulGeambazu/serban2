@@ -1,5 +1,5 @@
 ---
-// Custom, self-hosted consent manager — no third-party CMP needed.
+// Custom, self-hosted consent manager, no third-party CMP needed.
 // Scripts for analytics / affiliate tags load ONLY after the matching consent.
 import { site } from '../data/site';
 const gaId = site.googleAnalyticsId;
@@ -24,7 +24,7 @@ const gtmId = site.googleTagManagerId;
     <p class="lead">Alege ce categorii accepți. Poți reveni oricând din subsolul paginii.</p>
 
     <div class="ck-cat">
-      <div class="txt"><h4>Strict necesare</h4><p>Fac site-ul să funcționeze — navigare, securitate și memorarea alegerii tale. Nu pot fi dezactivate.</p></div>
+      <div class="txt"><h4>Strict necesare</h4><p>Fac site-ul să funcționeze, navigare, securitate și memorarea alegerii tale. Nu pot fi dezactivate.</p></div>
       <label class="sw"><input type="checkbox" checked disabled aria-label="Necesare (mereu active)" /><span class="track"></span><span class="knob"></span></label>
     </div>
     <div class="ck-cat">
@@ -81,7 +81,7 @@ const gtmId = site.googleTagManagerId;
     function apply(c) {
       if (!c) return;
       window.dataLayer = window.dataLayer || [];
-      // Google Consent Mode v2 — push the user's choice so GTM/GA update from the
+      // Google Consent Mode v2, push the user's choice so GTM/GA update from the
       // default "denied" state set in the <head>.
       function gtag(){ window.dataLayer.push(arguments); }
       gtag('consent', 'update', {

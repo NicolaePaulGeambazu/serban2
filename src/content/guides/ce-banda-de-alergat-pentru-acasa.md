@@ -8,7 +8,7 @@ order: 15
 
 O bandă de alergat pare simplă până începi să compari fișe tehnice pline de cifre. Cel mai important e să pornești de la cum o vei folosi: mers alert, jogging ușor sau antrenamente serioase de alergare. De aici decurg puterea motorului, dimensiunea benzii și restul.
 
-## Motorul — cere putere „continuă" (CHP), nu de vârf
+## Motorul, cere putere „continuă" (CHP), nu de vârf
 
 Producătorii afișează adesea puterea „de vârf" (peak), un număr umflat. Uită-te la **puterea continuă (CHP / CP continuu)**, cea reală în timpul antrenamentului.
 - Pentru **mers și jogging ocazional**: ~2,0–2,5 CHP e suficient.
@@ -39,15 +39,15 @@ Verifică **greutatea maximă suportată** și lasă o marjă: alege un model co
 
 **Înclinarea (incline)** crește intensitatea și simulează urcarea. **Înclinarea automată (auto incline)**, reglată din consolă sau din aplicație, e mult mai comodă decât cea manuală și e utilă la antrenamentele pe intervale.
 
-➕ **Plierea (folding)** economisește spațiu — aproape obligatorie într-un apartament. Caută un sistem de pliere stabil, ideal cu amortizare la coborâre.
+➕ **Plierea (folding)** economisește spațiu, aproape obligatorie într-un apartament. Caută un sistem de pliere stabil, ideal cu amortizare la coborâre.
 ➖ Modelele pliabile foarte ieftine pot fi mai puțin rigide; verifică stabilitatea cadrului.
 
 **Conectivitatea cu aplicații** transformă antrenamentul monoton într-unul ghidat. Verifică suportul pentru **Kinomap** (trasee video reale) sau **Zwift** (alergare virtuală), plus compatibilitatea **Bluetooth** cu centura de puls. Atenție: unele benzi „smart" funcționează doar cu aplicația proprie, mai limitată.
 
 ## La ce să nu te lași păcălit
 
-- **Cifra „peak" a motorului** — irelevantă; contează CHP.
-- **Programe multe preinstalate** — sună bine, dar rar folosite; un motor bun și o bandă mare valorează mai mult.
-- **Zgomotul** — motoarele slabe și benzile subțiri sunt gălăgioase; important dacă locuiești la bloc.
+- **Cifra „peak" a motorului**, irelevantă; contează CHP.
+- **Programe multe preinstalate**, sună bine, dar rar folosite; un motor bun și o bandă mare valorează mai mult.
+- **Zgomotul**, motoarele slabe și benzile subțiri sunt gălăgioase; important dacă locuiești la bloc.
 
 Vezi modelele pe care le recomandăm, cu putere continuă, dimensiunea benzii și conectivitatea notate clar, în [clasamentul de benzi de alergat](/clasament/benzi-alergat/).

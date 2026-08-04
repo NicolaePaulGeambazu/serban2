@@ -41,17 +41,17 @@
   "guide": [
     {
       "h3": "Autonomia reală vs. autonomia din specificații",
-      "body": "Autonomia declarată (55-120 km în acest top) se măsoară în condiții ideale: teren plat, asistență minimă, ciclist ușor, vreme caldă. În realitate, pe dealuri, cu asistență mare sau pe frig, poți pierde 30-40% din cifra de pe cutie. Ce contează cu adevărat e capacitatea bateriei în wați-oră (Wh) — o baterie de 48V 13Ah înseamnă circa 624 Wh, iar un consum tipic e de 10-20 Wh pe kilometru. Verifică tensiunea și amperajul, nu doar kilometrii promiși.",
+      "body": "Autonomia declarată (55-120 km în acest top) se măsoară în condiții ideale: teren plat, asistență minimă, ciclist ușor, vreme caldă. În realitate, pe dealuri, cu asistență mare sau pe frig, poți pierde 30-40% din cifra de pe cutie. Ce contează cu adevărat e capacitatea bateriei în wați-oră (Wh), o baterie de 48V 13Ah înseamnă circa 624 Wh, iar un consum tipic e de 10-20 Wh pe kilometru. Verifică tensiunea și amperajul, nu doar kilometrii promiși.",
       "callout": "Împarte mereu autonomia declarată la 1,4-1,7 pentru o estimare realistă în oraș, cu dealuri și opriri dese."
     },
     {
       "h3": "Motor de butuc (hub) vs. motor central (mid-drive)",
-      "body": "Majoritatea e-bike-urilor accesibile folosesc un motor în butucul roții din spate (hub) — ieftin, silențios și fără întreținere, dar mai puțin eficient pe pante abrupte. Motorul central (mid-drive), montat la pedalier, oferă un cuplu mai bun la urcare și o distribuție mai echilibrată a greutății, fiind preferat pe e-MTB. În acest top predomină motoarele hub, de la 220 W la modelele de oraș până la 2000 W dual motor pe varianta off-road extremă."
+      "body": "Majoritatea e-bike-urilor accesibile folosesc un motor în butucul roții din spate (hub), ieftin, silențios și fără întreținere, dar mai puțin eficient pe pante abrupte. Motorul central (mid-drive), montat la pedalier, oferă un cuplu mai bun la urcare și o distribuție mai echilibrată a greutății, fiind preferat pe e-MTB. În acest top predomină motoarele hub, de la 220 W la modelele de oraș până la 2000 W dual motor pe varianta off-road extremă."
     },
     {
       "h3": "Legislația în România: ce contează la 250 W și peste 25 km/h",
       "body": "În România, o bicicletă electrică se conduce fără permis, înmatriculare sau asigurare doar dacă motorul are maximum 250 W și asistența se oprește la 25 km/h. Modelele cu putere mai mare sau viteză peste 25 km/h (precum variantele de 1000 W sau 50 km/h din acest top) intră legal în categoria mopedelor și pot cere înmatriculare, permis și asigurare RCA. Verifică specificațiile exacte și limitează viteza dacă vrei să circuli strict ca bicicletă.",
-      "callout": "Un e-bike de 1000 W sau care depășește 25 km/h nu mai e „bicicletă” în ochii legii — informează-te înainte să circuli pe drum public."
+      "callout": "Un e-bike de 1000 W sau care depășește 25 km/h nu mai e „bicicletă” în ochii legii, informează-te înainte să circuli pe drum public."
     },
     {
       "h3": "Mărimea roții: 20\", 26\", 27,5\" sau 29\"",
@@ -63,18 +63,18 @@
     },
     {
       "h3": "Baterie detașabilă și încărcare",
-      "body": "O baterie detașabilă (ca la Eleglide M2) se scoate din cadru și se încarcă în casă sau la birou, un avantaj mare dacă parchezi bicicleta afară sau într-un garaj fără priză. Bateriile fixe cer să aduci tot vehiculul lângă priză. Verifică timpul de încărcare (de obicei 4-8 ore) și dacă producătorul vinde o baterie de rezervă — ai putea dubla autonomia purtând un acumulator în plus la drumuri lungi."
+      "body": "O baterie detașabilă (ca la Eleglide M2) se scoate din cadru și se încarcă în casă sau la birou, un avantaj mare dacă parchezi bicicleta afară sau într-un garaj fără priză. Bateriile fixe cer să aduci tot vehiculul lângă priză. Verifică timpul de încărcare (de obicei 4-8 ore) și dacă producătorul vinde o baterie de rezervă, ai putea dubla autonomia purtând un acumulator în plus la drumuri lungi."
     },
     {
       "h3": "Greșeli frecvente când cumperi o bicicletă electrică",
-      "body": "Prima greșeală e să te iei doar după autonomia și viteza de pe cutie, fără să verifici capacitatea reală a bateriei (Wh) și cadrul legal. A doua e să ignori greutatea: un e-bike fat-tire sau full suspension poate depăși 25-30 kg, greu de urcat pe scări sau de pedalat fără baterie. A treia e să confunzi o bicicletă electrică cu una clasică — două modele din acest top sunt biciclete obișnuite, fără motor, incluse ca alternative pentru cine vrea efort pur, nu asistență.",
-      "callout": "Dacă locuiești la etaj fără lift, cântărește bicicleta înainte — un model de peste 25 kg devine repede o corvoadă zilnică."
+      "body": "Prima greșeală e să te iei doar după autonomia și viteza de pe cutie, fără să verifici capacitatea reală a bateriei (Wh) și cadrul legal. A doua e să ignori greutatea: un e-bike fat-tire sau full suspension poate depăși 25-30 kg, greu de urcat pe scări sau de pedalat fără baterie. A treia e să confunzi o bicicletă electrică cu una clasică, două modele din acest top sunt biciclete obișnuite, fără motor, incluse ca alternative pentru cine vrea efort pur, nu asistență.",
+      "callout": "Dacă locuiești la etaj fără lift, cântărește bicicleta înainte, un model de peste 25 kg devine repede o corvoadă zilnică."
     }
   ],
   "faq": [
     {
       "q": "Am nevoie de permis sau asigurare pentru o bicicletă electrică în România?",
-      "a": "Nu, dacă motorul are maximum 250 W și asistența se oprește la 25 km/h — atunci e considerată bicicletă. Modelele mai puternice sau mai rapide (1000 W, 50 km/h) intră legal în categoria mopedelor și pot cere înmatriculare, permis AM și asigurare RCA. Verifică specificațiile exacte înainte de a circula pe drum public."
+      "a": "Nu, dacă motorul are maximum 250 W și asistența se oprește la 25 km/h, atunci e considerată bicicletă. Modelele mai puternice sau mai rapide (1000 W, 50 km/h) intră legal în categoria mopedelor și pot cere înmatriculare, permis AM și asigurare RCA. Verifică specificațiile exacte înainte de a circula pe drum public."
     },
     {
       "q": "Ce autonomie reală pot să aștept de la o bicicletă electrică?",
@@ -98,7 +98,7 @@
     },
     {
       "q": "De ce sunt incluse și biciclete fără motor în acest clasament?",
-      "a": "Am inclus două biciclete clasice (Devron RM2.7 și Pegas Drumeț Pro) ca alternative pentru cine preferă efortul pur, o greutate mai mică și un preț mai accesibil. Nu au motor sau baterie și nu oferă asistență la pedalare — sunt biciclete obișnuite, marcate clar ca atare, pentru cine nu vrea neapărat o e-bike."
+      "a": "Am inclus două biciclete clasice (Devron RM2.7 și Pegas Drumeț Pro) ca alternative pentru cine preferă efortul pur, o greutate mai mică și un preț mai accesibil. Nu au motor sau baterie și nu oferă asistență la pedalare, sunt biciclete obișnuite, marcate clar ca atare, pentru cine nu vrea neapărat o e-bike."
     },
     {
       "q": "Cât cântărește o bicicletă electrică și contează asta?",
@@ -220,7 +220,7 @@
         "Roți de 26\" mai puțin lin pe teren accidentat decât 29\"",
         "Orientată strict spre oraș, mai puțin versatilă off-road"
       ],
-      "review": "Ulzomo Metro 26 e cea mai bună alegere din top pentru navetă strict urbană. Cu roți de 26\" și o geometrie gândită pentru oraș, oferă o poziție de pedalare dreaptă și confortabilă, ideală pentru traseul zilnic spre birou sau prin trafic. Formatul de city e-bike o face agilă la manevre și stabilă pe asfalt, iar designul curat, în varianta verde, se remarcă fără să fie ostentativ. Nu e gândită pentru teren accidentat — roțile de 26\" și lipsa unei suspensii serioase o dezavantajează off-road față de e-MTB-urile din top. Pentru cine caută însă o bicicletă electrică simplă, elegantă și eficientă pentru oraș, e o opțiune foarte bine calibrată. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm ca cea mai potrivită e-bike urbană din selecție.",
+      "review": "Ulzomo Metro 26 e cea mai bună alegere din top pentru navetă strict urbană. Cu roți de 26\" și o geometrie gândită pentru oraș, oferă o poziție de pedalare dreaptă și confortabilă, ideală pentru traseul zilnic spre birou sau prin trafic. Formatul de city e-bike o face agilă la manevre și stabilă pe asfalt, iar designul curat, în varianta verde, se remarcă fără să fie ostentativ. Nu e gândită pentru teren accidentat, roțile de 26\" și lipsa unei suspensii serioase o dezavantajează off-road față de e-MTB-urile din top. Pentru cine caută însă o bicicletă electrică simplă, elegantă și eficientă pentru oraș, e o opțiune foarte bine calibrată. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm ca cea mai potrivită e-bike urbană din selecție.",
       "emagUrl": "https://www.emag.ro/bicicleta-electrica-oras-ulzomo-metro-26-e-bike-verde-metro26green/pd/DRK87BYBM/",
       "image": "/img/products/drk87bybm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214338"
@@ -280,7 +280,7 @@
         "Greutate mare tipică modelelor fat-tire pliabile",
         "Roți mici de 20\", mai puțin line pe drum lung decât roțile mari"
       ],
-      "review": "Engwe EP-2 Pro oferă cel mai bun raport preț/calitate din top, combinând un cadru pliabil cu autonomia declarată cea mai mare dintre modelele compacte — până la 120 km, alimentată de o baterie 48V 13Ah (circa 624 Wh). Cauciucurile groase fat-tire de 20\" oferă aderență și amortizare bună pe asfalt denivelat, macadam sau chiar zăpadă ușoară, iar suspensia față adaugă confort. Asistența se oprește la 25 km/h, ceea ce o menține în cadrul legal de bicicletă în România. Cele 7 viteze acoperă bine pedalarea în oraș și pe pante moderate. Fiind un model fat-tire pliabil, e mai greu decât o e-bike obișnuită, iar roțile mici transmit mai mult din denivelări pe drum lung. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm ca cea mai bună alegere pentru autonomie și versatilitate la preț echilibrat.",
+      "review": "Engwe EP-2 Pro oferă cel mai bun raport preț/calitate din top, combinând un cadru pliabil cu autonomia declarată cea mai mare dintre modelele compacte, până la 120 km, alimentată de o baterie 48V 13Ah (circa 624 Wh). Cauciucurile groase fat-tire de 20\" oferă aderență și amortizare bună pe asfalt denivelat, macadam sau chiar zăpadă ușoară, iar suspensia față adaugă confort. Asistența se oprește la 25 km/h, ceea ce o menține în cadrul legal de bicicletă în România. Cele 7 viteze acoperă bine pedalarea în oraș și pe pante moderate. Fiind un model fat-tire pliabil, e mai greu decât o e-bike obișnuită, iar roțile mici transmit mai mult din denivelări pe drum lung. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm ca cea mai bună alegere pentru autonomie și versatilitate la preț echilibrat.",
       "emagUrl": "https://www.emag.ro/bicicleta-electrica-engwe-ep-2-pro-suspensie-fata-bicicleta-electrica-pliabila-cu-7-viteze-viteza-25km-h-bicicleta-electrica-120km-baterie-48v13ah-cauciucuri-groase-de-20-inch-bicicleta-electrica-de-m/pd/DBRG96YBM/",
       "image": "/img/products/dbrg96ybm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214339"
@@ -512,7 +512,7 @@
         "La 2000 W intră clar în afara categoriei de bicicletă (moped/uz privat)",
         "Foarte grea, nișă strict off-road, mai puțin practică urban"
       ],
-      "review": "Shengmilo S600 e cea mai puternică bicicletă electrică din top, cu un motor dual de 2000 W și suspensie integrală, gândită strict pentru off-road agresiv și teren dificil. Bateria de 48V 17.5Ah (circa 840 Wh) alimentează un cuplu mare, util pe pante abrupte și trasee tehnice, iar full suspension-ul absoarbe impacturile pe teren accidentat. E o mașinărie de nișă: la 2000 W depășește cu mult limita legală de 250 W pentru biciclete în România, deci nu poate fi folosită liber pe drum public — ține mai degrabă de uzul privat sau de traseele off-road dedicate. E și foarte grea și voluminoasă, deci mai puțin practică pentru navetă urbană sau depozitare la etaj. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm doar pentru pasionații de teren extrem, conștienți de restricțiile de utilizare.",
+      "review": "Shengmilo S600 e cea mai puternică bicicletă electrică din top, cu un motor dual de 2000 W și suspensie integrală, gândită strict pentru off-road agresiv și teren dificil. Bateria de 48V 17.5Ah (circa 840 Wh) alimentează un cuplu mare, util pe pante abrupte și trasee tehnice, iar full suspension-ul absoarbe impacturile pe teren accidentat. E o mașinărie de nișă: la 2000 W depășește cu mult limita legală de 250 W pentru biciclete în România, deci nu poate fi folosită liber pe drum public, ține mai degrabă de uzul privat sau de traseele off-road dedicate. E și foarte grea și voluminoasă, deci mai puțin practică pentru navetă urbană sau depozitare la etaj. Conform specificațiilor și recenziilor cumpărătorilor, o recomandăm doar pentru pasionații de teren extrem, conștienți de restricțiile de utilizare.",
       "emagUrl": "https://www.emag.ro/bicicleta-electrica-mtn-shengmilo-s600-2000w-dual-motor-48v-17-5ah-26-inch-full-suspension-pentru-adulti-s600-2/pd/DD34B83BM/",
       "image": "/img/products/dd34b83bm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214343"
@@ -621,10 +621,10 @@
         "Fără costuri de baterie și fără grija autonomiei"
       ],
       "cons": [
-        "Nu are motor sau baterie — nu oferă asistență la pedalare",
+        "Nu are motor sau baterie, nu oferă asistență la pedalare",
         "Cadru doar mărimea L, pentru cicliști mai înalți"
       ],
-      "review": "Devron RM2.7 e o bicicletă de munte clasică, fără motor și fără baterie — o includem ca alternativă pentru cine preferă efortul pur al pedalării, nu asistența electrică. Are roți de 27,5\" și un cadru de mărimea L, potrivit pentru cicliști mai înalți, gândit pentru trasee MTB și teren variat. Fiind o bicicletă obișnuită, e semnificativ mai ușoară decât un e-MTB, nu necesită încărcare și nu are grija autonomiei sau a costurilor unei baterii. Trebuie spus clar: nu oferă niciun fel de asistență la pedalare, deci urcarea dealurilor și distanțele lungi depind exclusiv de forma fizică a ciclistului. Pentru pasionații de mișcare care nu vor o e-bike, e o alegere solidă și accesibilă. Conform specificațiilor, o recomandăm ca alternativă clasică pentru cine caută antrenament, nu asistență.",
+      "review": "Devron RM2.7 e o bicicletă de munte clasică, fără motor și fără baterie, o includem ca alternativă pentru cine preferă efortul pur al pedalării, nu asistența electrică. Are roți de 27,5\" și un cadru de mărimea L, potrivit pentru cicliști mai înalți, gândit pentru trasee MTB și teren variat. Fiind o bicicletă obișnuită, e semnificativ mai ușoară decât un e-MTB, nu necesită încărcare și nu are grija autonomiei sau a costurilor unei baterii. Trebuie spus clar: nu oferă niciun fel de asistență la pedalare, deci urcarea dealurilor și distanțele lungi depind exclusiv de forma fizică a ciclistului. Pentru pasionații de mișcare care nu vor o e-bike, e o alegere solidă și accesibilă. Conform specificațiilor, o recomandăm ca alternativă clasică pentru cine caută antrenament, nu asistență.",
       "emagUrl": "https://www.emag.ro/bicicleta-mtb-devron-2023-rm2-7-27-5-inch-l-negru-222rm274960abp/pd/DT8TQ5MBM/",
       "image": "/img/products/dt8tq5mbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214345"
@@ -677,7 +677,7 @@
         "Brand local recunoscut, design distinctiv"
       ],
       "cons": [
-        "Nu are motor sau baterie — nu oferă asistență la pedalare",
+        "Nu are motor sau baterie, nu oferă asistență la pedalare",
         "Efortul la urcare și pe distanțe lungi depinde de ciclist"
       ],
       "review": "Pegas Drumeț Pro S e o bicicletă clasică de tip city/trekking, fără motor și fără baterie, inclusă în top ca alternativă pentru cine preferă pedalarea fără asistență electrică. Poartă amprenta brandului românesc Pegas, cu un design distinctiv în varianta portocaliu/gri și o geometrie confortabilă, potrivită pentru navetă și plimbări pe asfalt sau drumuri de țară. Roțile de 27,5\" oferă un echilibru bun între agilitate și stabilitate. Ca și în cazul celeilalte biciclete clasice din top, trebuie spus limpede: nu are niciun fel de asistență la pedalare, deci urcarea și distanțele lungi cer efort fizic real. E, în schimb, mai ușoară, fără costuri de baterie și fără grija încărcării. Conform specificațiilor, o recomandăm ca alternativă clasică, cu personalitate, pentru cine nu vrea o bicicletă electrică.",
@@ -728,6 +728,6 @@
         "b": "Munte, pante lungi, teren tehnic"
       }
     ],
-    "verdict": "Pentru navetă urbană și teren plat, un motor de butuc e mai ieftin, silențios și fără bătăi de cap la întreținere — suficient pentru majoritatea cumpărătorilor. Motorul central merită investiția doar dacă urci frecvent pante lungi sau mergi pe teren tehnic, unde cuplul superior și echilibrul greutății fac o diferență reală."
+    "verdict": "Pentru navetă urbană și teren plat, un motor de butuc e mai ieftin, silențios și fără bătăi de cap la întreținere, suficient pentru majoritatea cumpărătorilor. Motorul central merită investiția doar dacă urci frecvent pante lungi sau mergi pe teren tehnic, unde cuplul superior și echilibrul greutății fac o diferență reală."
   }
 }

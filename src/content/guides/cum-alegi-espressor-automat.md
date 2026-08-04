@@ -1,16 +1,16 @@
 ---
 title: "Cum alegi un espressor automat de cafea: ghid complet"
-description: "Automat vs manual, sisteme de lapte (LatteGo, LatteCrema, carafă), râșniță, număr de băuturi și cât de greu e la curățat — pe înțelesul tuturor."
+description: "Automat vs manual, sisteme de lapte (LatteGo, LatteCrema, carafă), râșniță, număr de băuturi și cât de greu e la curățat, pe înțelesul tuturor."
 kicker: "Espressoare"
 updated: "2026-07-18"
 order: 11
 ---
 
-Un espressor automat („bean-to-cup") macină boabele și face cafeaua la o apăsare de buton — comoditate maximă, dar și diferențe mari de la un model la altul. Iată ce contează cu adevărat înainte să cumperi.
+Un espressor automat („bean-to-cup") macină boabele și face cafeaua la o apăsare de buton, comoditate maximă, dar și diferențe mari de la un model la altul. Iată ce contează cu adevărat înainte să cumperi.
 
 ## Automat vs. manual: ce ți se potrivește
 
-La un **espressor automat** pui boabe și apă, apeși un buton și primești cafeaua gata. La unul **manual (cu portafiltru)** dozezi, presezi (tamping) și extragi tu — controlezi totul, dar durează și cere învățare.
+La un **espressor automat** pui boabe și apă, apeși un buton și primești cafeaua gata. La unul **manual (cu portafiltru)** dozezi, presezi (tamping) și extragi tu, controlezi totul, dar durează și cere învățare.
 
 - ➕ **Automat:** rapid, consecvent, ideal pentru birou sau familie; presiune la un buton.
 - ➕ **Manual:** control total asupra extragerii, potențial de gust superior, cost inițial mai mic.
@@ -32,7 +32,7 @@ Regula practică: cu cât sunt mai puține piese și tuburi, cu atât speli mai 
 
 ## Râșnița și numărul de băuturi
 
-**Râșnița** e inima aparatului. Cele **ceramice** rămân reci și se tocesc greu, cele **metalice** sunt robuste — ambele sunt bune, evită doar mecanismele fragile. Verifică să aibă **trepte de măcinare reglabile** (măcinat fin = extracție mai intensă).
+**Râșnița** e inima aparatului. Cele **ceramice** rămân reci și se tocesc greu, cele **metalice** sunt robuste, ambele sunt bune, evită doar mecanismele fragile. Verifică să aibă **trepte de măcinare reglabile** (măcinat fin = extracție mai intensă).
 
 **Numărul de băuturi presetate** contează după cum bei: unele modele fac 4–5 rețete, altele peste 15 (ristretto, lungo, americano, flat white, cappuccino etc.). Dacă în casă sunt mai mulți băutori, caută **profiluri de utilizator** salvate, ca fiecare să-și regleze tăria și volumul o singură dată.
 
@@ -47,10 +47,10 @@ Regula practică: cu cât sunt mai puține piese și tuburi, cu atât speli mai 
 Un automat cere disciplină, altfel gustul scade și apar defecțiuni:
 
 - **Zilnic/frecvent:** clătește circuitul de lapte imediat după folosire și golește zațul și tăvița.
-- **Grup de infuzare detașabil:** un mare avantaj — îl scoți și îl clătești sub apă. Modelele cu grup fix cer curățare cu pastile și sunt mai pretențioase.
+- **Grup de infuzare detașabil:** un mare avantaj, îl scoți și îl clătești sub apă. Modelele cu grup fix cer curățare cu pastile și sunt mai pretențioase.
 - **Detartrare periodică:** obligatorie, mai ales cu apă dură; un **filtru de apă** rărește detartrările și protejează aparatul.
-- Caută **programe automate de clătire și detartrare** — îți spun exact ce să faci și când.
+- Caută **programe automate de clătire și detartrare**, îți spun exact ce să faci și când.
 
-Alege în funcție de cât de des bei cafea cu lapte și de cât timp ești dispus să aloci curățării — acolo se simte cel mai mult diferența pe termen lung.
+Alege în funcție de cât de des bei cafea cu lapte și de cât timp ești dispus să aloci curățării, acolo se simte cel mai mult diferența pe termen lung.
 
 Vezi modelele pe care le recomandăm, cu sistemul de lapte și tipul de întreținere notate clar, în [clasamentul de espressoare](/clasament/espressoare/).

@@ -4,7 +4,7 @@
   "parent": "Electronice",
   "icon": "laptop",
   "order": 13,
-  "intro": "Am ales și am comparat cele mai populare laptopuri de gaming ale momentului, judecate după placa video, procesor, ecran și sistemul de răcire. Mai jos ai topul nostru cu argumente pentru fiecare loc și buget — de la modele RTX seria 50 premium precum ASUS ROG Strix SCAR 18, până la variante RTX 4050 sau RTX 3050 accesibile pentru gaming la FHD.",
+  "intro": "Am ales și am comparat cele mai populare laptopuri de gaming ale momentului, judecate după placa video, procesor, ecran și sistemul de răcire. Mai jos ai topul nostru cu argumente pentru fiecare loc și buget, de la modele RTX seria 50 premium precum ASUS ROG Strix SCAR 18, până la variante RTX 4050 sau RTX 3050 accesibile pentru gaming la FHD.",
   "author": "ana-popescu",
   "updated": "2026-07-19",
   "productsCount": 10,
@@ -50,42 +50,42 @@
       "callout": "Dacă joci titluri AAA recente, suportul pentru generarea de cadre din seria 50 face o diferență palpabilă."
     },
     {
-      "h3": "144Hz, 165Hz sau 240Hz — contează refresh rate-ul?",
+      "h3": "144Hz, 165Hz sau 240Hz, contează refresh rate-ul?",
       "body": "La 144Hz simți deja o diferență uriașă față de un monitor obișnuit de 60Hz. 165Hz (Acer Nitro V15, LOQ 17IRX10) și 240Hz (SCAR 18, Alienware m16 R2) aduc un plus real doar dacă placa video poate genera atâtea cadre. Pentru shootere competitive, refresh rate-ul contează la fel de mult ca GPU-ul; pentru jocuri single-player, un panou bun de 144Hz este mai mult decât suficient."
     },
     {
       "h3": "Ecran mare (17\"+) sau 15,6\" mai portabil?",
-      "body": "Un ecran de 17\"-18\" (LOQ 17IRX10, ASUS TUF A17) oferă imersiune mai bună și, de regulă, un șasiu mai mare cu răcire superioară — util pentru sesiuni lungi la sarcină maximă. În schimb, un 15,6\" e mai ușor de cărat zilnic la birou sau facultate. Alege diagonala mare dacă laptopul stă mai mult pe birou și cea compactă dacă îl porți des cu tine."
+      "body": "Un ecran de 17\"-18\" (LOQ 17IRX10, ASUS TUF A17) oferă imersiune mai bună și, de regulă, un șasiu mai mare cu răcire superioară, util pentru sesiuni lungi la sarcină maximă. În schimb, un 15,6\" e mai ușor de cărat zilnic la birou sau facultate. Alege diagonala mare dacă laptopul stă mai mult pe birou și cea compactă dacă îl porți des cu tine."
     },
     {
       "h3": "AMD Ryzen sau Intel pentru gaming?",
-      "body": "În jocuri, la putere echivalentă, performanța este similară — GPU-ul contează mai mult decât procesorul. AMD Ryzen (Lenovo LOQ Essential, ASUS TUF A17) tinde să fie ceva mai eficient energetic, deci oferă autonomie puțin mai bună. Intel HX (Core i7/i9, Core Ultra) rămâne imbatabil la sarcini grele multi-core precum editare sau streaming în timp ce joci."
+      "body": "În jocuri, la putere echivalentă, performanța este similară, GPU-ul contează mai mult decât procesorul. AMD Ryzen (Lenovo LOQ Essential, ASUS TUF A17) tinde să fie ceva mai eficient energetic, deci oferă autonomie puțin mai bună. Intel HX (Core i7/i9, Core Ultra) rămâne imbatabil la sarcini grele multi-core precum editare sau streaming în timp ce joci."
     },
     {
       "h3": "Greșeli frecvente la cumpărare",
-      "body": "Nu te uita doar la numele GPU-ului: un RTX cu TGP mic poate fi mai lent decât un model din generația anterioară cu consum mai mare. Nu ignora RAM-ul și SSD-ul — 16GB și un SSD de cel puțin 512GB sunt minimul confortabil azi. Nu subestima răcirea: un laptop care se supraîncălzește își scade automat performanța (throttling), oricât de puternică ar fi placa video."
+      "body": "Nu te uita doar la numele GPU-ului: un RTX cu TGP mic poate fi mai lent decât un model din generația anterioară cu consum mai mare. Nu ignora RAM-ul și SSD-ul, 16GB și un SSD de cel puțin 512GB sunt minimul confortabil azi. Nu subestima răcirea: un laptop care se supraîncălzește își scade automat performanța (throttling), oricât de puternică ar fi placa video."
     },
     {
       "h3": "Autonomie: la ce te aștepți realist",
-      "body": "Un laptop de gaming nu e gândit să reziste toată ziua pe baterie când joci — cu GPU-ul și CPU-ul la sarcină maximă, autonomia scade rapid, indiferent de model, iar valorile din top (62-76%) reflectă mai degrabă utilizare mixtă, nu ore de joc continuu. Dacă vrei baterie mai bună pentru navigare sau lucru, un procesor AMD Ryzen ajută puțin, dar diferența reală o faci ținând laptopul la priză cât timp joci — e și mai sigur pentru performanța susținută, pentru că majoritatea modelelor limitează puterea GPU-ului pe baterie."
+      "body": "Un laptop de gaming nu e gândit să reziste toată ziua pe baterie când joci, cu GPU-ul și CPU-ul la sarcină maximă, autonomia scade rapid, indiferent de model, iar valorile din top (62-76%) reflectă mai degrabă utilizare mixtă, nu ore de joc continuu. Dacă vrei baterie mai bună pentru navigare sau lucru, un procesor AMD Ryzen ajută puțin, dar diferența reală o faci ținând laptopul la priză cât timp joci, e și mai sigur pentru performanța susținută, pentru că majoritatea modelelor limitează puterea GPU-ului pe baterie."
     },
     {
       "h3": "Zgomot și moduri de performanță",
-      "body": "Aproape toate laptopurile de gaming au moduri comutabile (silențios, echilibrat, performanță/turbo) care ajustează turația ventilatoarelor și limitele de putere ale GPU-ului și CPU-ului. La sarcină maximă, ventilatoarele devin audibile — normal pentru clasa asta de produse — dar șasiurile mai mari din top (SCAR 18, Alienware m16 R2, TUF A17, LOQ 17IRX10) gestionează de regulă mai bine zgomotul și temperaturile decât modelele compacte de 15,6\", pentru că au mai mult spațiu pentru radiatoare și ventilatoare mai mari."
+      "body": "Aproape toate laptopurile de gaming au moduri comutabile (silențios, echilibrat, performanță/turbo) care ajustează turația ventilatoarelor și limitele de putere ale GPU-ului și CPU-ului. La sarcină maximă, ventilatoarele devin audibile, normal pentru clasa asta de produse, dar șasiurile mai mari din top (SCAR 18, Alienware m16 R2, TUF A17, LOQ 17IRX10) gestionează de regulă mai bine zgomotul și temperaturile decât modelele compacte de 15,6\", pentru că au mai mult spațiu pentru radiatoare și ventilatoare mai mari."
     },
     {
-      "h3": "1080p sau 1440p — ce rezoluție țintești?",
+      "h3": "1080p sau 1440p, ce rezoluție țintești?",
       "body": "Majoritatea laptopurilor din acest top au ecran FHD (1080p), rezoluția unde plăcile video de gaming mobil, chiar și cele de nivel mediu precum RTX 5050/5060, țin cadre înalte fără efort. Pentru 1440p (QHD, ca la Alienware m16 R2) sau rezoluții mai mari (SCAR 18) ai nevoie de un GPU mult mai puternic ca să profiți efectiv de detaliile suplimentare, altfel riști cadre scăzute în jocuri pretențioase. Alege FHD dacă vrei fluiditate maximă și cadre constante, și QHD/mai mult doar dacă placa video susține și puterea aferentă."
     },
     {
       "h3": "Upgrade și mentenanță pe termen lung",
-      "body": "Majoritatea laptoparelor de gaming au sloturi accesibile pentru RAM și SSD suplimentar, deci poți crește memoria sau adăuga stocare mai târziu, fără să schimbi laptopul — verifică specificațiile fiecărui model înainte de cumpărare dacă vrei această flexibilitate. Curățarea periodică a ventilatoarelor de praf (o dată la 6-12 luni, mai des dacă ai animale în casă) menține temperaturile în limite normale și evită throttling-ul prematur. O pastă termică schimbată după 2-3 ani de utilizare intensă poate readuce un laptop mai vechi aproape de performanța inițială."
+      "body": "Majoritatea laptoparelor de gaming au sloturi accesibile pentru RAM și SSD suplimentar, deci poți crește memoria sau adăuga stocare mai târziu, fără să schimbi laptopul, verifică specificațiile fiecărui model înainte de cumpărare dacă vrei această flexibilitate. Curățarea periodică a ventilatoarelor de praf (o dată la 6-12 luni, mai des dacă ai animale în casă) menține temperaturile în limite normale și evită throttling-ul prematur. O pastă termică schimbată după 2-3 ani de utilizare intensă poate readuce un laptop mai vechi aproape de performanța inițială."
     }
   ],
   "faq": [
     {
       "q": "RTX 50 e mult mai bun decât RTX 40?",
-      "a": "Depinde de model: RTX 5090 e net peste orice altă placă mobilă. Dar la intrare, RTX 5050/5060 nu depășesc dramatic un RTX 4070 în putere brută — avantajul mare al seriei 50 este generarea multiplă de cadre (DLSS). Verifică mereu VRAM-ul și TGP-ul, nu doar numărul din nume."
+      "a": "Depinde de model: RTX 5090 e net peste orice altă placă mobilă. Dar la intrare, RTX 5050/5060 nu depășesc dramatic un RTX 4070 în putere brută, avantajul mare al seriei 50 este generarea multiplă de cadre (DLSS). Verifică mereu VRAM-ul și TGP-ul, nu doar numărul din nume."
     },
     {
       "q": "AMD Ryzen sau Intel pentru gaming?",
@@ -101,7 +101,7 @@
     },
     {
       "q": "Merită un ecran de 17\" sau 18\"?",
-      "a": "Da, dacă laptopul stă mai mult pe birou: diagonala mare (LOQ 17IRX10, SCAR 18) oferă imersiune superioară și, de obicei, răcire mai bună într-un șasiu spațios. Dezavantajul este portabilitatea — sunt mai grele și mai voluminoase. Pentru transport zilnic, un 15,6\" este alegerea practică."
+      "a": "Da, dacă laptopul stă mai mult pe birou: diagonala mare (LOQ 17IRX10, SCAR 18) oferă imersiune superioară și, de obicei, răcire mai bună într-un șasiu spațios. Dezavantajul este portabilitatea, sunt mai grele și mai voluminoase. Pentru transport zilnic, un 15,6\" este alegerea practică."
     },
     {
       "q": "Câtă memorie RAM și ce SSD sunt suficiente?",
@@ -113,7 +113,7 @@
     },
     {
       "q": "Cât de importantă e răcirea la un laptop de gaming?",
-      "a": "Esențială. Un sistem de răcire slab duce la throttling — laptopul își reduce automat performanța pentru a nu se supraîncălzi, așa că nu mai profiți de placa video. Șasiurile mai mari (SCAR 18, Alienware m16 R2, TUF A17) și cele cu mai multe ventilatoare gestionează mai bine sesiunile lungi la sarcină maximă."
+      "a": "Esențială. Un sistem de răcire slab duce la throttling, laptopul își reduce automat performanța pentru a nu se supraîncălzi, așa că nu mai profiți de placa video. Șasiurile mai mari (SCAR 18, Alienware m16 R2, TUF A17) și cele cu mai multe ventilatoare gestionează mai bine sesiunile lungi la sarcină maximă."
     }
   ],
   "conclusion": "Pentru cei care vor tot ce e mai bun, ASUS ROG Strix SCAR 18 (RTX 5090) e alegerea supremă, fără compromisuri. Dacă vrei cel mai bun raport preț/performanță, Lenovo LOQ Essential 15ARP11 (RTX 5060, AMD) oferă gaming la FHD 144Hz la un preț mult mai accesibil, iar ASUS TUF F16 (RTX 3050) e alegerea pe buget pentru cei care vor doar să intre în gaming.",
@@ -125,7 +125,7 @@
       "tag": "★ Cea mai bună alegere",
       "win": true,
       "score": 9.6,
-      "review": "Dacă bugetul chiar nu e o problemă, SCAR 18 e laptopul la care ne raportăm când vrem să vedem cât de departe a ajuns gamingul mobil. RTX 5090 cu 24GB VRAM înghite orice titlu la setări maxime, iar ecranul Mini LED de 18\" cu 240Hz și G-Sync e cel mai bun panou dintr-un laptop din acest top — culorile și contrastul se simt aproape de un monitor OLED de birou. Procesorul Core Ultra 9 275HX ține pasul fără să transpire la randări sau streaming în paralel. Autonomia rămâne, evident, punctul slab tipic pentru un flagship de gaming — pe baterie te aștepți la câteva ore de navigare, nu la sesiuni de joc. E și cel mai scump model din listă, deci nu are sens dacă bugetul e o grijă reală. Dar pentru cine vrea absolut tot ce oferă piața acum, fără compromisuri la performanță sau ecran, SCAR 18 rămâne alegerea noastră de vârf.",
+      "review": "Dacă bugetul chiar nu e o problemă, SCAR 18 e laptopul la care ne raportăm când vrem să vedem cât de departe a ajuns gamingul mobil. RTX 5090 cu 24GB VRAM înghite orice titlu la setări maxime, iar ecranul Mini LED de 18\" cu 240Hz și G-Sync e cel mai bun panou dintr-un laptop din acest top, culorile și contrastul se simt aproape de un monitor OLED de birou. Procesorul Core Ultra 9 275HX ține pasul fără să transpire la randări sau streaming în paralel. Autonomia rămâne, evident, punctul slab tipic pentru un flagship de gaming, pe baterie te aștepți la câteva ore de navigare, nu la sesiuni de joc. E și cel mai scump model din listă, deci nu are sens dacă bugetul e o grijă reală. Dar pentru cine vrea absolut tot ce oferă piața acum, fără compromisuri la performanță sau ecran, SCAR 18 rămâne alegerea noastră de vârf.",
       "image": "/img/products/dt9vn23bm.png",
       "feedId": "DT9VN23BM",
       "features": [
@@ -169,11 +169,11 @@
         }
       ],
       "pros": [
-        "RTX 5090 — cea mai puternică placă video de gaming mobil",
+        "RTX 5090, cea mai puternică placă video de gaming mobil",
         "Ecran Mini LED 18\" 240Hz cu G-Sync, cel mai bun din top"
       ],
       "cons": [
-        "Preț de flagship — cel mai scump laptop din top"
+        "Preț de flagship, cel mai scump laptop din top"
       ],
       "emagUrl": "https://www.emag.ro/laptop-gaming-asus-rog-strix-scar-18-g835lx-cu-procesor-intelr-coretm-ultra-9-275hx-pana-la-5-4ghz-18-2-5k-wqxga-mini-led-240hz-g-sync-64gb-ddr5-2tb-ssd-nvidiar-geforce-rtxtm-5090-24gb-gddr7-windows-1/pd/DT9VN23BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205062"
@@ -184,7 +184,7 @@
       "name": "Dell Alienware m16 R2 (RTX 4070)",
       "tag": "Cel mai complet (premium)",
       "score": 9.1,
-      "review": "Alienware m16 R2 e alegerea pentru cineva care vrea aproape tot ce oferă SCAR 18, dar fără să plătească pentru un ecran de 18\". RTX 4070 combinat cu panoul QHD+ la 240Hz face o pereche foarte echilibrată: destule cadre pentru shootere rapide, dar și rezoluție suficientă pentru ca detaliile să arate curat. Sistemul de răcire Cryo-tech e unul dintre cele mai bune din această clasă — temperaturile pe tastatură rămân rezonabile chiar și după o oră de sarcină maximă, ceea ce nu se întâmplă la toate laptopurile din segment. Singurul compromis notabil e greutatea: la 2,61 kg, simți diferența față de un 15,6\" obișnuit dacă îl porți zilnic în rucsac. Pentru cineva care lucrează mai mult acasă sau la birou și vrea un laptop premium fără să meargă până la extrema SCAR 18, e o alegere pe care o recomandăm cu încredere.",
+      "review": "Alienware m16 R2 e alegerea pentru cineva care vrea aproape tot ce oferă SCAR 18, dar fără să plătească pentru un ecran de 18\". RTX 4070 combinat cu panoul QHD+ la 240Hz face o pereche foarte echilibrată: destule cadre pentru shootere rapide, dar și rezoluție suficientă pentru ca detaliile să arate curat. Sistemul de răcire Cryo-tech e unul dintre cele mai bune din această clasă, temperaturile pe tastatură rămân rezonabile chiar și după o oră de sarcină maximă, ceea ce nu se întâmplă la toate laptopurile din segment. Singurul compromis notabil e greutatea: la 2,61 kg, simți diferența față de un 15,6\" obișnuit dacă îl porți zilnic în rucsac. Pentru cineva care lucrează mai mult acasă sau la birou și vrea un laptop premium fără să meargă până la extrema SCAR 18, e o alegere pe care o recomandăm cu încredere.",
       "image": "/img/products/drv01t3bm.jpg",
       "feedId": "DRV01T3BM",
       "features": [],
@@ -225,7 +225,7 @@
         }
       ],
       "pros": [
-        "RTX 4070 + 240Hz — performanță premium la un preț sub SCAR 18",
+        "RTX 4070 + 240Hz, performanță premium la un preț sub SCAR 18",
         "Sistem de răcire Alienware Cryo-tech, eficient la sarcină maximă"
       ],
       "cons": [
@@ -240,7 +240,7 @@
       "name": "Acer Nitro V15 ANV15-52-95UT (RTX 5060)",
       "tag": "Cel mai puternic procesor",
       "score": 8.8,
-      "review": "Nitro V15 se remarcă printr-un procesor pe care nu-l mai găsești la nicio altă configurație din top: i9-13900H, cel mai puternic la sarcini multi-core, util dacă vrei să faci streaming în timp ce joci sau lucrezi cu editare video între sesiuni. RTX 5060 cu 8GB îl susține bine la FHD, iar ecranul de 165Hz e cel mai rapid dintre toate laptopurile cu RTX 5060 din top — se simte clar diferența față de un panou de 144Hz în shootere competitive. Ce lipsește e o variantă QHD; rămâi la FHD indiferent cât de mult ai vrea mai multă rezoluție. Răcirea e onestă, dar nu la nivelul șasiurilor mai mari din listă. Pentru cine caută procesor puternic și un ecran rapid la un preț de mijloc de top, Nitro V15 e o alegere solidă, mai ales dacă folosești laptopul și pentru altceva decât joacă.",
+      "review": "Nitro V15 se remarcă printr-un procesor pe care nu-l mai găsești la nicio altă configurație din top: i9-13900H, cel mai puternic la sarcini multi-core, util dacă vrei să faci streaming în timp ce joci sau lucrezi cu editare video între sesiuni. RTX 5060 cu 8GB îl susține bine la FHD, iar ecranul de 165Hz e cel mai rapid dintre toate laptopurile cu RTX 5060 din top, se simte clar diferența față de un panou de 144Hz în shootere competitive. Ce lipsește e o variantă QHD; rămâi la FHD indiferent cât de mult ai vrea mai multă rezoluție. Răcirea e onestă, dar nu la nivelul șasiurilor mai mari din listă. Pentru cine caută procesor puternic și un ecran rapid la un preț de mijloc de top, Nitro V15 e o alegere solidă, mai ales dacă folosești laptopul și pentru altceva decât joacă.",
       "image": "/img/products/db1t643bm.png",
       "feedId": "DB1T643BM",
       "features": [
@@ -284,7 +284,7 @@
       ],
       "pros": [
         "Cel mai puternic procesor din top (i9-13900H)",
-        "165Hz — cel mai rapid ecran dintre modelele cu RTX 5060"
+        "165Hz, cel mai rapid ecran dintre modelele cu RTX 5060"
       ],
       "cons": [
         "Ecran doar FHD, fără variantă QHD"
@@ -298,7 +298,7 @@
       "name": "Lenovo LOQ Essential 15ARP11 (RTX 5060, AMD)",
       "tag": "Cel mai bun preț/calitate",
       "score": 8.6,
-      "review": "LOQ Essential e laptopul pe care îl recomandăm cel mai des celor care ne întreabă unde găsesc RTX 5060 fără să plătească preț de model premium. Procesorul AMD Ryzen 7 170 nu are reputația unui Intel HX în sarcini grele multi-core, dar în jocuri, la putere echivalentă, diferența e mică — și, în schimb, câștigi autonomie ceva mai bună, utilă dacă porți laptopul între casă și birou. Ecranul FHD de 144Hz rămâne sub cei 165Hz ai Acer Nitro V15, dar tot acoperă confortabil orice joc competitiv sau AAA la setări medii-mari. RAM-ul DDR5 și SSD-ul de 512GB sunt suficiente pentru majoritatea utilizatorilor, deși cei cu biblioteci mari de jocuri vor vrea probabil un SSD extern mai devreme sau mai târziu. Per ansamblu, e configurația din top unde plătești cel mai puțin pentru un RTX din seria 50 — de asta e alegerea noastră de preț/calitate.",
+      "review": "LOQ Essential e laptopul pe care îl recomandăm cel mai des celor care ne întreabă unde găsesc RTX 5060 fără să plătească preț de model premium. Procesorul AMD Ryzen 7 170 nu are reputația unui Intel HX în sarcini grele multi-core, dar în jocuri, la putere echivalentă, diferența e mică, și, în schimb, câștigi autonomie ceva mai bună, utilă dacă porți laptopul între casă și birou. Ecranul FHD de 144Hz rămâne sub cei 165Hz ai Acer Nitro V15, dar tot acoperă confortabil orice joc competitiv sau AAA la setări medii-mari. RAM-ul DDR5 și SSD-ul de 512GB sunt suficiente pentru majoritatea utilizatorilor, deși cei cu biblioteci mari de jocuri vor vrea probabil un SSD extern mai devreme sau mai târziu. Per ansamblu, e configurația din top unde plătești cel mai puțin pentru un RTX din seria 50, de asta e alegerea noastră de preț/calitate.",
       "image": "/img/products/d9brl32bm.jpg",
       "feedId": "D9BRL32BM",
       "features": [
@@ -342,7 +342,7 @@
         }
       ],
       "pros": [
-        "RTX 5060 la preț de model AMD — cel mai bun raport preț/performanță din gamă",
+        "RTX 5060 la preț de model AMD, cel mai bun raport preț/performanță din gamă",
         "Procesor AMD Ryzen eficient, autonomie mai bună"
       ],
       "cons": [
@@ -357,7 +357,7 @@
       "name": "Lenovo LOQ 15IRX10 (RTX 5050)",
       "tag": "Echilibru solid RTX 5050",
       "score": 8.3,
-      "review": "LOQ 15IRX10 e genul de laptop echilibrat pe care îl recomandăm cuiva care nu vrea să se gândească prea mult la specificații — ia RTX 5050, un i7-13645HX decent și merge mai departe. Combinația acoperă confortabil gaming la FHD 144Hz în majoritatea titlurilor actuale, iar RAM-ul DDR5 împreună cu SSD-ul NVMe de 512GB fac sistemul să se simtă rapid și la sarcini obișnuite, nu doar în jocuri. Nu are nimic ieșit din comun — fără ecran QHD, fără refresh peste 144Hz, fără șasiu spectaculos — dar tocmai lipsa compromisurilor mari e punctul lui forte. Dacă bugetul tău e undeva la mijlocul topului și vrei un RTX 5050 fără să sacrifici memoria sau viteza de stocare, e o alegere sigură, fără riscuri. Nu e laptopul care te impresionează, dar e cel pe care nu ai motive să-l regreți.",
+      "review": "LOQ 15IRX10 e genul de laptop echilibrat pe care îl recomandăm cuiva care nu vrea să se gândească prea mult la specificații, ia RTX 5050, un i7-13645HX decent și merge mai departe. Combinația acoperă confortabil gaming la FHD 144Hz în majoritatea titlurilor actuale, iar RAM-ul DDR5 împreună cu SSD-ul NVMe de 512GB fac sistemul să se simtă rapid și la sarcini obișnuite, nu doar în jocuri. Nu are nimic ieșit din comun, fără ecran QHD, fără refresh peste 144Hz, fără șasiu spectaculos, dar tocmai lipsa compromisurilor mari e punctul lui forte. Dacă bugetul tău e undeva la mijlocul topului și vrei un RTX 5050 fără să sacrifici memoria sau viteza de stocare, e o alegere sigură, fără riscuri. Nu e laptopul care te impresionează, dar e cel pe care nu ai motive să-l regreți.",
       "image": "/img/products/dpbrl32bm.jpg",
       "feedId": "DPBRL32BM",
       "features": [
@@ -414,7 +414,7 @@
       "name": "Lenovo LOQ 17IRX10 (i7-13650HX, RTX 5050, 17.3\" 165Hz)",
       "tag": "Ecran mare 17\", la preț bun",
       "score": 8.1,
-      "review": "Dacă vrei ecran mare fără să plătești prețul unui SCAR 18 sau al unui TUF A17, LOQ 17IRX10 e răspunsul. Diagonala de 17,3\" la 165Hz oferă imersiune serioasă în jocuri single-player și suficientă viteză pentru cele competitive, iar SSD-ul de 1TB e un plus notabil față de rivalii din aceeași bandă de preț care vin cu doar 512GB. RTX 5050 nu e cel mai puternic GPU din listă, dar la 1080p ține un ritm fluid în majoritatea jocurilor recente, la setări medii-mari. Șasiul mai mare ajută și la răcire, comparativ cu variantele de 15,6\" din aceeași gamă. Autonomia rămâne modestă, ca la orice laptop de gaming — nu te baza pe el departe de priză dacă joci. Pentru cineva care stă mai mult pe birou și vrea ecran mare plus stocare generoasă, e una dintre cele mai bune alegeri de raport din top.",
+      "review": "Dacă vrei ecran mare fără să plătești prețul unui SCAR 18 sau al unui TUF A17, LOQ 17IRX10 e răspunsul. Diagonala de 17,3\" la 165Hz oferă imersiune serioasă în jocuri single-player și suficientă viteză pentru cele competitive, iar SSD-ul de 1TB e un plus notabil față de rivalii din aceeași bandă de preț care vin cu doar 512GB. RTX 5050 nu e cel mai puternic GPU din listă, dar la 1080p ține un ritm fluid în majoritatea jocurilor recente, la setări medii-mari. Șasiul mai mare ajută și la răcire, comparativ cu variantele de 15,6\" din aceeași gamă. Autonomia rămâne modestă, ca la orice laptop de gaming, nu te baza pe el departe de priză dacă joci. Pentru cineva care stă mai mult pe birou și vrea ecran mare plus stocare generoasă, e una dintre cele mai bune alegeri de raport din top.",
       "image": "/img/products/d8brl32bm.jpg",
       "feedId": "D8BRL32BM",
       "features": [
@@ -474,7 +474,7 @@
       "name": "MSI Cyborg 15 B13WEKG (RTX 5050)",
       "tag": "Cel mai accesibil RTX 5050",
       "score": 8,
-      "review": "Cyborg 15 e laptopul pe care îl recomandăm cuiva care vrea neapărat RTX 5050 fără să depășească bugetul unui model de intrare. Configurația cu i7-13620H și ecran FHD la 144Hz acoperă bine gaming-ul obișnuit, iar prețul e printre cele mai mici din tot topul pentru o placă din seria 50. Compromisul evident e că vine cu Free DOS, nu Windows — trebuie să știi să instalezi sistemul de operare singur sau să bugetezi o licență separat, altfel riști o surpriză neplăcută la despachetare. Șasiul MSI e funcțional, fără elemente premium, dar face treaba pentru care a fost gândit. Nu te aștepta la răcire de top sau la ecran spectaculos, însă pentru cineva la primul laptop de gaming serios, cu buget limitat, dar care vrea totuși un RTX recent, e o alegere pe care o înțelegem ușor.",
+      "review": "Cyborg 15 e laptopul pe care îl recomandăm cuiva care vrea neapărat RTX 5050 fără să depășească bugetul unui model de intrare. Configurația cu i7-13620H și ecran FHD la 144Hz acoperă bine gaming-ul obișnuit, iar prețul e printre cele mai mici din tot topul pentru o placă din seria 50. Compromisul evident e că vine cu Free DOS, nu Windows, trebuie să știi să instalezi sistemul de operare singur sau să bugetezi o licență separat, altfel riști o surpriză neplăcută la despachetare. Șasiul MSI e funcțional, fără elemente premium, dar face treaba pentru care a fost gândit. Nu te aștepta la răcire de top sau la ecran spectaculos, însă pentru cineva la primul laptop de gaming serios, cu buget limitat, dar care vrea totuși un RTX recent, e o alegere pe care o înțelegem ușor.",
       "image": "/img/products/drpv4q3bm.jpg",
       "feedId": "DRPV4Q3BM",
       "features": [
@@ -532,7 +532,7 @@
       "name": "ASUS TUF A17 FA707NUG (RTX 4050, AMD)",
       "tag": "Cel mai bun ecran 17\"+",
       "score": 7.8,
-      "review": "TUF A17 mizează totul pe ecranul de 17,3\" și pe un șasiu construit să reziste — filozofia ASUS TUF de durabilitate se simte în mână, cu spațiu suficient pentru o răcire mai bună decât la multe laptopuri compacte din listă. Procesorul AMD Ryzen 7 7445HS ține pasul decent și oferă autonomie ceva mai bună decât variantele Intel echivalente. Unde rămâne în urmă e placa video: RTX 4050 cu 6GB VRAM e din generația anterioară și se simte, mai ales în jocuri recente cu texturi mari, unde modelele RTX seria 50 din top trag clar înainte. Dacă prioritatea ta e un ecran mare pe un șasiu robust și accepți că nu ai cea mai nouă generație de GPU, TUF A17 rămâne o alegere onestă, mai ales pentru cine joacă preponderent la setări medii.",
+      "review": "TUF A17 mizează totul pe ecranul de 17,3\" și pe un șasiu construit să reziste, filozofia ASUS TUF de durabilitate se simte în mână, cu spațiu suficient pentru o răcire mai bună decât la multe laptopuri compacte din listă. Procesorul AMD Ryzen 7 7445HS ține pasul decent și oferă autonomie ceva mai bună decât variantele Intel echivalente. Unde rămâne în urmă e placa video: RTX 4050 cu 6GB VRAM e din generația anterioară și se simte, mai ales în jocuri recente cu texturi mari, unde modelele RTX seria 50 din top trag clar înainte. Dacă prioritatea ta e un ecran mare pe un șasiu robust și accepți că nu ai cea mai nouă generație de GPU, TUF A17 rămâne o alegere onestă, mai ales pentru cine joacă preponderent la setări medii.",
       "image": "/img/products/dtb3ft2bm.png",
       "feedId": "DTB3FT2BM",
       "features": [
@@ -591,7 +591,7 @@
       "name": "Lenovo LOQ 15IRX9 (RTX 4050)",
       "tag": "RTX 4050 la preț bun",
       "score": 7.5,
-      "review": "LOQ 15IRX9 e practic versiunea de generație anterioară a lui LOQ 15IRX10, cu RTX 4050 în loc de 5050 — și asta se traduce direct într-un preț ceva mai accesibil. Procesorul i7-13645HX și RAM-ul DDR5 rămân neschimbate față de model, deci partea de procesare pură nu are de suferit; diferența reală apare doar în jocurile care exploatează generarea de cadre din seria 50, unde acest model rămâne cu un pas în urmă. Pentru cineva care joacă mai ales titluri mai vechi sau la setări medii, unde puterea brută a GPU-ului contează mai mult decât tehnologiile noi de upscaling, e o economie sensibilă. Nu-l recomandăm dacă vrei să fii pregătit pentru jocurile de anul viitor, dar ca laptop de gaming la FHD, azi, face treaba fără compromisuri majore.",
+      "review": "LOQ 15IRX9 e practic versiunea de generație anterioară a lui LOQ 15IRX10, cu RTX 4050 în loc de 5050, și asta se traduce direct într-un preț ceva mai accesibil. Procesorul i7-13645HX și RAM-ul DDR5 rămân neschimbate față de model, deci partea de procesare pură nu are de suferit; diferența reală apare doar în jocurile care exploatează generarea de cadre din seria 50, unde acest model rămâne cu un pas în urmă. Pentru cineva care joacă mai ales titluri mai vechi sau la setări medii, unde puterea brută a GPU-ului contează mai mult decât tehnologiile noi de upscaling, e o economie sensibilă. Nu-l recomandăm dacă vrei să fii pregătit pentru jocurile de anul viitor, dar ca laptop de gaming la FHD, azi, face treaba fără compromisuri majore.",
       "image": "/img/products/dkbrl32bm.jpg",
       "feedId": "DKBRL32BM",
       "features": [],
@@ -647,7 +647,7 @@
       "name": "ASUS TUF F16 FX607VJ (RTX 3050)",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.1,
-      "review": "TUF F16 e punctul de intrare pe care îl recomandăm cuiva care vrea un prim laptop de gaming fără să se împrumute pentru el. RTX 3050 cu 6GB e, evident, cea mai slabă placă video din tot topul, așa că nu te aștepta la performanță în titluri AAA recente la setări mari — dar la esport și jocuri mai vechi sau la setări medii, se descurcă onorabil. Surpriza plăcută e cele 32GB de RAM din fabrică, mai mult decât la orice alt model din listă, ceea ce ajută mult la multitasking și la a ține jocul deschis alături de Discord, browser și alte aplicații fără să simți lag. Ecranul WUXGA la 144Hz e peste așteptările pentru acest segment de preț. Dacă bugetul e principala ta constrângere și accepți limitele RTX 3050, e alegerea rezonabilă pentru a intra în gaming pe PC.",
+      "review": "TUF F16 e punctul de intrare pe care îl recomandăm cuiva care vrea un prim laptop de gaming fără să se împrumute pentru el. RTX 3050 cu 6GB e, evident, cea mai slabă placă video din tot topul, așa că nu te aștepta la performanță în titluri AAA recente la setări mari, dar la esport și jocuri mai vechi sau la setări medii, se descurcă onorabil. Surpriza plăcută e cele 32GB de RAM din fabrică, mai mult decât la orice alt model din listă, ceea ce ajută mult la multitasking și la a ține jocul deschis alături de Discord, browser și alte aplicații fără să simți lag. Ecranul WUXGA la 144Hz e peste așteptările pentru acest segment de preț. Dacă bugetul e principala ta constrângere și accepți limitele RTX 3050, e alegerea rezonabilă pentru a intra în gaming pe PC.",
       "image": "/img/products/dyr2kj3bm.png",
       "feedId": "DYR2KJ3BM",
       "features": [],
@@ -688,7 +688,7 @@
         }
       ],
       "pros": [
-        "32GB RAM din fabrică — cel mai mult din top",
+        "32GB RAM din fabrică, cel mai mult din top",
         "Preț de acces în gaming, cel mai ieftin din top"
       ],
       "cons": [

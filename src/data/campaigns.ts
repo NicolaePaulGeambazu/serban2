@@ -1,6 +1,6 @@
 /**
  * eMAG campaign calendar. The strip picks the active campaign (or the next
- * upcoming one) automatically from today's date — no scraping needed.
+ * upcoming one) automatically from today's date, no scraping needed.
  * Add campaigns from the official eMAG calendar as they're announced.
  * `url` should be your affiliate deeplink to the campaign landing page.
  */

@@ -46,16 +46,16 @@
     },
     {
       "h3": "Boiler electric clasic vs. termoelectric cu serpentină",
-      "body": "Un boiler electric clasic încălzește apa doar cu rezistența electrică — simplu, potrivit pentru apartamente fără centrală. Modelele termoelectrice cu serpentină (Tesy BiLight GCVS, Fornello Optima) au și un schimbător care poate fi legat la centrala termică sau la panouri solare, astfel încât iarna apa se încălzește pe gaz sau lemne, iar vara pe curent. Serpentina crește prețul și cere instalare mai complexă, dar reduce factura pe termen lung dacă ai deja o sursă de căldură în casă.",
+      "body": "Un boiler electric clasic încălzește apa doar cu rezistența electrică, simplu, potrivit pentru apartamente fără centrală. Modelele termoelectrice cu serpentină (Tesy BiLight GCVS, Fornello Optima) au și un schimbător care poate fi legat la centrala termică sau la panouri solare, astfel încât iarna apa se încălzește pe gaz sau lemne, iar vara pe curent. Serpentina crește prețul și cere instalare mai complexă, dar reduce factura pe termen lung dacă ai deja o sursă de căldură în casă.",
       "callout": "Serpentina are sens doar dacă o poți conecta la o centrală sau la panouri solare; altfel plătești în plus pentru o funcție pe care nu o folosești."
     },
     {
       "h3": "Rezervor emailat cu titan și protecția anticorozivă",
-      "body": "Durabilitatea unui boiler stă în rezervor. Modelele Ariston (Lydos, Pro1, Velis) folosesc email cu titan (TitanShield), un strat mai rezistent la coroziune și la variațiile de temperatură decât emailul clasic. Aproape toate boilerele au și un anod de magneziu care se sacrifică în locul rezervorului — trebuie verificat și înlocuit periodic. Unele modele premium adaugă protecție cu ioni de argint (Velis Dune) împotriva bacteriilor. Un rezervor bine protejat înseamnă mai puține riscuri de fisurare și o durată de viață mai mare."
+      "body": "Durabilitatea unui boiler stă în rezervor. Modelele Ariston (Lydos, Pro1, Velis) folosesc email cu titan (TitanShield), un strat mai rezistent la coroziune și la variațiile de temperatură decât emailul clasic. Aproape toate boilerele au și un anod de magneziu care se sacrifică în locul rezervorului, trebuie verificat și înlocuit periodic. Unele modele premium adaugă protecție cu ioni de argint (Velis Dune) împotriva bacteriilor. Un rezervor bine protejat înseamnă mai puține riscuri de fisurare și o durată de viață mai mare."
     },
     {
       "h3": "Puterea și timpul de încălzire",
-      "body": "Puterea (1500-2200 W în acest top) determină cât de repede se reîncălzește apa. La aceeași capacitate, un model de 2000 W recuperează mai rapid decât unul de 1500 W. Ariston Velis Evo folosește două rezistențe de 1500 W (2×1500 W) pentru încălzire mai rapidă a celor două rezervoare. Puterea nu schimbă cât de multă apă caldă ai, ci doar cât aștepți între cicluri — utilă mai ales la rezervoarele mari sau când mai multe persoane fac duș la rând."
+      "body": "Puterea (1500-2200 W în acest top) determină cât de repede se reîncălzește apa. La aceeași capacitate, un model de 2000 W recuperează mai rapid decât unul de 1500 W. Ariston Velis Evo folosește două rezistențe de 1500 W (2×1500 W) pentru încălzire mai rapidă a celor două rezervoare. Puterea nu schimbă cât de multă apă caldă ai, ci doar cât aștepți între cicluri, utilă mai ales la rezervoarele mari sau când mai multe persoane fac duș la rând."
     },
     {
       "h3": "Izolație și eficiență energetică",
@@ -63,12 +63,12 @@
     },
     {
       "h3": "Funcții smart și control Wi-Fi",
-      "body": "Boilerele cu Wi-Fi (Tesy BelliSlimo, Ariston Lydos Wi-Fi, Ferroli Titano Twin, Electrolux EWH MXM) permit pornire de la distanță, programare pe zile și monitorizarea consumului din aplicație. Sunt utile dacă ai program variabil — pornești boilerul de pe drum, ca apa să fie caldă când ajungi acasă. Nu îmbunătățesc calitatea apei calde, dar ajută la economie și confort. Pentru un buget limitat, un model cu control electronic și programare simplă acoperă majoritatea nevoilor fără costul suplimentar al conectivității."
+      "body": "Boilerele cu Wi-Fi (Tesy BelliSlimo, Ariston Lydos Wi-Fi, Ferroli Titano Twin, Electrolux EWH MXM) permit pornire de la distanță, programare pe zile și monitorizarea consumului din aplicație. Sunt utile dacă ai program variabil, pornești boilerul de pe drum, ca apa să fie caldă când ajungi acasă. Nu îmbunătățesc calitatea apei calde, dar ajută la economie și confort. Pentru un buget limitat, un model cu control electronic și programare simplă acoperă majoritatea nevoilor fără costul suplimentar al conectivității."
     },
     {
       "h3": "Montaj, presiune și siguranță",
       "body": "Majoritatea boilerelor se montează vertical, dar unele modele (Ferroli Titano Twin, Electrolux MXM) acceptă și montaj orizontal, util în spații joase. Cele mici, de 15 litri, se pot pune deasupra chiuvetei. Verifică presiunea maximă (0,8 MPa / 8 bar la modelele din top) și gradul de protecție la apă (IPX4). Supapa de siguranță e obligatorie, iar protecția anti-îngheț (la modelele Tesy) e utilă pentru case nefolosite iarna. Un montaj corect, cu supapă și eventual reductor de presiune, prelungește viața aparatului.",
-      "callout": "Nu monta un boiler fără supapă de siguranță funcțională — la o presiune prea mare, rezervorul se poate deteriora ireparabil."
+      "callout": "Nu monta un boiler fără supapă de siguranță funcțională, la o presiune prea mare, rezervorul se poate deteriora ireparabil."
     }
   ],
   "faq": [
@@ -90,7 +90,7 @@
     },
     {
       "q": "Chiar economisesc curent cu funcția Eco sau cu Wi-Fi?",
-      "a": "Funcțiile de tip Eco Evo încălzesc apa doar cât e necesar, în funcție de obiceiurile tale, iar controlul Wi-Fi îți permite să programezi boilerul să pornească doar când ai nevoie. După recenziile cumpărătorilor, economia e reală dacă ții boilerul pornit permanent, dar nu spectaculoasă — izolația rezervorului contează la fel de mult."
+      "a": "Funcțiile de tip Eco Evo încălzesc apa doar cât e necesar, în funcție de obiceiurile tale, iar controlul Wi-Fi îți permite să programezi boilerul să pornească doar când ai nevoie. După recenziile cumpărătorilor, economia e reală dacă ții boilerul pornit permanent, dar nu spectaculoasă, izolația rezervorului contează la fel de mult."
     },
     {
       "q": "Trebuie să înlocuiesc anodul de magneziu?",
@@ -107,7 +107,7 @@
   ],
   "comparison": {
     "title": "Boiler electric clasic vs. termoelectric cu serpentină",
-    "intro": "Cele două tipuri rezolvă aceeași nevoie — apă caldă menajeră — dar diferă prin sursa de energie și prin costul de utilizare pe termen lung. Iată cum se compară din specificații.",
+    "intro": "Cele două tipuri rezolvă aceeași nevoie, apă caldă menajeră, dar diferă prin sursa de energie și prin costul de utilizare pe termen lung. Iată cum se compară din specificații.",
     "aLabel": "Boiler electric clasic",
     "bLabel": "Termoelectric cu serpentină",
     "rows": [
@@ -682,7 +682,7 @@
         "Control mecanic simplu, fără funcții smart",
         "Fără display digital"
       ],
-      "review": "Tesy BiLight de 100 de litri e alegerea preț/calitate a topului: oferă capacitatea completă pentru o familie și o putere de 2000 W pentru reîncălzire rapidă, la un preț mult sub modelele Ariston echivalente. Gama BiLight e una dintre cele mai vândute de la noi, cu o reputație bună de fiabilitate confirmată de recenziile cumpărătorilor. Presiunea de 0,8 MPa și izolația standard acoperă nevoile obișnuite de apă caldă menajeră. Renunță la funcții smart și la display digital — controlul e mecanic, simplu și robust — dar exact această simplitate ține prețul jos și fiabilitatea sus. Din specificații și după recenziile cumpărătorilor, e cel mai bun raport preț/calitate din categorie pentru cine vrea capacitate mare fără să plătească pentru dotări electronice.",
+      "review": "Tesy BiLight de 100 de litri e alegerea preț/calitate a topului: oferă capacitatea completă pentru o familie și o putere de 2000 W pentru reîncălzire rapidă, la un preț mult sub modelele Ariston echivalente. Gama BiLight e una dintre cele mai vândute de la noi, cu o reputație bună de fiabilitate confirmată de recenziile cumpărătorilor. Presiunea de 0,8 MPa și izolația standard acoperă nevoile obișnuite de apă caldă menajeră. Renunță la funcții smart și la display digital, controlul e mecanic, simplu și robust, dar exact această simplitate ține prețul jos și fiabilitatea sus. Din specificații și după recenziile cumpărătorilor, e cel mai bun raport preț/calitate din categorie pentru cine vrea capacitate mare fără să plătească pentru dotări electronice.",
       "emagUrl": "https://www.emag.ro/boiler-electric-tesy-bilight-2000-w-100-l-0-8-mpa-18-mm-gcv1004420b11tsr/pd/DC8DJBBBM/",
       "image": "/img/products/dc8djbbbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214355"
@@ -1042,7 +1042,7 @@
         "Are sens doar dacă ai o sursă externă de căldură",
         "Montaj mai complex decât un boiler clasic"
       ],
-      "review": "Tesy BiLight GCV9S e cel mai bine plasat boiler termoelectric cu serpentină din top, gândit pentru case cu centrală termică sau panouri solare. Serpentina pe dreapta permite încălzirea apei pe gaz, lemne sau energie solară, reducând factura de curent, iar rezistența electrică de 2000 W preia sarcina când sursa externă nu e disponibilă. Cei 100 de litri acoperă o familie, iar protecția anti-îngheț îl face potrivit pentru case folosite ocazional iarna. Presiunea de 8 bar e standard pentru rețeaua casnică. Serpentina are sens doar dacă o poți conecta la o sursă de căldură — altfel plătești în plus pentru o funcție nefolosită — iar montajul e mai complex. Din specificații și după recenziile cumpărătorilor, e alegerea pentru case cu sistem termic propriu care vor economie pe termen lung.",
+      "review": "Tesy BiLight GCV9S e cel mai bine plasat boiler termoelectric cu serpentină din top, gândit pentru case cu centrală termică sau panouri solare. Serpentina pe dreapta permite încălzirea apei pe gaz, lemne sau energie solară, reducând factura de curent, iar rezistența electrică de 2000 W preia sarcina când sursa externă nu e disponibilă. Cei 100 de litri acoperă o familie, iar protecția anti-îngheț îl face potrivit pentru case folosite ocazional iarna. Presiunea de 8 bar e standard pentru rețeaua casnică. Serpentina are sens doar dacă o poți conecta la o sursă de căldură, altfel plătești în plus pentru o funcție nefolosită, iar montajul e mai complex. Din specificații și după recenziile cumpărătorilor, e alegerea pentru case cu sistem termic propriu care vor economie pe termen lung.",
       "emagUrl": "https://www.emag.ro/boiler-termoelectric-cu-serpentina-tesy-bilight-gcv9s-1004420-b11-tsrcp-2000w-100-l-serpentina-pe-partea-dreapta-8-bar-protectie-anti-inghet-18mm-alb-tesyen1-gcv9s-1004420-b11-tsrcp/pd/D78VLJBBM/",
       "image": "/img/products/d78vljbbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214361"
@@ -1160,7 +1160,7 @@
         "Ocupă mult spațiu pe perete",
         "Reîncălzire mai lentă din cauza volumului mare"
       ],
-      "review": "Tesy BiLight de 150 de litri e cel mai încăpător boiler din tot topul, gândit pentru consum mare — familii numeroase sau locuințe cu două băi folosite simultan. Volumul de 150 de litri asigură apă caldă chiar și în orele de vârf, fără riscul dușurilor reci, iar puterea de 2000 W și presiunea de 0,8 MPa sunt tipice gamei BiLight, apreciată pentru fiabilitate în recenziile cumpărătorilor. Controlul mecanic simplu ține prețul jos pentru această capacitate. Compromisurile sunt gabaritul mare, care cere un perete solid și spațiu generos, și reîncălzirea mai lentă, inevitabilă la un rezervor atât de mare. Din specificații și după recenziile cumpărătorilor, e alegerea pentru gospodării cu consum ridicat care pun capacitatea înaintea funcțiilor smart.",
+      "review": "Tesy BiLight de 150 de litri e cel mai încăpător boiler din tot topul, gândit pentru consum mare, familii numeroase sau locuințe cu două băi folosite simultan. Volumul de 150 de litri asigură apă caldă chiar și în orele de vârf, fără riscul dușurilor reci, iar puterea de 2000 W și presiunea de 0,8 MPa sunt tipice gamei BiLight, apreciată pentru fiabilitate în recenziile cumpărătorilor. Controlul mecanic simplu ține prețul jos pentru această capacitate. Compromisurile sunt gabaritul mare, care cere un perete solid și spațiu generos, și reîncălzirea mai lentă, inevitabilă la un rezervor atât de mare. Din specificații și după recenziile cumpărătorilor, e alegerea pentru gospodării cu consum ridicat care pun capacitatea înaintea funcțiilor smart.",
       "emagUrl": "https://www.emag.ro/boiler-electric-tesy-bilight-2000-w-150-l-0-8-mpa-18-mm-gcv1504420b11tsr/pd/DG8DJBBBM/",
       "image": "/img/products/dg8djbbbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214363"
@@ -1278,7 +1278,7 @@
         "Util doar cu o sursă externă de căldură",
         "Montaj mai complex decât un boiler clasic"
       ],
-      "review": "Tesy BiLight termoelectric de 80 de litri cu serpentină pe dreapta e opțiunea de capacitate medie pentru case cu centrală termică sau panouri solare. Serpentina permite încălzirea apei pe o sursă externă, reducând factura de curent, iar rezistența de 2000 W preia sarcina când sursa nu e disponibilă. Cei 80 de litri sunt potriviți pentru o familie mică, iar presiunea de 0,8 MPa e standard. Ca orice model cu serpentină, are sens doar dacă îl poți conecta la o sursă de căldură — altfel un boiler electric clasic e mai practic — iar montajul e mai complex, cu racord suplimentar. Din specificații și după recenziile cumpărătorilor, e o alegere bună pentru cine vrea încălzire mixtă la 80 de litri, cu o sursă termică deja instalată în casă.",
+      "review": "Tesy BiLight termoelectric de 80 de litri cu serpentină pe dreapta e opțiunea de capacitate medie pentru case cu centrală termică sau panouri solare. Serpentina permite încălzirea apei pe o sursă externă, reducând factura de curent, iar rezistența de 2000 W preia sarcina când sursa nu e disponibilă. Cei 80 de litri sunt potriviți pentru o familie mică, iar presiunea de 0,8 MPa e standard. Ca orice model cu serpentină, are sens doar dacă îl poți conecta la o sursă de căldură, altfel un boiler electric clasic e mai practic, iar montajul e mai complex, cu racord suplimentar. Din specificații și după recenziile cumpărătorilor, e o alegere bună pentru cine vrea încălzire mixtă la 80 de litri, cu o sursă termică deja instalată în casă.",
       "emagUrl": "https://www.emag.ro/boiler-termoelectric-cu-serpentina-tesy-bilight-2000-w-80-l-serpentila-pe-partea-dreapta-0-8-mpa-18-mm-gcvs-804420-b11-tsr/pd/DXCR3MBBM/",
       "image": "/img/products/dxcr3mbbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214365"
@@ -1514,7 +1514,7 @@
         "Brand mai puțin cunoscut decât Ariston sau Tesy",
         "Dotări de bază, fără display digital"
       ],
-      "review": "Fornello Titanium Plus e un boiler electric de 50 de litri care mizează pe rezervorul cu strat de titan pentru rezistență la coroziune, un plus de durabilitate la un preț accesibil. Puterea de 2000 W reîncălzește rapid volumul de 50 de litri, potrivit pentru un cuplu sau o baie mică, iar presiunea de 0,8 MPa e standard pentru rețeaua casnică. Fornello e un brand mai puțin cunoscut decât Ariston sau Tesy, cu mai puține recenzii acumulate, iar dotările sunt de bază — fără display digital sau funcții smart. Pentru cine caută protecția rezervorului cu titan la preț mic, e o opțiune interesantă. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine pune accent pe durabilitatea rezervorului, fără pretenții la dotări electronice.",
+      "review": "Fornello Titanium Plus e un boiler electric de 50 de litri care mizează pe rezervorul cu strat de titan pentru rezistență la coroziune, un plus de durabilitate la un preț accesibil. Puterea de 2000 W reîncălzește rapid volumul de 50 de litri, potrivit pentru un cuplu sau o baie mică, iar presiunea de 0,8 MPa e standard pentru rețeaua casnică. Fornello e un brand mai puțin cunoscut decât Ariston sau Tesy, cu mai puține recenzii acumulate, iar dotările sunt de bază, fără display digital sau funcții smart. Pentru cine caută protecția rezervorului cu titan la preț mic, e o opțiune interesantă. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine pune accent pe durabilitatea rezervorului, fără pretenții la dotări electronice.",
       "emagUrl": "https://www.emag.ro/boiler-electric-fornello-titanium-plus-2000-w-50-l-0-8-mpa-5319990004079/pd/D83H58BBM/",
       "image": "/img/products/d83h58bbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214369"
@@ -1568,7 +1568,7 @@
         "Brand de buget, mai puține recenzii disponibile",
         "Dotări minime, fără funcții digitale"
       ],
-      "review": "Habitat 100 L e un boiler de buget care oferă capacitate mare la un preț foarte mic, potrivit pentru cine vrea 100 de litri fără să investească într-un brand premium. Puterea de 2000 W reîncălzește apa la o viteză bună pentru o familie de 3-4 persoane, iar controlul de bază îl face simplu de folosit. Fiind un brand de intrare, are dotări minime — fără display digital, funcții eco sau conectivitate — și mai puține recenzii acumulate decât mărcile consacrate, deci durabilitatea pe termen lung e mai greu de estimat. Pentru un buget strâns, capacitatea mare la preț mic e principalul argument. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine are nevoie de volum de 100 de litri fără costuri suplimentare.",
+      "review": "Habitat 100 L e un boiler de buget care oferă capacitate mare la un preț foarte mic, potrivit pentru cine vrea 100 de litri fără să investească într-un brand premium. Puterea de 2000 W reîncălzește apa la o viteză bună pentru o familie de 3-4 persoane, iar controlul de bază îl face simplu de folosit. Fiind un brand de intrare, are dotări minime, fără display digital, funcții eco sau conectivitate, și mai puține recenzii acumulate decât mărcile consacrate, deci durabilitatea pe termen lung e mai greu de estimat. Pentru un buget strâns, capacitatea mare la preț mic e principalul argument. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine are nevoie de volum de 100 de litri fără costuri suplimentare.",
       "emagUrl": "https://www.emag.ro/boiler-electric-habitat-100l-2000w-81be2004/pd/D4P8R2MBM/",
       "image": "/img/products/d4p8r2mbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214370"
@@ -1622,7 +1622,7 @@
         "Brand de buget, dotări minime",
         "Mai puține recenzii decât mărcile consacrate"
       ],
-      "review": "Habitat 80 L e varianta de 80 de litri a gamei de buget Habitat, cu același argument principal: capacitate decentă la preț mic. Puterea de 2000 W reîncălzește rapid apa, suficient pentru o familie mică de 2-3 persoane, iar controlul de bază îl face simplu de utilizat. Ca brand de intrare, are dotări minime — fără display digital, mod eco sau conectivitate — și mai puține recenzii acumulate decât Ariston sau Tesy, deci durabilitatea pe termen lung e mai greu de evaluat. Pentru un buget strâns, e o soluție practică de 80 de litri. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine vrea capacitate medie la cel mai mic cost posibil, fără să conteze funcțiile suplimentare.",
+      "review": "Habitat 80 L e varianta de 80 de litri a gamei de buget Habitat, cu același argument principal: capacitate decentă la preț mic. Puterea de 2000 W reîncălzește rapid apa, suficient pentru o familie mică de 2-3 persoane, iar controlul de bază îl face simplu de utilizat. Ca brand de intrare, are dotări minime, fără display digital, mod eco sau conectivitate, și mai puține recenzii acumulate decât Ariston sau Tesy, deci durabilitatea pe termen lung e mai greu de evaluat. Pentru un buget strâns, e o soluție practică de 80 de litri. Din specificații și după recenziile cumpărătorilor, e o alegere de buget pentru cine vrea capacitate medie la cel mai mic cost posibil, fără să conteze funcțiile suplimentare.",
       "emagUrl": "https://www.emag.ro/boiler-electric-habitat-80l-2000w-81be2003/pd/DHP8R2MBM/",
       "image": "/img/products/dhp8r2mbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214371"
@@ -1676,7 +1676,7 @@
         "Putere de 1500 W, reîncălzire mai lentă la 100 L",
         "Dotări de bază, fără funcții digitale"
       ],
-      "review": "Regent NTS 100 e un boiler de 100 de litri cu control mecanic, gândit pentru cine vrea capacitate mare la un preț accesibil, fără dotări electronice. Cei 100 de litri acoperă o familie de 3-4 persoane, iar controlul mecanic prin buton rotativ e simplu și robust, cu risc redus de defecțiuni. Puterea de 1500 W e mai modestă decât la modelele de 2000 W, deci reîncălzirea celor 100 de litri e mai lentă — un compromis acceptabil dacă boilerul stă pornit permanent. Dotările sunt de bază, fără display digital, mod eco sau conectivitate. Din specificații și după recenziile cumpărătorilor, e o alegere accesibilă pentru cine vrea volum de 100 de litri și un control simplu, mecanic, fără să plătească pentru funcții suplimentare.",
+      "review": "Regent NTS 100 e un boiler de 100 de litri cu control mecanic, gândit pentru cine vrea capacitate mare la un preț accesibil, fără dotări electronice. Cei 100 de litri acoperă o familie de 3-4 persoane, iar controlul mecanic prin buton rotativ e simplu și robust, cu risc redus de defecțiuni. Puterea de 1500 W e mai modestă decât la modelele de 2000 W, deci reîncălzirea celor 100 de litri e mai lentă, un compromis acceptabil dacă boilerul stă pornit permanent. Dotările sunt de bază, fără display digital, mod eco sau conectivitate. Din specificații și după recenziile cumpărătorilor, e o alegere accesibilă pentru cine vrea volum de 100 de litri și un control simplu, mecanic, fără să plătească pentru funcții suplimentare.",
       "emagUrl": "https://www.emag.ro/boiler-electric-regent-nts-100-100-litri-1500-w-alimentare-electrica-control-mecanic-nts100/pd/DFJ3Z3BBM/",
       "image": "/img/products/dfj3z3bbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214372"
@@ -1846,7 +1846,7 @@
         "Capacitate foarte mică, doar pentru un punct de consum",
         "Nepotrivit pentru duș sau familie"
       ],
-      "review": "Fornello AquaCalda Eco de 15 litri e un boiler compact gândit pentru montaj deasupra chiuvetei, ideal ca punct secundar de apă caldă — la bucătărie, la o chiuvetă de baie sau într-o rulotă. Puterea de 2000 W reîncălzește foarte rapid volumul mic de 15 litri, iar afișajul digital și reglajul extern al temperaturii oferă un control comod, neobișnuit de bun pentru un model atât de mic. Protecția IPX4 îl face potrivit pentru zone cu stropi de apă. Capacitatea de 15 litri e suficientă doar pentru spălat pe mâini sau vase, nu pentru duș sau pentru o familie. Din specificații și după recenziile cumpărătorilor, e alegerea pentru un punct de consum individual sau ca boiler suplimentar lângă un consumator izolat.",
+      "review": "Fornello AquaCalda Eco de 15 litri e un boiler compact gândit pentru montaj deasupra chiuvetei, ideal ca punct secundar de apă caldă, la bucătărie, la o chiuvetă de baie sau într-o rulotă. Puterea de 2000 W reîncălzește foarte rapid volumul mic de 15 litri, iar afișajul digital și reglajul extern al temperaturii oferă un control comod, neobișnuit de bun pentru un model atât de mic. Protecția IPX4 îl face potrivit pentru zone cu stropi de apă. Capacitatea de 15 litri e suficientă doar pentru spălat pe mâini sau vase, nu pentru duș sau pentru o familie. Din specificații și după recenziile cumpărătorilor, e alegerea pentru un punct de consum individual sau ca boiler suplimentar lângă un consumator izolat.",
       "emagUrl": "https://www.emag.ro/boiler-electric-fornello-aquacalda-eco-15-litri-montaj-deasupra-chiuvetei-2000-watt-reglaj-extern-al-temperaturii-poliuretan-expandat-grad-de-protectie-ipx4-dimensiuni-compacte-si-afisaj-digital-eco15/pd/DJWD6M2BM/",
       "image": "/img/products/djwd6m2bm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214375"

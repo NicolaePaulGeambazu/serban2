@@ -1,12 +1,12 @@
 ---
 title: "Ce diagonală de televizor să alegi?"
-description: "43, 50, 55, 65 inch? Cum alegi mărimea potrivită în funcție de distanța de la canapea — și de ce cei mai mulți aleg prea mic."
+description: "43, 50, 55, 65 inch? Cum alegi mărimea potrivită în funcție de distanța de la canapea, și de ce cei mai mulți aleg prea mic."
 kicker: "Televizoare"
 updated: "2026-07-16"
 order: 4
 ---
 
-Mărimea televizorului e prima decizie — și cea mai des regretată. Aproape toată lumea alege **prea mic**, apoi și-ar fi dorit mai mare. Iată cum nimerești din prima.
+Mărimea televizorului e prima decizie, și cea mai des regretată. Aproape toată lumea alege **prea mic**, apoi și-ar fi dorit mai mare. Iată cum nimerești din prima.
 
 ## Regula distanței
 
@@ -33,6 +33,6 @@ La televizoarele Full HD vechi, dacă stăteai aproape de un ecran mare vedeai p
 
 ## Verifică și înălțimea de montare
 
-Centrul ecranului ar trebui să fie cam la nivelul ochilor când stai pe canapea. Dacă îl pui pe perete peste un șemineu, s-ar putea să fie prea sus — măsoară înainte.
+Centrul ecranului ar trebui să fie cam la nivelul ochilor când stai pe canapea. Dacă îl pui pe perete peste un șemineu, s-ar putea să fie prea sus, măsoară înainte.
 
 Alege diagonala, apoi vezi cele mai bune modele la mărimea ta în [clasamentul de televizoare](/clasament/televizoare/).

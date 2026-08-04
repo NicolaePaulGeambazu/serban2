@@ -4,10 +4,10 @@ export const site = {
   url: 'https://www.topalegeri.ro',
   tagline: 'Comparăm, cântărim și dăm verdictul.',
   description:
-    'Recenzii și verdicte scrise de redacția noastră pentru piața din România — electrocasnice, electronice și fitness. Îți spunem pe scurt ce merită cumpărat și de ce, cu link direct către produs.',
+    'Recenzii și verdicte scrise de redacția noastră pentru piața din România, electrocasnice, electronice și fitness. Îți spunem pe scurt ce merită cumpărat și de ce, cu link direct către produs.',
   // Google Tag Manager container id ("GTM-XXXXXXX"). If set, GTM is used (manage GA4/Ads inside GTM).
   googleTagManagerId: 'GTM-MJZLLCZC',
-  // GA4 Measurement ID ("G-XXXXXXXXXX") — used ONLY if GTM id above is empty. Empty = analytics off.
+  // GA4 Measurement ID ("G-XXXXXXXXXX"), used ONLY if GTM id above is empty. Empty = analytics off.
   googleAnalyticsId: '',
   // Paste the token from Google Search Console (HTML tag verification method). Empty = no tag.
   googleSiteVerification: 'omUxFErR4arMpS6M7HAf7BwmIldeFfU0YslovrOYgao',

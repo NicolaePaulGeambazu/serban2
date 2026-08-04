@@ -42,11 +42,11 @@
     {
       "h3": "Cantitatea de memorie video (VRAM)",
       "body": "E criteriul cel mai subestimat. În 2026, 8 GB e pragul minim pentru un model nou și începe să fie strâns chiar și în Full HD la texturi mari. Pentru 1440p, 12 GB e minim acceptabil; la 4K nu te uita sub 16 GB. Memoria insuficientă provoacă stuttering, oricât de rapidă ar fi placa.",
-      "callout": "Nu cumpăra 8 GB pentru 1440p/4K și jocuri noi — vei fi limitat de VRAM, nu de putere."
+      "callout": "Nu cumpăra 8 GB pentru 1440p/4K și jocuri noi, vei fi limitat de VRAM, nu de putere."
     },
     {
       "h3": "Arhitectura contează, nu numărul de pe cutie",
-      "body": "O placă din generația actuală cu același număr (RTX 5060, RX 9060) e net superioară unui model cu cifră mai mare dintr-o generație veche. NVIDIA seria RTX 50 și AMD seria RX 9000 sunt singurele de luat în calcul la achiziții noi în 2026 — restul sunt stocuri vechi."
+      "body": "O placă din generația actuală cu același număr (RTX 5060, RX 9060) e net superioară unui model cu cifră mai mare dintr-o generație veche. NVIDIA seria RTX 50 și AMD seria RX 9000 sunt singurele de luat în calcul la achiziții noi în 2026, restul sunt stocuri vechi."
     },
     {
       "h3": "Rezoluția și placa potrivită",
@@ -62,7 +62,7 @@
     },
     {
       "h3": "Sursa și răcirea nu sunt opționale",
-      "body": "O placă puternică cere o sursă (PSU) de calitate, cu suficientă putere și conectori corecți — o sursă ieftină poate distruge tot sistemul. Verifică și dimensiunea plăcii (să încapă în carcasă) și calitatea răcirii pentru temperaturi și zgomot rezonabile."
+      "body": "O placă puternică cere o sursă (PSU) de calitate, cu suficientă putere și conectori corecți, o sursă ieftină poate distruge tot sistemul. Verifică și dimensiunea plăcii (să încapă în carcasă) și calitatea răcirii pentru temperaturi și zgomot rezonabile."
     },
     {
       "h3": "Riscul de bottleneck: procesorul contează la fel de mult",
@@ -70,15 +70,15 @@
     },
     {
       "h3": "Variantele AIB: aceeași placă, cooler și preț diferit",
-      "body": "NVIDIA și AMD produc doar chipul (GPU-ul) — plăcile efective vin de la parteneri precum ASUS, Gigabyte, SAPPHIRE sau MSI, fiecare cu propriul design de răcire, boost de fabrică din uzină și preț. Un RTX 5070 „TUF Gaming” și unul „PRIME”, de exemplu, au același chip, dar diferă la răcire, zgomot, dimensiune fizică și, uneori, la clock-uri. Nu presupune că toate plăcile cu același nume de model sunt identice — verifică varianta exactă (numele complet de pe cutie), nu doar cifra generică a modelului."
+      "body": "NVIDIA și AMD produc doar chipul (GPU-ul), plăcile efective vin de la parteneri precum ASUS, Gigabyte, SAPPHIRE sau MSI, fiecare cu propriul design de răcire, boost de fabrică din uzină și preț. Un RTX 5070 „TUF Gaming” și unul „PRIME”, de exemplu, au același chip, dar diferă la răcire, zgomot, dimensiune fizică și, uneori, la clock-uri. Nu presupune că toate plăcile cu același nume de model sunt identice, verifică varianta exactă (numele complet de pe cutie), nu doar cifra generică a modelului."
     },
     {
       "h3": "Plăci profesionale (PRO / AI) vs. plăci de gaming",
-      "body": "Plăcile din seriile Radeon PRO sau „AI PRO” (și echivalentele NVIDIA din seria RTX PRO / fostă Quadro) arată tentant prin cei 32 GB de memorie, dar sunt gândite pentru workstation, randare, calcul și încărcături AI, nu pentru jocuri. Driverele lor sunt certificate pentru aplicații profesionale, nu optimizate pentru titluri, iar prețul reflectă memoria uriașă și cazurile de utilizare profesionale. Într-un clasament de gaming, o placă consumer mult mai ieftină le depășește frecvent la cadre pe secundă. Cumpără o placă PRO doar dacă lucrezi efectiv în aplicații care exploatează VRAM-ul mare — pentru gaming pur, sunt o alegere greșită."
+      "body": "Plăcile din seriile Radeon PRO sau „AI PRO” (și echivalentele NVIDIA din seria RTX PRO / fostă Quadro) arată tentant prin cei 32 GB de memorie, dar sunt gândite pentru workstation, randare, calcul și încărcături AI, nu pentru jocuri. Driverele lor sunt certificate pentru aplicații profesionale, nu optimizate pentru titluri, iar prețul reflectă memoria uriașă și cazurile de utilizare profesionale. Într-un clasament de gaming, o placă consumer mult mai ieftină le depășește frecvent la cadre pe secundă. Cumpără o placă PRO doar dacă lucrezi efectiv în aplicații care exploatează VRAM-ul mare, pentru gaming pur, sunt o alegere greșită."
     },
     {
       "h3": "Greșeli frecvente la alegerea unei plăci video",
-      "body": "Cea mai frecventă greșeală e să cumperi o placă mult prea puternică pentru monitorul pe care îl ai, sau invers — nu are sens un GPU de top pe un monitor de 1080p la 60Hz, dar nici o placă slabă lângă un monitor 4K de 144Hz. A doua greșeală e să ignori VRAM-ul de dragul unui scor de performanță mai mare pe hârtie. A treia e să nu verifici dimensiunea fizică a plăcii și cerințele de sursă înainte de achiziție, riscând să nu încapă în carcasă sau să nu aibă conectorii de alimentare necesari."
+      "body": "Cea mai frecventă greșeală e să cumperi o placă mult prea puternică pentru monitorul pe care îl ai, sau invers, nu are sens un GPU de top pe un monitor de 1080p la 60Hz, dar nici o placă slabă lângă un monitor 4K de 144Hz. A doua greșeală e să ignori VRAM-ul de dragul unui scor de performanță mai mare pe hârtie. A treia e să nu verifici dimensiunea fizică a plăcii și cerințele de sursă înainte de achiziție, riscând să nu încapă în carcasă sau să nu aibă conectorii de alimentare necesari."
     }
   ],
   "faq": [
@@ -112,7 +112,7 @@
     },
     {
       "q": "DLSS și FSR chiar ajută?",
-      "a": "Da — cresc semnificativ numărul de cadre randând la rezoluție mai mică și mărind imaginea inteligent, cu pierdere minimă de calitate. DLSS (NVIDIA) e cel mai matur; FSR 4 (AMD) a ajuns foarte aproape. Ambele sunt esențiale la 4K."
+      "a": "Da, cresc semnificativ numărul de cadre randând la rezoluție mai mică și mărind imaginea inteligent, cu pierdere minimă de calitate. DLSS (NVIDIA) e cel mai matur; FSR 4 (AMD) a ajuns foarte aproape. Ambele sunt esențiale la 4K."
     }
   ],
   "conclusion": "Cel mai puternic GPU din tot topul e ASUS TUF Gaming RTX 5090 OC Edition, opțiunea fără compromis pentru 4K și creație. Pentru cel mai bun raport preț/calitate, RX 9070 XT PULSE oferă putere de nivel premium la 1440p la un preț mult mai rezonabil, iar dacă bugetul e principala restricție, RTX 5060 WINDFORCE MAX OC rămâne alegerea logică pentru 1080p/1440p cu DLSS 4.",
@@ -174,7 +174,7 @@
         "Preț extrem, doar pentru segmentul entuziast",
         "Consum și cerințe de sursă/carcasă foarte mari"
       ],
-      "review": "Pe specificații, ASUS TUF Gaming RTX 5090 OC Edition e vârful absolut al gamei consumer în 2026 — 32 GB GDDR7 pe o magistrală imensă de 512-bit înseamnă că nicio combinație de rezoluție și texturi nu o pune în dificultate, nici măcar 4K la refresh mare cu ray tracing complet. DLSS 4 cu Frame Generation multiplică și mai mult cadrele în titlurile compatibile, iar cooler-ul TUF triplu-fan e construit să facă față consumului uriaș pe care îl cere acest chip. Din recenziile cumpărătorilor, principalele rezerve sunt prețul, greu de justificat în afara segmentului entuziast, și cerințele de sursă și carcasă — ai nevoie de o alimentare puternică și de spațiu real. Dacă vrei maximul fără compromis pentru 4K și creație, asta e alegerea, conform specificațiilor.",
+      "review": "Pe specificații, ASUS TUF Gaming RTX 5090 OC Edition e vârful absolut al gamei consumer în 2026, 32 GB GDDR7 pe o magistrală imensă de 512-bit înseamnă că nicio combinație de rezoluție și texturi nu o pune în dificultate, nici măcar 4K la refresh mare cu ray tracing complet. DLSS 4 cu Frame Generation multiplică și mai mult cadrele în titlurile compatibile, iar cooler-ul TUF triplu-fan e construit să facă față consumului uriaș pe care îl cere acest chip. Din recenziile cumpărătorilor, principalele rezerve sunt prețul, greu de justificat în afara segmentului entuziast, și cerințele de sursă și carcasă, ai nevoie de o alimentare puternică și de spațiu real. Dacă vrei maximul fără compromis pentru 4K și creație, asta e alegerea, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-tuf-gaming-geforce-rtxtm-5090-o32g-gaming-32gb-gddr7-512-bit-tuf-rtx5090-o32g-gaming/pd/DRX18GYBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214385"
     },
@@ -234,7 +234,7 @@
         "Preț mare și placă foarte voluminoasă",
         "Consum ridicat față de generația RTX 50"
       ],
-      "review": "Gigabyte RTX 4090 WINDFORCE V2 rămâne, chiar și în 2026, una dintre cele mai puternice plăci pe care le poți cumpăra — cei 24 GB GDDR6X pe 384-bit o țin relevantă la 4K și în volume mari de creație grafică. Pe hârtie stă sub noul RTX 5090, dar diferența nu se simte pentru majoritatea jocurilor actuale, iar recenziile cumpărătorilor o laudă pentru consistența la 4K și pentru cooler-ul WINDFORCE, care ține temperaturile sub control fără zgomot excesiv. Compromisurile sunt cele tipice vârfului de gamă din generația anterioară: preț mare, dimensiune considerabilă și consum ridicat. Dacă o găsești la un preț bun față de RTX 5090, e o alegere excelentă pentru 4K și sarcini profesionale, conform specificațiilor.",
+      "review": "Gigabyte RTX 4090 WINDFORCE V2 rămâne, chiar și în 2026, una dintre cele mai puternice plăci pe care le poți cumpăra, cei 24 GB GDDR6X pe 384-bit o țin relevantă la 4K și în volume mari de creație grafică. Pe hârtie stă sub noul RTX 5090, dar diferența nu se simte pentru majoritatea jocurilor actuale, iar recenziile cumpărătorilor o laudă pentru consistența la 4K și pentru cooler-ul WINDFORCE, care ține temperaturile sub control fără zgomot excesiv. Compromisurile sunt cele tipice vârfului de gamă din generația anterioară: preț mare, dimensiune considerabilă și consum ridicat. Dacă o găsești la un preț bun față de RTX 5090, e o alegere excelentă pentru 4K și sarcini profesionale, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-gigabyte-geforce-rtxr-4090-windforce3-v2-24gb-gddr6x-384-bit-gv-n4090wf3v2-24gd/pd/D8T5J7YBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214386"
     },
@@ -293,7 +293,7 @@
       "cons": [
         "Preț ridicat față de gama medie"
       ],
-      "review": "Pe specificații și în recenziile utilizatorilor la 1440p/165Hz, RTX 5080 WINDFORCE OC SFF e una dintre cele mai puternice plăci din acest top — 16 GB GDDR7 pe magistrală de 256-bit înseamnă că nu vei atinge plafonul de memorie nici la texturi maxime în 4K. Ray tracing-ul e la nivel de referință, iar DLSS 4 cu Frame Generation aduce un boost de cadre uriaș în titlurile care îl suportă, fără artefacte vizibile. Designul SFF (Small Form Factor) e o surpriză plăcută — încape și în carcase mai compacte, nu doar în turnuri full-size, ceea ce nu era garantat la o placă din segmentul premium. Singurul motiv pentru care n-o recomandăm tuturor e prețul, sensibil peste gama medie, greu de justificat dacă joci în principal la 1080p sau 1440p pe un monitor cu refresh moderat. Dacă însă vrei o experiență de vârf la 1440p sau 4K și bugetul nu e o problemă, asta e o alegere fără compromisuri.",
+      "review": "Pe specificații și în recenziile utilizatorilor la 1440p/165Hz, RTX 5080 WINDFORCE OC SFF e una dintre cele mai puternice plăci din acest top, 16 GB GDDR7 pe magistrală de 256-bit înseamnă că nu vei atinge plafonul de memorie nici la texturi maxime în 4K. Ray tracing-ul e la nivel de referință, iar DLSS 4 cu Frame Generation aduce un boost de cadre uriaș în titlurile care îl suportă, fără artefacte vizibile. Designul SFF (Small Form Factor) e o surpriză plăcută, încape și în carcase mai compacte, nu doar în turnuri full-size, ceea ce nu era garantat la o placă din segmentul premium. Singurul motiv pentru care n-o recomandăm tuturor e prețul, sensibil peste gama medie, greu de justificat dacă joci în principal la 1080p sau 1440p pe un monitor cu refresh moderat. Dacă însă vrei o experiență de vârf la 1440p sau 4K și bugetul nu e o problemă, asta e o alegere fără compromisuri.",
       "emagUrl": "https://www.emag.ro/placa-video-geforce-rtxtm-5080-windforce-oc-sff-16gb-gddr7-256-bit-gv-n5080wf3oc-16gd/pd/DZX18GYBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205102"
     },
@@ -352,7 +352,7 @@
       "cons": [
         "Ray tracing rămâne în urma echivalentelor NVIDIA"
       ],
-      "review": "NITRO+ e varianta cu care SAPPHIRE arată ce poate face RDNA 4 dus la limită — 16 GB GDDR6 pe 256-bit, suficient pentru orice combinație de rezoluție și texturi la 1440p, cu incursiuni confortabile în 4K. Ce ne-a plăcut cel mai mult a fost răcirea: sistemul triplu-fan ține temperaturile jos chiar și în sesiuni lungi, iar zgomotul rămâne surprinzător de discret pentru o placă din acest segment de putere. La raster brut e la un pas de RTX 5080, ceea ce spune multe despre cât a recuperat AMD în ultima generație. Unde rămâne totuși în urmă e ray tracing-ul — FSR 4 a făcut progrese reale, dar în titlurile cu iluminare globală intensivă, echivalentele NVIDIA tot au un avantaj vizibil. Pentru cineva care joacă predominant raster și pune preț pe răcire și liniște, NITRO+ e una dintre cele mai complete plăci AMD de pe piață în acest moment.",
+      "review": "NITRO+ e varianta cu care SAPPHIRE arată ce poate face RDNA 4 dus la limită, 16 GB GDDR6 pe 256-bit, suficient pentru orice combinație de rezoluție și texturi la 1440p, cu incursiuni confortabile în 4K. Ce ne-a plăcut cel mai mult a fost răcirea: sistemul triplu-fan ține temperaturile jos chiar și în sesiuni lungi, iar zgomotul rămâne surprinzător de discret pentru o placă din acest segment de putere. La raster brut e la un pas de RTX 5080, ceea ce spune multe despre cât a recuperat AMD în ultima generație. Unde rămâne totuși în urmă e ray tracing-ul, FSR 4 a făcut progrese reale, dar în titlurile cu iluminare globală intensivă, echivalentele NVIDIA tot au un avantaj vizibil. Pentru cineva care joacă predominant raster și pune preț pe răcire și liniște, NITRO+ e una dintre cele mai complete plăci AMD de pe piață în acest moment.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-nitro-amd-radeontm-rx-9070-xt-gaming-oc-16gb-gddr6-256-bit-11348-01-20g/pd/D3SCXY3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205103"
     },
@@ -412,7 +412,7 @@
         "Placă mare, cere carcasă spațioasă",
         "Ray tracing sub echivalentele NVIDIA"
       ],
-      "review": "PowerColor Red Devil e varianta prin care AMD RX 9070 XT ajunge la potențialul maxim de fabrică — 16 GB GDDR6 pe 256-bit, clock-uri ridicate și unul dintre cele mai serioase sisteme de răcire din segment. După recenziile cumpărătorilor, Red Devil impresionează la capitolul temperaturi și zgomot chiar și în sesiuni lungi, iar la raster brut se bate direct cu plăci NVIDIA mult mai scumpe. Ca la toată gama RX 9000, ray tracing-ul rămâne pasul în urmă față de echivalentele GeForce, deși FSR 4 a redus mult decalajul. Placa e mare și cere o carcasă spațioasă. Pentru cineva care vrea un RX 9070 XT premium, cu răcire de top și VRAM generos la 1440p și 4K, e una dintre cele mai bune variante, conform specificațiilor.",
+      "review": "PowerColor Red Devil e varianta prin care AMD RX 9070 XT ajunge la potențialul maxim de fabrică, 16 GB GDDR6 pe 256-bit, clock-uri ridicate și unul dintre cele mai serioase sisteme de răcire din segment. După recenziile cumpărătorilor, Red Devil impresionează la capitolul temperaturi și zgomot chiar și în sesiuni lungi, iar la raster brut se bate direct cu plăci NVIDIA mult mai scumpe. Ca la toată gama RX 9000, ray tracing-ul rămâne pasul în urmă față de echivalentele GeForce, deși FSR 4 a redus mult decalajul. Placa e mare și cere o carcasă spațioasă. Pentru cineva care vrea un RX 9070 XT premium, cu răcire de top și VRAM generos la 1440p și 4K, e una dintre cele mai bune variante, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-powercolor-red-devil-amd-radeontm-rx-9070-xt-16gb-gddr6-256-bit-rx9070xt-16g-e-oc/pd/DQJCXY3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214387"
     },
@@ -471,7 +471,7 @@
       "cons": [
         "Cooler PULSE mai simplu, puțin mai zgomotos la sarcină maximă"
       ],
-      "review": "PULSE e practic sora mai accesibilă a NITRO+ — aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot topul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul — sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din top. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
+      "review": "PULSE e practic sora mai accesibilă a NITRO+, aceeași putere brută, aceiași 16 GB GDDR6 pe 256-bit, dar cu un cooler mai simplu și un preț mai prietenos. Asta o face, în opinia noastră, cea mai bună alegere preț/calitate din tot topul: primești performanță de nivel premium la 1440p, cu suficient VRAM pentru a nu-ți face griji în următorii ani, fără să plătești în plus pentru un sistem de răcire pe care mulți nici nu-l vor exploata la maximum. Singurul compromis real e zgomotul, sub sarcină maximă, cooler-ul PULSE se aude ceva mai mult decât NITRO+ sau alte modele triplu-fan din top. Dacă poți trăi cu asta, e greu de găsit un raport mai bun între ce oferă placa și cât costă. Pentru majoritatea jucătorilor la 1440p, e alegerea logică.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-xt-gaming-16gb-gddr6-256-bit-11348-03-20g/pd/DYSCXY3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205105"
     },
@@ -589,7 +589,7 @@
       "cons": [
         "Preț peste RX 9070 XT, care oferă raster comparabil pentru mai puțin"
       ],
-      "review": "ASUS TUF Gaming RTX 5070 Ti White OC Edition e locul unde NVIDIA devine cu adevărat interesantă între 5070 și 5080 — 16 GB GDDR7 pe 256-bit rezolvă exact limitarea de memorie a lui RTX 5070, oferind marjă reală pentru 1440p high-refresh și 4K rezonabil. Ray tracing-ul și DLSS 4 cu Frame Generation sunt la nivelul de top al arhitecturii RTX 50, iar din recenziile cumpărătorilor cooler-ul TUF ține temperaturile jos și silențios. Varianta White e un plus estetic pentru build-urile deschise. Compromisul e prețul, evident peste RX 9070 XT, care oferă raster comparabil pentru mai puțin. Dacă însă prioritatea ta e ray tracing serios plus VRAM suficient pentru ani buni, e una dintre cele mai echilibrate plăci NVIDIA din top, conform specificațiilor.",
+      "review": "ASUS TUF Gaming RTX 5070 Ti White OC Edition e locul unde NVIDIA devine cu adevărat interesantă între 5070 și 5080, 16 GB GDDR7 pe 256-bit rezolvă exact limitarea de memorie a lui RTX 5070, oferind marjă reală pentru 1440p high-refresh și 4K rezonabil. Ray tracing-ul și DLSS 4 cu Frame Generation sunt la nivelul de top al arhitecturii RTX 50, iar din recenziile cumpărătorilor cooler-ul TUF ține temperaturile jos și silențios. Varianta White e un plus estetic pentru build-urile deschise. Compromisul e prețul, evident peste RX 9070 XT, care oferă raster comparabil pentru mai puțin. Dacă însă prioritatea ta e ray tracing serios plus VRAM suficient pentru ani buni, e una dintre cele mai echilibrate plăci NVIDIA din top, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-tuf-gaming-geforce-rtxtm-5070ti-white-oc-edition-16gb-gddr7-256-bit-tuf-rtx5070ti-o16g-white-gaming/pd/D45TJW3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214389"
     },
@@ -649,7 +649,7 @@
         "Puțin mai zgomotoasă la sarcină maximă decât modelele ASUS",
         "RX 9070 XT oferă mai mult raster pentru bani"
       ],
-      "review": "MSI RTX 5070 Ti 16G Inspire 3X OC livrează același chip puternic ca varianta TUF White — 16 GB GDDR7 pe 256-bit, ray tracing de top și DLSS 4 — într-un design Inspire cu trei ventilatoare. Din recenziile cumpărătorilor, răcirea e competentă și placa rămâne liniștită în utilizare normală, deși în sarcină maximă unele voci o consideră puțin mai zgomotoasă decât modelele ASUS din aceeași categorie. La performanță pură e practic identică cu celelalte RTX 5070 Ti, diferența ținând de răcire, estetică și preț. Ca și celelalte plăci din acest segment, echivalentele AMD RX 9070 XT oferă mai mult raster pentru bani. Pentru un build NVIDIA la 1440p/4K cu ray tracing, rămâne o alegere solidă, judecată după specificații.",
+      "review": "MSI RTX 5070 Ti 16G Inspire 3X OC livrează același chip puternic ca varianta TUF White, 16 GB GDDR7 pe 256-bit, ray tracing de top și DLSS 4, într-un design Inspire cu trei ventilatoare. Din recenziile cumpărătorilor, răcirea e competentă și placa rămâne liniștită în utilizare normală, deși în sarcină maximă unele voci o consideră puțin mai zgomotoasă decât modelele ASUS din aceeași categorie. La performanță pură e practic identică cu celelalte RTX 5070 Ti, diferența ținând de răcire, estetică și preț. Ca și celelalte plăci din acest segment, echivalentele AMD RX 9070 XT oferă mai mult raster pentru bani. Pentru un build NVIDIA la 1440p/4K cu ray tracing, rămâne o alegere solidă, judecată după specificații.",
       "emagUrl": "https://www.emag.ro/placa-video-msi-geforce-rtxtm-5070-ti-16g-inspire-3x-oc-16gb-gddr7-256-bit-g507t-16i3c/pd/D4FRRH3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214390"
     },
@@ -707,7 +707,7 @@
       "cons": [
         "12 GB VRAM poate deveni limitativ la texturi 4K"
       ],
-      "review": "RTX 5070 în varianta TUF Gaming OC e placa pe care am recomanda-o cuiva care vrea ray tracing serios fără să plătească prețul unui model de vârf. Cu 12 GB GDDR7 pe 192-bit și DLSS 4, se descurcă bine la 1440p chiar și în titluri cu iluminare complexă, iar cele trei ventilatoare țin temperaturile la un nivel confortabil sub sarcină susținută. Construcția TUF simte robust, cu un radiator generos pentru clasa sa. Limita pe care am întâlnit-o e cea de VRAM — 12 GB sunt suficienți acum, dar la texturi 4K din jocurile viitoare s-ar putea să simți plafonul mai devreme decât ai vrea, mai ales dacă intenționezi să păstrezi placa mai mulți ani. Pentru gaming la 1440p cu accent pe ray tracing și DLSS, rămâne însă una dintre cele mai echilibrate opțiuni din segmentul mediu-superior.",
+      "review": "RTX 5070 în varianta TUF Gaming OC e placa pe care am recomanda-o cuiva care vrea ray tracing serios fără să plătească prețul unui model de vârf. Cu 12 GB GDDR7 pe 192-bit și DLSS 4, se descurcă bine la 1440p chiar și în titluri cu iluminare complexă, iar cele trei ventilatoare țin temperaturile la un nivel confortabil sub sarcină susținută. Construcția TUF simte robust, cu un radiator generos pentru clasa sa. Limita pe care am întâlnit-o e cea de VRAM, 12 GB sunt suficienți acum, dar la texturi 4K din jocurile viitoare s-ar putea să simți plafonul mai devreme decât ai vrea, mai ales dacă intenționezi să păstrezi placa mai mulți ani. Pentru gaming la 1440p cu accent pe ray tracing și DLSS, rămâne însă una dintre cele mai echilibrate opțiuni din segmentul mediu-superior.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-tuf-gaming-geforce-rtxtm-5070-oc-edition-12gb-gddr7-192-bit-tuf-rtx5070-o12g-gaming/pd/DXLPN23BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205104"
     },
@@ -765,7 +765,7 @@
       "cons": [
         "La preț similar, RX 9070 XT PULSE oferă mai multă putere brută"
       ],
-      "review": "Dacă NVIDIA RTX 5070 te interesează dar spațiul din carcasă e limitat, PRIME OC e varianta de luat în calcul — un format mai compact decât TUF Gaming, dar fără compromisuri majore la ray tracing sau DLSS 4, care rămân la același nivel bun specific arhitecturii RTX 5070. Cu 12 GB GDDR7 pe 192-bit, acoperă confortabil 1440p în majoritatea titlurilor actuale. De reținut că, la un preț similar, RX 9070 XT PULSE oferă mai multă putere brută în raster — deci dacă spațiul nu e o constrângere și prioritatea e cadre pe secundă, varianta AMD merită comparată direct. Însă pentru un build compact, silențios, unde vrei ecosistemul NVIDIA (DLSS, ray tracing matur), PRIME OC își face treaba fără cusur și fără să ocupe jumătate din carcasă.",
+      "review": "Dacă NVIDIA RTX 5070 te interesează dar spațiul din carcasă e limitat, PRIME OC e varianta de luat în calcul, un format mai compact decât TUF Gaming, dar fără compromisuri majore la ray tracing sau DLSS 4, care rămân la același nivel bun specific arhitecturii RTX 5070. Cu 12 GB GDDR7 pe 192-bit, acoperă confortabil 1440p în majoritatea titlurilor actuale. De reținut că, la un preț similar, RX 9070 XT PULSE oferă mai multă putere brută în raster, deci dacă spațiul nu e o constrângere și prioritatea e cadre pe secundă, varianta AMD merită comparată direct. Însă pentru un build compact, silențios, unde vrei ecosistemul NVIDIA (DLSS, ray tracing matur), PRIME OC își face treaba fără cusur și fără să ocupe jumătate din carcasă.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-prime-geforce-rtxtm-5070-oc-edition-12gb-gddr7-192-bit-prime-rtx5070-o12g/pd/DSLPN23BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205106"
     },
@@ -824,7 +824,7 @@
       "cons": [
         "Sub RX 9070 XT la performanța brută"
       ],
-      "review": "RX 9070 (non-XT) în variantă PULSE e placa pe care am recomanda-o cuiva care vrea gamă medie-superioară fără să plătească suprataxa pentru „XT” din nume. Cei 16 GB GDDR6 pe 256-bit sunt neobișnuit de generoși pentru acest nivel de preț și înseamnă că nu vei simți plafonul de memorie prea curând, indiferent cât de mult crește complexitatea texturilor în jocurile viitoare. Performanța la 1440p e solidă, deși evident sub sora ei XT — dacă bugetul permite un pas în sus, RX 9070 XT rămâne opțiunea cu mai multă marjă. Ray tracing-ul rămâne modest, ca la toată gama AMD din această selecție, așa că dacă asta e prioritatea ta, uită-te spre echivalentele NVIDIA. Pentru raster la 1440p cu VRAM din belșug și un preț rezonabil, e o alegere echilibrată și greu de reproșat.",
+      "review": "RX 9070 (non-XT) în variantă PULSE e placa pe care am recomanda-o cuiva care vrea gamă medie-superioară fără să plătească suprataxa pentru „XT” din nume. Cei 16 GB GDDR6 pe 256-bit sunt neobișnuit de generoși pentru acest nivel de preț și înseamnă că nu vei simți plafonul de memorie prea curând, indiferent cât de mult crește complexitatea texturilor în jocurile viitoare. Performanța la 1440p e solidă, deși evident sub sora ei XT, dacă bugetul permite un pas în sus, RX 9070 XT rămâne opțiunea cu mai multă marjă. Ray tracing-ul rămâne modest, ca la toată gama AMD din această selecție, așa că dacă asta e prioritatea ta, uită-te spre echivalentele NVIDIA. Pentru raster la 1440p cu VRAM din belșug și un preț rezonabil, e o alegere echilibrată și greu de reproșat.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeontm-rx-9070-gaming-16gb-gddr6-256-bit-11349-03-20g/pd/DDSCXY3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205107"
     },
@@ -998,7 +998,7 @@
       "cons": [
         "Ray tracing modest față de echivalentele NVIDIA"
       ],
-      "review": "RX 9060 XT cu 16 GB e una dintre acele plăci care rup tiparul segmentului de mijloc — de obicei la acest nivel de preț te aștepți la 8 GB, nu la dublu. Diferența se simte concret în titlurile moderne cu texturi mari la 1080p și 1440p, unde plăci cu mai puțină memorie încep să aibă probleme de stuttering chiar dacă au putere brută similară. Performanța pură nu impresionează — e clar o placă de gamă medie, nu una pentru cei care vânează cadre maxime — iar ray tracing-ul rămâne modest față de echivalentele NVIDIA din aceeași categorie de preț. Dar dacă prioritatea ta e longevitate și confort la 1080p/1440p fără să te uiți mereu la setările de texturi, cei 16 GB fac diferența pe termen lung, iar prețul rămâne accesibil pentru ce oferă.",
+      "review": "RX 9060 XT cu 16 GB e una dintre acele plăci care rup tiparul segmentului de mijloc, de obicei la acest nivel de preț te aștepți la 8 GB, nu la dublu. Diferența se simte concret în titlurile moderne cu texturi mari la 1080p și 1440p, unde plăci cu mai puțină memorie încep să aibă probleme de stuttering chiar dacă au putere brută similară. Performanța pură nu impresionează, e clar o placă de gamă medie, nu una pentru cei care vânează cadre maxime, iar ray tracing-ul rămâne modest față de echivalentele NVIDIA din aceeași categorie de preț. Dar dacă prioritatea ta e longevitate și confort la 1080p/1440p fără să te uiți mereu la setările de texturi, cei 16 GB fac diferența pe termen lung, iar prețul rămâne accesibil pentru ce oferă.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-pulse-amd-radeon-rx-9060-xt-16gb-11350-03-20g/pd/D7L1KH3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205108"
     },
@@ -1053,7 +1053,7 @@
       "cons": [
         "Performanță de gamă medie, ray tracing modest"
       ],
-      "review": "Gigabyte RX 9060 XT GAMING OC este varianta cu 16 GB a plăcii AMD de gamă medie, cu un cooler Gaming OC mai serios decât media segmentului. Ca și sora sa PULSE, punctul forte e memoria generoasă: 16 GB fac diferența la texturi mari în 1080p și 1440p, unde plăcile cu 8 GB încep să sufere de stuttering. Din recenziile cumpărătorilor, răcirea Gaming OC e solidă și silențioasă. Performanța pură rămâne de gamă medie, iar ray tracing-ul e modest față de NVIDIA. Pentru cineva care vrea longevitate la 1080p/1440p fără compromisuri de VRAM, la un preț rezonabil, e o alegere echilibrată — o alternativă directă la varianta PULSE, judecată după specificații.",
+      "review": "Gigabyte RX 9060 XT GAMING OC este varianta cu 16 GB a plăcii AMD de gamă medie, cu un cooler Gaming OC mai serios decât media segmentului. Ca și sora sa PULSE, punctul forte e memoria generoasă: 16 GB fac diferența la texturi mari în 1080p și 1440p, unde plăcile cu 8 GB încep să sufere de stuttering. Din recenziile cumpărătorilor, răcirea Gaming OC e solidă și silențioasă. Performanța pură rămâne de gamă medie, iar ray tracing-ul e modest față de NVIDIA. Pentru cineva care vrea longevitate la 1080p/1440p fără compromisuri de VRAM, la un preț rezonabil, e o alegere echilibrată, o alternativă directă la varianta PULSE, judecată după specificații.",
       "emagUrl": "https://www.emag.ro/placa-video-gigabyte-rx-9060-xt-gaming-oc-16gb-gv-r9060xtgaming-oc-16gd/pd/DML1KH3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214393"
     },
@@ -1111,7 +1111,7 @@
       "cons": [
         "8 GB VRAM, strict pentru jocurile viitoare la setări maxime"
       ],
-      "review": "RTX 5060 DUAL OC e poarta de intrare în ecosistemul NVIDIA cu DLSS 4 și Frame Generation, tehnologii care contează mai mult decât ai crede la acest nivel — pot transforma un joc greu în ceva jucabil la rezoluții mai mari decât ar sugera puterea brută a plăcii. Cooler-ul dual-fan e compact, potrivit pentru build-uri mici sau mini-ITX, unde spațiul e la premiu. Realist însă, cei 8 GB GDDR7 pe o magistrală de doar 128-bit sunt principala ei limitare — suficienți pentru 1080p și 1440p moderat acum, dar strânși pentru jocurile viitoare la setări maxime, mai ales dacă vrei să păstrezi placa mai mulți ani. Pentru cineva care vrea NVIDIA, DLSS și un build compact la un preț de intrare, e o alegere onestă, atât timp cât nu te aștepți la longevitate nelimitată.",
+      "review": "RTX 5060 DUAL OC e poarta de intrare în ecosistemul NVIDIA cu DLSS 4 și Frame Generation, tehnologii care contează mai mult decât ai crede la acest nivel, pot transforma un joc greu în ceva jucabil la rezoluții mai mari decât ar sugera puterea brută a plăcii. Cooler-ul dual-fan e compact, potrivit pentru build-uri mici sau mini-ITX, unde spațiul e la premiu. Realist însă, cei 8 GB GDDR7 pe o magistrală de doar 128-bit sunt principala ei limitare, suficienți pentru 1080p și 1440p moderat acum, dar strânși pentru jocurile viitoare la setări maxime, mai ales dacă vrei să păstrezi placa mai mulți ani. Pentru cineva care vrea NVIDIA, DLSS și un build compact la un preț de intrare, e o alegere onestă, atât timp cât nu te aștepți la longevitate nelimitată.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-geforce-rtx-5060-dual-oc-8gb-gddr7-128-bit-dual-rtx5060-o8g/pd/DKQCHJ3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205109"
     },
@@ -1169,7 +1169,7 @@
       "cons": [
         "8 GB VRAM, aceeași limitare ca la varianta ASUS"
       ],
-      "review": "Din punct de vedere al performanței pure, Gigabyte RTX 5060 WINDFORCE MAX OC stă foarte aproape de varianta ASUS DUAL — diferența reală e la preț, unde aceasta e cea mai accesibilă opțiune NVIDIA din tot topul. Cooler-ul WINDFORCE MAX ne-a plăcut în mod special: e silențios pentru clasa sa, ceva ce nu era garantat la o placă de buget. Primești același DLSS 4 și aceleași 8 GB GDDR7 pe 128-bit ca la varianta mai scumpă, deci aceleași limitări de memorie se aplică — bună pentru 1080p și 1440p la setări medii-mari, dar nu placa pe care să mizezi pentru texturi 4K sau jocuri foarte solicitante peste câțiva ani. Pentru cineva cu buget strict care vrea totuși DLSS și ecosistemul NVIDIA, e alegerea logică din listă.",
+      "review": "Din punct de vedere al performanței pure, Gigabyte RTX 5060 WINDFORCE MAX OC stă foarte aproape de varianta ASUS DUAL, diferența reală e la preț, unde aceasta e cea mai accesibilă opțiune NVIDIA din tot topul. Cooler-ul WINDFORCE MAX ne-a plăcut în mod special: e silențios pentru clasa sa, ceva ce nu era garantat la o placă de buget. Primești același DLSS 4 și aceleași 8 GB GDDR7 pe 128-bit ca la varianta mai scumpă, deci aceleași limitări de memorie se aplică, bună pentru 1080p și 1440p la setări medii-mari, dar nu placa pe care să mizezi pentru texturi 4K sau jocuri foarte solicitante peste câțiva ani. Pentru cineva cu buget strict care vrea totuși DLSS și ecosistemul NVIDIA, e alegerea logică din listă.",
       "emagUrl": "https://www.emag.ro/placa-video-gigabyte-geforce-rtx-5060-windforce-max-oc-8g-gddr7-128-bit-negru-n5060wf2max-oc-8gd/pd/DYJ93L3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205110"
     },
@@ -1285,10 +1285,10 @@
         "Excelentă pentru randare, proiectare și calcul"
       ],
       "cons": [
-        "Nu e o placă de gaming — driverele nu sunt optimizate pentru jocuri",
+        "Nu e o placă de gaming, driverele nu sunt optimizate pentru jocuri",
         "Preț mare, justificat doar de utilizarea profesională"
       ],
-      "review": "AMD Radeon PRO W7800 nu este o placă de gaming, ci un accelerator profesional de workstation, cu 32 GB GDDR6 pe 256-bit și drivere certificate pentru aplicații de proiectare, randare și calcul. O includem în top pentru context, dar clasarea în jumătatea inferioară reflectă exact asta: pentru jocuri, plăci consumer mult mai ieftine o depășesc la cadre pe secundă, iar driverele PRO nu sunt optimizate pentru titluri. Punctul ei forte — cei 32 GB de memorie și stabilitatea în fluxuri profesionale — nu se traduce în avantaj în gaming. Din specificații și după recenziile utilizatorilor profesionali, e o alegere excelentă pentru creatori și ingineri, dar dacă scopul e gaming pur, nu ea e placa potrivită. O menționăm ca opțiune creator/AI, nu gaming-first.",
+      "review": "AMD Radeon PRO W7800 nu este o placă de gaming, ci un accelerator profesional de workstation, cu 32 GB GDDR6 pe 256-bit și drivere certificate pentru aplicații de proiectare, randare și calcul. O includem în top pentru context, dar clasarea în jumătatea inferioară reflectă exact asta: pentru jocuri, plăci consumer mult mai ieftine o depășesc la cadre pe secundă, iar driverele PRO nu sunt optimizate pentru titluri. Punctul ei forte, cei 32 GB de memorie și stabilitatea în fluxuri profesionale, nu se traduce în avantaj în gaming. Din specificații și după recenziile utilizatorilor profesionali, e o alegere excelentă pentru creatori și ingineri, dar dacă scopul e gaming pur, nu ea e placa potrivită. O menționăm ca opțiune creator/AI, nu gaming-first.",
       "emagUrl": "https://www.emag.ro/radeon-pro-w7800-32gb-gddr6-256-bit-100-300000075/pd/DTMFV7YBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214395"
     },
@@ -1345,10 +1345,10 @@
         "Siliciu RDNA 4 apropiat de RX 9070 XT"
       ],
       "cons": [
-        "Nu e gândită pentru gaming — poziționare și drivere profesionale",
+        "Nu e gândită pentru gaming, poziționare și drivere profesionale",
         "Preț justificat de AI/creație, nu de raportul preț-performanță în jocuri"
       ],
-      "review": "Sapphire Radeon AI PRO R9700 este, ca și W7800, o placă profesională orientată spre AI și creație, nu spre gaming — construită pe arhitectura RDNA 4 cu 32 GB GDDR6. Pe hârtie are siliciu apropiat de RX 9070 XT, deci teoretic capabil în jocuri, dar driverele și poziționarea sunt profesionale, iar prețul reflectă memoria uriașă și cazurile de utilizare AI, nu raportul preț-performanță în gaming. De aceea o clasăm în jumătatea inferioară a unui top de gaming. Pentru încărcături de lucru cu modele mari, unde cei 32 GB fac diferența, e o unealtă remarcabilă. Pentru jucători, un RX 9070 XT consumer obișnuit oferă aceeași experiență de joc la un preț mult mai mic. O menționăm ca placă creator/AI, conform specificațiilor.",
+      "review": "Sapphire Radeon AI PRO R9700 este, ca și W7800, o placă profesională orientată spre AI și creație, nu spre gaming, construită pe arhitectura RDNA 4 cu 32 GB GDDR6. Pe hârtie are siliciu apropiat de RX 9070 XT, deci teoretic capabil în jocuri, dar driverele și poziționarea sunt profesionale, iar prețul reflectă memoria uriașă și cazurile de utilizare AI, nu raportul preț-performanță în gaming. De aceea o clasăm în jumătatea inferioară a unui top de gaming. Pentru încărcături de lucru cu modele mari, unde cei 32 GB fac diferența, e o unealtă remarcabilă. Pentru jucători, un RX 9070 XT consumer obișnuit oferă aceeași experiență de joc la un preț mult mai mic. O menționăm ca placă creator/AI, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-sapphire-amd-radeontm-ai-pro-r9700-32gb-gddr6-lite-32358-01-20g/pd/D0LJCZ3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214396"
     },
@@ -1463,9 +1463,9 @@
         "Consum redus și răcire silențioasă"
       ],
       "cons": [
-        "8 GB și 128-bit — doar pentru Full HD"
+        "8 GB și 128-bit, doar pentru Full HD"
       ],
-      "review": "Pentru cine face upgrade de la o placă foarte veche sau cumpără primul PC de gaming cu buget redus, RX 7600 DUAL OC EVO rămâne o opțiune onestă pentru 1080p. E una dintre cele mai accesibile plăci din top, iar consumul redus și răcirea silențioasă înseamnă că nu ai nevoie de o sursă puternică sau de o carcasă cu ventilație agresivă. Realist, cei 8 GB de memorie pe o magistrală de 128-bit o limitează strict la Full HD — nu te aștepta la performanță confortabilă în 1440p, iar ray tracing-ul e mai degrabă o bifă pe hârtie decât o opțiune folosibilă în jocuri pretențioase. Nu e placa pentru cineva care vrea longevitate de mai mulți ani, dar pentru un sistem de gaming la 1080p, cu buget limitat și fără pretenții la ray tracing, își face treaba fără probleme.",
+      "review": "Pentru cine face upgrade de la o placă foarte veche sau cumpără primul PC de gaming cu buget redus, RX 7600 DUAL OC EVO rămâne o opțiune onestă pentru 1080p. E una dintre cele mai accesibile plăci din top, iar consumul redus și răcirea silențioasă înseamnă că nu ai nevoie de o sursă puternică sau de o carcasă cu ventilație agresivă. Realist, cei 8 GB de memorie pe o magistrală de 128-bit o limitează strict la Full HD, nu te aștepta la performanță confortabilă în 1440p, iar ray tracing-ul e mai degrabă o bifă pe hârtie decât o opțiune folosibilă în jocuri pretențioase. Nu e placa pentru cineva care vrea longevitate de mai mulți ani, dar pentru un sistem de gaming la 1080p, cu buget limitat și fără pretenții la ray tracing, își face treaba fără probleme.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-radeontm-rx-7600-dual-oc-evo-8gb-gddr6-128bit-dual-rx7600-o8g-evo/pd/D5TNZWYBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16205111"
     },
@@ -1580,10 +1580,10 @@
         "Cooler dual-fan liniștit și consum redus"
       ],
       "cons": [
-        "8 GB pe 128-bit — lățime de bandă limitată",
+        "8 GB pe 128-bit, lățime de bandă limitată",
         "Generația actuală oferă mai mult pentru bani"
       ],
-      "review": "PNY RTX 4060 Ti OC XLR8 Gaming Verto Dual Fan e o placă din generația anterioară, cu 8 GB GDDR6 pe 128-bit, orientată spre 1080p și 1440p ușor. Punctul ei forte e ecosistemul NVIDIA: ray tracing decent și DLSS (fără cele mai noi funcții exclusive seriei RTX 50). Din recenziile cumpărătorilor, cooler-ul dual-fan e liniștit, iar consumul redus. Însă cei 8 GB pe magistrală îngustă de 128-bit sunt principala frână — chiar și la lansare a fost criticată pentru memoria și lățimea de bandă limitate. Nu e o achiziție de viitor. Dacă o prinzi ieftin și vrei NVIDIA cu DLSS pentru 1080p, e utilizabilă, dar plăcile din generația actuală oferă mai mult pentru bani, conform specificațiilor.",
+      "review": "PNY RTX 4060 Ti OC XLR8 Gaming Verto Dual Fan e o placă din generația anterioară, cu 8 GB GDDR6 pe 128-bit, orientată spre 1080p și 1440p ușor. Punctul ei forte e ecosistemul NVIDIA: ray tracing decent și DLSS (fără cele mai noi funcții exclusive seriei RTX 50). Din recenziile cumpărătorilor, cooler-ul dual-fan e liniștit, iar consumul redus. Însă cei 8 GB pe magistrală îngustă de 128-bit sunt principala frână, chiar și la lansare a fost criticată pentru memoria și lățimea de bandă limitate. Nu e o achiziție de viitor. Dacă o prinzi ieftin și vrei NVIDIA cu DLSS pentru 1080p, e utilizabilă, dar plăcile din generația actuală oferă mai mult pentru bani, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-pny-geforce-rtx-4060-ti-oc-xlr8-gaming-verto-dual-fan-8gb-gddr6-128-bit-vcg4060t8dfxpb1-o/pd/D2L5TY3BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214399"
     },
@@ -1642,7 +1642,7 @@
         "Putere brută modestă și ray tracing slab",
         "Fără funcțiile moderne DLSS ale seriei RTX 50"
       ],
-      "review": "ASUS Dual RTX 3060 OC este un veteran al segmentului de buget, remarcabil pentru cei 12 GB GDDR6 pe 192-bit — neobișnuit de mult VRAM pentru clasa și vechimea sa. Asta o face surprinzător de utilă la 1080p în jocurile moderne cu texturi mari, unde plăci mai noi cu doar 8 GB pot suferi. Din recenziile cumpărătorilor, răcirea Dual e silențioasă și fiabilă. Minusurile țin de generație: putere brută modestă, ray tracing slab și lipsa funcțiilor moderne DLSS. Nu e o placă de viitor și nici pentru rezoluții mari. Dar pentru un PC de gaming la 1080p cu buget mic, unde cei 12 GB contează, rămâne o opțiune onestă, conform specificațiilor și feedback-ului cumpărătorilor.",
+      "review": "ASUS Dual RTX 3060 OC este un veteran al segmentului de buget, remarcabil pentru cei 12 GB GDDR6 pe 192-bit, neobișnuit de mult VRAM pentru clasa și vechimea sa. Asta o face surprinzător de utilă la 1080p în jocurile moderne cu texturi mari, unde plăci mai noi cu doar 8 GB pot suferi. Din recenziile cumpărătorilor, răcirea Dual e silențioasă și fiabilă. Minusurile țin de generație: putere brută modestă, ray tracing slab și lipsa funcțiilor moderne DLSS. Nu e o placă de viitor și nici pentru rezoluții mari. Dar pentru un PC de gaming la 1080p cu buget mic, unde cei 12 GB contează, rămâne o opțiune onestă, conform specificațiilor și feedback-ului cumpărătorilor.",
       "emagUrl": "https://www.emag.ro/placa-video-asus-dual-geforcer-rtxtm-3060-oc-12gb-gddr6-192-bit-dual-rtx3060-o12g/pd/DM7MBKMBM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214400"
     },
@@ -1701,7 +1701,7 @@
         "Generație foarte veche, fără ray tracing sau upscaling modern",
         "Neîncăpătoare pentru jocurile actuale grele"
       ],
-      "review": "Biostar Radeon RX 580 2048SP este, în 2026, o placă de generație foarte veche, pe care o includem doar ca reper de buget minim absolut sau pentru depanare și sisteme secundare. Cu 8 GB GDDR5 pe 256-bit, mai poate rula jocuri mai vechi și titluri ușoare la 1080p cu setări reduse, dar nu are nicio pretenție la jocurile moderne grele, la ray tracing sau la upscaling-ul actual. Din recenziile cumpărătorilor, rămâne apreciată pentru preț și disponibilitate, nu pentru performanță. Nu o recomandăm ca achiziție de gaming în afara cazurilor foarte specifice cu buget extrem de limitat — orice placă din generația actuală, chiar de intrare, oferă un salt uriaș, conform specificațiilor.",
+      "review": "Biostar Radeon RX 580 2048SP este, în 2026, o placă de generație foarte veche, pe care o includem doar ca reper de buget minim absolut sau pentru depanare și sisteme secundare. Cu 8 GB GDDR5 pe 256-bit, mai poate rula jocuri mai vechi și titluri ușoare la 1080p cu setări reduse, dar nu are nicio pretenție la jocurile moderne grele, la ray tracing sau la upscaling-ul actual. Din recenziile cumpărătorilor, rămâne apreciată pentru preț și disponibilitate, nu pentru performanță. Nu o recomandăm ca achiziție de gaming în afara cazurilor foarte specifice cu buget extrem de limitat, orice placă din generația actuală, chiar de intrare, oferă un salt uriaș, conform specificațiilor.",
       "emagUrl": "https://www.emag.ro/placa-video-biostar-radeon-rx580-2048sp-8gb-ddr5-256bit-1xdvi-1xhdmi-3xdisplayport-va5815rf82/pd/DRF2153BM/",
       "affiliateUrl": "https://l.profitshare.ro/l/16214401"
     }
@@ -1748,7 +1748,7 @@
         "b": "Raster, VRAM, buget"
       }
     ],
-    "verdict": "Alege NVIDIA RTX 50 dacă vrei cel mai bun ray tracing și DLSS matur. Alege AMD RX 9000 dacă vrei mai mult raster și VRAM la același buget — în 2026 e adesea alegerea mai inteligentă pe raport performanță-preț."
+    "verdict": "Alege NVIDIA RTX 50 dacă vrei cel mai bun ray tracing și DLSS matur. Alege AMD RX 9000 dacă vrei mai mult raster și VRAM la același buget, în 2026 e adesea alegerea mai inteligentă pe raport performanță-preț."
   },
   "priceBuckets": []
 }

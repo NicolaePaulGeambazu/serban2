@@ -41,37 +41,37 @@
   "guide": [
     {
       "h3": "Rezoluție: 4K vs. 2K/1440p vs. Full HD",
-      "body": "Rezoluția determină cât de multe detalii prinzi — mai ales numerele de înmatriculare la distanță sau în trafic. Modelele 4K UltraHD (precum 70mai A800S/A800SE sau Nextbase) oferă cea mai clară imagine și permit decuparea unui cadru fără să pierzi lizibilitatea. 2K/1440p (DDPAI Mola N3 Pro, 70mai A500S la 2,7K) e un compromis bun între claritate și dimensiunea fișierelor, iar Full HD 1080p rămâne suficient pentru nevoi de bază. Reține că o rezoluție mai mare umple cardul mai repede.",
-      "callout": "4K nu garantează imagine bună noaptea — senzorul (ex. Sony STARVIS) și diafragma contează la fel de mult ca numărul de pixeli."
+      "body": "Rezoluția determină cât de multe detalii prinzi, mai ales numerele de înmatriculare la distanță sau în trafic. Modelele 4K UltraHD (precum 70mai A800S/A800SE sau Nextbase) oferă cea mai clară imagine și permit decuparea unui cadru fără să pierzi lizibilitatea. 2K/1440p (DDPAI Mola N3 Pro, 70mai A500S la 2,7K) e un compromis bun între claritate și dimensiunea fișierelor, iar Full HD 1080p rămâne suficient pentru nevoi de bază. Reține că o rezoluție mai mare umple cardul mai repede.",
+      "callout": "4K nu garantează imagine bună noaptea, senzorul (ex. Sony STARVIS) și diafragma contează la fel de mult ca numărul de pixeli."
     },
     {
       "h3": "De ce contează GPS-ul și G-senzorul",
       "body": "GPS-ul înregistrează viteza și traseul peste imagine, informații utile în cazul unui accident sau al unei dispute. G-senzorul detectează impacturile și blochează automat fișierul relevant, ca să nu fie suprascris de înregistrarea în buclă. Majoritatea modelelor de top din acest clasament (70mai, Redtiger, Nextbase, DDPAI Mini Pro) au GPS integrat sau prin modul dedicat. Dacă folosești camera mai ales ca dovadă în trafic, GPS-ul și un G-senzor reglabil sunt dotări pe care merită să nu le sari.",
-      "callout": "Un G-senzor prea sensibil blochează prea multe fișiere și umple cardul — caută modele la care sensibilitatea se poate regla din aplicație."
+      "callout": "Un G-senzor prea sensibil blochează prea multe fișiere și umple cardul, caută modele la care sensibilitatea se poate regla din aplicație."
     },
     {
       "h3": "Cameră unică vs. kit față+spate (dublă/triplă)",
-      "body": "O cameră unică filmează doar în față și e cea mai simplă de montat. Kiturile față+spate (70mai A800S + RC06, DDPAI Mola N3 Pro, Redtiger F9) adaugă o cameră pe lunetă, esențială pentru tamponări din spate și parcare. Sistemele cu 3 canale (Medeyatech V58) acoperă și interiorul — util pentru ride-sharing sau flote. Cu cât mai multe canale, cu atât montajul e mai laborios (cablu pe lunetă) și fișierele mai mari, așa că alege în funcție de scenariul tău real.",
+      "body": "O cameră unică filmează doar în față și e cea mai simplă de montat. Kiturile față+spate (70mai A800S + RC06, DDPAI Mola N3 Pro, Redtiger F9) adaugă o cameră pe lunetă, esențială pentru tamponări din spate și parcare. Sistemele cu 3 canale (Medeyatech V58) acoperă și interiorul, util pentru ride-sharing sau flote. Cu cât mai multe canale, cu atât montajul e mai laborios (cablu pe lunetă) și fișierele mai mari, așa că alege în funcție de scenariul tău real.",
       "callout": "Camera de spate se montează cel mai curat trasând cablul pe sub garnituri; lasă-ți timp la instalare sau apelează la un service."
     },
     {
       "h3": "Vederea nocturnă și senzorul de imagine",
       "body": "Cea mai mare diferență între modele apare noaptea. Senzorii Sony STARVIS și STARVIS 2 (Medeyatech V58) captează mai multă lumină și reduc zgomotul în condiții slabe de iluminare, iar funcția „night vision” prezentă la 70mai, Redtiger și Navitel îmbunătățește lizibilitatea în zone neluminate. Conform specificațiilor, modelele cu diafragmă luminoasă și senzor mare filmează vizibil mai curat în oraș noaptea decât camerele de buget. Dacă circuli mult pe timp de noapte, prioritizează senzorul, nu doar rezoluția.",
-      "callout": "„Night vision” e un termen de marketing — verifică numele senzorului (Sony IMX/STARVIS) pentru o estimare reală a performanței nocturne."
+      "callout": "„Night vision” e un termen de marketing, verifică numele senzorului (Sony IMX/STARVIS) pentru o estimare reală a performanței nocturne."
     },
     {
       "h3": "Unghiul de filmare (FOV)",
       "body": "Unghiul larg prinde mai mult din carosabil și de pe benzile laterale. Majoritatea modelelor bune stau între 130° și 170°: 70mai filmează la 140°, Redtiger F9 ajunge la 170°, iar Navitel la 160° în față. Un unghi prea mare poate distorsiona marginile („efect fisheye”) și micșora obiectele îndepărtate, deci un FOV de 140-160° e de obicei echilibrul optim. Verifică unghiul separat pentru camera din față și cea din spate, pentru că adesea diferă.",
-      "callout": "Un FOV foarte mare arată impresionant, dar poate face plăcuțele îndepărtate mai greu de citit — 140-160° e sweet spot-ul."
+      "callout": "Un FOV foarte mare arată impresionant, dar poate face plăcuțele îndepărtate mai greu de citit, 140-160° e sweet spot-ul."
     },
     {
       "h3": "Monitorizare parcare, alimentare și supercondensator",
       "body": "Modul de parcare înregistrează evenimentele când mașina e oprită, dar are nevoie de alimentare permanentă printr-un hardwire kit (adesea vândut separat). Verifică dacă modelul suportă acest mod (Nextbase, Redtiger F9, DDPAI îl au). La căldură mare, camerele cu supercondensator (Medeyatech V58) rezistă mai bine în bord decât cele cu baterie litiu, care se pot degrada vara. Dacă parchezi mult pe stradă, monitorizarea parcării plus un supercondensator sunt combinația recomandată conform producătorilor.",
-      "callout": "Modul de parcare cere de obicei un hardwire kit cumpărat separat — bugetează-l când compari prețurile."
+      "callout": "Modul de parcare cere de obicei un hardwire kit cumpărat separat, bugetează-l când compari prețurile."
     },
     {
       "h3": "Cardul microSD și greșeli frecvente",
-      "body": "Cea mai comună greșeală e să folosești un card obișnuit: camerele suprascriu continuu, iar un microSD non-High Endurance se uzează în câteva luni. Alege un card High Endurance de minim 64-128 GB (Medeyatech V58 vine cu 128 GB inclus). A doua greșeală e să alegi 4K fără să iei un card încăpător — spațiul se umple rapid. A treia e să confunzi „dual” cu „față+spate”: unele modele numite dual au două canale, dar camera secundară se cumpără separat. Verifică mereu ce e inclus în pachet.",
+      "body": "Cea mai comună greșeală e să folosești un card obișnuit: camerele suprascriu continuu, iar un microSD non-High Endurance se uzează în câteva luni. Alege un card High Endurance de minim 64-128 GB (Medeyatech V58 vine cu 128 GB inclus). A doua greșeală e să alegi 4K fără să iei un card încăpător, spațiul se umple rapid. A treia e să confunzi „dual” cu „față+spate”: unele modele numite dual au două canale, dar camera secundară se cumpără separat. Verifică mereu ce e inclus în pachet.",
       "callout": "Formatează cardul din meniul camerei o dată la câteva săptămâni pentru a preveni erorile de scriere și fișierele corupte."
     }
   ],
@@ -98,7 +98,7 @@
     },
     {
       "q": "Camera consumă bateria mașinii când parchez?",
-      "a": "În modul de parcare, da — camera are nevoie de alimentare permanentă printr-un hardwire kit, adesea vândut separat. Sistemele bune întrerup alimentarea la o tensiune-prag, ca să nu descarce bateria. Dacă nu folosești modul de parcare, camera se oprește odată cu contactul și nu consumă nimic."
+      "a": "În modul de parcare, da, camera are nevoie de alimentare permanentă printr-un hardwire kit, adesea vândut separat. Sistemele bune întrerup alimentarea la o tensiune-prag, ca să nu descarce bateria. Dacă nu folosești modul de parcare, camera se oprește odată cu contactul și nu consumă nimic."
     },
     {
       "q": "Ce e mai bun în bord vara: supercondensator sau baterie?",
@@ -354,7 +354,7 @@
         "Sistem cu 3 canale, mai complex de montat",
         "Preț ridicat, orientat spre entuziaști și flote"
       ],
-      "review": "Medeyatech V58 e opțiunea de entuziast a clasamentului: un sistem cu 3 canale — 4K în față plus 1080p pentru interior și spate — construit în jurul senzorului Sony IMX678 STARVIS 2, unul dintre cele mai bune pentru filmare nocturnă. Supercondensatorul îl face rezistent la temperaturile mari din bord vara, iar cardul microSD de 128 GB inclus și GPS-ul integrat completează un pachet foarte complet, potrivit și pentru ride-sharing sau flote. Wi-Fi-ul pe 5,8 GHz permite transfer rapid al fișierelor. Compromisurile sunt montajul mai laborios cu trei camere și prețul ridicat, care îl scot din zona mainstream. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea acoperire completă și cea mai bună performanță nocturnă din clasament.",
+      "review": "Medeyatech V58 e opțiunea de entuziast a clasamentului: un sistem cu 3 canale, 4K în față plus 1080p pentru interior și spate, construit în jurul senzorului Sony IMX678 STARVIS 2, unul dintre cele mai bune pentru filmare nocturnă. Supercondensatorul îl face rezistent la temperaturile mari din bord vara, iar cardul microSD de 128 GB inclus și GPS-ul integrat completează un pachet foarte complet, potrivit și pentru ride-sharing sau flote. Wi-Fi-ul pe 5,8 GHz permite transfer rapid al fișierelor. Compromisurile sunt montajul mai laborios cu trei camere și prețul ridicat, care îl scot din zona mainstream. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea acoperire completă și cea mai bună performanță nocturnă din clasament.",
       "emagUrl": "https://www.emag.ro/camera-de-bord-medeyatech-v58-3-canale-4k-1080p-1080p-sony-imx678-starvis-2-wifi-5-8ghz-gps-supercondensator-card-128gb-inclus-b-081/pd/D7D22T2BM/",
       "image": "/img/products/d7d22t2bm.png",
       "affiliateUrl": "https://l.profitshare.ro/l/16214379"
@@ -415,7 +415,7 @@
         "Cameră unică, fără lentilă de spate în pachet",
         "Preț premium pentru un singur canal"
       ],
-      "review": "Nextbase 4K e opțiunea premium pentru cine pune preț pe dotări și rafinament: filmezi 4K cu stabilizator digital de imagine și filtru de polarizare inclus, care reduce reflexiile din parbriz — o dotare rar întâlnită la această categorie. Are GPS, Bluetooth, Wi-Fi și aplicație pentru iOS și Android, plus un mod de parcare inteligent care supraveghează mașina când e oprită. Ecranul IPS de 3\" și unghiul de 140° completează o cameră frontală foarte bine echipată. Compromisurile sunt că e o cameră unică, fără lentilă de spate în pachet, și un preț premium pentru un singur canal. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea o cameră frontală rafinată, cu filtru de polarizare și integrare smart completă.",
+      "review": "Nextbase 4K e opțiunea premium pentru cine pune preț pe dotări și rafinament: filmezi 4K cu stabilizator digital de imagine și filtru de polarizare inclus, care reduce reflexiile din parbriz, o dotare rar întâlnită la această categorie. Are GPS, Bluetooth, Wi-Fi și aplicație pentru iOS și Android, plus un mod de parcare inteligent care supraveghează mașina când e oprită. Ecranul IPS de 3\" și unghiul de 140° completează o cameră frontală foarte bine echipată. Compromisurile sunt că e o cameră unică, fără lentilă de spate în pachet, și un preț premium pentru un singur canal. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine vrea o cameră frontală rafinată, cu filtru de polarizare și integrare smart completă.",
       "emagUrl": "https://www.emag.ro/camera-auto-dvr-4k-nextbase-display-ips-3-hd-stabilizator-digital-imagine-bluetoothtm-wi-fi-aplicatie-ios-android-localizare-gps-m-140-unghi-de-vizualizare-mod-parcare-inteligent-filtru-de-polarizare-/pd/D3FC43MBM/",
       "image": "/img/products/d3fc43mbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214380"
@@ -536,7 +536,7 @@
         "Rezoluție 2,7K, sub 4K din modelele de top",
         "Ecran IPS mai mic, de 2.0\""
       ],
-      "review": "70mai A500S Dash Cam Pro Plus e alegerea pe buget a clasamentului atunci când îl iei cu camera de spate RC06: primești un kit față+spate de la un brand de încredere, cu GPS, ADAS și night vision, la un preț de intrare în categorie. Filmează 2,7K 1944p în față — sub 4K, dar suficient de clar pentru trafic — și Full HD pe lunetă, pentru acoperire completă. Ecranul IPS de 2.0\" și Wi-Fi-ul păstrează aplicația 70mai la fel de simplă ca la modelele superioare. E opțiunea ideală pentru cine vrea dotările 70mai și camera de spate fără să plătească pentru 4K. Compromisurile sunt rezoluția mai mică și ecranul mai mic. Pe baza specificațiilor și a recenziilor, e cea mai bună alegere pe buget cu cameră de spate inclusă.",
+      "review": "70mai A500S Dash Cam Pro Plus e alegerea pe buget a clasamentului atunci când îl iei cu camera de spate RC06: primești un kit față+spate de la un brand de încredere, cu GPS, ADAS și night vision, la un preț de intrare în categorie. Filmează 2,7K 1944p în față, sub 4K, dar suficient de clar pentru trafic, și Full HD pe lunetă, pentru acoperire completă. Ecranul IPS de 2.0\" și Wi-Fi-ul păstrează aplicația 70mai la fel de simplă ca la modelele superioare. E opțiunea ideală pentru cine vrea dotările 70mai și camera de spate fără să plătească pentru 4K. Compromisurile sunt rezoluția mai mică și ecranul mai mic. Pe baza specificațiilor și a recenziilor, e cea mai bună alegere pe buget cu cameră de spate inclusă.",
       "emagUrl": "https://www.emag.ro/camera-auto-dvr-70mai-a500s-dash-cam-pro-plus-2-7k-1944p-ips-2-0-140-fov-adas-gps-night-vision-wi-fi-camera-spate-70mai-rc06-full-hd-la-30-fps-unghi-vizualizare-130-midrive-a500s-rc06/pd/DWCZJTMBM/",
       "image": "/img/products/dwczjtmbm.jpg",
       "affiliateUrl": "https://l.profitshare.ro/l/16214382"
@@ -714,9 +714,9 @@
       ],
       "cons": [
         "Rezoluție 1440p, sub modelele 4K din fruntea topului",
-        "Preț premium — raportul preț/valoare rămâne cel mai slab din clasament"
+        "Preț premium, raportul preț/valoare rămâne cel mai slab din clasament"
       ],
-      "review": "Garmin Dash Cam X210 e opțiunea de brand premium a clasamentului: o cameră mică și discretă, cu construcția solidă și fiabilitatea cu care Garmin s-a făcut cunoscut, prindere magnetică rapidă și un ecran de 2.4\". Filmează la 1440p, are control vocal pentru pornit/oprit filmarea sau salvat clipuri fără să iei mâinile de pe volan, GPS integrat pentru marcarea vitezei și a traseului, plus o lentilă cu filtru de polarizare care reduce reflexiile din parbriz. Este, la capitolul software și suport, printre cele mai îngrijite camere din listă. O plasăm totuși ultima pentru că rezoluția de 1440p rămâne sub modelele 4K din fruntea topului, iar prețul premium face ca raportul preț/valoare să fie cel mai slab de aici — pe baza specificațiilor și a prețurilor de listă. Pe scurt, e alegerea pentru cine ține la brand, la fiabilitate și la controlul vocal și acceptă să plătească în plus pentru ele.",
+      "review": "Garmin Dash Cam X210 e opțiunea de brand premium a clasamentului: o cameră mică și discretă, cu construcția solidă și fiabilitatea cu care Garmin s-a făcut cunoscut, prindere magnetică rapidă și un ecran de 2.4\". Filmează la 1440p, are control vocal pentru pornit/oprit filmarea sau salvat clipuri fără să iei mâinile de pe volan, GPS integrat pentru marcarea vitezei și a traseului, plus o lentilă cu filtru de polarizare care reduce reflexiile din parbriz. Este, la capitolul software și suport, printre cele mai îngrijite camere din listă. O plasăm totuși ultima pentru că rezoluția de 1440p rămâne sub modelele 4K din fruntea topului, iar prețul premium face ca raportul preț/valoare să fie cel mai slab de aici, pe baza specificațiilor și a prețurilor de listă. Pe scurt, e alegerea pentru cine ține la brand, la fiabilitate și la controlul vocal și acceptă să plătească în plus pentru ele.",
       "emagUrl": "https://www.emag.ro/camera-auto-dvr-garmin-dash-cam-x210-premium-voice-controlled-1440p-display-2-4-inch-010-02859-10/pd/DKY95CYBM/",
       "image": "/img/products/dky95cybm.jpg"
     }

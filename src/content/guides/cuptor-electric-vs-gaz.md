@@ -1,6 +1,6 @@
 ---
 title: "Cuptor încorporabil electric sau pe gaz?"
-description: "Diferența dintre un cuptor electric și unul pe gaz — la gătit, consum, siguranță și cost. Care ți se potrivește."
+description: "Diferența dintre un cuptor electric și unul pe gaz, la gătit, consum, siguranță și cost. Care ți se potrivește."
 kicker: "Cuptoare încorporabile"
 updated: "2026-07-16"
 order: 6
@@ -8,15 +8,15 @@ order: 6
 
 Când îți iei un cuptor încorporabil, prima ramificație e: **electric sau pe gaz?** Amândouă gătesc bine, dar diferă la uniformitate, funcții și cost.
 
-## Cuptorul electric — mai versatil
+## Cuptorul electric, mai versatil
 
 Majoritatea cuptoarelor bune de azi sunt electrice, și cu motiv:
-- **Căldură uniformă**, mai ales cu **convecție (ventilator)** — coci pe mai multe niveluri deodată.
+- **Căldură uniformă**, mai ales cu **convecție (ventilator)**, coci pe mai multe niveluri deodată.
 - **Mai multe funcții:** grill, abur, programe automate, control precis al temperaturii.
-- **Autocurățare** (piroliză/cataliză) — disponibilă aproape doar la electrice.
+- **Autocurățare** (piroliză/cataliză), disponibilă aproape doar la electrice.
 - ➖ Depinde de curent; la consum, contează clasa energetică.
 
-## Cuptorul pe gaz — independent și economic
+## Cuptorul pe gaz, independent și economic
 
 - ➕ **Nu depinde de curent** (util la pene de curent sau dacă ai deja plită pe gaz).
 - ➕ Gazul poate fi mai ieftin decât curentul, în funcție de tarife.
@@ -26,7 +26,7 @@ Majoritatea cuptoarelor bune de azi sunt electrice, și cu motiv:
 
 ## Combinația frecventă
 
-Mulți aleg **plită pe gaz + cuptor electric** — ce e mai bun din ambele: flacăra reglabilă la gătit pe plită și uniformitatea + funcțiile cuptorului electric la copt.
+Mulți aleg **plită pe gaz + cuptor electric**, ce e mai bun din ambele: flacăra reglabilă la gătit pe plită și uniformitatea + funcțiile cuptorului electric la copt.
 
 ## Ce să mai verifici
 

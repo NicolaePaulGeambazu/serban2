@@ -27,7 +27,7 @@ const {
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site ?? site.url).href;
-const fullTitle = title ? `${title} — ${site.name}` : `${site.name} — ${site.tagline}`;
+const fullTitle = title ? `${title}, ${site.name}` : `${site.name}, ${site.tagline}`;
 const ogImageUrl = ogImage ? new URL(ogImage, site.url).href : undefined;
 
 const org = {
@@ -55,7 +55,7 @@ const website = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Google Consent Mode v2 — default denied until the visitor opts in -->
+    <!-- Google Consent Mode v2, default denied until the visitor opts in -->
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -128,7 +128,7 @@ const website = {
     <script>
       // ProfitShare automatic affiliate-link script (converts outbound links to
       // affiliate links at click-time). Loaded only after the visitor accepts
-      // marketing cookies — mirrors the gclid logic below — but injected the moment
+      // marketing cookies, mirrors the gclid logic below, but injected the moment
       // consent is granted (via the vk-consent event) so no reload is needed.
       (function () {
         var loaded = false;

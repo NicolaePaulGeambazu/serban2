@@ -7,11 +7,11 @@ const product = z.object({
   tag: z.string(),
   win: z.boolean().optional(),
   score: z.number(),               // 0–10
-  price: z.number().optional(),    // lei — omitted for newer categories (we don't store prices; eMAG shows live price)
+  price: z.number().optional(),    // lei, omitted for newer categories (we don't store prices; eMAG shows live price)
   oldPrice: z.number().optional(),
   priceNote: z.string().optional(),
   image: z.string().optional(),    // product photo URL (falls back to an icon if empty)
-  feedId: z.string().optional(),   // eMAG product id — used by scripts/sync-products.mjs to auto-update price/image/stock
+  feedId: z.string().optional(),   // eMAG product id, used by scripts/sync-products.mjs to auto-update price/image/stock
   inStock: z.boolean().optional(), // updated by the feed sync (true/false)
   features: z.array(z.string()).default([]), // e.g. ["mop","autogolire","silentios"]
   specs: z.array(z.object({ value: z.string(), label: z.string() })).default([]),
