@@ -4,10 +4,10 @@
   "parent": "Unelte & grădină",
   "icon": "circle",
   "order": 25,
-  "intro": "O mașină de tuns iarba bună se alege după suprafața curții și tipul de teren, nu după cea mai mare putere afișată pe cutie. Am ales și am comparat 9 modele populare după tip de motor, lățime de tăiere, capacitate de colectare și manevrabilitate, de la mașini pe benzină autopropulsate ca NAX 3001S și Lehmann LGALM-4053EL, până la electrice Bosch și Makita sau modele pe acumulator ca Einhell. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "intro": "O mașină de tuns iarba bună se alege după suprafața curții și tipul de teren, nu după cea mai mare putere afișată pe cutie. Am ales și am comparat 10 modele populare după tip de motor, lățime de tăiere, capacitate de colectare și manevrabilitate, de la mașini pe benzină autopropulsate ca NAX 3001S și Lehmann LGALM-4053EL, până la electrice Bosch și Makita sau modele pe acumulator ca Einhell. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "mihai-radu",
-  "updated": "2026-07-22",
-  "productsCount": 9,
+  "updated": "2026-08-04",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "label": "Cea mai bună alegere pe buget",
-      "productId": "p9"
+      "productId": "p10"
     }
   ],
   "featureFilters": [
@@ -287,6 +287,66 @@
     {
       "id": "p4",
       "rank": 4,
+      "name": "Ruris RX555S 53 cm, benzină autopropulsată, motor Honda 5,2 CP",
+      "tag": "Motor Honda, pentru suprafețe mari",
+      "score": 8.6,
+      "feedId": "DN5DJFMBM",
+      "features": [
+        "benzina",
+        "autopropulsata"
+      ],
+      "specs": [
+        {
+          "value": "benzină Honda GCV",
+          "label": "tip motor"
+        },
+        {
+          "value": "5,2 CP / 202 cmc",
+          "label": "putere"
+        },
+        {
+          "value": "53 cm",
+          "label": "lățime tăiere"
+        },
+        {
+          "value": "65 L",
+          "label": "cos colector"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 92
+        },
+        {
+          "label": "Lățime tăiere",
+          "pct": 90
+        },
+        {
+          "label": "Manevrabilitate",
+          "pct": 78
+        },
+        {
+          "label": "Colectare",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Motor Honda GCV, fiabil și cu pornire ușoară",
+        "Lățime mare de 53 cm și autopropulsare — acoperă repede suprafețele mari",
+        "Funcție de mulcire și sac de colectare de 65 L"
+      ],
+      "cons": [
+        "Mai grea și mai zgomotoasă decât variantele electrice",
+        "Necesită întreținerea specifică motoarelor pe benzină (ulei, bujie)"
+      ],
+      "review": "Ruris RX555S e sora mai mare și mai capabilă a lui RX300S din top: aceeași autopropulsare, dar cu un motor Honda GCV de 5,2 CP (202 cmc) și o lățime de tăiere de 53 cm, printre cele mai mari din clasament. Motorul Honda e principalul argument — e apreciat în recenziile cumpărătorilor pentru pornirea ușoară și fiabilitatea pe termen lung, exact ce cauți la o mașină pe benzină pe care vrei să o ții mulți ani. Combinația de lățime mare și tracțiune proprie o face potrivită pentru curți medii spre mari, unde acoperi suprafața în mai puține treceri, iar funcția de mulcire și sacul de 65 L îți dau flexibilitate la colectare. Compromisurile sunt cele tipice benzinei: e mai grea, mai zgomotoasă și cere întreținere periodică (ulei, bujie) față de modelele electrice. Pe baza specificațiilor și a recenziilor, e alegerea pentru cine are o suprafață mare și pune fiabilitatea motorului Honda pe primul loc.",
+      "emagUrl": "https://www.emag.ro/masina-de-tuns-gazon-iarba-autopropulsata-pe-benzina-ruris-rx555s-putere-5-2-cp-202-cc-4-timpi-53-cm-latime-lucru-25-75-mm-inaltime-lucru-functie-mulcire-65-l-sac-colector-rezervor-0-9-l-555s2022/pd/DN5DJFMBM",
+      "image": "/img/products/dn5djfmbm.jpg"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
       "name": "Ruris RX300S 45,7 cm, benzină autopropulsată",
       "tag": "Motor pe benzină, carcasă metalică",
       "score": 8.4,
@@ -344,8 +404,8 @@
       "image": "/img/products/ddcs9wbbm.jpg"
     },
     {
-      "id": "p5",
-      "rank": 5,
+      "id": "p6",
+      "rank": 6,
       "name": "Makita ELM4121 41 cm, electrică 1600 W",
       "tag": "Cea mai bună electrică de putere",
       "score": 8.2,
@@ -402,8 +462,8 @@
       "image": "/img/products/dz10dzbbm.jpg"
     },
     {
-      "id": "p6",
-      "rank": 6,
+      "id": "p7",
+      "rank": 7,
       "name": "Einhell GE-CM 36/37 Li 37 cm, pe acumulator",
       "tag": "Cea mai bună pe acumulator",
       "score": 7.9,
@@ -460,8 +520,8 @@
       "image": "/img/products/ds1msmmbm.jpg"
     },
     {
-      "id": "p7",
-      "rank": 7,
+      "id": "p8",
+      "rank": 8,
       "name": "Bosch UniversalRotak 37-555, electrică 1400 W",
       "tag": "Electrică echilibrată",
       "score": 7.7,
@@ -518,8 +578,8 @@
       "image": "/img/products/d24rvgybm.jpg"
     },
     {
-      "id": "p8",
-      "rank": 8,
+      "id": "p9",
+      "rank": 9,
       "name": "Bosch UniversalRotak 34-405, electrică 34 cm",
       "tag": "Electrică compactă, curte mică",
       "score": 7.4,
@@ -576,8 +636,8 @@
       "image": "/img/products/d74rvgybm.jpg"
     },
     {
-      "id": "p9",
-      "rank": 9,
+      "id": "p10",
+      "rank": 10,
       "name": "Kanwod 1600W 38 cm, electrică",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.2,

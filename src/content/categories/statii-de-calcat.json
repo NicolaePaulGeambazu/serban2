@@ -1,0 +1,744 @@
+{
+  "title": "Cele mai bune stații de călcat în 2026",
+  "h1": "Cele mai bune stații de călcat în 2026",
+  "parent": "Electrocasnice",
+  "icon": "steam",
+  "order": 42,
+  "intro": "Am pus față în față cele mai populare stații de călcat cu abur ale momentului, judecate după presiunea boilerului, debitul de abur, calitatea tălpii și ușurința de întreținere. Analiza se bazează pe fișele tehnice oficiale și pe recenziile cumpărătorilor, nu pe impresii de moment. Mai jos ai topul nostru plus un ghid care explică ce diferențe chiar contează între modele.",
+  "author": "mihai-radu",
+  "updated": "2026-08-04",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p5"
+    },
+    {
+      "label": "Cea mai bună alegere pe buget",
+      "productId": "p9"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "boiler",
+      "label": "Cu boiler presiune"
+    },
+    {
+      "key": "anticalc",
+      "label": "Sistem anti-calcar"
+    },
+    {
+      "key": "vertical",
+      "label": "Abur vertical"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Stație cu boiler vs. fier clasic cu abur",
+      "body": "O stație de călcat separă boilerul de fier, așa că generează abur sub presiune (5-9 bari) și îl trimite continuu în țesătură. Un fier clasic scoate abur doar cât încălzește talpa și la presiune mult mai mică. Diferența se simte la rufele groase și la teancurile mari — stația calcă mai repede și pătrunde prin mai multe straturi deodată.",
+      "callout": "Calci des și mult (familie, cearșafuri, cămăși) → stație cu boiler. Calci ocazional câteva piese → un fier bun cu abur e suficient."
+    },
+    {
+      "h3": "Presiunea și debitul de abur contează cel mai mult",
+      "body": "Cele două cifre care fac diferența reală sunt presiunea boilerului (bari) și debitul de abur continuu (g/min). Presiunea împinge aburul adânc în fibre, iar debitul mare înseamnă că nu rămâi fără abur la mijlocul unei cămăși. Modelele de top ajung la 9 bari și peste 160 g/min continuu; cele accesibile stau pe la 5-6 bari și 110-140 g/min, suficient pentru rufe subțiri."
+    },
+    {
+      "h3": "Talpa: alunecare și rezistență",
+      "body": "Talpa determină cât de ușor alunecă fierul și cât de bine distribuie căldura. Tălpile ceramice sunt accesibile și alunecă decent, dar se zgârie mai ușor. Tălpile premium — SteamGlide Elite și T-ionicGlide la Philips, Durilium AirGlide la Tefal, EloxalPlus la Braun — rezistă mai mult, alunecă mai fin și au orificii dispuse pentru un abur uniform."
+    },
+    {
+      "h3": "Jetul de abur și călcatul vertical",
+      "body": "Jetul de abur (steam shot, măsurat în g pe puf) e util la cutele încăpățânate și la reîmprospătarea hainelor pe umeraș, fără să scoți masa de călcat. Un jet de 500-750 g face praf o cută de pe un sacou, iar modelele cu abur puternic se descurcă bine și la călcatul vertical al perdelelor sau al rochiilor."
+    },
+    {
+      "h3": "Anti-calcar: cheia longevității",
+      "body": "Apa dură lasă calcar în boiler, iar calcarul e principalul motiv pentru care o stație moare înainte de vreme. Sistemele de detartrare — Easy De-Calc Plus și Smart Calc Clean (Philips), Ultimate FastClean (Braun), Anti-Calc (Tefal) — colectează piatra într-un colector ușor de golit sau te avertizează când e momentul. Ignoră întreținerea și pierzi presiune, iar talpa începe să scuipe apă maronie."
+    },
+    {
+      "h3": "Rezervorul și autonomia",
+      "body": "Un rezervor detașabil pe care îl umpli la robinet e mult mai comod decât unul fix. Capacitatea (1,1-2 L la modelele din top) determină cât calci fără reumplere. Un rezervor de 1,4 L ajunge pentru o sesiune scurtă, în timp ce cei 2 L acoperă un teanc întreg de rufe fără pauze. Verifică și dacă poți reumple în timpul folosirii sau trebuie să aștepți răcirea boilerului.",
+      "callout": "Calci teancuri mari dintr-o dată? Alege rezervor detașabil de minim 1,8 L, ca să nu întrerupi ritmul pentru reumplere."
+    }
+  ],
+  "comparison": {
+    "title": "Stație cu boiler vs. fier cu abur clasic",
+    "intro": "Două abordări diferite ale călcatului. Depinde cât de des și cât de mult calci.",
+    "aLabel": "Stație cu boiler",
+    "bLabel": "Fier cu abur clasic",
+    "rows": [
+      {
+        "criteriu": "Presiune abur",
+        "a": "Mare (5-9 bari)",
+        "b": "Mică, doar de la talpă"
+      },
+      {
+        "criteriu": "Debit abur continuu",
+        "a": "Ridicat (110-190 g/min)",
+        "b": "Modest (30-50 g/min)"
+      },
+      {
+        "criteriu": "Viteză la teancuri mari",
+        "a": "Foarte rapid",
+        "b": "Mai lent"
+      },
+      {
+        "criteriu": "Rufe groase / mai multe straturi",
+        "a": "Pătrunde ușor",
+        "b": "Necesită mai multe treceri"
+      },
+      {
+        "criteriu": "Spațiu ocupat",
+        "a": "Mai mare (boiler separat)",
+        "b": "Compact"
+      },
+      {
+        "criteriu": "Preț de achiziție",
+        "a": "Mai ridicat",
+        "b": "Accesibil"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Volum mare, familii",
+        "b": "Câteva piese ocazional"
+      }
+    ],
+    "verdict": "Alege o stație cu boiler dacă ai de călcat des și mult — pătrunde prin rufe groase și scurtează sesiunea considerabil. Un fier clasic cu abur rămâne suficient dacă reîmprospătezi doar câteva piese pe săptămână și ții la spațiu și buget."
+  },
+  "faq": [
+    {
+      "q": "Stație cu boiler sau fier clasic pentru acasă?",
+      "a": "Dacă ai de călcat des și în cantitate (familie, cămăși, lenjerie), stația cu boiler scurtează mult sesiunea: presiune mare, abur continuu, pătrundere prin rufe groase. Pentru câteva piese ocazionale, un fier bun cu abur e mai ieftin și ocupă mai puțin loc."
+    },
+    {
+      "q": "Câți bari sunt suficienți?",
+      "a": "Pentru uz casnic, 5-6 bari acoperă rufele subțiri și medii. De la 7 bari în sus simți diferența la in, blugi și mai multe straturi. Modelele de top ajung la 9 bari, dar contează la fel de mult debitul de abur continuu, nu doar presiunea de vârf."
+    },
+    {
+      "q": "Ce înseamnă debitul de abur (g/min)?",
+      "a": "Este cantitatea de abur pe care stația o livrează continuu, în grame pe minut. Cu cât e mai mare, cu atât netezește mai repede și nu rămâi fără abur la mijlocul unei piese. Modelele accesibile fac 110-140 g/min, cele premium peste 160 g/min continuu."
+    },
+    {
+      "q": "Ce talpă e cea mai bună?",
+      "a": "Tălpile ceramice alunecă decent la preț mic, dar se zgârie mai ușor. Cele premium — SteamGlide Elite, T-ionicGlide, Durilium AirGlide, EloxalPlus — rezistă mai mult, alunecă mai fin și distribuie aburul uniform. Pe fișa tehnică, caută numele tălpii, nu doar 'inox' sau 'ceramică'."
+    },
+    {
+      "q": "Cât de des trebuie detartrată?",
+      "a": "Depinde de duritatea apei și de cât calci. Sistemele Easy De-Calc, Smart Calc Clean, Ultimate FastClean sau Anti-Calc te avertizează sau colectează calcarul într-un recipient ușor de golit. Din ce spun cumpărătorii, ignorarea detartrării e cauza principală a pierderii de presiune și a petelor pe rufe."
+    },
+    {
+      "q": "Pot folosi apă de la robinet?",
+      "a": "Da, majoritatea producătorilor recomandă apă de la robinet cu sistemul lor anti-calcar activ. În zonele cu apă foarte dură, un amestec cu apă demineralizată reduce depunerile. Evită apa 100% distilată dacă manualul nu o cere explicit — unele sisteme au nevoie de minerale pentru a funcționa corect."
+    },
+    {
+      "q": "Se poate călca vertical, pe umeraș?",
+      "a": "Da, modelele cu jet de abur puternic (500 g și peste) reîmprospătează perdele, sacouri sau rochii direct pe umeraș, fără masă de călcat. Pe fișa tehnică, caută valoarea jetului de abur (steam shot) — cu cât e mai mare, cu atât se descurcă mai bine la vertical."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți, Philips PerfectCare seria 9000 PSG9050/20 e alegerea completă: 9 bari, 190 g/min abur continuu și talpă SteamGlide Elite care alunecă fără efort. Dacă vrei cel mai bun raport preț/calitate, Braun CareStyle 5 IS5249BK oferă rezervor detașabil de 2 L și decalcifiere automată la un preț rezonabil, iar Tefal Express Essential SV6116E0 rămâne alegerea sensibilă pe buget.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Philips PerfectCare 9000 PSG9050/20, 9 bari, 190 g/min",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.2,
+      "image": "/img/products/dl3lrnmbm.jpg",
+      "feedId": "DL3LRNMBM",
+      "features": [
+        "boiler",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "9 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "190 g/min",
+          "label": "abur continuu"
+        },
+        {
+          "value": "750 g",
+          "label": "jet de abur"
+        },
+        {
+          "value": "1,8 L",
+          "label": "rezervor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 96
+        },
+        {
+          "label": "Talpă",
+          "pct": 94
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Ușurință",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "9 bari și 190 g/min abur continuu — cele mai bune cifre din top",
+        "Talpă SteamGlide Elite care alunecă foarte fin",
+        "Rezervor generos de 1,8 L pentru sesiuni lungi"
+      ],
+      "cons": [
+        "Cea mai scumpă stație din listă",
+        "Ocupă mai mult spațiu (3100 W, boiler mare)"
+      ],
+      "review": "Pe baza fișei tehnice, e clar cea mai puternică stație din listă. Cei 9 bari și 190 g/min abur continuu înseamnă că pătrunde prin rufe groase și nu te lasă fără abur la mijlocul unei cămăși, iar jetul de 750 g face praf cutele încăpățânate și reîmprospătează hainele pe umeraș. Talpa SteamGlide Elite alunecă fin și distribuie aburul uniform, iar tehnologia ActiveSense reglează automat debitul după cum miști fierul, ceea ce din ce spun cumpărătorii scurtează vizibil sesiunea. Rezervorul de 1,8 litri acoperă un teanc întreg de rufe fără reumplere. Puterea de 3100 W susține o încălzire rapidă și un abur constant. Singurul motiv pentru care nu e alegere universală: prețul, semnificativ peste restul topului, plus spațiul cerut de boilerul mare. Dar dacă ai de călcat des și mult, e stația care transformă corvoada într-o treabă rapidă.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-abur-philips-perfectcare-seria-9000-3100w-9-bari-jet-de-abur-continuu-190g-min-jet-de-abur-750g-talpa-steamglide-elite-tehnologie-activesense-capacitate-rezervor-1-8l-auriu-negru-p/pd/DL3LRNMBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Tefal Pro Express Vision GV9820E0, 9 bari, 750 g/min",
+      "tag": "Cel mai puternic jet de abur",
+      "score": 9,
+      "image": "/img/products/d0b4lxmbm.jpg",
+      "feedId": "D0B4LXMBM",
+      "features": [
+        "boiler",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "9 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "750 g/min",
+          "label": "jet de abur"
+        },
+        {
+          "value": "3000 W",
+          "label": "putere"
+        },
+        {
+          "value": "1,1 L",
+          "label": "rezervor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 95
+        },
+        {
+          "label": "Talpă",
+          "pct": 92
+        },
+        {
+          "label": "Autonomie",
+          "pct": 74
+        },
+        {
+          "label": "Ușurință",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "9 bari și jet uriaș de 750 g/min pentru cute grele",
+        "Talpă Durilium AirGlide Autoclean cu auto-curățare",
+        "Vârf iluminat LED și tehnologie Smart Steam"
+      ],
+      "cons": [
+        "Rezervor mic (1,1 L) — reumplere mai deasă",
+        "Preț premium ridicat"
+      ],
+      "review": "Dacă Philips 9000 e prea scump, Pro Express Vision oferă aceeași presiune de vârf de 9 bari și un jet de abur impresionant de 750 g/min, ideal pentru cutele grele și călcatul vertical. Talpa Durilium AirGlide Autoclean se auto-curăță la fiecare încălzire, ceea ce ține orificiile libere de calcar — un detaliu pe care cumpărătorii îl apreciază pe termen lung. Tehnologia Smart Steam ajustează aburul după nevoie, iar vârful iluminat LED ajută la cutele fine, în jurul nasturilor și buzunarelor. Puterea de 3000 W susține o încălzire rapidă. Compromisul real e rezervorul de doar 1,1 litri, cel mai mic din partea de sus a topului, ceea ce înseamnă reumpleri mai dese la teancuri mari. Rămâne un model premium ca preț. Dar pentru cine vrea putere brută de abur și o talpă care se întreține singură, e o alegere excelentă și echilibrată.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-boiler-de-inalta-presiune-tefal-pro-express-vision-9-bari-3000-w-capacitate-rezervor-1-1-l-jet-abur-750-g-min-varf-iluminare-led-tehnologie-smart-steam-sistem-antipicurare-talpa-du/pd/D0B4LXMBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Braun CareStyle 7 IS7266VI, 7,5 bari, 550 g/min",
+      "tag": "Cel mai bun rezervor detașabil",
+      "score": 8.7,
+      "image": "/img/products/dqmp7mybm.jpg",
+      "feedId": "DQMP7MYBM",
+      "features": [
+        "anticalc",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "7,5 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "550 g/min",
+          "label": "jet de abur"
+        },
+        {
+          "value": "2 L",
+          "label": "rezervor detașabil"
+        },
+        {
+          "value": "EloxalPlus",
+          "label": "talpă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 88
+        },
+        {
+          "label": "Talpă",
+          "pct": 90
+        },
+        {
+          "label": "Autonomie",
+          "pct": 92
+        },
+        {
+          "label": "Ușurință",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Rezervor detașabil mare de 2 L pentru sesiuni lungi",
+        "Talpă EloxalPlus cu FreeGlide, alunecă fără agățare",
+        "Decalcifiere Ultimate FastClean și oprire automată"
+      ],
+      "cons": [
+        "Presiune ceva mai mică decât modelele de 9 bari",
+        "Preț încă în zona premium"
+      ],
+      "review": "Braun CareStyle 7 merge pe echilibru, nu pe cifre de vârf. Cei 7,5 bari și jetul de 550 g/min acoperă confortabil rufele obișnuite și pătrund bine prin mai multe straturi. Punctul forte pe fișa tehnică e rezervorul detașabil de 2 litri — cel mai generos din top — pe care îl umpli la robinet și care ține o sesiune întreagă fără pauze. Talpa EloxalPlus cu tehnologia FreeGlide alunecă fără să se agațe de nasturi sau fermoare, iar sistemul iCare protejează țesăturile delicate cu un singur reglaj. Decalcifierea Ultimate FastClean menține boilerul curat, iar oprirea automată adaugă siguranță. Din ce spun cumpărătorii, forma fierului cu vârf ascuțit ajută mult la detalii. Nu are presiunea de 9 bari a liderilor și rămâne un model premium ca preț, dar pentru cine pune autonomia și confortul mai presus de cifra maximă de presiune, e o alegere foarte solidă.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-braun-carestyle-7-is7266vi-2700w-7-5-bari-abur-variabil-160g-min-jet-de-abur-550g-min-rezervor-detasabil-2l-tehnologie-icare-tehnologie-freeglide-talpa-eloxalplus-sistem-decalcifiere-/pd/DQMP7MYBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Philips PerfectCare Elite GC9682/80, 8 bari, 165 g/min",
+      "tag": "Cel mai echilibrat Philips",
+      "score": 8.5,
+      "image": "/img/products/dsl830bbm.jpg",
+      "feedId": "DSL830BBM",
+      "features": [
+        "anticalc",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "8 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "165 g/min",
+          "label": "abur continuu"
+        },
+        {
+          "value": "600 g",
+          "label": "jet de abur"
+        },
+        {
+          "value": "T-ionicGlide",
+          "label": "talpă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 88
+        },
+        {
+          "label": "Talpă",
+          "pct": 90
+        },
+        {
+          "label": "Autonomie",
+          "pct": 86
+        },
+        {
+          "label": "Ușurință",
+          "pct": 87
+        }
+      ],
+      "pros": [
+        "8 bari și 165 g/min abur continuu, aproape de vârf",
+        "Talpă T-ionicGlide durabilă și alunecoasă",
+        "OptimalTemp — un singur reglaj pentru toate țesăturile"
+      ],
+      "cons": [
+        "Ceva sub liderii de 9 bari la putere brută",
+        "Fără reglaje manuale de temperatură (unii le preferă)"
+      ],
+      "review": "Elite Advanced e stația Philips care oferă aproape tot ce contează fără să urci la seria 9000. Cei 8 bari și 165 g/min abur continuu sunt foarte aproape de vârf, iar jetul de 600 g rezolvă cutele grele și călcatul vertical al hainelor pe umeraș. Vedeta pe fișa tehnică e tehnologia OptimalTemp: un singur reglaj pentru toate țesăturile, fără să setezi temperatura și fără riscul de a arde o cămașă delicată. Talpa T-ionicGlide e printre cele mai durabile din gama Philips și alunecă foarte fin. Rezervorul de 1,8 litri susține sesiuni lungi, iar sistemul Easy De-Calc Plus colectează calcarul într-un recipient ușor de golit. Unii utilizatori obișnuiți cu reglaje manuale de temperatură pot resimți lipsa lor, dar pentru majoritatea, automatizarea completă e un plus. Per total, e cea mai echilibrată stație Philips din top, la un preț sub vârful gamei.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-abur-philips-perfectcare-elite-advanced-2700w-8-bari-jet-de-abur-continuu-165-g-min-jet-de-abur-600g-talpa-t-ionicglide-tehnologie-optimaltemp-rezervor-1-8l-sistem-easy-de-calc-plu/pd/DSL830BBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Braun CareStyle 5 IS5249BK, 7,5 bari, 510 g/min",
+      "tag": "Cel mai bun raport calitate-preț",
+      "score": 8.2,
+      "image": "/img/products/dvxh7cybm.jpg",
+      "feedId": "DVXH7CYBM",
+      "features": [
+        "anticalc",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "7,5 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "510 g/min",
+          "label": "jet de abur"
+        },
+        {
+          "value": "2 L",
+          "label": "rezervor detașabil"
+        },
+        {
+          "value": "2400 W",
+          "label": "putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 85
+        },
+        {
+          "label": "Talpă",
+          "pct": 88
+        },
+        {
+          "label": "Autonomie",
+          "pct": 90
+        },
+        {
+          "label": "Ușurință",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Rezervor detașabil de 2 L la preț rezonabil",
+        "Talpă EloxalPlus cu FreeGlide și tehnologie iCare",
+        "Decalcifiere Ultimate FastClean automată"
+      ],
+      "cons": [
+        "Jet și presiune ușor sub CareStyle 7",
+        "Putere de 2400 W, sub modelele de top"
+      ],
+      "review": "Dacă am recomanda o singură stație unui prieten care vrea abur bun fără să plătească pentru vârful gamei, CareStyle 5 ar fi prima pe listă. Împrumută aproape tot de la fratele mai scump CareStyle 7: aceiași 7,5 bari, un jet de 510 g/min foarte apropiat, același rezervor detașabil de 2 litri și aceeași talpă EloxalPlus cu FreeGlide care alunecă fără să se agațe. Tehnologia iCare permite călcatul tuturor țesăturilor cu un singur reglaj, fără riscul arderii, iar decalcifierea Ultimate FastClean ține boilerul curat pe termen lung. Puterea de 2400 W e ceva mai mică decât la modelele de top, dar în practică diferența se simte doar la teancuri foarte mari. Din ce spun cumpărătorii, e stația care oferă cel mai mult pentru bani din tot topul. Pentru raportul dintre presiune, autonomie și preț, e cea mai echilibrată alegere pentru o gospodărie obișnuită.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-braun-carestyle-5-is5249bk-2400w-7-5-bari-abur-variabil-150g-min-jet-de-abur-510g-min-rezervor-detasabil-2l-tehnologie-icare-tehnologie-freeglide-talpa-eloxalplus-sistem-decalcifiere-/pd/DVXH7CYBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Tefal Express Anti-Calc SV8055E0, 6,5 bari, 450 g/min",
+      "tag": "Cel mai bun sistem anti-calcar",
+      "score": 8,
+      "image": "/img/products/dbxpdzbbm.jpg",
+      "feedId": "DBXPDZBBM",
+      "features": [
+        "anticalc",
+        "vertical"
+      ],
+      "specs": [
+        {
+          "value": "6,5 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "450 g/min",
+          "label": "jet de abur"
+        },
+        {
+          "value": "1,8 L",
+          "label": "rezervor"
+        },
+        {
+          "value": "2800 W",
+          "label": "putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 80
+        },
+        {
+          "label": "Talpă",
+          "pct": 84
+        },
+        {
+          "label": "Autonomie",
+          "pct": 86
+        },
+        {
+          "label": "Ușurință",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Sistem Anti-Calc dedicat, ușor de întreținut",
+        "Rezervor de 1,8 L și putere de 2800 W",
+        "Talpă Durilium care alunecă bine"
+      ],
+      "cons": [
+        "Presiune de 6,5 bari, sub modelele premium",
+        "Fără rezervor detașabil ca la Braun"
+      ],
+      "review": "Express Anti-Calc pune accentul, cum spune și numele, pe întreținere: sistemul Anti-Calc dedicat colectează calcarul și menține presiunea constantă în timp, un punct pe care cumpărătorii din zonele cu apă dură îl apreciază mult. Cei 6,5 bari și jetul de 450 g/min stau sub vârful gamei, dar acoperă confortabil rufele obișnuite și pătrund decent prin mai multe straturi. Talpa Durilium alunecă bine și rezistă la uzură, iar rezervorul de 1,8 litri susține o sesiune completă fără reumplere. Puterea de 2800 W asigură o încălzire rapidă și un abur stabil. Oprirea automată adaugă siguranță dacă uiți fierul pornit. Nu are presiunea sau jetul modelelor premium și nici rezervorul detașabil de la Braun, deci nu e pentru cine vrea putere maximă. Dar pentru cine pune întreținerea simplă și longevitatea pe primul loc, la un preț mediu, e o alegere sensibilă și fiabilă.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-tefal-express-anti-calc-2800-w-talpa-durilium-6-5-bar-jet-de-abur-450g-min-rezervor-apa-1-8-l-auto-off-negru-sv8055e0/pd/DBXPDZBBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Heinner HIS-D3007IX, boiler 7 bari, 3000 W",
+      "tag": "Cel mai bun boiler pe buget",
+      "score": 7.8,
+      "image": "/img/products/dp8pmlbbm.jpg",
+      "feedId": "DP8PMLBBM",
+      "features": [
+        "boiler"
+      ],
+      "specs": [
+        {
+          "value": "7 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "140 g/min",
+          "label": "abur ajustabil"
+        },
+        {
+          "value": "1,8 L",
+          "label": "rezervor"
+        },
+        {
+          "value": "3000 W",
+          "label": "putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 78
+        },
+        {
+          "label": "Talpă",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 86
+        },
+        {
+          "label": "Ușurință",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Boiler de 7 bari la un preț mult sub branduri premium",
+        "Rezervor generos de 1,8 L și 3000 W putere",
+        "Abur ajustabil și oprire automată"
+      ],
+      "cons": [
+        "Talpă ceramică, mai puțin durabilă decât cele premium",
+        "Debit de abur modest (140 g/min)"
+      ],
+      "review": "Heinner HIS-D3007IX e dovada că un boiler de presiune nu trebuie să coste cât o stație premium. Cei 7 bari sunt surprinzător de mulți pentru acest preț și pun această stație peste multe fiere clasice la capitolul pătrundere prin rufe groase. Rezervorul de 1,8 litri e la nivelul modelelor scumpe, iar puterea totală de 3000 W (1600 W boiler plus 1400 W fier) asigură o încălzire rapidă. Aburul ajustabil de circa 140 g/min e modest față de vârful gamei, dar suficient pentru rufele obișnuite. Compromisurile se văd la talpa ceramică — alunecă decent, dar se zgârie mai ușor decât tălpile premium — și la finisajele generale, mai simple. Oprirea automată adaugă siguranță. Din ce spun cumpărătorii, e o intrare accesibilă în lumea stațiilor cu boiler, potrivită pentru cine vrea presiune reală fără să plătească pentru un brand consacrat.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-boiler-heinner-3000-w-1600w-boiler-1400w-fier-7-bar-1-8-l-abur-ajustabil-140-15g-min-talpa-ceramica-oprire-automata-violet-his-d3007ix/pd/DP8PMLBBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Philips seria 2000 PSG2000/20, 6 bari, 110 g/min",
+      "tag": "Cea mai compactă",
+      "score": 7.7,
+      "image": "/img/products/d2ncd3ybm.jpg",
+      "feedId": "D2NCD3YBM",
+      "features": [
+        "anticalc"
+      ],
+      "specs": [
+        {
+          "value": "6 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "110 g/min",
+          "label": "abur continuu"
+        },
+        {
+          "value": "300 g",
+          "label": "jet de abur"
+        },
+        {
+          "value": "1,4 L",
+          "label": "rezervor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 74
+        },
+        {
+          "label": "Talpă",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Ușurință",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Stație Philips compactă, ușor de depozitat",
+        "Sistem Smart Calc Clean de detartrare",
+        "Oprire automată pentru siguranță"
+      ],
+      "cons": [
+        "Presiune și debit modeste (6 bari, 110 g/min)",
+        "Talpă ceramică și rezervor mic de 1,4 L"
+      ],
+      "review": "Seria 2000 e punctul de intrare Philips în lumea stațiilor cu abur și mizează pe compactitate și simplitate. Cei 6 bari și 110 g/min abur continuu sunt modeste față de modelele de top, dar acoperă rufele subțiri și medii fără probleme, iar jetul de 300 g ajută la cutele obișnuite. Marele plus la acest preț e sistemul Smart Calc Clean, care te avertizează când e nevoie de detartrare și menține presiunea în timp — un detaliu pe care cumpărătorii îl apreciază, mai ales în zonele cu apă dură. Talpa ceramică alunecă decent, dar se zgârie mai ușor decât cele premium, iar rezervorul de 1,4 litri cere reumpleri mai dese la teancuri mari. Oprirea automată adaugă siguranță. Pentru cine calcă ocazional câteva piese și ține la spațiu și la un brand cunoscut, e o stație compactă și fiabilă, la un preț prietenos.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-abur-philips-seria-2000-2400-w-6-bari-jet-de-abur-continuu-110-g-min-jet-de-abur-de-300-g-talpa-ceramica-rezervor-de-apa-1-4-l-oprire-automata-sitem-de-detartrare-smart-calc-clean-/pd/D2NCD3YBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Tefal Express Essential SV6116E0, 5,3 bari, 270 g/min",
+      "tag": "Cea mai bună alegere pe buget",
+      "score": 7.5,
+      "image": "/img/products/dhh4htmbm.jpg",
+      "feedId": "DHH4HTMBM",
+      "features": [
+        "anticalc"
+      ],
+      "specs": [
+        {
+          "value": "5,3 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "270 g/min",
+          "label": "jet de abur"
+        },
+        {
+          "value": "1,4 L",
+          "label": "rezervor"
+        },
+        {
+          "value": "2200 W",
+          "label": "putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 72
+        },
+        {
+          "label": "Talpă",
+          "pct": 78
+        },
+        {
+          "label": "Autonomie",
+          "pct": 76
+        },
+        {
+          "label": "Ușurință",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Cea mai accesibilă stație de brand din top",
+        "Talpă Xpress Glide care alunecă surprinzător de bine",
+        "Oprire automată pentru siguranță"
+      ],
+      "cons": [
+        "Presiune mică (5,3 bari) pentru rufe groase",
+        "Rezervor de 1,4 L, reumplere mai deasă"
+      ],
+      "review": "Express Essential e cea mai simplă poartă de intrare Tefal în lumea stațiilor cu abur, și reușește să păstreze ce contează la un preț de buget. Cei 5,3 bari și aburul variabil până la 120 g/min sunt modeste — nu te aștepta să facă praf un teanc de blugi — dar jetul de 270 g rezolvă cutele obișnuite de pe cămăși și lenjerie subțire. Talpa Xpress Glide alunecă surprinzător de bine pentru acest segment, iar din ce spun cumpărătorii, e diferența față de fierele clasice ieftine. Rezervorul de 1,4 litri cere reumpleri mai dese la sesiuni lungi, iar oprirea automată adaugă un plus de siguranță. Puterea de 2200 W e suficientă pentru încălzire rapidă. Nu e pentru cine calcă zilnic cantități mari sau rufe groase, dar pentru cine vrea saltul de la un fier clasic la o stație de brand fără să cheltuiască mult, e cea mai sensibilă alegere pe buget din tot topul.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-tefal-express-essential-2200w-5-3-bari-jet-de-abur-270-g-min-abur-variabil-0-120g-min-talpa-xpress-glide-rezervor-apa-1-4-l-oprire-automata-alb-albastru-sv6116e0/pd/DHH4HTMBM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Heinner HIS-D3006V, boiler 5,5 bari, 3000 W",
+      "tag": "Cel mai ieftin din top",
+      "score": 7.4,
+      "image": "/img/products/d08pmlbbm.jpg",
+      "feedId": "D08PMLBBM",
+      "features": [
+        "boiler"
+      ],
+      "specs": [
+        {
+          "value": "5,5 bari",
+          "label": "presiune"
+        },
+        {
+          "value": "140 g/min",
+          "label": "abur ajustabil"
+        },
+        {
+          "value": "1,7 L",
+          "label": "rezervor"
+        },
+        {
+          "value": "3000 W",
+          "label": "putere"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Abur",
+          "pct": 70
+        },
+        {
+          "label": "Talpă",
+          "pct": 72
+        },
+        {
+          "label": "Autonomie",
+          "pct": 82
+        },
+        {
+          "label": "Ușurință",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Cea mai ieftină stație cu boiler din top",
+        "Rezervor de 1,7 L și putere de 3000 W",
+        "Abur ajustabil și oprire automată"
+      ],
+      "cons": [
+        "Presiune mică (5,5 bari) pentru rufe groase",
+        "Talpă ceramică, finisaje simple"
+      ],
+      "review": "Heinner HIS-D3006V e cel mai accesibil model din top și, în ciuda prețului, îți dă un boiler adevărat, nu doar un fier cu abur. Cei 5,5 bari sunt modeste, dar tot peste ce oferă majoritatea fierelor clasice, iar aburul ajustabil de circa 140 g/min acoperă rufele subțiri și medii. Rezervorul de 1,7 litri e generos pentru segment și susține o sesiune completă fără reumplere, iar puterea totală de 3000 W (2200 W boiler plus 800 W fier) asigură o încălzire rapidă. Compromisurile sunt clare la acest preț: talpa ceramică se zgârie mai ușor, presiunea nu face față rufelor foarte groase, iar finisajele sunt simple. Oprirea automată rămâne un plus de siguranță. Pentru cine vrea să încerce o stație cu boiler cu buget minim, sau ca a doua stație pentru o locuință secundară, e cel mai ieftin drum către un abur sub presiune în fiecare săptămână.",
+      "emagUrl": "https://www.emag.ro/statie-de-calcat-cu-boiler-heinner-3000-w-2200w-boiler-800w-fier-5-5-bar-1-7-l-abur-ajustabil-140-15g-min-talpa-ceramica-oprire-automata-mov-his-d3006v/pd/D08PMLBBM/"
+    }
+  ],
+  "priceBuckets": []
+}

@@ -1,0 +1,732 @@
+{
+  "title": "Cele mai bune camere de supraveghere în 2026",
+  "h1": "Cele mai bune camere de supraveghere în 2026",
+  "parent": "Smart home",
+  "icon": "surveil",
+  "order": 43,
+  "intro": "Am analizat cele mai populare camere de supraveghere smart de pe eMAG, de la modele de interior cu Pan/Tilt și detecție AI până la variantele de exterior 4K, cu panou solar sau cartelă 4G, pe baza fișelor tehnice oficiale și a recenziilor cumpărătorilor. Am urmărit rezoluția, calitatea vederii nocturne, inteligența detecției de persoane și animale, opțiunile de stocare și raportul preț/valoare. Mai jos găsești clasamentul complet, plus un ghid cu ce specificații chiar contează înainte să cumperi.",
+  "author": "ana-popescu",
+  "updated": "2026-08-04",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cea mai bună pentru exterior",
+      "productId": "p2"
+    },
+    {
+      "label": "Cel mai bun raport calitate-preț",
+      "productId": "p8"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "exterior",
+      "label": "Pentru exterior"
+    },
+    {
+      "key": "ptz",
+      "label": "Pan/Tilt 360°"
+    },
+    {
+      "key": "solar",
+      "label": "Cu panou solar"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Interior vs. exterior: unde o montezi contează",
+      "body": "Prima decizie e locul montajului. Camerele de interior (TP-Link Tapo C220, IMOU Ranger 2C, Xiaomi C201) sunt mai mici, mai ieftine și adesea au mod de confidențialitate, care acoperă lentila când ești acasă. Camerele de exterior (Tapo C501GW, Tapo C660 KIT, eufy S350, Ezviz H90) au carcasă rezistentă la apă și praf, cu grad de protecție IP65 sau IP66, plus vedere nocturnă mai puternică. Nu monta niciodată o cameră de interior afară: umezeala și variațiile de temperatură o strică rapid.",
+      "callout": "Verifică gradul IP din fișă: IP65/IP66 înseamnă protecție reală la ploaie. O cameră fără marcaj IP e destinată strict interiorului."
+    },
+    {
+      "h3": "Rezoluție: Full HD, 2K sau 4K",
+      "body": "Rezoluția determină cât de multe detalii prinzi — o față la ușă sau un număr de înmatriculare în curte. Full HD 1080p (Tapo C501GW, Xiaomi C201) acoperă supravegherea de bază a unei camere sau a unei intrări. 2K/4MP (Tapo C220, Hikvision DS-2DE2C400MWG-E, Ezviz H90) e echilibrul recomandabil azi, cu detalii clar mai bune. 4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și permite decuparea unui cadru fără să pierzi lizibilitatea. Reține însă că o rezoluție mai mare umple mai repede cardul microSD.",
+      "callout": "Numărul de megapixeli nu spune totul: pentru noapte, senzorul și tehnologia Starlight/Color Night Vision contează la fel de mult ca rezoluția."
+    },
+    {
+      "h3": "Vedere nocturnă: color (Starlight) vs. infraroșu",
+      "body": "Sunt două abordări. Vederea nocturnă clasică cu infraroșu (IR) redă o imagine alb-negru și e discretă, pentru că LED-urile IR sunt invizibile. Vederea nocturnă color, numită Starlight sau Color Night Vision (Tapo C501GW, Tapo C660 KIT, IMOU Cruiser), folosește un senzor luminos și, uneori, un spot alb, ca să păstreze culorile pe timp de noapte — util pentru a distinge culoarea hainelor sau a unei mașini. Multe modele de exterior combină ambele, cu iluminare duală (Ezviz H90), și comută automat în funcție de lumina disponibilă.",
+      "callout": "Vederea color noaptea are nevoie de puțină lumină ambientală sau de un spot alb; în beznă totală, camera revine oricum la infraroșu alb-negru."
+    },
+    {
+      "h3": "Detecție AI: persoane, animale și vehicule",
+      "body": "Detecția de mișcare simplă îți trimite notificări la orice — o frunză, o umbră, o pisică. Detecția AI face diferența între o persoană, un animal și un vehicul, așa că primești alerte relevante și mai puține false alarme. Modelele bune din acest clasament (Tapo C220, Hikvision cu detecție umană, eufy S350, Ezviz H90) filtrează inteligent evenimentele, iar unele adaugă urmărire automată (Smart Tracking), prin care camera Pan/Tilt rotește pentru a menține subiectul în cadru. Pentru interior, detecția separată de persoane și animale e utilă dacă ai animale de companie.",
+      "callout": "Verifică dacă detecția AI e gratuită sau blocată în spatele unui abonament — la unele branduri, filtrarea persoane/vehicule vine doar cu plan cloud plătit."
+    },
+    {
+      "h3": "Stocare: microSD, cloud și abonament",
+      "body": "Ai trei opțiuni, adesea combinabile. Cardul microSD (până la 512 GB la Ezviz H90) stochează local, fără costuri lunare, dar filmările se pierd dacă hoțul ia camera. Stocarea în cloud (Ezviz CloudPlay, Tapo Care) e sigură în afara casei, însă cere de regulă un abonament lunar. Unele branduri oferă și o stație de bază cu stocare locală extinsă. Cea mai sigură strategie e combinată: card local pentru înregistrare continuă plus un plan cloud pentru evenimentele importante, ca să ai o copie în afara locuinței.",
+      "callout": "Folosește un card microSD High Endurance, gândit pentru scriere continuă — un card obișnuit se uzează în câteva luni de înregistrare 24/7."
+    },
+    {
+      "h3": "Alimentare și confidențialitate (GDPR)",
+      "body": "Camerele cu fir (majoritatea celor de interior și Hikvision PoE) filmează neîntrerupt, dar cer o priză sau cablu de rețea în apropiere. Cele pe baterie sunt fără fir, ușor de montat oriunde, însă trebuie reîncărcate periodic. Kiturile cu panou solar (Tapo C660 KIT, cu baterie de 10000 mAh) rezolvă problema: panoul reîncarcă bateria din lumina zilei, ideal pentru un colț de curte fără priză. Pe partea de confidențialitate, în România o cameră care filmează spațiul public sau proprietatea vecinului poate intra sub incidența GDPR — orientează câmpul strict spre propria locuință.",
+      "callout": "Din motive GDPR, evită să înregistrezi trotuarul, strada sau curtea vecinului. Un mod de confidențialitate (privacy) care acoperă lentila când ești acasă e un plus real pentru camerele de interior."
+    }
+  ],
+  "comparison": {
+    "title": "Cameră cu fir vs. cameră cu baterie/solar",
+    "intro": "Cele două tipuri rezolvă nevoi diferite. Iată cum se compară pe baza fișelor tehnice.",
+    "aLabel": "Cu fir (alimentare permanentă)",
+    "bLabel": "Baterie / panou solar",
+    "rows": [
+      {
+        "criteriu": "Montaj",
+        "a": "Cere priză sau cablu PoE în apropiere",
+        "b": "Fără fir, se montează practic oriunde"
+      },
+      {
+        "criteriu": "Înregistrare",
+        "a": "Continuă 24/7, fără întreruperi",
+        "b": "De regulă pe evenimente, pentru a economisi bateria"
+      },
+      {
+        "criteriu": "Întreținere",
+        "a": "Zero — merge cât are curent",
+        "b": "Reîncărcare periodică (sau panou solar care o alimentează)"
+      },
+      {
+        "criteriu": "Ideală pentru",
+        "a": "Interior, intrări cu priză, supraveghere permanentă",
+        "b": "Colțuri de curte fără priză, montaj rapid"
+      }
+    ],
+    "verdict": "Dacă ai priză aproape și vrei înregistrare neîntreruptă, alege o cameră cu fir. Dacă montezi într-un loc fără curent și preferi instalare fără cabluri, un kit cu baterie și panou solar (precum Tapo C660 KIT) e soluția care nu te lasă fără energie."
+  },
+  "faq": [
+    {
+      "q": "Ce cameră de supraveghere aleg pentru interior?",
+      "a": "Pentru interior, o cameră Pan/Tilt cu rezoluție 2K și detecție AI de persoane și animale, precum TP-Link Tapo C220, acoperă cel mai bine nevoile obișnuite: urmărește camera la 360°, distinge persoanele de animale și are mod de confidențialitate. Xiaomi C201 e o alternativă Full HD mai accesibilă, iar IMOU Ranger 2C e cea mai ieftină opțiune de bază."
+    },
+    {
+      "q": "Merită 4K la o cameră de supraveghere?",
+      "a": "4K/8MP (Tapo C660 KIT, eufy S350) oferă cea mai mare claritate și îți permite să mărești un cadru fără să pierzi detaliile — util pentru curte sau perimetru. Pentru o cameră de interior sau o simplă supraveghere a intrării, 2K/4MP e de regulă suficient. Ține cont că 4K umple mai repede cardul microSD și cere un card mai încăpător."
+    },
+    {
+      "q": "Cum văd camerele noaptea?",
+      "a": "Prin infraroșu (imagine alb-negru, discretă) sau prin vedere color de tip Starlight/Color Night Vision, care păstrează culorile dacă există puțină lumină sau un spot alb. Modelele de exterior din top combină adesea ambele, cu iluminare duală, și comută automat. Pentru a recunoaște culoarea hainelor sau a unei mașini noaptea, alege o cameră cu vedere nocturnă color."
+    },
+    {
+      "q": "Am nevoie de abonament lunar?",
+      "a": "Nu neapărat. Cele mai multe camere înregistrează pe un card microSD local, fără costuri recurente. Abonamentul cloud (Tapo Care, Ezviz CloudPlay) adaugă o copie sigură în afara casei și, la unele branduri, funcții AI suplimentare. Verifică din fișă dacă detecția de persoane/vehicule e gratuită sau vine doar cu plan plătit."
+    },
+    {
+      "q": "Ce card microSD folosesc și ce capacitate?",
+      "a": "Folosește un card High Endurance, proiectat pentru scriere continuă, pentru că înregistrarea 24/7 uzează rapid un card obișnuit. Pentru Full HD, 64-128 GB e suficient; pentru 2K/4K, alege 128-256 GB sau mai mult. Ezviz H90, de exemplu, acceptă carduri de până la 512 GB pentru arhivă locală mare."
+    },
+    {
+      "q": "Pot monta o cameră de supraveghere fără priză?",
+      "a": "Da. Kiturile cu baterie și panou solar, precum TP-Link Tapo C660 KIT cu baterie de 10000 mAh, se montează oriunde: panoul reîncarcă bateria din lumina zilei. Există și camere 4G (Tapo C501GW), care funcționează pe cartelă SIM acolo unde nu ai WiFi — utile la o casă de vacanță sau o parcelă izolată."
+    },
+    {
+      "q": "E legal să film cu o cameră de supraveghere acasă?",
+      "a": "În spațiul propriu, da. Problema apare când camera filmează spațiul public, strada sau proprietatea vecinului, situație care poate intra sub incidența GDPR. Orientează câmpul strict spre propria locuință și curte. Pentru camerele de interior, un mod de confidențialitate care acoperă lentila când ești acasă e un plus binevenit."
+    }
+  ],
+  "conclusion": "Pentru majoritatea oamenilor, TP-Link Tapo C220 e cea mai echilibrată cameră de supraveghere: 2K, Pan/Tilt 360°, detecție AI de persoane și animale și mod de confidențialitate, la un preț accesibil pentru interior. Dacă ai nevoie de acoperire în exterior, Tapo C501GW rezolvă montajul chiar și fără WiFi, prin cartela 4G, iar pentru un buget mic Xiaomi Smart Camera C201 oferă cel mai bun raport calitate-preț. Pentru curte fără priză, kitul Tapo C660 cu panou solar și 4K rămâne alegerea fără compromisuri la alimentare.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "TP-Link Tapo C220, 2K 4MP, Pan/Tilt 360°",
+      "tag": "Cea mai bună pentru interior",
+      "win": true,
+      "score": 9.2,
+      "feedId": "D8V2DYYBM",
+      "features": [
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "2K 4MP QHD",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "persoane/animale",
+          "label": "detecție AI"
+        },
+        {
+          "value": "interior",
+          "label": "utilizare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 90
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 86
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 92
+        },
+        {
+          "label": "Aplicație",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Rezoluție 2K 4MP QHD, peste Full HD-ul obișnuit din categorie",
+        "Pan/Tilt 360° cu detecție și notificare separată pentru persoane și animale",
+        "Mod de confidențialitate și utilizare ca baby monitor"
+      ],
+      "cons": [
+        "Doar pentru interior, fără carcasă rezistentă la apă",
+        "Vederea nocturnă e infraroșu alb-negru, nu color"
+      ],
+      "review": "TP-Link Tapo C220 e alegerea completă pentru interior și modelul de referință al clasamentului. Filmează la 2K 4MP QHD, o rezoluție peste Full HD-ul obișnuit, iar mecanismul Pan/Tilt îi permite să acopere întreaga cameră la 360°. Detecția smart separă persoanele de animale și trimite notificări relevante, cu detectare de sunete și alarmă sonoră și luminoasă în caz de eveniment. Modul de baby monitor și modul de confidențialitate, care oprește camera când ești acasă, o fac potrivită pentru dormitor sau camera copilului. Aplicația Tapo e printre cele mai simple și stabile de pe piață, cu audio bidirecțional pentru a vorbi de la distanță. Compromisurile sunt că rămâne strict o cameră de interior, fără protecție la apă, iar vederea nocturnă e infraroșu alb-negru. Pe baza fișei tehnice și a recenziilor cumpărătorilor, e cea mai bună alegere pentru supravegherea unei locuințe.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-smart-tp-link-cu-pan-tilt-360-grade-2k-4mp-qhd-utilizare-baby-monitor-mode-night-vision-detectare-si-notificare-smart-persoane-si-animale-detectare-sunete-two-way-audio-alarma-s/pd/D8V2DYYBM/",
+      "image": "/img/products/d8v2dyybm.jpg"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "TP-Link Tapo C501GW, 4G LTE, exterior IP66",
+      "tag": "Cea mai bună pentru exterior",
+      "score": 9,
+      "feedId": "DGGL9QYBM",
+      "features": [
+        "exterior",
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "Full HD 1080p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "4G LTE",
+          "label": "conectivitate"
+        },
+        {
+          "value": "IP66",
+          "label": "protecție"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 82
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 90
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 86
+        },
+        {
+          "label": "Aplicație",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Funcționează pe cartelă 4G LTE, acolo unde nu ai WiFi",
+        "Vedere nocturnă color Starlight și carcasă de exterior IP66",
+        "Pan/Tilt 360° cu detectare de persoane și alarmă sonoră"
+      ],
+      "cons": [
+        "Rezoluție Full HD 1080p, sub modelele 2K/4K de exterior",
+        "Cartela 4G presupune un cost lunar de date"
+      ],
+      "review": "TP-Link Tapo C501GW e cea mai bună alegere pentru exterior atunci când WiFi-ul nu ajunge — funcționează pe cartelă 4G LTE, deci o poți monta la o casă de vacanță, pe un teren sau într-un colț de curte fără rețea. Carcasa IP66 rezistă la ploaie și praf, iar mecanismul Pan/Tilt acoperă 360°, cu detectare de persoane și mișcare plus alarmă sonoră pentru descurajarea intrușilor. Vederea nocturnă color de tip Starlight păstrează culorile pe timp de noapte, un avantaj real față de infraroșul alb-negru. Suportă și alimentare PoE și audio bidirecțional. Compromisurile sunt rezoluția Full HD 1080p, sub modelele 2K/4K de exterior, și costul lunar al cartelei 4G. Pe baza fișei tehnice și a recenziilor, e opțiunea recomandată pentru supraveghere de exterior fără dependență de rețeaua WiFi.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-smart-tp-link-4g-lte-outdoor-pan-tilt-360-grade-full-hd-1080p-wireless-poe-starlight-color-night-vision-ip66-two-way-audio-detectarea-persoanelor-si-miscarilor-alarma-sonora-tap/pd/DGGL9QYBM/",
+      "image": "/img/products/dggl9qybm.jpg"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "eufy S350 Dual PTZ, 4K UHD, 8× zoom",
+      "tag": "Cea mai bună pentru detalii 4K",
+      "score": 8.9,
+      "feedId": "D26C9FYBM",
+      "features": [
+        "exterior",
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "4K UHD",
+          "label": "rezoluție"
+        },
+        {
+          "value": "PTZ 360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "8× zoom",
+          "label": "zoom"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 95
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 88
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 90
+        },
+        {
+          "label": "Aplicație",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Rezoluție 4K UHD cu sistem dual-camera și zoom 8×",
+        "PTZ 360° și Wi-Fi 6 pentru transfer rapid",
+        "Detecție AI și urmărire automată a subiectului"
+      ],
+      "cons": [
+        "Preț peste media camerelor Pan/Tilt de exterior",
+        "Ecosistemul eufy e mai puțin răspândit local decât TP-Link"
+      ],
+      "review": "eufy S350 e alegerea pentru cei care vor cele mai multe detalii: filmează 4K UHD printr-un sistem dual-camera, cu una dintre lentile dedicată zoom-ului optic 8×, ideal pentru a urmări un subiect îndepărtat fără să pierzi claritatea. Mecanismul PTZ acoperă 360°, iar detecția AI recunoaște și urmărește automat persoanele în cadru. Wi-Fi 6 asigură transfer rapid al filmărilor de mare rezoluție, iar brandul eufy e cunoscut pentru accentul pus pe stocare locală, fără abonament obligatoriu. E gândit pentru cine supraveghează o curte mare sau un perimetru unde vrea să distingă detalii la distanță. Compromisurile sunt prețul, peste media camerelor Pan/Tilt de exterior, și un ecosistem mai puțin răspândit la noi decât TP-Link. Pe baza fișei tehnice și a recenziilor, e cea mai bună alegere când prioritatea e claritatea 4K și zoom-ul.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-eufy-s350-dual-camera-ptz-rezolutie-4k-uhd-8-zoom-wi-fi-6-ai-t8416321/pd/D26C9FYBM/",
+      "image": "/img/products/d26c9fybm.jpg"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "TP-Link Tapo C660 KIT, 4K, panou solar",
+      "tag": "Cea mai bună fără fir (solar)",
+      "score": 8.7,
+      "feedId": "D5QFLX3BM",
+      "features": [
+        "exterior",
+        "ptz",
+        "solar"
+      ],
+      "specs": [
+        {
+          "value": "4K 8MP",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "panou solar",
+          "label": "alimentare"
+        },
+        {
+          "value": "IP65",
+          "label": "protecție"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 93
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 89
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 88
+        },
+        {
+          "label": "Aplicație",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Kit complet cu panou solar și baterie de 10000 mAh, fără fir",
+        "Rezoluție 4K 8MP cu Pan/Tilt 360° și vedere color Starlight",
+        "Carcasă IP65 și detecție AI pentru exterior"
+      ],
+      "cons": [
+        "Preț ridicat pentru un singur post de supraveghere",
+        "Panoul solar cere expunere bună la soare pentru autonomie completă"
+      ],
+      "review": "TP-Link Tapo C660 KIT e soluția pentru colțul de curte fără priză: kitul include un panou solar și o baterie de 10000 mAh, care se reîncarcă din lumina zilei, deci montajul e complet fără fir. În ciuda alimentării autonome, nu face compromisuri la imagine — filmează 4K 8MP, cu Pan/Tilt 360° și vedere nocturnă color Starlight care păstrează culorile pe timp de noapte. Carcasa IP65 rezistă la intemperii, iar detecția AI filtrează evenimentele relevante. E gândit pentru cine vrea supraveghere de exterior de înaltă rezoluție acolo unde tragerea unui cablu ar fi complicată. Compromisurile sunt prețul, ridicat pentru un singur post, și faptul că panoul solar are nevoie de expunere bună la soare pentru autonomie completă în lunile mohorâte. Pe baza fișei tehnice și a recenziilor, e cea mai bună cameră fără fir, cu alimentare solară.",
+      "emagUrl": "https://www.emag.ro/kit-camera-de-supraveghere-wireles-cu-panou-solar-tp-link-cu-pan-tilt-360-grade-8mp-4k-3840x2160-starlight-color-night-vision-detectie-ai-baterie-10000mah-two-way-audio-ip65-tapo-c660-kit/pd/D5QFLX3BM/",
+      "image": "/img/products/d5qflx3bm.jpg"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Ezviz H90 Dual, 2K, exterior, microSD 512 GB",
+      "tag": "Cea mai bună pentru stocare locală",
+      "score": 8.5,
+      "feedId": "DYM5HB3BM",
+      "features": [
+        "exterior",
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "2K 4+4MP",
+          "label": "rezoluție"
+        },
+        {
+          "value": "rotații duble",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "microSD 512 GB",
+          "label": "stocare"
+        },
+        {
+          "value": "exterior",
+          "label": "utilizare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 88
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 87
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 89
+        },
+        {
+          "label": "Aplicație",
+          "pct": 83
+        }
+      ],
+      "pros": [
+        "Sistem dual 4+4MP cu rotații duble pentru acoperire largă",
+        "Suportă card microSD de până la 512 GB plus stocare cloud",
+        "Iluminare duală, auto tracking și detecție AI de persoane/vehicule"
+      ],
+      "cons": [
+        "Rezoluția 2K rămâne sub modelele 4K din top",
+        "Funcțiile cloud complete cer un abonament CloudPlay"
+      ],
+      "review": "Ezviz H90 Dual e alegerea pentru cine vrea o arhivă locală mare fără costuri lunare: acceptă un card microSD de până la 512 GB, la care se adaugă opțional stocarea în cloud Ezviz CloudPlay. Sistemul dual, cu două lentile de 4MP și rotații duble, acoperă o zonă largă din curte și urmărește automat subiectul (Auto Tracking). Iluminarea duală combină infraroșul cu un spot alb, iar detecția AI distinge forma umană de un vehicul, reducând alarmele false. Alarma acustică și optică descurajează intrușii, iar microfonul permite comunicarea. E gândit pentru supravegherea unei curți sau a unei intrări unde vrei filmări păstrate local. Compromisurile sunt rezoluția 2K, sub modelele 4K din top, și faptul că funcțiile cloud complete cer abonament. Pe baza fișei tehnice și a recenziilor, e cea mai bună alegere când prioritatea e stocarea locală amplă.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-exterior-ezviz-dual-cu-rotatii-duble-4-4mp-2k-iluminare-duala-alarma-acustica-si-optica-auto-tracking-card-microsd-pana-la-512-gb-si-stocare-in-ezviz-cloudplay-microfon-detectar/pd/DYM5HB3BM/",
+      "image": "/img/products/dym5hb3bm.jpg"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "IMOU Cruiser Triple, Pan/Tilt 360°, exterior",
+      "tag": "Acoperire triplă exterior",
+      "score": 8.3,
+      "feedId": "DF4VY23BM",
+      "features": [
+        "exterior",
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "5+3+3 MP",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "8× zoom",
+          "label": "zoom"
+        },
+        {
+          "value": "exterior",
+          "label": "utilizare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 86
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 88
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 85
+        },
+        {
+          "label": "Aplicație",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Sistem triplu de lentile (5+3+3 MP) pentru acoperire foarte largă",
+        "Pan/Tilt 360° cu zoom digital 8× și Smart Tracking",
+        "Vedere nocturnă color și audio bidirecțional"
+      ],
+      "cons": [
+        "Configurație triplă mai complexă de setat decât o cameră simplă",
+        "Aplicația IMOU e mai puțin lustruită decât cea Tapo"
+      ],
+      "review": "IMOU Cruiser Triple e opțiunea pentru acoperire maximă dintr-un singur punct: combină trei lentile — una principală de 5MP și două suplimentare de 3MP — pentru un câmp vizual foarte larg, la 2304x1296. Mecanismul Pan/Tilt 360°, zoom-ul digital 8× și Smart Tracking-ul mențin subiectul în cadru pe măsură ce se mișcă, iar Smart Color Night Vision păstrează culorile pe timp de noapte. Audio bidirecțional și detecția inteligentă completează un pachet de exterior generos. E gândit pentru cine vrea să supravegheze o zonă amplă — o curte mare sau o fațadă — fără să monteze mai multe camere. Compromisurile sunt configurația triplă, mai complexă de setat decât o cameră simplă, și o aplicație IMOU mai puțin lustruită decât Tapo. Pe baza fișei tehnice și a recenziilor, e alegerea pentru acoperire largă dintr-o singură cameră.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-wireless-imou-cruiser-triple-cu-pan-tilt-360-grade-5-3-3mp-2304x1296-8x-digital-zoom-smart-color-night-vision-smart-detection-smart-tracking-aor-mode-algo-play-two-way-talk-ipc-/pd/DF4VY23BM/",
+      "image": "/img/products/df4vy23bm.jpg"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Hikvision DS-2DE2C400MWG-E, 2K, PT",
+      "tag": "Cea mai bună detecție umană",
+      "score": 8.1,
+      "feedId": "DFC6TCYBM",
+      "features": [
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "2K 4MP",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "IR + LED 30m",
+          "label": "vedere nocturnă"
+        },
+        {
+          "value": "detecție umană",
+          "label": "detecție AI"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 87
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 85
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 84
+        },
+        {
+          "label": "Aplicație",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Brand Hikvision, referință în supraveghere profesională",
+        "2K 4MP cu vedere nocturnă IR și LED alb până la 30 m",
+        "Detecție umană și audio integrat"
+      ],
+      "cons": [
+        "Aplicația e orientată mai degrabă spre instalatori decât spre consumatori",
+        "Fără vedere color avansată de tip Starlight menționată în fișă"
+      ],
+      "review": "Hikvision DS-2DE2C400MWG-E aduce ADN de supraveghere profesională în zona smart-home: e o cameră IP Pan/Tilt de 2K 4MP, cu obiectiv de 2.8mm, de la unul dintre cei mai mari producători de sisteme de securitate. Vederea nocturnă combină infraroșul cu un LED alb, cu rază de până la 30 m, ceea ce o face potrivită pentru o alee sau o poartă unde trebuie să vezi la distanță pe întuneric. Detecția umană filtrează evenimentele relevante, iar audio-ul integrat permite comunicarea. E gândită pentru cine vrea hardware robust, compatibil cu sisteme mai mari. Compromisurile sunt o aplicație orientată mai degrabă spre instalatori decât spre utilizatorul obișnuit și lipsa unei vederi color avansate de tip Starlight din fișă. Pe baza fișei tehnice și a recenziilor, e alegerea pentru cine prioritizează fiabilitatea unui brand de securitate și raza mare a iluminării nocturne.",
+      "emagUrl": "https://www.emag.ro/camera-supraveghere-ip-pt-hikvision-ds-2de2c400mwg-e-2-8mm-4mp-2k-ir-si-led-alb-30m-detectie-umana-audio-ds-2de2c400mwg-e-2-8mm/pd/DFC6TCYBM/",
+      "image": "/img/products/dfc6tcybm.jpg"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Xiaomi Smart Camera C201, Full HD, 360°",
+      "tag": "Cel mai bun raport calitate-preț",
+      "score": 7.9,
+      "feedId": "DFR05G3BM",
+      "features": [
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "Full HD 2MP",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "conectivitate"
+        },
+        {
+          "value": "detectare persoane",
+          "label": "detecție AI"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 78
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 80
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 82
+        },
+        {
+          "label": "Aplicație",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Preț foarte accesibil pentru o cameră Pan/Tilt 360°",
+        "Detectare de persoane, night vision și control vocal",
+        "Wi-Fi 6 și integrare în ecosistemul Xiaomi/Mi Home"
+      ],
+      "cons": [
+        "Rezoluție Full HD 2MP, de bază față de modelele 2K/4K",
+        "Doar pentru interior, fără protecție la apă"
+      ],
+      "review": "Xiaomi Smart Camera C201 e cel mai bun raport calitate-preț din clasament: o cameră Pan/Tilt 360° de interior, la un preț de intrare, care acoperă nevoile de bază surprinzător de complet. Filmează Full HD 1080p, cu monitorizare panoramică 360°, night vision și detectare de persoane care trimite notificări relevante. Wi-Fi 6 și controlul vocal o integrează ușor în ecosistemul Xiaomi/Mi Home, iar difuzorul permite comunicarea prin audio bidirecțional. E alegerea pentru cine vrea o primă cameră smart, o supraveghere de cameră sau un ochi pe animalul de companie fără să cheltuiască mult. Compromisurile sunt rezoluția Full HD 2MP, de bază față de modelele 2K/4K din top, și faptul că rămâne strict de interior. Pe baza fișei tehnice și a recenziilor, e opțiunea recomandată pentru cel mai bun preț pe o cameră Pan/Tilt de interior.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-xiaomi-smart-camera-c201-2mp-full-hd-1920-x-1080-detectare-persoane-monitorizare-panoramica-360-difuzor-night-vision-wi-fi-6-control-vocal-alb-bhr08nbgl/pd/DFR05G3BM/",
+      "image": "/img/products/dfr05g3bm.jpg"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "IMOU Ranger 2C, 3MP, Pan/Tilt 360°",
+      "tag": "Cea mai ieftină pentru interior",
+      "score": 7.7,
+      "feedId": "DFD4YHYBM",
+      "features": [
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "3MP 1296p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "smart tracking",
+          "label": "detecție AI"
+        },
+        {
+          "value": "ONVIF",
+          "label": "compatibilitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 76
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 74
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 80
+        },
+        {
+          "label": "Aplicație",
+          "pct": 79
+        }
+      ],
+      "pros": [
+        "Cel mai mic preț din clasament pentru o cameră Pan/Tilt",
+        "3MP la 2304x1296, peste Full HD, cu Smart Tracking",
+        "Compatibilitate ONVIF pentru integrare în sisteme NVR"
+      ],
+      "cons": [
+        "Dotări de bază, fără vedere nocturnă color menționată",
+        "Doar pentru interior, fără carcasă rezistentă la apă"
+      ],
+      "review": "IMOU Ranger 2C e cea mai accesibilă poartă de intrare în supravegherea smart de interior. La un preț mic, oferă totuși o cameră Pan/Tilt 360° de 3MP la 2304x1296, adică peste Full HD-ul standard, cu Smart Detection și Smart Tracking care urmăresc automat mișcarea în cadru. Audio-ul bidirecțional (Two-Way Talk) permite comunicarea, iar compatibilitatea ONVIF e un bonus rar la acest preț: o poți integra într-un sistem NVR sau într-o soluție de supraveghere mai mare. E gândită pentru cine vrea o primă cameră ieftină pentru o cameră, un hol sau un birou. Compromisurile sunt dotările de bază, fără vedere nocturnă color menționată în fișă, și faptul că e strict de interior. Pe baza fișei tehnice și a recenziilor, e alegerea pentru cel mai mic buget, cu bonusul compatibilității ONVIF.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-wireless-imou-ranger-2c-cu-pan-tilt-360-grade-3mp-2304x1296-smart-detection-smart-tracking-two-way-talk-onvif-ipc-k2ecp-3h1w/pd/DFD4YHYBM/",
+      "image": "/img/products/dfd4yhybm.jpg"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "TP-Link Tapo C840, 2K dual, baby monitor",
+      "tag": "Cea mai bună pentru bebeluși",
+      "score": 7.5,
+      "feedId": "DCRHGS3BM",
+      "features": [
+        "ptz"
+      ],
+      "specs": [
+        {
+          "value": "2K 4MP + 1080p",
+          "label": "rezoluție"
+        },
+        {
+          "value": "2 obiective",
+          "label": "lentile"
+        },
+        {
+          "value": "360°",
+          "label": "pan/tilt"
+        },
+        {
+          "value": "baby monitor",
+          "label": "utilizare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Imagine",
+          "pct": 88
+        },
+        {
+          "label": "Vedere nocturnă",
+          "pct": 84
+        },
+        {
+          "label": "Detecție AI",
+          "pct": 83
+        },
+        {
+          "label": "Aplicație",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Două obiective (2K 4MP + 1080p) cu vedere 360° pentru monitorizarea bebelușului",
+        "Detecție de plâns și de față acoperită, plus raport de somn",
+        "Vedere nocturnă HD cu infraroșu invizibil, discretă noaptea"
+      ],
+      "cons": [
+        "Preț ridicat pentru o cameră axată pe monitorizarea copilului",
+        "Funcțiile de nișă pentru bebeluși nu sunt utile tuturor"
+      ],
+      "review": "TP-Link Tapo C840 e cea mai specializată cameră din clasament, dedicată monitorizării bebelușului. Are două obiective — unul 2K 4MP și unul 1080p — cu vedere la 360°, ca să urmărești atât camera în ansamblu, cât și un prim-plan al pătuțului. Funcțiile de nișă fac diferența: detectează plânsul bebelușului și situația în care fața e acoperită, oferă analiză și raport de somn, iar vederea nocturnă HD folosește infraroșu invizibil, care nu deranjează copilul. Audio-ul bidirecțional permite să liniștești copilul de la distanță. E o alegere excelentă pentru părinți, dar prețul ridicat și funcțiile foarte specifice o scot din zona camerei de supraveghere de uz general. Compromisurile sunt tocmai acestea: cost mare și utilitate concentrată pe un singur scenariu. Pe baza fișei tehnice și a recenziilor, e cea mai bună alegere strict pentru monitorizarea bebelușului.",
+      "emagUrl": "https://www.emag.ro/camera-de-supraveghere-wireless-tp-link-cu-2-obiective-2k-4mp-si-1080p-vedere-360-monitorizare-bebelusi-detectie-plans-bebelus-fata-acoperita-audio-bidirectional-analiza-si-raport-somn-bebelus-vedere-/pd/DCRHGS3BM/",
+      "image": "/img/products/dcrhgs3bm.jpg"
+    }
+  ]
+}

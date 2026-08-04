@@ -4,10 +4,10 @@
   "parent": "Gadgets",
   "icon": "clock",
   "order": 26,
-  "intro": "Un smartwatch bun se alege după telefonul pe care îl ai în buzunar, nu după cea mai lungă listă de senzori. Am ales și am comparat 9 modele populare după autonomie, ecosistem, funcții de sănătate și compatibilitate, de la Apple Watch 11 și SE pentru utilizatorii de iPhone până la Huawei Watch GT 6 Pro și Samsung Galaxy Watch6 Classic pentru cei cu Android. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "intro": "Un smartwatch bun se alege după telefonul pe care îl ai în buzunar, nu după cea mai lungă listă de senzori. Am ales și am comparat 10 modele populare după autonomie, ecosistem, funcții de sănătate și compatibilitate, de la Apple Watch 11 și SE pentru utilizatorii de iPhone până la Huawei Watch GT 6 Pro și Samsung Galaxy Watch6 Classic pentru cei cu Android. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "ana-popescu",
-  "updated": "2026-07-22",
-  "productsCount": 9,
+  "updated": "2026-08-04",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -655,6 +655,66 @@
       "emagUrl": "https://www.emag.ro/ceas-smartwatch-copii-gps-4g-google-play-whatsapp-tiktok-instagram-youtube-facebook-camera-hd-wingereich-tm-localizare-gps-telefon-apel-video-hd-super-amoled-wifi-bluetooth-apa-ip67-android-ios-sos-mo/pd/DDVXVGYBM",
       "affiliateUrl": "https://l.profitshare.ro/l/16205324",
       "image": "/img/products/ddvxvgybm.png"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "LikeSmart KinderCare 38 GPS Copii",
+      "tag": "Alternativă accesibilă pentru copii",
+      "score": 7.2,
+      "feedId": "DV16TDYBM",
+      "features": [
+        "gps",
+        "camera",
+        "android"
+      ],
+      "specs": [
+        {
+          "value": "GPS + Wi-Fi",
+          "label": "localizare"
+        },
+        {
+          "value": "1.85\"",
+          "label": "ecran tactil"
+        },
+        {
+          "value": "Cameră HD",
+          "label": "apel video"
+        },
+        {
+          "value": "Geofence + SOS",
+          "label": "siguranță"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Ecran",
+          "pct": 72
+        },
+        {
+          "label": "Autonomie",
+          "pct": 70
+        },
+        {
+          "label": "Fitness",
+          "pct": 66
+        },
+        {
+          "label": "Ecosistem",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Geofence și buton SOS pentru liniștea părinților",
+        "Cameră și apel video, cu mod școală pentru orele de curs"
+      ],
+      "cons": [
+        "Localizare pe Wi-Fi și GPS, fără 4G propriu ca modelul Wingereich",
+        "Funcțiile sunt de bază față de un smartwatch pentru adulți"
+      ],
+      "review": "A doua opțiune pentru copii din topul nostru, KinderCare 38 merge pe aceeași idee ca modelul Wingereich — siguranță și comunicare, nu fitness — dar la un preț de intrare mai prietenos. Localizarea combină GPS și Wi-Fi, iar pe baza descrierii producătorului funcțiile de geofence (zonă sigură) și butonul SOS îi anunță pe părinți când cel mic iese dintr-o zonă stabilită. Ecranul tactil de 1.85\" e suficient de mare pentru un copil, iar camera și apelul video HD țin legătura fără un telefon separat. Modul școală blochează notificările în timpul orelor, un detaliu util pe care nu toate ceasurile pentru copii îl au. Diferența față de modelul de pe locul 9 e localizarea: acolo ai 4G cu SIM propriu pentru urmărire în timp real oriunde, aici te bazezi pe GPS și Wi-Fi, ceva mai potrivit pentru oraș și zone acoperite. Pentru un părinte care vrea funcțiile esențiale de siguranță la un buget mai mic, e o alegere corectă.",
+      "emagUrl": "https://www.emag.ro/ceas-smartwatch-gps-copii-likesmarttm-kindercare-38-monitorizare-gps-wifi-1-85-camera-hd-apel-video-buton-sos-mod-scoala-geofence-monitorizare-spion-pink-isplt38pinklks/pd/DV16TDYBM/",
+      "image": "/img/products/dv16tdybm.jpg"
     }
   ],
   "comparison": {
