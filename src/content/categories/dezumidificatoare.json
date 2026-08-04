@@ -4,10 +4,10 @@
   "parent": "Climatizare",
   "icon": "ac",
   "order": 23,
-  "intro": "Un dezumidificator bun se alege după suprafața și umiditatea din casa ta, nu după cel mai mare rezervor de pe cutie. Am ales și am comparat 9 modele populare după capacitate (L/24h), debit de aer, zgomot și dotări, de la AlecoAir Purify cu Wi-Fi, HEPA și ionizare până la Turbionaire Senso 25 pentru living-uri mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
+  "intro": "Un dezumidificator bun se alege după suprafața și umiditatea din casa ta, nu după cel mai mare rezervor de pe cutie. Am ales și am comparat 10 modele populare după capacitate (L/24h), debit de aer, zgomot și dotări, de la AlecoAir Purify cu Wi-Fi, HEPA și ionizare până la Turbionaire Senso 25 pentru living-uri mari. Mai jos ai ghidul complet și răspunsuri la întrebările frecvente.",
   "author": "mihai-radu",
-  "updated": "2026-07-22",
-  "productsCount": 9,
+  "updated": "2026-08-04",
+  "productsCount": 10,
   "reviewsRead": 0,
   "quickPicks": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "label": "Cea mai bună alegere pe buget",
-      "productId": "p9"
+      "productId": "p10"
     }
   ],
   "featureFilters": [
@@ -473,6 +473,64 @@
     {
       "id": "p7",
       "rank": 7,
+      "name": "Xiaomi Smart Dehumidifier Lite 13 L/24h, Mi Home",
+      "tag": "Cel mai smart (Mi Home)",
+      "score": 8.1,
+      "feedId": "DQYHY6YBM",
+      "features": [
+        "wifi"
+      ],
+      "specs": [
+        {
+          "value": "13 L/24h",
+          "label": "capacitate dezumidificare"
+        },
+        {
+          "value": "140 m³/h",
+          "label": "debit aer"
+        },
+        {
+          "value": "3 L",
+          "label": "rezervor"
+        },
+        {
+          "value": "Mi Home",
+          "label": "control aplicație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Dezumidificare",
+          "pct": 74
+        },
+        {
+          "label": "Zgomot",
+          "pct": 80
+        },
+        {
+          "label": "Dotări",
+          "pct": 88
+        },
+        {
+          "label": "Eficiență",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Control complet din aplicația Mi Home — pornire, umiditate țintă, programare",
+        "Design compact și curat, potrivit pentru dormitor sau baie"
+      ],
+      "cons": [
+        "Capacitate de 13 L/24h — pentru camere mici spre medii, nu pentru spații mari",
+        "Rezervor de doar 3 L, deci golire mai frecventă la umiditate ridicată"
+      ],
+      "review": "Xiaomi Smart Dehumidifier Lite e opțiunea „smart\" a clasamentului: un dezumidificator compact, cu design curat, gândit pentru cine e deja în ecosistemul Xiaomi și vrea să-l controleze din telefon. Prin aplicația Mi Home setezi umiditatea țintă, pornești programe și urmărești starea aparatului de oriunde — exact genul de confort pe care puține modele din această listă îl oferă. Extrage până la 13 L/24h și mișcă 140 m³/h de aer, valori potrivite pentru camere mici spre medii, un dormitor, o baie sau un birou, nu pentru un demisol umed sau o casă întreagă. Rezervorul de 3 L înseamnă că la umiditate mare va trebui golit mai des, iar pentru suprafețe mari rămâi mai bine la modelele de 20-25 L din fruntea topului. Pe baza specificațiilor și a recenziilor cumpărătorilor, e alegerea pentru cine pune preț pe controlul din aplicație și pe un aparat discret, într-un spațiu de dimensiuni rezonabile.",
+      "emagUrl": "https://www.emag.ro/dezumidificator-xiaomi-smart-dehumidifier-lite-13-l-zi-capacitate-rezervor-3-l-140-m3-h-mi-home-app-alb-bhr8374eu/pd/DQYHY6YBM",
+      "image": "/img/products/dqyhy6ybm.jpg"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
       "name": "Trotec TTK 33 E 14 L/24h",
       "tag": "Alegere de la un brand tehnic consacrat",
       "score": 8,
@@ -525,8 +583,8 @@
       "image": "/img/products/dvgk75mbm.jpg"
     },
     {
-      "id": "p8",
-      "rank": 8,
+      "id": "p9",
+      "rank": 9,
       "name": "Star-Light DHO-1219W 12 L/24h",
       "tag": "Compact și accesibil",
       "score": 7.7,
@@ -580,8 +638,8 @@
       "image": "/img/products/dxcjs2mbm.jpg"
     },
     {
-      "id": "p9",
-      "rank": 9,
+      "id": "p10",
+      "rank": 10,
       "name": "AlecoAir D10 Junior 10 L/zi",
       "tag": "Cea mai bună alegere pe buget",
       "score": 7.5,
