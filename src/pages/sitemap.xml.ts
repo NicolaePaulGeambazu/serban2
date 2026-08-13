@@ -21,8 +21,26 @@ export const GET: APIRoute = async () => {
     '/legal/termeni/',
   ];
 
+  // Site-wide "content last changed" date = the newest editorial `updated`
+  // across all content. It moves whenever any category/guide/comparison is
+  // edited, so the aggregator pages below get a truthful, self-refreshing
+  // lastmod on every site-wide change — no daily faking (Google distrusts
+  // sitemaps whose lastmod changes without the content changing).
+  const allDates = [...cats, ...guides, ...comparisons]
+    .map((e) => e.data.updated)
+    .filter(Boolean)
+    .sort();
+  const siteLastmod = allDates[allDates.length - 1];
+
+  // Pages that genuinely reflect the latest content (they list it), so they
+  // legitimately change whenever content does. Truly evergreen pages
+  // (legal, despre, contact) are left without a lastmod on purpose.
+  const aggregatorPaths = new Set(['/', '/categorii/', '/ghiduri/']);
+
   const urls: { loc: string; lastmod?: string }[] = [];
-  staticPaths.forEach((p) => urls.push({ loc: base + p }));
+  staticPaths.forEach((p) =>
+    urls.push({ loc: base + p, lastmod: aggregatorPaths.has(p) ? siteLastmod : undefined })
+  );
   cats.forEach((c) => urls.push({ loc: `${base}/clasament/${c.id}/`, lastmod: c.data.updated }));
   guides.forEach((g) =>
     urls.push({ loc: `${base}/ghiduri/${g.id.replace(/\.md$/, '')}/`, lastmod: g.data.updated })
