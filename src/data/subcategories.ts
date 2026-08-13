@@ -139,6 +139,34 @@ export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
       { slug: '65-inch', label: '65" (164 cm)', keywords: ['164cm', '65"'], group: 'Pe mărime' },
     ],
   },
+  'gratare': {
+    kind: 'spec', navLabel: 'Pe combustibil',
+    // Match on the per-product "Combustibil" spec value (Gaz / Cărbune / Plancha /
+    // Kamado). Kamado names use "cărbuni" (plural), which does NOT contain the
+    // singular keyword 'carbune', so kamado units stay out of the Cărbune segment.
+    segments: [
+      { slug: 'gaz', label: 'Pe gaz', keywords: ['gaz'] },
+      { slug: 'carbune', label: 'Pe cărbune', keywords: ['carbune'] },
+      { slug: 'plancha', label: 'Plancha / disc', keywords: ['plancha'] },
+      { slug: 'kamado', label: 'Kamado', keywords: ['kamado'] },
+    ],
+  },
+  'soundbar': {
+    kind: 'brand', navLabel: 'Filtrează',
+    // Channel keywords match the guarded "Sistem 5.1" spec value. The leading word
+    // "Sistem" stops model numbers (TAB8905/10, HDMI 2.1) from false-matching, while
+    // "Sistem 5.1" is still a prefix of "Sistem 5.1.2"/"5.1.3", so those land here too.
+    // Brands match the product name.
+    segments: [
+      { slug: '2-1', label: '2.1', keywords: ['Sistem 2.1'], group: 'Pe configurație' },
+      { slug: '5-1', label: '5.1', keywords: ['Sistem 5.1'], group: 'Pe configurație' },
+      { slug: 'jbl', label: 'JBL', keywords: ['jbl'], group: 'Pe brand' },
+      { slug: 'lg', label: 'LG', keywords: ['lg'], group: 'Pe brand' },
+      { slug: 'samsung', label: 'Samsung', keywords: ['samsung'], group: 'Pe brand' },
+      { slug: 'sony', label: 'Sony', keywords: ['sony'], group: 'Pe brand' },
+      { slug: 'philips', label: 'Philips', keywords: ['philips'], group: 'Pe brand' },
+    ],
+  },
 };
 
 export function productMatchesSegment(p: Product, seg: SegmentDef): boolean {

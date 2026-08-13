@@ -1,0 +1,3530 @@
+{
+  "title": "Cele mai bune soundbar-uri în 2026",
+  "h1": "Cele mai bune soundbar-uri în 2026",
+  "parent": "Electronice",
+  "icon": "speaker",
+  "order": 46,
+  "intro": "Un soundbar bun rezolvă cea mai mare slăbiciune a televizoarelor plate: sunetul subțire. Am ales și am comparat cele mai căutate modele din 2026 după calitatea sunetului, basul, dotările de cinema (Dolby Atmos, DTS:X) și conectivitate, de la bare compacte 2.1 pentru camere mici până la sisteme 5.1 și 7.1.4 cu sateliți și subwoofer wireless. Mai jos ai topul nostru, segmente pe configurație (2.1, 5.1) și pe brand (JBL, LG, Samsung, Sony, Philips), plus un ghid care explică ce contează înainte să alegi.",
+  "updated": "2026-08-14",
+  "author": "ana-popescu",
+  "productsCount": 57,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Premium Dolby Atmos",
+      "productId": "p6"
+    },
+    {
+      "label": "Cel mai bun preț/calitate",
+      "productId": "p2"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "atmos",
+      "label": "Dolby Atmos"
+    },
+    {
+      "key": "ch51",
+      "label": "Surround 5.1+"
+    },
+    {
+      "key": "ch21",
+      "label": "Compact 2.1"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Ce înseamnă 2.1, 3.1, 5.1 și 5.1.2",
+      "body": "Primul număr e câte canale principale ai (stânga/dreapta/central), al doilea e subwooferul (basul), iar al treilea, când există, sunt difuzoarele orientate în sus pentru Dolby Atmos. Așa, 2.1 e o bară plus subwoofer, 5.1 adaugă sateliți de surround în spate, iar 5.1.2 pune și înălțime (Atmos). Mai multe canale = sunet mai învăluitor, dar și mai multe boxe de așezat.",
+      "callout": "Cameră mică și film ocazional → 2.1. Sufragerie mare și seri de cinema → 5.1 sau 5.1.2 cu Atmos."
+    },
+    {
+      "h3": "Dolby Atmos: real sau virtual?",
+      "body": "Atmos „real” folosește difuzoare orientate în sus (canalele .2 sau .4) care trimit sunetul spre tavan, de unde se reflectă spre tine, pentru senzația de înălțime. Atmos „virtual” simulează efectul prin procesare, fără boxe dedicate. Diferența se simte cel mai clar în camere cu tavan drept și nu foarte înalt."
+    },
+    {
+      "h3": "Subwoofer wireless și sateliți",
+      "body": "Aproape toate barele bune vin cu subwoofer wireless: îl așezi oriunde lângă o priză, fără cablu până la bară. Sateliții de surround (la sistemele 5.1) aduc efectele din spate, dar cer două prize în plus și puțină organizare a cablurilor. Kiturile cu sateliți detașabili din baterie sunt cele mai flexibile."
+    },
+    {
+      "h3": "Conectare: HDMI eARC vs. optic vs. Bluetooth",
+      "body": "HDMI eARC e cea mai bună legătură cu televizorul: trece sunetul necomprimat (inclusiv Atmos) și e controlat de telecomanda TV-ului. Opticul e o alternativă bună dacă televizorul nu are eARC, dar nu duce Atmos complet. Bluetooth e pentru muzică din telefon, comod, dar cu o calitate mai mică decât prin cablu.",
+      "callout": "Vrei Dolby Atmos complet? Asigură-te că și televizorul, și soundbarul au HDMI eARC."
+    },
+    {
+      "h3": "Cât de mult contează puterea în wați",
+      "body": "Wații (W) dau o idee despre cât de tare poate cânta o bară, dar nu spun totul despre calitate: un sistem de 300W bine acordat poate suna mai curat decât unul de 500W ieftin. Uită-te la configurația de canale, la subwoofer și la formatele audio suportate, nu doar la cifra de putere."
+    },
+    {
+      "h3": "Greșeli frecvente la cumpărare",
+      "body": "Nu lua un sistem 5.1 dacă nu ai unde pune sateliții din spate, o bară 2.1 sau 3.1 bună va suna mai bine în camera ta. Nu ignora tipul de conectare al televizorului (eARC?) și nu plăti pentru Atmos dacă televizorul și sursele tale nu îl trimit oricum."
+    }
+  ],
+  "comparison": {
+    "title": "2.1 vs. 5.1: ce soundbar alegi?",
+    "intro": "Diferența dintre o bară compactă și un sistem surround complet, pe criteriile care contează în sufrageria ta.",
+    "aLabel": "Soundbar 2.1",
+    "bLabel": "Sistem 5.1",
+    "rows": [
+      {
+        "criteriu": "Efect de surround",
+        "a": "Frontal, larg",
+        "b": "Învăluitor, din spate"
+      },
+      {
+        "criteriu": "Număr de boxe",
+        "a": "Bară + subwoofer",
+        "b": "Bară + subwoofer + 2 sateliți"
+      },
+      {
+        "criteriu": "Spațiu necesar",
+        "a": "Minim",
+        "b": "Mediu (prize și cabluri în spate)"
+      },
+      {
+        "criteriu": "Potrivit pentru",
+        "a": "Camere mici, film ocazional",
+        "b": "Sufragerii mari, seri de cinema"
+      },
+      {
+        "criteriu": "Montaj",
+        "a": "Simplu, din cutie",
+        "b": "Necesită așezarea sateliților"
+      },
+      {
+        "criteriu": "Preț",
+        "a": "Accesibil–mediu",
+        "b": "Mediu–ridicat"
+      }
+    ],
+    "verdict": "Alege 2.1 dacă vrei un upgrade curat și simplu față de boxele televizorului, într-o cameră mică. Alege 5.1 dacă ai spațiu și vrei efectul complet de cinema, cu sunet care vine din toate direcțiile."
+  },
+  "faq": [
+    {
+      "q": "Ce soundbar aleg pentru o cameră mică?",
+      "a": "O bară 2.1 sau 3.1 cu subwoofer wireless e ideală: aduce un salt mare față de boxele televizorului fără să ocupe mult spațiu și fără sateliți de așezat în spate. Modelele compacte de la LG, Samsung, JBL sau Philips acoperă bine acest scenariu."
+    },
+    {
+      "q": "Am nevoie de Dolby Atmos?",
+      "a": "Atmos adaugă senzația de înălțime și e cel mai impresionant la filme. Merită dacă ai un televizor și surse (streaming, Blu-ray) care trimit Atmos și o cameră cu tavan potrivit. Pentru TV și seriale de zi cu zi, o bară bună fără Atmos e adesea suficientă."
+    },
+    {
+      "q": "Cum conectez soundbarul la televizor?",
+      "a": "Cel mai bine prin HDMI eARC, dacă televizorul îl are: duce sunet de calitate maximă (inclusiv Atmos) și îl controlezi cu telecomanda TV-ului. Dacă nu, folosește ieșirea optică. Bluetooth-ul rămâne pentru muzică din telefon."
+    },
+    {
+      "q": "Subwooferul e wireless la toate?",
+      "a": "La majoritatea barelor bune, da: subwooferul se conectează wireless la bară și trebuie doar băgat în priză, așa că îl poți așeza flexibil. Verifică totuși în specificații, câteva modele de intrare au subwoofer integrat sau pe cablu."
+    },
+    {
+      "q": "Ce diferență fac wații (W)?",
+      "a": "Wații indică volumul maxim, dar nu garantează calitatea. Un sistem bine acordat cu mai puțini wați poate suna mai curat decât unul ieftin cu cifră mare. Privește configurația de canale, subwooferul și formatele audio, nu doar puterea."
+    },
+    {
+      "q": "Merită un sistem 5.1 cu sateliți?",
+      "a": "Da, dacă ai spațiu să așezi sateliții în spate și vrei efectul complet de cinema. Dacă nu ai unde pune boxele din spate sau prizele necesare, o bară 3.1 sau 5.1.2 cu Atmos virtual e o alegere mai practică."
+    },
+    {
+      "q": "Pot folosi soundbarul și pentru muzică?",
+      "a": "Sigur. Aproape toate au Bluetooth pentru redare din telefon, iar unele au Wi-Fi cu AirPlay sau aplicații de streaming. Pentru muzică, un subwoofer bun și o bară cu sunet echilibrat contează mai mult decât numărul de canale surround."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți oameni, o bară 2.1 sau 3.1 bună cu subwoofer wireless e cel mai simplu și mai eficient upgrade față de sunetul plat al televizorului. Dacă ai sufragerie mare și vrei experiența completă de cinema, un sistem 5.1 sau 5.1.2 cu Dolby Atmos și sateliți răsplătește fiecare seară de film. Folosește segmentele pe configurație și pe brand de mai sus ca să ajungi rapid la modelul potrivit pentru camera și bugetul tău.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Soundbar LG S90TY, 5.1.3 , 570W, Dolby Atmos, Subwoofer Wireless, HDMI, USB, Negru",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.4,
+      "image": "/img/products/dy0vb9ybm.jpg",
+      "feedId": "DY0VB9YBM",
+      "features": [
+        "ch51",
+        "lg",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1.3",
+          "label": "Canale"
+        },
+        {
+          "value": "570W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Sunet"
+        },
+        {
+          "value": "HDMI, USB",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 96
+        },
+        {
+          "label": "Bas",
+          "pct": 90
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 97
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Configurație 5.1.3 cu canale dedicate pentru Dolby Atmos",
+        "570W și subwoofer wireless pentru bas consistent",
+        "Conectivitate flexibilă, prin HDMI și USB"
+      ],
+      "cons": [
+        "Preț peste media segmentului, pentru un sistem cu adevărat complet",
+        "Subwooferul, chiar wireless, tot are nevoie de loc în cameră"
+      ],
+      "review": "Soundbar-ul LG S90TY se așază confortabil în fruntea acestui top datorită configurației 5.1.3, o arhitectură care adaugă canale dedicate pentru efectele Dolby Atmos, nu doar simulate din software. Cu 570W putere totală și un subwoofer wireless inclus, pe hârtie oferă cea mai completă experiență de sunet din această selecție. Conectivitatea prin HDMI și USB acoperă atât televizoarele mai vechi, cât și redarea directă de pe un stick. Pentru cine caută o singură achiziție care să acopere filme, seriale și muzică fără compromisuri majore, acesta e punctul de plecare potrivit. Designul negru, discret, se potrivește sub majoritatea televizoarelor, iar subwooferul fără fir simplifică montajul. Rămâne o alegere premium, pentru cine vrea sunet cinematografic acasă, fără să care fire prin toată camera.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s90ty-5-1-3-570w-dolby-atmos-subwoofer-wireless-hdmi-usb-negru-s90ty-deusllk/pd/DY0VB9YBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Soundbar TCL S55H, 2.1, 220W, Bluetooth 5.2, Dolby Atmos & DTS-Virtual:X, HDMI eARC, Subwoofer Wireless, Negru",
+      "tag": "Raport preț/calitate",
+      "score": 9,
+      "image": "/img/products/d3h2vjybm.jpg",
+      "feedId": "D3H2VJYBM",
+      "features": [
+        "ch21",
+        "tcl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "220W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos, DTS:X",
+          "label": "Sunet virtual"
+        },
+        {
+          "value": "HDMI eARC, Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 90
+        },
+        {
+          "label": "Bas",
+          "pct": 84
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 88
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "Dolby Atmos și DTS:X pentru un efect surround virtual convingător",
+        "HDMI eARC și Bluetooth 5.2 acoperă majoritatea televizoarelor moderne",
+        "Subwoofer wireless inclus, fără cabluri suplimentare prin cameră"
+      ],
+      "cons": [
+        "Sistem 2.1, deci fără canale surround fizice în spate",
+        "220W, sub nivelul modelelor din vârful topului"
+      ],
+      "review": "TCL S55H mizează pe un sistem 2.1 de 220W și pariază pe procesare software pentru a simula Dolby Atmos și DTS-Virtual:X, o soluție des întâlnită la acest preț. Bluetooth 5.2 și HDMI eARC fac perechea ușoară cu orice televizor recent, iar subwooferul wireless scutește de cabluri suplimentare prin cameră. Pe hârtie, e genul de soundbar potrivit pentru cine vrea un upgrade clar față de difuzoarele TV, fără să investească într-un sistem cu canale multiple fizice. Nu oferă adâncimea unui 5.1.3 real, dar acoperă confortabil filmele, serialele și muzica de zi cu zi. Pentru cine caută un raport bun între preț și calitate, într-un pachet compact, e o alegere solidă la acest nivel.",
+      "emagUrl": "https://www.emag.ro/soundbar-tcl-2-1-220w-bluetooth-5-2-dolby-atmos-dts-virtual-x-hdmi-earc-subwoofer-wireless-negru-s55h/pd/D3H2VJYBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Soundbar Sonos Beam 2, Dolby Atmos, WiFi, Negru",
+      "tag": "Ecosistem WiFi premium",
+      "score": 8.7,
+      "image": "/img/products/dspwfxmbm.jpg",
+      "feedId": "DSPWFXMBM",
+      "features": [
+        "ch51",
+        "sonos",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1 virtual",
+          "label": "Canale"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Sunet"
+        },
+        {
+          "value": "WiFi",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Negru",
+          "label": "Culoare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 92
+        },
+        {
+          "label": "Bas",
+          "pct": 76
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 89
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Dolby Atmos cu procesare virtuală, fără nevoie de subwoofer separat",
+        "Conectare prin WiFi, integrare simplă în ecosistemul Sonos"
+      ],
+      "cons": [
+        "Fișa nu menționează un subwoofer separat, deci bas-ul depinde exclusiv de bară",
+        "Nu se precizează puterea în wați"
+      ],
+      "review": "Sonos Beam 2 e genul de soundbar care mizează pe simplitate, un singur corp, Dolby Atmos procesat digital și conectare prin WiFi în locul clasicului Bluetooth. Pe hârtie, lipsa unui subwoofer separat sau a specificațiilor de putere explicite sugerează un accent pus pe integrare și confort, nu pe cifre mari. Pentru cine are deja difuzoare Sonos prin casă sau caută un sistem care se conectează direct la rețea, fără cutii suplimentare de administrat, e o alegere naturală. Nu concurează la capitolul bas profund cu sistemele cu subwoofer wireless dedicat, dar compensează prin eleganță și ușurință în utilizare. Pentru camere mai mici, unde un corp unic e suficient, rămâne una dintre opțiunile de luat în calcul.",
+      "emagUrl": "https://www.emag.ro/soundbar-sonos-beam-2-dolby-atmos-wifi-negru-beam2eu1blk/pd/DSPWFXMBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Soundbar Samsung HW-B450F, 2.1, 300W, Bluetooth, Subwoofer wireless, Dolby Audio, HDMI eARC, Negru Titan",
+      "tag": "Bas puternic",
+      "score": 8.3,
+      "image": "/img/products/dl29bn3bm.jpg",
+      "feedId": "DL29BN3BM",
+      "features": [
+        "ch21",
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "300W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Audio",
+          "label": "Sunet"
+        },
+        {
+          "value": "HDMI eARC, Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 85
+        },
+        {
+          "label": "Bas",
+          "pct": 88
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 68
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "300W și subwoofer wireless pentru bas consistent la filme",
+        "HDMI eARC, sincronizare simplă cu televizorul"
+      ],
+      "cons": [
+        "Dolby Audio, nu Dolby Atmos, deci fără efecte de sunet pe verticală",
+        "Nuanța Negru Titan e mai puțin discretă decât variantele complet negre"
+      ],
+      "review": "Samsung HW-B450F rămâne un sistem 2.1 clasic, cu 300W și subwoofer wireless care acoperă onorabil filmele și muzica de zi cu zi. Conectarea prin HDMI eARC simplifică integrarea cu orice televizor, iar Bluetooth-ul acoperă redarea de pe telefon. Suportă Dolby Audio, nu Dolby Atmos, așa că nu te aștepta la efecte de sunet care vin de sus, dar pentru cine caută în principal un bas mai gras față de difuzoarele TV, e suficient. Pe hârtie, e genul de soundbar potrivit pentru un living obișnuit, unde prioritatea e claritatea vocilor și un bas simțit, nu neapărat o experiență completă de cinema cu Atmos.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-b450f-2-1-300w-bluetooth-subwoofer-wireless-dolby-audio-hdmi-earc-negru-titan-hw-b450f-en/pd/DL29BN3BM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Soundbar ULTIMEA Poseidon 2.1ch - Bara de sunet cu subwoofer wireless, BassMX, HDMI ARC, Bluetooth® 6.0, 240W, Negru",
+      "tag": "Compact & buget",
+      "score": 8,
+      "image": "/img/products/dwpyrg3bm.jpg",
+      "feedId": "DWPYRG3BM",
+      "features": [
+        "ch21",
+        "ultimea"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "240W",
+          "label": "Putere"
+        },
+        {
+          "value": "BassMX",
+          "label": "Tehnologie bas"
+        },
+        {
+          "value": "HDMI ARC, Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Bas",
+          "pct": 89
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 62
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "BassMX și subwoofer wireless, orientat clar spre bas",
+        "Bluetooth 6.0, versiune recentă pentru conectare stabilă"
+      ],
+      "cons": [
+        "Fără Dolby Atmos sau DTS în denumire, deci fără surround premium",
+        "HDMI doar tip ARC, nu eARC"
+      ],
+      "review": "ULTIMEA Poseidon 2.1ch se poziționează ca alternativă mai accesibilă, cu 240W și tehnologia proprie BassMX, care promite un bas mai prezent din subwooferul wireless inclus. Bluetooth 6.0 e un plus, o versiune recentă care ar trebui să țină conexiunea stabilă cu telefonul sau laptopul. HDMI ARC acoperă conectarea de bază cu televizorul, deși nu ajunge la nivelul eARC de pe modelele mai scumpe. Nu apare Dolby Atmos în fișă, așa că miza aici e mai degrabă un bas gras și volum mai mare, decât o experiență surround complexă. Pentru cine caută un soundbar simplu de instalat, la un preț prietenos, cu accent pe bas, e o opțiune de luat în calcul.",
+      "emagUrl": "https://www.emag.ro/soundbar-ultimea-poseidon-2-1ch-bara-de-sunet-cu-subwoofer-wireless-bassmx-hdmi-arc-bluetoothr-6-0-240w-negru-uc003emro01/pd/DWPYRG3BM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Soundbar Samsung HW-Q990F, 11.1.4, 756W, Bluetooth, Wi-Fi, Subwoofer & Kit wireless, Wireless Dolby Atmos, HDMI 2.1 eARC, Negru Titan",
+      "tag": "Home cinema complet",
+      "score": 8.5,
+      "image": "/img/products/dw29bn3bm.jpg",
+      "feedId": "DW29BN3BM",
+      "features": [
+        "samsung",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 11.1.4",
+          "label": "Canale"
+        },
+        {
+          "value": "756W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer & surround wireless",
+          "label": "Kit inclus"
+        },
+        {
+          "value": "Wi-Fi, HDMI eARC",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 93
+        },
+        {
+          "label": "Bas",
+          "pct": 92
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 95
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Configurație 11.1.4 cu kit surround wireless inclus, rar la acest nivel",
+        "756W și subwoofer wireless pentru sunet de cinema la volum mare",
+        "Wireless Dolby Atmos și Wi-Fi pentru streaming direct"
+      ],
+      "cons": [
+        "Sistem complex, cu mai multe cutii de poziționat prin cameră",
+        "Preț și consum pe măsura puterii totale de 756W"
+      ],
+      "review": "Samsung HW-Q990F e, pe hârtie, cel mai complex sistem din această listă, cu o configurație 11.1.4 și un kit de surround wireless care aduce acasă o experiență apropiată de cinema. Cei 756W total, combinați cu subwooferul wireless și Dolby Atmos fără fir, susțin volume mari fără să distorsioneze, iar Wi-Fi-ul deschide și opțiuni de streaming direct, nu doar Bluetooth. HDMI eARC face legătura curată cu televizorul, păstrând toate metadatele audio. E genul de sistem potrivit pentru cine vrea să transforme livingul într-o sală de cinema, cu difuzoare surround reale, nu simulate. Contrapartida e complexitatea, mai multe cutii de poziționat și cabluri de gestionat, plus un consum pe măsura puterii declarate. Pentru cine caută maximum de sunet dintr-un pachet Samsung, rămâne una dintre cele mai complete opțiuni din listă.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-q990f-11-1-4-756w-bluetooth-wi-fi-subwoofer-kit-wireless-wireless-dolby-atmos-hdmi-2-1-earc-negru-titan-hw-q990f-en/pd/DW29BN3BM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Soundbar JBL BAR 2.1 Deep Bass (MK2), 300W, Bluetooth, Negru",
+      "tag": "Setup simplu",
+      "score": 7.7,
+      "image": "/img/products/dpklxzmbm.jpg",
+      "feedId": "DPKLXZMBM",
+      "features": [
+        "ch21",
+        "jbl"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "300W",
+          "label": "Putere"
+        },
+        {
+          "value": "Deep Bass MK2",
+          "label": "Tehnologie"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Bas",
+          "pct": 88
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 58
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 75
+        }
+      ],
+      "pros": [
+        "Focus clar pe bas, cu tehnologia Deep Bass MK2",
+        "300W într-un pachet simplu, fără alte cutii de administrat"
+      ],
+      "cons": [
+        "Nu apare HDMI în denumire, doar Bluetooth pentru conectare",
+        "Fără Dolby Atmos sau alt format surround menționat"
+      ],
+      "review": "JBL BAR 2.1 Deep Bass MK2 merge pe rețeta simplă, un sistem 2.1 cu 300W și un accent explicit pe bas, așa cum sugerează și numele. Conectarea se face prin Bluetooth, fără mențiuni de HDMI în fișă, ceea ce îl recomandă mai degrabă ca soluție rapidă de streaming audio decât ca hub central pentru televizor. Nu apare Dolby Atmos sau alt format surround, așa că miza rămâne pe un bas mai gras și un volum mai mare față de boxele TV, nu pe o experiență cinematografică completă. Pentru cine vrea un upgrade simplu, fără cabluri complicate și fără un setup elaborat, orientat spre muzică și bas, e o alegere onestă la acest nivel.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-2-1-deep-bass-mk2-300w-bluetooth-negru-jblbar21dbm2blkep/pd/DPKLXZMBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Soundbar Sony BRAVIA Theatre System 6 HT-S60, 5.1ch, 1000W, Dolby Atmos, DTS:X, AI Voice Zoom 3, Mod Multi Stereo Party, Bluetooth 5.3, Negru",
+      "tag": "Putere maximă",
+      "score": 8.6,
+      "image": "/img/products/d8c3k23bm.jpg",
+      "feedId": "D8C3K23BM",
+      "features": [
+        "ch51",
+        "sony",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "1000W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos, DTS:X",
+          "label": "Sunet"
+        },
+        {
+          "value": "AI Voice Zoom 3",
+          "label": "Claritate voci"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 94
+        },
+        {
+          "label": "Bas",
+          "pct": 93
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 95
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "1000W, cea mai mare putere declarată din această listă",
+        "Dolby Atmos și DTS:X pentru surround complet",
+        "AI Voice Zoom 3 pentru claritate mai bună la dialoguri"
+      ],
+      "cons": [
+        "Sistem 5.1ch fără canale de sus fizice, deci Atmos e procesat",
+        "Preț probabil pe măsura puterii și a brandului Sony"
+      ],
+      "review": "Sony BRAVIA Theatre System 6 HT-S60 vine cu cea mai mare putere declarată din toată selecția, 1000W, susținută de Dolby Atmos și DTS:X pentru un sunet surround procesat pe un sistem 5.1ch. Tehnologia AI Voice Zoom 3 promite dialoguri mai clare, un detaliu util pentru cine urmărește filme sau seriale seara târziu, la volum mai mic, iar modul Multi Stereo Party extinde utilitatea dincolo de home cinema, spre petreceri sau muzică ascultată prin mai multe difuzoare. Bluetooth 5.3 aduce conectare stabilă și rapidă cu telefonul. Pe hârtie, e un pachet orientat spre cine vrea impact sonor mare și claritate la dialoguri, dintr-un brand cu experiență clară în audio-video. Nu are canale surround fizice suplimentare, dar procesarea Atmos și puterea brută compensează pentru majoritatea camerelor.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-bravia-theatre-system-6-ht-s60-5-1ch-1000w-dolby-atmos-dts-x-ai-voice-zoom-3-mod-multi-stereo-party-bluetooth-5-3-negru-hts60-cel/pd/D8C3K23BM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Soundbar Samsung HW-B650D, 3.1, 370W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru",
+      "tag": "Voci mai clare",
+      "score": 7.5,
+      "image": "/img/products/dz099xybm.jpg",
+      "feedId": "DZ099XYBM",
+      "features": [
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "370W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Digital",
+          "label": "Sunet"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 79
+        },
+        {
+          "label": "Bas",
+          "pct": 82
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 58
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Configurație 3.1, cu canal central dedicat pentru voci mai clare",
+        "370W și subwoofer wireless pentru bas fără cabluri suplimentare"
+      ],
+      "cons": [
+        "Doar Dolby Digital, fără Atmos sau DTS",
+        "Nu apare HDMI în fișă, doar conectare Bluetooth"
+      ],
+      "review": "Samsung HW-B650D adaugă un canal central dedicat față de sistemele 2.1 obișnuite, o configurație 3.1 care, pe hârtie, ar trebui să facă vocile din filme și seriale mai clare și mai ușor de urmărit. Cei 370W, alături de subwooferul wireless, acoperă un bas decent fără cabluri suplimentare prin cameră. Suportă Dolby Digital, nu Dolby Atmos, așa că nu te aștepta la efecte pe verticală, iar conectarea se face prin Bluetooth, fără mențiune de HDMI în denumire. Pentru cine urmărește în principal filme și seriale și vrea dialoguri mai inteligibile față de difuzoarele TV, fără să investească într-un sistem cu Atmos, e o opțiune rezonabilă din gama Samsung.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-b650d-3-1-370w-bluetooth-subwoofer-wireless-dolby-digital-negru-hw-b650d-en/pd/DZ099XYBM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Soundbar LG SN5 2.1, 400W, Bluetooth, Subwoofer Wireless, Dolby, negru",
+      "tag": "Putere decentă, preț accesibil",
+      "score": 7.6,
+      "image": "/img/products/dmx79pmbm.jpg",
+      "feedId": "DMX79PMBM",
+      "features": [
+        "ch21",
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby",
+          "label": "Sunet"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 77
+        },
+        {
+          "label": "Bas",
+          "pct": 83
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 55
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "400W, peste media segmentului de intrare",
+        "Subwoofer wireless inclus pentru bas fără cabluri"
+      ],
+      "cons": [
+        "Suport Dolby generic, fără Atmos sau DTS specificat",
+        "Fără HDMI menționat, doar Bluetooth"
+      ],
+      "review": "LG SN5 e un soundbar 2.1 orientat spre simplitate, cu 400W și un subwoofer wireless care ar trebui să acopere onorabil bas-ul pentru un living obișnuit. Suportul audio e descris generic drept Dolby, fără să se precizeze Atmos sau DTS, așa că așteptările la capitolul surround trebuie ajustate. Conectarea se face prin Bluetooth, utilă pentru streaming rapid de pe telefon, dar în fișă nu apare HDMI, un detaliu de verificat dacă vrei sincronizare directă cu televizorul. Pe hârtie, e o soluție de bază, potrivită pentru cine vrea un bas mai prezent față de difuzoarele TV, fără să cheltuiască mult, dar fără pretenții de sunet cinematografic complex.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-sn5-2-1-400w-bluetooth-subwoofer-wireless-dolby-negru-sn5-deusllk/pd/DMX79PMBM/"
+    },
+    {
+      "id": "p11",
+      "rank": 11,
+      "name": "Ultimul soundbar Poseidon R3T",
+      "tag": "Variantă accesibilă",
+      "score": 7,
+      "image": "/img/products/ds82jj2bm.jpg",
+      "feedId": "DS82JJ2BM",
+      "features": [
+        "ch21"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "Poseidon R3T",
+          "label": "Model"
+        },
+        {
+          "value": "Ediție nouă",
+          "label": "Generație"
+        },
+        {
+          "value": "Bară de sunet",
+          "label": "Tip"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 68
+        },
+        {
+          "label": "Bas",
+          "pct": 70
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 55
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 65
+        }
+      ],
+      "pros": [
+        "Sistem 2.1, un upgrade simplu față de difuzoarele TV",
+        "Ediție mai nouă în gama Poseidon"
+      ],
+      "cons": [
+        "Fișa nu precizează puterea, conectivitatea sau formatele audio suportate",
+        "Informații limitate față de alte modele din top"
+      ],
+      "review": "Ultimul soundbar Poseidon R3T e un sistem 2.1 despre care fișa de produs oferă puține detalii tehnice, fără să precizeze puterea în wați, tipul de conectare sau formatele audio suportate. Numele sugerează că e o ediție mai nouă în gama Poseidon, orientată probabil spre cine vrea un upgrade simplu și accesibil față de difuzoarele TV, fără pretenții suplimentare. Fără cifre clare de putere sau mențiuni de Bluetooth, HDMI ori Dolby, e greu de poziționat exact față de restul topului, însă structura 2.1 cu subwoofer separat rămâne un pas înainte față de sunetul difuzoarelor obișnuite de televizor. Pentru cine caută strict o soluție de bază, la un preț probabil accesibil, poate fi un punct de plecare, dar merită verificate specificațiile complete înainte de achiziție.",
+      "emagUrl": "https://www.emag.ro/ultimul-soundbar-poseidon-r3t-uc003/pd/DS82JJ2BM/"
+    },
+    {
+      "id": "p12",
+      "rank": 12,
+      "name": "Soundbar JBL BAR 2.1, 300W, bluetooth, subwoofer wireless, Negru",
+      "tag": "Model de bază JBL",
+      "score": 7.3,
+      "image": "/img/products/d7rzv0bbm.jpg",
+      "feedId": "D7RZV0BBM",
+      "features": [
+        "ch21",
+        "jbl"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "300W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Bas"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 75
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 55
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 73
+        }
+      ],
+      "pros": [
+        "300W și subwoofer wireless, configurație echilibrată pentru zi cu zi",
+        "Bluetooth pentru streaming rapid de pe telefon"
+      ],
+      "cons": [
+        "Fără Dolby Atmos sau alt format surround în denumire",
+        "Fără HDMI menționat pentru conectare directă la TV"
+      ],
+      "review": "JBL BAR 2.1 e versiunea de bază din gama JBL, cu 300W și un subwoofer wireless care acoperă rezonabil un bas pentru filme și muzică de zi cu zi. Conectarea prin Bluetooth face streaming-ul de pe telefon simplu, însă fișa nu menționează HDMI, un aspect de verificat dacă vrei sincronizare directă cu televizorul. Nu apare Dolby Atmos sau alt format surround, așa că rămâne o soluție orientată spre un sunet mai bun față de boxele TV, nu spre o experiență cinematografică complexă. Pentru cine caută un nume cunoscut, JBL, într-un pachet simplu și fără complicații, la un preț probabil accesibil, e o variantă de luat în calcul.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-300w-bluetooth-subwoofer-wireless-negru-bar-2-1/pd/D7RZV0BBM/"
+    },
+    {
+      "id": "p13",
+      "rank": 13,
+      "name": "Soundbar Philips TAB6309/10, 2.1, 320W, Subwoofer Wireless, Dolby Atmos, Bluetooth, HDMI ARC, Negru",
+      "tag": "Cinema Dolby Atmos",
+      "score": 7.8,
+      "image": "/img/products/dh068fybm.jpg",
+      "feedId": "DH068FYBM",
+      "features": [
+        "ch21",
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "320W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Sunet"
+        },
+        {
+          "value": "HDMI ARC, Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 84
+        },
+        {
+          "label": "Bas",
+          "pct": 78
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 86
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Dolby Atmos la un preț probabil accesibil pentru segmentul 2.1",
+        "Subwoofer wireless și HDMI ARC pentru conectare simplă cu televizorul"
+      ],
+      "cons": [
+        "320W, sub nivelul modelelor de top din listă",
+        "HDMI doar tip ARC, nu eARC, deci mai puține metadate audio"
+      ],
+      "review": "Philips TAB6309/10 aduce Dolby Atmos într-un sistem 2.1 de 320W, o combinație care pe hârtie promite mai mult decât majoritatea modelelor de bază din segment. Subwooferul wireless și conectarea prin HDMI ARC simplifică montajul, iar Bluetooth-ul acoperă streaming-ul rapid de pe telefon. HDMI e de tip ARC, nu eARC, așa că unele metadate audio mai noi ar putea să nu treacă integral, însă pentru majoritatea televizoarelor rămâne suficient. Pentru cine vrea să încerce Dolby Atmos fără să treacă la un sistem cu mai multe canale fizice sau la un preț mult mai mare, Philips TAB6309/10 e un compromis rezonabil între buget și tehnologie de sunet mai nouă.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-320w-subwoofer-wireless-dolby-atmos-bluetooth-hdmi-arc-negru-tab6309-10/pd/DH068FYBM/"
+    },
+    {
+      "id": "p14",
+      "rank": 14,
+      "name": "Soundbar Samsung HW-R450/EN, 2.1 Canale, 200W, Wireless Subwoofer, Game mode, Negru",
+      "tag": "Mod dedicat gaming",
+      "score": 7.1,
+      "image": "/img/products/djn2xzbbm.jpeg",
+      "feedId": "DJN2XZBBM",
+      "features": [
+        "ch21",
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "200W",
+          "label": "Putere"
+        },
+        {
+          "value": "Game mode",
+          "label": "Mod dedicat"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Bas"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 72
+        },
+        {
+          "label": "Bas",
+          "pct": 75
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 50
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 68
+        }
+      ],
+      "pros": [
+        "Mod Game dedicat, util pentru console și PC",
+        "Subwoofer wireless inclus, fără cabluri suplimentare"
+      ],
+      "cons": [
+        "200W, cea mai mică putere declarată din această listă",
+        "Fișa nu menționează HDMI sau Bluetooth explicit"
+      ],
+      "review": "Samsung HW-R450/EN e cel mai modest sistem din această selecție la capitolul putere, cu 200W, însă aduce un mod Game dedicat, un detaliu care îl recomandă pentru cine joacă des pe consolă sau PC și vrea efecte sonore mai clare la impacturi și pași. Subwooferul wireless completează pachetul, fără cabluri suplimentare de tras prin cameră. Fișa nu detaliază conectivitatea Bluetooth sau HDMI, așa că merită verificate înainte de achiziție dacă sincronizarea cu televizorul sau telefonul e o prioritate. Pentru cine caută în primul rând un soundbar simplu, orientat spre gaming, la un preț probabil mic, rămâne o opțiune de intrare în segment.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-2-1-canale-200w-wireless-subwoofer-game-mode-negru-hw-r450-en/pd/DJN2XZBBM/"
+    },
+    {
+      "id": "p15",
+      "rank": 15,
+      "name": "Soundbar Samsung HW-QS750F, 5.1.2, 465W, Bluetooth, Wi-Fi, Subwoofer & Kit wireless, Wireless Dolby Atmos, HDMI eARC, Negru",
+      "tag": "Atmos fără cabluri",
+      "score": 8.2,
+      "image": "/img/products/dclh9s3bm.jpg",
+      "feedId": "DCLH9S3BM",
+      "features": [
+        "ch51",
+        "samsung",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "465W",
+          "label": "Putere"
+        },
+        {
+          "value": "Wireless Dolby Atmos",
+          "label": "Sunet"
+        },
+        {
+          "value": "Wi-Fi, HDMI eARC",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 90
+        },
+        {
+          "label": "Bas",
+          "pct": 87
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 92
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 89
+        }
+      ],
+      "pros": [
+        "Configurație 5.1.2 cu kit wireless pentru surround real",
+        "465W și Dolby Atmos fără fir, pentru montaj curat",
+        "Wi-Fi și HDMI eARC pentru conectare completă cu televizorul"
+      ],
+      "cons": [
+        "Sistem mai complex, cu mai multe cutii de gestionat",
+        "Preț probabil peste segmentul de bază 2.1"
+      ],
+      "review": "Samsung HW-QS750F aduce o configurație 5.1.2 cu kit de surround wireless, o treaptă clară peste sistemele 2.1 obișnuite din această listă. Cei 465W, combinați cu Dolby Atmos fără fir, susțin un sunet cu adevărat tridimensional, iar Wi-Fi-ul deschide și opțiuni de streaming direct, nu doar prin Bluetooth. HDMI eARC păstrează toate metadatele audio în transferul către televizor, un detaliu util pentru cine urmărește filme HDR cu sunet Atmos complet. Kit-ul wireless de surround înseamnă însă mai multe cutii de poziționat prin cameră, spre deosebire de sistemele all-in-one. Pentru cine vrea o experiență apropiată de cinema, cu canale reale de sus, fără să ajungă la vârful de gamă Samsung, HW-QS750F rămâne un compromis solid între preț și tehnologie.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-qs750f-5-1-2-465w-bluetooth-wi-fi-subwoofer-kit-wireless-wireless-dolby-atmos-hdmi-earc-negru-hw-qs750f-en/pd/DCLH9S3BM/"
+    },
+    {
+      "id": "p16",
+      "rank": 16,
+      "name": "Soundbar Samsung HW-B750F, 5.1, 400W, Bluetooth, Wi-Fi, Subwoofer wireless, Dolby Audio, HDMI eARC, Negru",
+      "tag": "Wi-Fi și subwoofer wireless",
+      "score": 8.3,
+      "image": "/img/products/dq29bn3bm.jpg",
+      "feedId": "DQ29BN3BM",
+      "features": [
+        "ch51",
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "Wi-Fi",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "HDMI eARC",
+          "label": "Conexiune TV"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 84
+        },
+        {
+          "label": "Bas",
+          "pct": 82
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 70
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless pentru bas fără cabluri suplimentare",
+        "Wi-Fi pentru streaming direct, fără dependență de Bluetooth",
+        "HDMI eARC pentru sincronizare ușoară cu televizorul"
+      ],
+      "cons": [
+        "Fără Dolby Atmos nativ, doar Dolby Audio"
+      ],
+      "review": "Samsung HW-B750F e un sistem 5.1 gândit pentru cine vrea bas separat fără să tragă fire prin toată camera, subwooferul vine wireless și se sincronizează automat cu bara. Pe hârtie, cei 400W distribuiți pe cinci canale plus Wi-Fi înseamnă că poți transmite muzică direct din telefon sau din rețeaua de acasă, nu doar prin Bluetooth. HDMI eARC ajută la o conexiune curată cu televizorul, fără întârzieri vizibile între imagine și sunet, cel puțin pe hârtie. Nu are Dolby Atmos, doar Dolby Audio, așa că nu te aștepta la sunet cu adevărat tridimensional, dar pentru filme și seriale la un preț rezonabil, rămâne o alegere echilibrată. Pentru cine caută un 5.1 complet, cu subwoofer inclus și fără bătăi de cap la instalare, e o opțiune de luat în calcul.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-b750f-5-1-400w-bluetooth-wi-fi-subwoofer-wireless-dolby-audio-hdmi-earc-negru-hw-b750f-en/pd/DQ29BN3BM/"
+    },
+    {
+      "id": "p17",
+      "rank": 17,
+      "name": "Soundbar SONY HT-S40R, 5.1, 600W, Bluetooth, Dolby Audio, Negru",
+      "tag": "600W la preț accesibil",
+      "score": 8.1,
+      "image": "/img/products/drdn2nmbm.jpg",
+      "feedId": "DRDN2NMBM",
+      "features": [
+        "ch51",
+        "sony"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "600W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Audio",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 68
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 75
+        }
+      ],
+      "pros": [
+        "600W putere totală pentru cameră de dimensiuni medii-mari",
+        "Sistem 5.1 complet, cu canale surround dedicate"
+      ],
+      "cons": [
+        "Doar Bluetooth, fără Wi-Fi sau aplicație dedicată",
+        "Fără Dolby Atmos"
+      ],
+      "review": "Sony HT-S40R mizează pe putere brută, 600W împărțiți pe cinci canale, ca argument principal într-un sistem 5.1 la preț accesibil. Pe hârtie, asta înseamnă volum generos și separare clară între canale, utilă mai ales în camere unde sunetul are loc să se răspândească. Conectarea se face prin Bluetooth, simplu, dar fără Wi-Fi sau integrare în rețeaua de acasă, așa că streamingul rămâne legat de telefon sau laptop. Dolby Audio acoperă formatele uzuale de filme și seriale, dar nu găsești Dolby Atmos aici, deci sunetul rămâne orizontal, nu tridimensional. Pentru cine caută în primul rând volum și un sistem cu boxe surround separate, fără să plătească în plus pentru funcții smart, Sony HT-S40R e o alegere directă și fără complicații.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-s40r-5-1-600w-bluetooth-dolby-audio-negru-hts40r-cel/pd/DRDN2NMBM/"
+    },
+    {
+      "id": "p18",
+      "rank": 18,
+      "name": "Soundbar Samsung HW-B750D, 5.1, 400W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru",
+      "tag": "Samsung cu subwoofer wireless",
+      "score": 7.9,
+      "image": "/img/products/dl099xybm.jpg",
+      "feedId": "DL099XYBM",
+      "features": [
+        "ch51",
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Bas"
+        },
+        {
+          "value": "Dolby Digital",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Bas",
+          "pct": 81
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 66
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus pentru bas separat",
+        "Sistem 5.1 la un preț accesibil pentru gama Samsung"
+      ],
+      "cons": [
+        "Fără Wi-Fi, doar Bluetooth pentru streaming",
+        "Dolby Digital, nu Dolby Atmos"
+      ],
+      "review": "Samsung HW-B750D e varianta mai simplă din familia B750, cu aceleași 400W și același subwoofer wireless, dar fără Wi-Fi și cu Dolby Digital în loc de Dolby Audio extins. Pe hârtie, rămâne un sistem 5.1 complet, cu canale separate pentru central, surround și bas, suficient pentru un salon de dimensiuni obișnuite. Conectarea prin Bluetooth acoperă streamingul de bază de pe telefon, dar nu te aștepta la integrare cu rețeaua de acasă sau la aplicație dedicată. Subwooferul wireless rămâne punctul forte, bas separat fără cabluri întinse prin cameră. Pentru cine caută un 5.1 Samsung la un preț mai prietenos decât modelele cu Wi-Fi, fără să renunțe la subwoofer separat, e o variantă rezonabilă de luat în calcul.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-b750d-5-1-400w-bluetooth-subwoofer-wireless-dolby-digital-negru-hw-b750d-en/pd/DL099XYBM/"
+    },
+    {
+      "id": "p19",
+      "rank": 19,
+      "name": "Soundbar Sonos Ray, 5.1, Dolby Digital, Negru",
+      "tag": "Design compact Sonos",
+      "score": 7.8,
+      "image": "/img/products/d2pqqvmbm.jpg",
+      "feedId": "D2PQQVMBM",
+      "features": [
+        "ch51",
+        "sonos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "Dolby Digital",
+          "label": "Format audio"
+        },
+        {
+          "value": "Negru",
+          "label": "Culoare"
+        },
+        {
+          "value": "Sonos",
+          "label": "Brand"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 83
+        },
+        {
+          "label": "Bas",
+          "pct": 74
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 65
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Brand premium cunoscut pentru calitatea sunetului",
+        "Corp compact, ușor de integrat sub televizor"
+      ],
+      "cons": [
+        "Fără canale surround separate în pachetul de bază",
+        "Doar Dolby Digital, fără formate avansate"
+      ],
+      "review": "Sonos Ray e alegerea celor care vor numele Sonos într-un format cât mai discret, un corp unic, fără subwoofer sau satelit separat în cutie. Pe hârtie, sistemul rămâne 5.1 ca susținere de format, dar sunetul vine dintr-o singură bară, deci separarea reală de canale depinde de procesare internă, nu de boxe fizice multiple. Dolby Digital acoperă filmele și serialele obișnuite, fără pretenții de sunet imersiv gen Atmos. La acest preț, plătești în primul rând brandul și ecosistemul Sonos, compatibil cu restul boxelor Sonos dacă vrei să extinzi sistemul mai târziu. Pentru cine caută un soundbar compact, discret sub televizor, dintr-un brand cu reputație solidă pe partea audio, Sonos Ray e o alegere sigură, deși nu cea mai generoasă la dotări.",
+      "emagUrl": "https://www.emag.ro/soundbar-sonos-ray-5-1-dolby-digital-negru-rayg1eu1blk/pd/D2PQQVMBM/"
+    },
+    {
+      "id": "p20",
+      "rank": 20,
+      "name": "Soundbar Sony HT-S20R, 400W, 5.1, Bluetooth, HDMI ARC, USB",
+      "tag": "Compact și accesibil",
+      "score": 7.6,
+      "image": "/img/products/d44rjmmbm.jpg",
+      "feedId": "D44RJMMBM",
+      "features": [
+        "ch51",
+        "sony"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI ARC",
+          "label": "Conexiune TV"
+        },
+        {
+          "value": "USB",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 76
+        },
+        {
+          "label": "Bas",
+          "pct": 74
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 62
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 73
+        }
+      ],
+      "pros": [
+        "Preț accesibil pentru un sistem 5.1 complet",
+        "HDMI ARC și USB pentru conectare flexibilă"
+      ],
+      "cons": [
+        "400W distribuite pe cinci canale, putere modestă per canal",
+        "Fără Wi-Fi sau Dolby Atmos"
+      ],
+      "review": "Sony HT-S20R e gândit pentru cine vrea să treacă de la boxele TV la un sistem 5.1 real, fără să cheltuiască mult. Cei 400W sunt împărțiți pe cinci canale, deci puterea per canal e modestă, dar suficientă pentru o cameră de dimensiuni normale, nu pentru un salon uriaș. HDMI ARC simplifică legătura cu televizorul, iar portul USB permite redare directă de pe stick, fără telefon sau alt dispozitiv conectat. Bluetooth acoperă streamingul de bază, dar nu găsești Wi-Fi sau vreo funcție smart suplimentară. Nu are Dolby Atmos, doar formate audio standard. Pentru cine caută un prim pas către sunet surround real, cu buget limitat și fără pretenții de sunet de cinema, e o opțiune de bază solidă.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-s20r-400w-5-1-bluetooth-hdmi-arc-usb-hts20r-cel/pd/D44RJMMBM/"
+    },
+    {
+      "id": "p21",
+      "rank": 21,
+      "name": "Soundbar cu Subwoofer, Hompany®, 5.1 Canale, 400W, Sunet Surround Imersiv, Bluetooth 5.3, HDMI ARC, USB, Negru",
+      "tag": "Raport preț-calitate",
+      "score": 7.4,
+      "image": "/img/products/d4hb1t2bm.jpg",
+      "feedId": "D4HB1T2BM",
+      "features": [
+        "ch51"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth 5.3",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "HDMI ARC",
+          "label": "Conexiune TV"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 74
+        },
+        {
+          "label": "Bas",
+          "pct": 76
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 60
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Preț accesibil pentru un sistem 5.1 cu subwoofer inclus",
+        "Bluetooth 5.3, conexiune mai stabilă și mai rapidă"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, fără istoric solid pe piață",
+        "Fără Wi-Fi sau formate audio avansate"
+      ],
+      "review": "Hompany propune un sistem 5.1 cu subwoofer inclus la un preț clar orientat spre buget, cu promisiunea unui sunet surround imersiv pe hârtie. Bluetooth 5.3 e un plus real, conexiune mai stabilă și mai rapidă decât versiunile mai vechi de Bluetooth, utilă pentru streaming constant de pe telefon. HDMI ARC și USB acoperă conectarea de bază cu televizorul și redarea directă de pe stick. Fiind un brand mai puțin cunoscut, nu ai reputația unui nume consacrat în spate, dar specificațiile pe hârtie sunt competitive pentru preț, un sistem 5.1 complet cu 400W și subwoofer separat. Pentru cine caută în primul rând un preț mic și un sistem surround funcțional, fără pretenții de brand, poate fi o alegere rezonabilă.",
+      "emagUrl": "https://www.emag.ro/soundbar-cu-subwoofer-hompanyr-5-1-canale-400w-sunet-surround-imersiv-bluetooth-5-3-hdmi-arc-usb-negru-yxtz-503/pd/D4HB1T2BM/"
+    },
+    {
+      "id": "p22",
+      "rank": 22,
+      "name": "Soundbar LG S60TR, 5.1 , 440W, Kit Wireless Surround inclus, Subwoofer Wireless, HDMI, USB, Negru",
+      "tag": "Surround wireless complet",
+      "score": 8.2,
+      "image": "/img/products/dh8m5fybm.jpg",
+      "feedId": "DH8M5FYBM",
+      "features": [
+        "ch51",
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1",
+          "label": "Canale"
+        },
+        {
+          "value": "440W",
+          "label": "Putere"
+        },
+        {
+          "value": "Kit surround wireless",
+          "label": "Dotare"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Bas"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 83
+        },
+        {
+          "label": "Bas",
+          "pct": 84
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 68
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Kit wireless surround inclus, fără cabluri prin cameră",
+        "Subwoofer wireless separat pentru bas mai consistent"
+      ],
+      "cons": [
+        "Preț mai ridicat față de sistemele 5.1 de bază",
+        "Fără Wi-Fi, doar conexiuni prin HDMI și USB"
+      ],
+      "review": "LG S60TR se remarcă prin faptul că vine cu kitul wireless de surround inclus din cutie, deci boxele spate nu mai depind de cabluri întinse prin cameră, doar de alimentare. Cei 440W, combinați cu subwooferul wireless separat, dau pe hârtie un sistem 5.1 echilibrat, cu bas distinct de restul canalelor. HDMI și USB acoperă conectarea cu televizorul și redarea directă, deși lipsește Wi-Fi pentru streaming în rețea. Faptul că include toate boxele surround de la început înseamnă un preț ceva mai ridicat decât variantele minimale, dar elimină nevoia de a cumpăra separat un kit wireless ulterior. Pentru cine caută un 5.1 gata de instalat, cu adevărat surround, fără cabluri prin toată camera, LG S60TR e o alegere logică.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s60tr-5-1-440w-kit-wireless-surround-inclus-subwoofer-wireless-hdmi-usb-negru-s60tr-aeusllk/pd/DH8M5FYBM/"
+    },
+    {
+      "id": "p23",
+      "rank": 23,
+      "name": "Soundbar JBL BAR 1000 (MK2), 7.1.4, 960W, Bluetooth, Dolby Atmos, DTS:X, Sateliti detasabili, Negru",
+      "tag": "Sateliți detașabili premium",
+      "score": 8.6,
+      "image": "/img/products/dqlwnj3bm.jpg",
+      "feedId": "DQLWNJ3BM",
+      "features": [
+        "jbl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 7.1.4",
+          "label": "Canale"
+        },
+        {
+          "value": "960W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Cinema"
+        },
+        {
+          "value": "Sateliți detașabili",
+          "label": "Configurație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 92
+        },
+        {
+          "label": "Bas",
+          "pct": 90
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 95
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Sistem 7.1.4 cu Dolby Atmos și DTS:X pentru sunet imersiv",
+        "Sateliți detașabili, pot fi folosiți și ca boxe wireless separate",
+        "960W putere totală, suficientă pentru camere mari"
+      ],
+      "cons": [
+        "Preț ridicat, în zona premium a segmentului"
+      ],
+      "review": "JBL BAR 1000 MK2 e unul dintre cele mai complete sisteme din gamă, cu configurație 7.1.4 și suport dublu pentru Dolby Atmos și DTS:X, adică sunet cu adevărat tridimensional pe hârtie, nu doar simulat. Cei 960W distribuiți pe toate canalele susțin camere mari, unde sistemele mai mici rămân la limită. Un detaliu care contează, sateliții sunt detașabili și pot fi folosiți independent ca boxe wireless, utile dacă vrei muzică într-o altă cameră fără să pornești tot sistemul. Bluetooth acoperă streamingul de bază de pe telefon. Toate aceste dotări vin la un preț pe măsură, clar peste sistemele 5.1 obișnuite. Pentru cine caută cea mai completă experiență de cinema acasă din acest segment, fără compromisuri la canale sau formate, JBL BAR 1000 MK2 se remarcă clar.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-1000-mk2-7-1-4-960w-bluetooth-dolby-atmos-dts-x-sateliti-detasabili-negru-jblbar1000m2blkep/pd/DQLWNJ3BM/"
+    },
+    {
+      "id": "p24",
+      "rank": 24,
+      "name": "Soundbar JBL BAR 800, 5.1.2, Sateliti detasabili, 720W, Dolby Atmos, Wi-Fi, Airplay, HDMI eArc, Negru",
+      "tag": "Airplay și Dolby Atmos",
+      "score": 8.4,
+      "image": "/img/products/dr2jf1mbm.jpg",
+      "feedId": "DR2JF1MBM",
+      "features": [
+        "ch51",
+        "jbl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "720W",
+          "label": "Putere"
+        },
+        {
+          "value": "Airplay",
+          "label": "Streaming"
+        },
+        {
+          "value": "Sateliți detașabili",
+          "label": "Configurație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 88
+        },
+        {
+          "label": "Bas",
+          "pct": 85
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 90
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 89
+        }
+      ],
+      "pros": [
+        "Configurație 5.1.2 cu Dolby Atmos pentru sunet pe verticală",
+        "Wi-Fi și Airplay, streaming direct fără Bluetooth",
+        "Sateliți detașabili pentru flexibilitate în cameră"
+      ],
+      "cons": [
+        "Preț peste sistemele 5.1 standard fără Atmos"
+      ],
+      "review": "JBL BAR 800 combină o configurație 5.1.2, cu canale suplimentare orientate spre tavan pentru Dolby Atmos, cu opțiuni de streaming mai generoase decât majoritatea soundbarurilor din segment. Wi-Fi și Airplay înseamnă că poți transmite muzică direct din rețea sau de pe un dispozitiv Apple, fără să depinzi doar de Bluetooth. Cei 720W susțin un sunet consistent, iar HDMI eARC păstrează sincronizarea curată cu imaginea de pe televizor. Sateliții detașabili sunt un plus real, poți muta boxele spate fără fire suplimentare și le poți folosi separat la nevoie. Prețul reflectă toate aceste dotări, fiind peste sistemele 5.1 fără Atmos. Pentru cine caută sunet cu adevărat imersiv, plus flexibilitate la streaming, JBL BAR 800 e o alegere solidă în segmentul premium.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-800-5-1-2-sateliti-detasabili-720w-dolby-atmos-wi-fi-airplay-hdmi-earc-negru-jblbar800problkep/pd/DR2JF1MBM/"
+    },
+    {
+      "id": "p25",
+      "rank": 25,
+      "name": "Soundbar JBL BAR 300 (MK2), 5.0, 450W, Bluetooth, Dolby Atmos, HDMI eARC, Negru",
+      "tag": "Compact cu Dolby Atmos",
+      "score": 8,
+      "image": "/img/products/dglwnj3bm.jpg",
+      "feedId": "DGLWNJ3BM",
+      "features": [
+        "jbl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.0",
+          "label": "Canale"
+        },
+        {
+          "value": "450W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Cinema"
+        },
+        {
+          "value": "HDMI eARC",
+          "label": "Conexiune TV"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Bas",
+          "pct": 70
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 84
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Dolby Atmos într-un format compact 5.0",
+        "HDMI eARC pentru conectare simplă cu televizorul"
+      ],
+      "cons": [
+        "Fără subwoofer dedicat separat (configurație 5.0)",
+        "450W, putere modestă pentru camere mari"
+      ],
+      "review": "JBL BAR 300 MK2 aduce Dolby Atmos într-un format mai compact, o configurație 5.0 fără subwoofer separat inclus, gândită pentru cine nu vrea o cutie suplimentară pe podea. Cei 450W acoperă camere de dimensiuni normale, dar pentru spații mari puterea rămâne la limită. HDMI eARC simplifică legătura cu televizorul, iar Bluetooth acoperă streamingul de bază de pe telefon. Faptul că include Dolby Atmos la acest format compact e principalul argument, sunetul capătă o dimensiune pe verticală chiar și fără boxe de tavan dedicate, cel puțin pe hârtie. Pentru cine caută un soundbar simplu de instalat, fără cutii suplimentare prin cameră, dar cu suport pentru formate de sunet mai moderne, JBL BAR 300 MK2 e un compromis rezonabil.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-300-mk2-5-0-450w-bluetooth-dolby-atmos-hdmi-earc-negru-jblbar300m2blkep/pd/DGLWNJ3BM/"
+    },
+    {
+      "id": "p26",
+      "rank": 26,
+      "name": "Soundbar JBL Bar 2.0, Deep bass, Bluetooth, HDMI ARC, negru",
+      "tag": "All-in-one simplu",
+      "score": 7.5,
+      "image": "/img/products/ds57g8bbm.jpg",
+      "feedId": "DS57G8BBM",
+      "features": [
+        "jbl"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.0",
+          "label": "Canale"
+        },
+        {
+          "value": "Deep Bass",
+          "label": "Bas"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "HDMI ARC",
+          "label": "Conexiune TV"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 74
+        },
+        {
+          "label": "Bas",
+          "pct": 78
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 58
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 70
+        }
+      ],
+      "pros": [
+        "Format all-in-one, o singură bară, fără subwoofer separat de instalat",
+        "HDMI ARC pentru conectare directă cu televizorul"
+      ],
+      "cons": [
+        "Fără subwoofer dedicat, deci bas mai limitat",
+        "Fără Dolby Atmos sau formate audio avansate"
+      ],
+      "review": "JBL Bar 2.0 e cea mai simplă variantă din gama JBL Bar, un format all-in-one gândit pentru cine vrea doar să înlocuiască boxele slabe ale televizorului, fără instalare complicată. Accentul, conform numelui, cade pe bas, deep bass, deși fără subwoofer separat, deci nu te aștepta la aceeași adâncime ca la sistemele cu cutie dedicată pentru frecvențe joase. HDMI ARC și Bluetooth acoperă conectarea de bază, cu televizorul și cu telefonul. Nu are Dolby Atmos sau alte formate audio avansate, rămâne un sistem stereo simplu îmbunătățit. La acest preț, e genul de produs potrivit pentru dormitor sau o cameră mică, unde nu ai nevoie de canale surround separate. Pentru cine caută cea mai directă soluție de upgrade audio, fără cutii suplimentare, JBL Bar 2.0 acoperă strictul necesar.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-2-0-deep-bass-bluetooth-hdmi-arc-negru-jblbar20aioblkuk/pd/DS57G8BBM/"
+    },
+    {
+      "id": "p27",
+      "rank": 27,
+      "name": "Soundbar JBL BAR 1300 (MK2), 11.1.4, 2470W, Bluetooth, Dolby Atmos, DTS:X, HDMI eARC, Sateliti detasabili, Negru",
+      "tag": "Putere maximă 2470W",
+      "score": 8.6,
+      "image": "/img/products/d6lwnj3bm.jpg",
+      "feedId": "D6LWNJ3BM",
+      "features": [
+        "jbl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 11.1.4",
+          "label": "Canale"
+        },
+        {
+          "value": "2470W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Cinema"
+        },
+        {
+          "value": "Sateliți detașabili",
+          "label": "Configurație"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 95
+        },
+        {
+          "label": "Bas",
+          "pct": 93
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 97
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 87
+        }
+      ],
+      "pros": [
+        "Configurație 11.1.4, cea mai complexă din segment",
+        "2470W putere totală, pentru camere mari sau open space",
+        "Dolby Atmos, DTS:X și sateliți detașabili incluși"
+      ],
+      "cons": [
+        "Preț ridicat, în vârful segmentului premium"
+      ],
+      "review": "JBL BAR 1300 MK2 e vârful gamei JBL pentru home cinema, cu o configurație 11.1.4 și 2470W putere totală, cifre care depășesc clar restul sistemelor din acest segment. Pe hârtie, combinația Dolby Atmos și DTS:X, plus sateliții detașabili, înseamnă acoperire completă pentru filme cu sunet spațial complex, canale multiple pe orizontală și verticală. HDMI eARC păstrează sincronizarea curată cu televizorul, iar Bluetooth acoperă streamingul rapid de pe telefon. Fiind un sistem atât de complex, prețul se situează firesc în vârful segmentului, nu e o alegere pentru cine vrea doar un upgrade simplu față de boxele TV. Pentru cine caută însă cea mai completă experiență de cinema acasă, fără compromisuri la canale, putere sau formate audio, JBL BAR 1300 MK2 e greu de egalat.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-bar-1300-mk2-11-1-4-2470w-bluetooth-dolby-atmos-dts-x-hdmi-earc-sateliti-detasabili-negru-jblbar1300m2blkep/pd/D6LWNJ3BM/"
+    },
+    {
+      "id": "p28",
+      "rank": 28,
+      "name": "Soundbar JBL SB550, 250W, 3.1, Dolby Audio, Bluetooth 5.3",
+      "tag": "Compact cu subwoofer",
+      "score": 7.7,
+      "image": "/img/products/d9gc4z3bm.png",
+      "feedId": "D9GC4Z3BM",
+      "features": [
+        "jbl"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "250W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Audio",
+          "label": "Format audio"
+        },
+        {
+          "value": "Bluetooth 5.3",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 76
+        },
+        {
+          "label": "Bas",
+          "pct": 79
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 62
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 73
+        }
+      ],
+      "pros": [
+        "Sistem 3.1 cu subwoofer dedicat la preț accesibil",
+        "Bluetooth 5.3, conexiune stabilă și rapidă"
+      ],
+      "cons": [
+        "250W, putere modestă pentru camere mai mari",
+        "Fără Dolby Atmos, doar Dolby Audio"
+      ],
+      "review": "JBL SB550 e un sistem 3.1 de bază, cu subwoofer dedicat, gândit pentru cine vrea bas separat fără să cheltuiască pe un sistem 5.1 complet. Cei 250W sunt suficienți pentru o cameră de dimensiuni normale, dar rămân modești pentru spații mai mari sau open space. Bluetooth 5.3 aduce o conexiune mai stabilă și mai rapidă decât versiunile vechi, utilă pentru streaming constant de pe telefon. Dolby Audio acoperă formatele obișnuite de filme, dar nu găsești Dolby Atmos aici. La acest preț, subwooferul separat rămâne principalul argument, bas mai consistent decât boxele TV sau soundbarurile all-in-one fără cutie dedicată. Pentru cine caută un prim upgrade audio, cu buget limitat, dar vrea totuși bas separat, JBL SB550 e o opțiune rezonabilă.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-sb550-250w-3-1-dolby-audio-bluetooth-5-3-jblsb550blkep/pd/D9GC4Z3BM/"
+    },
+    {
+      "id": "p29",
+      "rank": 29,
+      "name": "Soundbar JBL SB580, 440W, 3.1, Virtual Dolby Atmos, Bluetooth",
+      "tag": "Virtual Dolby Atmos",
+      "score": 7.8,
+      "image": "/img/products/d4gc4z3bm.png",
+      "feedId": "D4GC4Z3BM",
+      "features": [
+        "jbl",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "440W",
+          "label": "Putere"
+        },
+        {
+          "value": "Virtual Dolby Atmos",
+          "label": "Cinema"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 79
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 72
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Virtual Dolby Atmos pentru o senzație de sunet mai spațial",
+        "440W, putere mai generoasă decât modelele de bază 3.1"
+      ],
+      "cons": [
+        "Atmos virtual, nu canale fizice dedicate pentru sunet pe verticală"
+      ],
+      "review": "JBL SB580 e o variantă intermediară în gama JBL SB, cu 440W și un sistem 3.1 care include Virtual Dolby Atmos, adică procesare software care simulează sunetul pe verticală, fără canale fizice suplimentare orientate spre tavan. Pe hârtie, asta înseamnă o senzație de spațialitate mai bună decât la un 3.1 simplu, deși nu identică cu un sistem Atmos real cu boxe dedicate. Bluetooth acoperă streamingul de bază de pe telefon, simplu și fără complicații. Subwooferul dedicat, specific configurației 3.1, aduce bas separat de restul canalelor. Pentru cine caută un pas intermediar între un 3.1 de bază și un sistem Atmos complet, fără să plătească diferența de preț pentru sateliți sau canale suplimentare, JBL SB580 e un compromis interesant.",
+      "emagUrl": "https://www.emag.ro/soundbar-jbl-sb580-440w-3-1-virtual-dolby-atmos-bluetooth-jblsb580blkep/pd/D4GC4Z3BM/"
+    },
+    {
+      "id": "p30",
+      "rank": 30,
+      "name": "Soundbar LG S65Q, 3.1 , 420W, Subwoofer Wireless, HDMI, USB, Negru",
+      "tag": "Subwoofer wireless LG",
+      "score": 7.9,
+      "image": "/img/products/dln9ccmbm.jpg",
+      "feedId": "DLN9CCMBM",
+      "features": [
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "420W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Bas"
+        },
+        {
+          "value": "USB",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Bas",
+          "pct": 82
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 65
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 75
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus pentru bas separat",
+        "HDMI și USB pentru conectare flexibilă cu televizorul"
+      ],
+      "cons": [
+        "Configurație 3.1, fără canale surround spate",
+        "420W, putere medie pentru segmentul acesta"
+      ],
+      "review": "LG S65Q e un sistem 3.1 cu subwoofer wireless inclus, gândit pentru cine vrea bas separat fără cabluri suplimentare prin cameră, doar alimentare pentru cutia de bas. Cei 420W acoperă o cameră de dimensiuni obișnuite, fără să impresioneze neapărat pe hârtie, dar suficienți pentru uz zilnic la filme și muzică. HDMI simplifică legătura cu televizorul, iar portul USB permite redare directă de pe stick, fără alt dispozitiv conectat. Fiind o configurație 3.1, nu ai canale surround spate dedicate, deci sunetul rămâne concentrat mai ales în fața camerei. Pentru cine caută un upgrade simplu față de boxele televizorului, cu bas separat și conectare ușoară, fără pretenții de sistem surround complet, LG S65Q e o alegere practică.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s65q-3-1-420w-subwoofer-wireless-hdmi-usb-negru-s65q-deusllk/pd/DLN9CCMBM/"
+    },
+    {
+      "id": "p31",
+      "rank": 31,
+      "name": "Soundbar LG SC9S, 3.1.3, 400W, Bluetooth, Dolby Atmos, Subwoofer Wireless, Negru",
+      "tag": "Cinema Dolby Atmos",
+      "score": 8.4,
+      "image": "/img/products/d38f58mbm.jpg",
+      "feedId": "D38F58MBM",
+      "features": [
+        "lg",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.3",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Wireless",
+          "label": "Subwoofer"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 88
+        },
+        {
+          "label": "Bas",
+          "pct": 84
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 90
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Configurație 3.1.3 canale cu Dolby Atmos pentru sunet cu senzație de înălțime",
+        "Subwoofer wireless, fără cablu suplimentar prin cameră",
+        "Putere totală de 400W, suficientă pentru camere medii spre mari"
+      ],
+      "cons": [
+        "Nu are HDMI sau USB menționate explicit în ofertă",
+        "Poate fi peste bugetul unui soundbar de bază"
+      ],
+      "review": "Dacă vrei experiență de cinema acasă fără să te complici cu instalarea de boxe pe pereți, LG SC9S e o alegere care merită privită cu atenție. Configurația 3.1.3 canale, cu Dolby Atmos, promite sunet cu adâncime pe verticală, exact genul de detaliu care schimbă percepția la filme și seriale. Subwooferul wireless scapă de cablul suplimentar prin cameră, iar puterea totală de 400W e suficientă pentru o cameră de zi obișnuită, fără să forțezi volumul la maximum. Pe hârtie, se remarcă prin combinația între Atmos și un format de canale peste medie pentru segmentul lui. Bluetooth-ul acoperă streamingul rapid de pe telefon sau laptop. Pentru cine caută un pas clar peste soundbarurile simple 2.1, dar nu vrea să investească într-un sistem home cinema complet, SC9S pare un compromis rezonabil între preț și tehnologie.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-3-1-3-400w-bluetooth-dolby-atmos-subwoofer-wireless-negru-sc9s/pd/D38F58MBM/"
+    },
+    {
+      "id": "p32",
+      "rank": 32,
+      "name": "Soundbar LG SN7Y, 3.1.2, 380W, Bluetooth, Subwoofer Wireless, Dolby Atmos, Negru",
+      "tag": "Atmos accesibil",
+      "score": 8.1,
+      "image": "/img/products/d83rc2mbm.jpg",
+      "feedId": "D83RC2MBM",
+      "features": [
+        "lg",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "380W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 85
+        },
+        {
+          "label": "Bas",
+          "pct": 82
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 86
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Sistem 3.1.2 cu Dolby Atmos, un pas peste soundbarurile stereo simple",
+        "Subwoofer wireless pentru bas curat, fără cabluri în plus",
+        "Putere de 380W, potrivită pentru filme și muzică în aceeași cameră"
+      ],
+      "cons": [
+        "Un canal mai puțin pe verticală decât variantele 3.1.3 din gamă",
+        "Conectivitatea pare limitată la Bluetooth"
+      ],
+      "review": "LG SN7Y se poziționează ca o variantă mai accesibilă din familia de soundbaruri LG cu Dolby Atmos. Configurația 3.1.2 canale nu ajunge la complexitatea sistemelor 3.1.3, dar tot oferă o senzație de sunet înconjurător mult peste ce reușește un soundbar stereo obișnuit. Subwooferul wireless de 380W se ocupă de bas fără să mai adaugi un cablu prin living, iar Bluetooth-ul acoperă conectarea rapidă de pe orice telefon sau laptop. Pe hârtie, e genul de produs potrivit pentru cine vrea Atmos fără să plătească pentru cea mai avansată variantă din gamă. Pentru cine caută un echilibru între preț și un sunet cu adâncime reală la filme, SN7Y merită comparat direct cu SC9S de mai sus.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-sn7y-3-1-2-380w-bluetooth-subwoofer-wireless-dolby-atmos-negru-sn7y-deusllk/pd/D83RC2MBM/"
+    },
+    {
+      "id": "p33",
+      "rank": 33,
+      "name": "Soundbar LG S70TY, 3.1.1 , 400W, Dolby Atmos, Subwoofer Wireless, HDMI, USB, Negru",
+      "tag": "Compact cu HDMI",
+      "score": 7.8,
+      "image": "/img/products/dm0vb9ybm.jpg",
+      "feedId": "DM0VB9YBM",
+      "features": [
+        "lg",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI, USB",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 83
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 84
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "HDMI și USB, utile pentru conectare directă la TV sau redare de pe stick",
+        "Dolby Atmos și subwoofer wireless la o putere de 400W",
+        "Configurație 3.1.1, cu un canal dedicat pe verticală"
+      ],
+      "cons": [
+        "Un singur canal de înălțime, mai puțin decât variantele 3.1.2 sau 3.1.3",
+        "Fără Wi-Fi menționat, doar conectare prin cablu sau Bluetooth implicit"
+      ],
+      "review": "S70TY aduce în gama LG o combinație utilă: Dolby Atmos, subwoofer wireless și, în plus față de alte modele din listă, mufe HDMI și USB. Practic poți conecta soundbarul direct la televizor printr-un singur cablu HDMI sau poți reda muzică de pe un stick USB fără telefon la îndemână. Configurația 3.1.1 canale nu are cea mai bogată reprezentare pe verticală din gamă, dar tot oferă acel plus de spațialitate specific Atmos. Puterea de 400W acoperă confortabil o cameră de zi obișnuită. Pe hârtie, S70TY se remarcă prin versatilitatea conexiunilor mai mult decât prin numărul de canale, ceea ce îl face o alegere practică pentru cine vrea un singur cablu între TV și soundbar.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s70ty-3-1-1-400w-dolby-atmos-subwoofer-wireless-hdmi-usb-negru-s70ty-aeusllk/pd/DM0VB9YBM/"
+    },
+    {
+      "id": "p34",
+      "rank": 34,
+      "name": "Soundbar LG S77TY, 3.1.3 , 400W, Dolby Atmos, Subwoofer Wireless, HDMI, USB, Negru",
+      "tag": "Atmos 3.1.3 complet",
+      "score": 8.2,
+      "image": "/img/products/dlrv39ybm.jpg",
+      "feedId": "DLRV39YBM",
+      "features": [
+        "lg",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.3",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI, USB",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 87
+        },
+        {
+          "label": "Bas",
+          "pct": 83
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 89
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "Configurație 3.1.3 canale, cea mai bogată pe verticală din seria S7X",
+        "HDMI și USB pentru conectare directă la TV sau redare externă",
+        "Subwoofer wireless și putere de 400W pentru un sunet consistent"
+      ],
+      "cons": [
+        "Diferența față de S70TY stă mai ales în canalele suplimentare, nu în putere",
+        "Preț probabil mai ridicat decât variantele 3.1.1 din gamă"
+      ],
+      "review": "S77TY e practic versiunea mai completă a lui S70TY, cu aceeași putere de 400W și aceleași mufe HDMI și USB, dar cu o configurație 3.1.3 canale în loc de 3.1.1. Diferența contează mai ales la filme cu mixaj Dolby Atmos, unde canalele suplimentare pe verticală dau o senzație mai clară de sunet care vine de sus. Subwooferul wireless rămâne un avantaj practic, fără cablu de tras prin cameră, iar conectorii HDMI și USB fac soundbarul ușor de integrat cu orice televizor modern. Pentru cine compară direct în gama LG S7X și vrea maximum de spațialitate fără să sară la o serie superioară, S77TY pare alegerea mai echilibrată dintre cele două.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s77ty-3-1-3-400w-dolby-atmos-subwoofer-wireless-hdmi-usb-negru-s77ty-ceusllk/pd/DLRV39YBM/"
+    },
+    {
+      "id": "p35",
+      "rank": 35,
+      "name": "Soundbar LG SQC2, 2.1, 300W, Subwoofer Wireless, Bluetooth, Dolby Audio, negru",
+      "tag": "Raport preț/calitate",
+      "score": 7.6,
+      "image": "/img/products/dydw43ybm.jpg",
+      "feedId": "DYDW43YBM",
+      "features": [
+        "ch21",
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "300W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Audio",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Bas",
+          "pct": 75
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 68
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus, un plus rar la acest nivel de preț",
+        "Putere de 300W, peste media soundbarurilor de intrare",
+        "Bluetooth pentru conectare rapidă fără cabluri"
+      ],
+      "cons": [
+        "Fără Dolby Atmos, doar Dolby Audio standard",
+        "Configurație 2.1, fără canale dedicate pe lateral sau înălțime"
+      ],
+      "review": "LG SQC2 țintește segmentul de soundbaruri accesibile, dar nu sare peste subwooferul wireless, un element care de multe ori lipsește la acest preț. Configurația 2.1 canale, cu 300W putere totală, e suficientă pentru a îmbunătăți clar sunetul televizorului fără pretenții de sistem home cinema complet. Dolby Audio se ocupă de procesarea sunetului surround simulat, chiar dacă nu ajunge la nivelul Atmos din gama superioară LG. Bluetooth-ul acoperă conectarea de pe telefon pentru muzică, fără fire suplimentare. Pentru cine caută un prim pas de la boxele TV către un sunet mai consistent, fără să investească într-un sistem cu multiple canale, SQC2 pe hârtie pare o opțiune la obiect.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-sqc2-2-1-300w-subwoofer-wireless-bluetooth-dolby-audio-negru-sqc2-deusllk/pd/DYDW43YBM/"
+    },
+    {
+      "id": "p36",
+      "rank": 36,
+      "name": "Soundbar LG S20A, 2.0, 50W, AI Sound Pro, Dolby Audio, Bluetooth, HDMI, USB, Negru",
+      "tag": "Compact & buget",
+      "score": 7.2,
+      "image": "/img/products/dzdrh03bm.jpg",
+      "feedId": "DZDRH03BM",
+      "features": [
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.0",
+          "label": "Canale"
+        },
+        {
+          "value": "50W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI, USB",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "AI Sound Pro",
+          "label": "Tehnologie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 74
+        },
+        {
+          "label": "Bas",
+          "pct": 62
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 65
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "HDMI și USB, utile pentru un soundbar de acest nivel de preț",
+        "AI Sound Pro pentru ajustarea automată a sunetului în funcție de conținut",
+        "Format compact 2.0, ușor de așezat sub orice televizor"
+      ],
+      "cons": [
+        "Putere de doar 50W, mai potrivită pentru camere mici",
+        "Fără subwoofer separat, deci bas limitat"
+      ],
+      "review": "S20A e gândit pentru cine vrea doar să scape de sunetul subțire al boxelor de televizor, fără să complice instalarea cu un subwoofer separat. Configurația 2.0 canale și puterea de 50W îl fac potrivit pentru dormitor sau o cameră mică, nu pentru o sufragerie mare. AI Sound Pro promite ajustarea automată a profilului de sunet în funcție de ce urmărești, un detaliu util pentru cine trece des între filme și muzică. Mufele HDMI și USB sunt un plus neașteptat la acest nivel de preț, alături de Bluetooth pentru streaming rapid. Pe hârtie, S20A se remarcă prin simplitate și preț accesibil, nu prin performanță de bas sau volum mare.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s20a-2-0-50w-ai-sound-pro-dolby-audio-bluetooth-hdmi-usb-negru-s20a-aeusllk/pd/DZDRH03BM/"
+    },
+    {
+      "id": "p37",
+      "rank": 37,
+      "name": "Soundbar LG S40T, 2.1, 300W, Subwoofer Wireless, Bluetooth, HDMI, USB, Negru",
+      "tag": "2.1 cu HDMI",
+      "score": 7.4,
+      "image": "/img/products/dwnvb9ybm.jpg",
+      "feedId": "DWNVB9YBM",
+      "features": [
+        "ch21",
+        "lg"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "300W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI, USB",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Wireless",
+          "label": "Subwoofer"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 77
+        },
+        {
+          "label": "Bas",
+          "pct": 76
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 68
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus pentru bas mai consistent decât la un 2.0",
+        "HDMI și USB, conectare directă la TV sau redare de pe stick",
+        "Putere de 300W, peste multe soundbaruri de intrare"
+      ],
+      "cons": [
+        "Fără Dolby Atmos sau alt format surround avansat",
+        "Configurație 2.1, fără canale laterale sau de înălțime"
+      ],
+      "review": "S40T completează gama de intrare LG cu un subwoofer wireless, ceea ce îl diferențiază clar de variantele 2.0 mai simple din listă. Puterea de 300W și configurația 2.1 canale acoperă confortabil o cameră de zi medie, iar mufele HDMI și USB adaugă flexibilitate pentru cine vrea un singur cablu spre televizor sau redare directă de pe un stick. Nu are Dolby Atmos, deci nu te aștepta la sunet cu senzație de înălțime, dar pentru muzică și filme obișnuite acoperă nevoile de bază fără compromisuri majore. Pe hârtie, S40T pare potrivit pentru cine vrea bas separat și conectare ușoară, fără să plătească în plus pentru procesare surround avansată.",
+      "emagUrl": "https://www.emag.ro/soundbar-lg-s40t-2-1-300w-subwoofer-wireless-bluetooth-hdmi-usb-negru-s40t-deusllk/pd/DWNVB9YBM/"
+    },
+    {
+      "id": "p38",
+      "rank": 38,
+      "name": "Soundbar Samsung HW-Q930D, 9.1.4, 540W, Bluetooth, Wi-Fi, Subwoofer wireless, Dolby Atmos, Negru titan",
+      "tag": "Cel mai puternic sistem",
+      "score": 8.8,
+      "image": "/img/products/dp099xybm.jpg",
+      "feedId": "DP099XYBM",
+      "features": [
+        "samsung",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 9.1.4",
+          "label": "Canale"
+        },
+        {
+          "value": "540W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth, Wi-Fi",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 95
+        },
+        {
+          "label": "Bas",
+          "pct": 92
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 96
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Configurație 9.1.4 canale, cea mai complexă din această selecție",
+        "Putere totală de 540W pentru o cameră mare sau open space",
+        "Wi-Fi și Bluetooth, plus subwoofer wireless pentru instalare curată"
+      ],
+      "cons": [
+        "Preț probabil semnificativ peste restul soundbarurilor din listă",
+        "Dimensiuni și greutate mai mari, de verificat spațiul disponibil sub TV"
+      ],
+      "review": "HW-Q930D e, pe hârtie, cel mai ambițios produs din această selecție. Configurația 9.1.4 canale rar se întâlnește la soundbaruri, chiar și în gama premium, și promite o hartă de sunet foarte detaliată, cu canale distincte lateral și pe verticală pentru efectul Atmos. Puterea totală de 540W susține volume mari fără distorsiuni, potrivite pentru camere spațioase sau living-uri deschise spre bucătărie. Conectivitatea dublă, Wi-Fi și Bluetooth, alături de subwooferul wireless, simplifică integrarea în orice sistem audio-video existent. Culoarea negru titan aduce un aspect premium, în linie cu poziționarea produsului. Pentru cine caută experiență de cinema acasă completă, fără compromisuri de canale sau putere, Q930D e greu de egalat în această listă, deși vine cu așteptări de preț pe măsură.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-q930d-9-1-4-540w-bluetooth-wi-fi-subwoofer-wireless-dolby-atmos-negru-titan-hw-q930d-en/pd/DP099XYBM/"
+    },
+    {
+      "id": "p39",
+      "rank": 39,
+      "name": "Soundbar Samsung HW-T450, 2.1 Canale, 200W, Wireless Subwoofer, Bluetooth",
+      "tag": "Compact 2.1 canale",
+      "score": 7.3,
+      "image": "/img/products/d6vznmmbm.jpg",
+      "feedId": "D6VZNMMBM",
+      "features": [
+        "ch21",
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "200W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Wireless",
+          "label": "Subwoofer"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 75
+        },
+        {
+          "label": "Bas",
+          "pct": 74
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 65
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus la un format compact 2.1",
+        "Bluetooth pentru conectare rapidă fără cabluri suplimentare",
+        "Putere de 200W, suficientă pentru dormitor sau camere mici spre medii"
+      ],
+      "cons": [
+        "Putere mai redusă decât alte modele 2.1 din listă, gen S40T",
+        "Fără HDMI sau USB menționate"
+      ],
+      "review": "HW-T450 e o variantă simplă și directă pentru cine vrea doar un pas peste boxele TV. Configurația 2.1 canale, cu subwoofer wireless, se ocupă de bas fără cabluri suplimentare, iar puterea de 200W acoperă bine o cameră mică sau medie, fără pretenții de sunet la volum foarte mare. Bluetooth-ul face conectarea de pe telefon sau laptop rapidă și fără complicații. Nu are HDMI sau USB menționate, deci conectarea la televizor rămâne probabil prin cablu audio clasic sau optic. Pe hârtie, T450 se remarcă prin simplitate, nu prin dotări multiple, ceea ce îl face potrivit pentru cine caută strict un upgrade de bas, fără funcții suplimentare.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-t450-2-1-canale-200w-wireless-subwoofer-bluetooth-hw-t450-en/pd/D6VZNMMBM/"
+    },
+    {
+      "id": "p40",
+      "rank": 40,
+      "name": "Soundbar Samsung HW-N300, 2.0, Wireless, Dolby, Negru",
+      "tag": "Minimalist pentru TV",
+      "score": 6.9,
+      "image": "/img/products/dyw2b6bbm.jpg",
+      "feedId": "DYW2B6BBM",
+      "features": [
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.0",
+          "label": "Canale"
+        },
+        {
+          "value": "Wireless",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby",
+          "label": "Audio"
+        },
+        {
+          "value": "Negru",
+          "label": "Culoare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 70
+        },
+        {
+          "label": "Bas",
+          "pct": 60
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 62
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 66
+        }
+      ],
+      "pros": [
+        "Format 2.0 compact, ușor de integrat sub orice televizor",
+        "Procesare Dolby pentru un sunet surround simulat de bază"
+      ],
+      "cons": [
+        "Fără subwoofer separat, deci bas limitat",
+        "Dotări minime, fără HDMI sau USB menționate în nume"
+      ],
+      "review": "HW-N300 e cel mai simplu soundbar Samsung din această listă, gândit pentru cine vrea doar un upgrade minim față de boxele integrate ale televizorului. Configurația 2.0 canale, fără subwoofer separat, înseamnă că basul rămâne discret, dar procesarea Dolby ajută la o senzație de sunet ceva mai larg decât difuzoarele TV obișnuite. Conectarea wireless simplifică instalarea, fără cabluri suplimentare de tras prin cameră. Nu are dotări extra precum HDMI sau USB menționate explicit. Pe hârtie, N300 pare potrivit strict pentru camere mici sau ca soluție de tranziție, nu pentru cine caută experiență de cinema acasă completă.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-n300-2-0-wireless-dolby-negru-hw-n300-en/pd/DYW2B6BBM/"
+    },
+    {
+      "id": "p41",
+      "rank": 41,
+      "name": "Soundbar Samsung HW-Q60B, 3.1, 340W, Bluetooth, Dolby , Subwoofer Wireless, negru",
+      "tag": "3.1 echilibrat",
+      "score": 7.9,
+      "image": "/img/products/dlnsmvmbm.jpg",
+      "feedId": "DLNSMVMBM",
+      "features": [
+        "samsung"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "340W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Wireless",
+          "label": "Subwoofer"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 78
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 79
+        }
+      ],
+      "pros": [
+        "Configurație 3.1 canale, cu un canal central dedicat pentru dialoguri mai clare",
+        "Subwoofer wireless și putere de 340W pentru un bas consistent",
+        "Bluetooth pentru streaming rapid de pe orice dispozitiv"
+      ],
+      "cons": [
+        "Fără Dolby Atmos, doar procesare Dolby standard",
+        "Un pas sub seria Q9xx din gama Samsung, ca dotări"
+      ],
+      "review": "HW-Q60B se poziționează la mijloc în gama Samsung, cu o configurație 3.1 canale care adaugă un canal central față de soundbarurile 2.1 simple. Practic asta înseamnă dialoguri mai clare la filme și seriale, un detaliu apreciat de cine urmărește mult conținut vorbit. Subwooferul wireless și puterea de 340W acoperă bine o cameră de zi obișnuită, iar Bluetooth-ul face legătura rapidă cu telefonul pentru muzică. Nu are Dolby Atmos, deci nu te aștepta la efecte de sunet pe verticală, dar pentru un sunet echilibrat, cu bas decent și voci clare, Q60B pare pe hârtie un compromis solid în gama medie Samsung.",
+      "emagUrl": "https://www.emag.ro/soundbar-samsung-hw-q60b-3-1-340w-bluetooth-dolby-subwoofer-wireless-negru-hw-q60b-en/pd/DLNSMVMBM/"
+    },
+    {
+      "id": "p42",
+      "rank": 42,
+      "name": "Soundbar Sony HT-S400, 2.1ch, 330 W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru",
+      "tag": "Buget cu subwoofer",
+      "score": 7.5,
+      "image": "/img/products/dntnlsmbm.jpg",
+      "feedId": "DNTNLSMBM",
+      "features": [
+        "ch21",
+        "sony"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "330W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Digital",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Bas",
+          "pct": 77
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 70
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 75
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus la un preț probabil accesibil pentru gama Sony",
+        "Putere de 330W, peste media segmentului 2.1 de bază",
+        "Bluetooth pentru conectare rapidă fără cabluri"
+      ],
+      "cons": [
+        "Dolby Digital standard, fără procesare surround avansată sau Atmos",
+        "Fără HDMI sau USB menționate în nume"
+      ],
+      "review": "HT-S400 e varianta de intrare a Sony în segmentul soundbarurilor cu subwoofer wireless. Configurația 2.1ch, cu 330W putere totală, oferă un plus clar față de boxele TV, mai ales la bas, unde subwooferul separat face diferența. Dolby Digital se ocupă de procesarea sunetului surround, fără să ajungă la complexitatea Atmos din gama superioară. Bluetooth-ul acoperă conectarea de pe telefon sau laptop pentru streaming muzical. Nu are HDMI sau USB trecute explicit, așa că integrarea cu televizorul rămâne probabil prin cablu audio optic sau clasic. Pe hârtie, S400 pare o alegere la obiect pentru cine vrea bas separat la un preț accesibil în gama Sony.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-s400-2-1ch-330-w-bluetooth-subwoofer-wireless-dolby-digital-negru-hts400-cel/pd/DNTNLSMBM/"
+    },
+    {
+      "id": "p43",
+      "rank": 43,
+      "name": "Soundbar Sony HT-SF150, 2.0, Boxa Bass Reflex, 120W, Bluetooth, Negru",
+      "tag": "Ultra-compact 2.0",
+      "score": 6.8,
+      "image": "/img/products/dmz1dfbbm.jpg",
+      "feedId": "DMZ1DFBBM",
+      "features": [
+        "sony"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.0",
+          "label": "Canale"
+        },
+        {
+          "value": "120W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Bass Reflex",
+          "label": "Tehnologie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 68
+        },
+        {
+          "label": "Bas",
+          "pct": 60
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 58
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 64
+        }
+      ],
+      "pros": [
+        "Design Bass Reflex pentru un bas ceva mai plin fără subwoofer separat",
+        "Format compact, ușor de integrat sub televizoare mai mici",
+        "Bluetooth pentru conectare simplă fără cabluri"
+      ],
+      "cons": [
+        "Putere de doar 120W, potrivită mai ales pentru camere mici",
+        "Configurație 2.0, fără canale sau efecte surround dedicate"
+      ],
+      "review": "HT-SF150 e cel mai compact soundbar Sony din această listă, gândit pentru camere mici sau ca prim upgrade față de boxele TV. Designul Bass Reflex încearcă să compenseze lipsa unui subwoofer separat, oferind un bas ceva mai prezent decât la un soundbar 2.0 obișnuit, fără însă a rivaliza cu variantele cu subwoofer wireless din gamă. Puterea de 120W confirmă poziționarea de produs de bază, potrivit pentru dormitor sau camere de dimensiuni reduse. Bluetooth-ul acoperă conectarea rapidă pentru muzică. Pe hârtie, SF150 rămâne o soluție minimalistă, utilă pentru cine vrea doar puțin mai mult volum și claritate decât boxele integrate ale televizorului.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-sf150-2-0-boxa-bass-reflex-120w-bluetooth-negru-htsf150-cel/pd/DMZ1DFBBM/"
+    },
+    {
+      "id": "p44",
+      "rank": 44,
+      "name": "Soundbar Sony HT-ST5000, Dolby Atmos, Hi-Res, 7.1.2 canale, Wi-Fi, Bluetooth, Negru",
+      "tag": "Hi-Res Atmos premium",
+      "score": 8.6,
+      "image": "/img/products/dj3xvnbbm.jpg",
+      "feedId": "DJ3XVNBBM",
+      "features": [
+        "sony",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 7.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "Wi-Fi, Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Hi-Res",
+          "label": "Calitate audio"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 94
+        },
+        {
+          "label": "Bas",
+          "pct": 88
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 93
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 87
+        }
+      ],
+      "pros": [
+        "Certificare Hi-Res Audio, alături de Dolby Atmos, pentru calitate audio ridicată",
+        "Configurație 7.1.2 canale, generoasă pentru un soundbar single-unit",
+        "Wi-Fi și Bluetooth pentru streaming flexibil din mai multe surse"
+      ],
+      "cons": [
+        "Poziționare premium, probabil cu preț pe măsură în gama Sony",
+        "Fără subwoofer wireless separat menționat, spre deosebire de alte modele Atmos din listă"
+      ],
+      "review": "HT-ST5000 combină două argumente puternice pe hârtie: certificarea Hi-Res Audio și Dolby Atmos, ceva ce nu se întâlnește des la soundbaruri single-unit. Configurația 7.1.2 canale reușește să simuleze un sistem surround complet dintr-o singură bară, cu accent pe claritate și separare între instrumente sau efecte sonore, nu doar pe volum. Conectivitatea Wi-Fi, alături de Bluetooth, permite streaming direct din mai multe surse, util pentru cine ascultă muzică la calitate ridicată. Nu apare menționat un subwoofer wireless separat, ceea ce înseamnă că basul rămâne integrat în bară, un aspect de verificat pentru cine caută impact puternic la filme de acțiune. Pentru cine pune calitatea audio pe primul loc, mai presus de bas exploziv, ST5000 pare o alegere premium potrivită.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-st5000-dolby-atmos-hi-res-7-1-2-canale-wi-fi-bluetooth-negru-htst5000-cel/pd/DJ3XVNBBM/"
+    },
+    {
+      "id": "p45",
+      "rank": 45,
+      "name": "Sistem home theatre portabil Sony HT-AX7, 360 Spatial Sound Mapping, 30 ore autonomie, Bluetooth 5.2, Negru",
+      "tag": "Portabil cu baterie",
+      "score": 7,
+      "feedId": "DBH0PMYBM",
+      "features": [
+        "sony"
+      ],
+      "specs": [
+        {
+          "value": "Sistem Portabil",
+          "label": "Canale"
+        },
+        {
+          "value": "30 ore",
+          "label": "Autonomie"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "360 Spatial Sound Mapping",
+          "label": "Tehnologie"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Bas",
+          "pct": 72
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 75
+        },
+        {
+          "label": "Autonomie",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "Autonomie de până la 30 de ore, ideal pentru folosire departe de priză",
+        "360 Spatial Sound Mapping pentru sunet care se adaptează la formă camerei",
+        "Bluetooth 5.2, conexiune stabilă și modernă"
+      ],
+      "cons": [
+        "Nu are subwoofer separat sau configurație de canale clasică (2.1/5.1)",
+        "Poziționare diferită de un soundbar clasic pentru TV, mai degrabă pentru mobilitate"
+      ],
+      "review": "HT-AX7 nu e un soundbar clasic de pus sub televizor, ci un sistem home theatre portabil, gândit pentru cine vrea sunet bun și în alte contexte decât sufrageria. Tehnologia 360 Spatial Sound Mapping încearcă să adapteze sunetul la forma camerei în care te afli, o abordare diferită de soundbarurile fixe din restul listei. Autonomia de 30 de ore de baterie e un argument solid pentru folosire la picnic, curte sau chiar într-o altă cameră, fără cablu de alimentare. Bluetooth 5.2 asigură o conexiune stabilă cu telefonul sau laptopul. Nu te aștepta la basul unui subwoofer dedicat sau la o configurație de canale clasică, dar pentru mobilitate și flexibilitate, AX7 ocupă un loc aparte în această selecție.",
+      "emagUrl": "https://www.emag.ro/sistem-home-theater-portabil-sony-ht-ax7-360-spatial-sound-mapping-30-ore-autonomie-baterie-bluetooth-5-2-htax7-cel/pd/DBH0PMYBM/",
+      "image": "/img/products/dbh0pmybm.jpg"
+    },
+    {
+      "id": "p46",
+      "rank": 46,
+      "name": "Soundbar Sony HT-A3000, 3.1ch, 250W, Dolby Atmos, DTS:X, subwoofer integrat, Bluetooth 5.0, LDAC, Negru",
+      "tag": "Subwoofer integrat compact",
+      "score": 8,
+      "feedId": "D0RNQLMBM",
+      "features": [
+        "sony",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "250W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer integrat",
+          "label": "Construcție"
+        },
+        {
+          "value": "Dolby Atmos, DTS:X",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 82
+        },
+        {
+          "label": "Bas",
+          "pct": 78
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 85
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Un singur corp cu subwoofer integrat, deci fără cutii sau cabluri suplimentare prin cameră",
+        "Dolby Atmos și DTS:X pentru sunet cinematic la filme",
+        "Bluetooth 5.0 cu LDAC pentru streaming audio de calitate de pe telefon"
+      ],
+      "cons": [
+        "Nu vine cu boxe surround spate, așa că Atmos e simulat, nu reprodus prin difuzoare dedicate",
+        "Subwoofer integrat, deci basul e mai discret decât la un subwoofer extern separat"
+      ],
+      "review": "Sony HT-A3000 e un soundbar 3.1 cu subwoofer integrat, gândit pentru cine nu vrea cabluri și cutii suplimentare prin cameră. Pe hârtie, cei 250W și suportul pentru Dolby Atmos și DTS:X promit un sunet spațial convingător la filme, chiar dacă nu are boxe surround fizice montate în spatele canapelei. Bluetooth 5.0 cu LDAC e un plus dacă asculți des muzică direct de pe telefon, calitatea streamingului wireless fiind superioară variantelor standard. Pentru cine caută un upgrade simplu față de boxele televizorului, fără să mai adauge o unitate de subwoofer separată, HT-A3000 se remarcă prin formatul compact și numele Sony din spate. La acest preț, rămâne o alegere solidă pentru camere medii, nu neapărat pentru saloane mari unde un sistem cu mai multe canale ar avea sens.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-a3000-3-1ch-dolby-atmos-250w-bluetooth-5-0-ldac-subwoofer-integrat-dts-x-negru-hta3000-cel/pd/D0RNQLMBM/",
+      "image": "/img/products/d0rnqlmbm.jpg"
+    },
+    {
+      "id": "p47",
+      "rank": 47,
+      "name": "Soundbar SONY HT-S2000, 3.1ch, 250W, Dolby Atmos, DTS:X, Bluetooth, Dolby, Negru",
+      "tag": "Sony accesibil cu Atmos",
+      "score": 7.9,
+      "image": "/img/products/d047qbybm.jpg",
+      "feedId": "D047QBYBM",
+      "features": [
+        "sony",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1",
+          "label": "Canale"
+        },
+        {
+          "value": "250W",
+          "label": "Putere"
+        },
+        {
+          "value": "Dolby Atmos, DTS:X",
+          "label": "Format audio"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 80
+        },
+        {
+          "label": "Bas",
+          "pct": 76
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 84
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Dolby Atmos și DTS:X la un preț mai accesibil decât alte modele Sony din gamă",
+        "250W oferă volum suficient pentru camere medii",
+        "Bluetooth pentru streaming rapid de pe telefon sau laptop"
+      ],
+      "cons": [
+        "Nu menționează LDAC, deci calitatea audio wireless rămâne la nivel standard",
+        "Sistem 3.1, fără boxe surround fizice"
+      ],
+      "review": "Sony HT-S2000 păstrează aceeași rețetă 3.1 cu 250W, Dolby Atmos și DTS:X ca alte modele Sony din gamă, dar la un preț mai prietenos. Pe specificații, diferența principală față de variantele mai scumpe e lipsa unor funcții wireless avansate precum LDAC, Bluetooth-ul rămânând la un nivel standard, suficient pentru streaming de pe telefon sau laptop. Pentru cine caută pe hârtie un soundbar Sony cu suport real pentru formate cinema, fără să plătească pentru fiecare tehnologie în plus, HT-S2000 se remarcă prin raportul simplu între preț și ce oferă. Sistemul 3.1 nu are boxe surround fizice, deci efectul Atmos rămâne simulat prin procesare, nu prin difuzoare dedicate în spate. Rămâne o opțiune potrivită pentru cine vrea un pas peste boxele integrate ale televizorului, fără să sară direct la un sistem multicanal complet.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-ht-s2000-3-1ch-250w-dolby-atmos-dts-x-bluetooth-dolby-negru-hts2000-cel/pd/D047QBYBM/"
+    },
+    {
+      "id": "p48",
+      "rank": 48,
+      "name": "Soundbar Sony BRAVIA Theatre Bar 6 (HT-B600), 3.1.2ch, 350W, Dolby Atmos, DTS:X, boxe up-firing, Bluetooth 5.3, Negru",
+      "tag": "Boxe up-firing premium",
+      "score": 8.3,
+      "feedId": "DGC3K23BM",
+      "features": [
+        "sony",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "350W",
+          "label": "Putere"
+        },
+        {
+          "value": "Boxe up-firing",
+          "label": "Construcție"
+        },
+        {
+          "value": "Bluetooth 5.3",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 86
+        },
+        {
+          "label": "Bas",
+          "pct": 80
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 90
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Boxe up-firing dedicate pentru un Atmos mai realist, cu sunet care vine și de sus",
+        "350W, printre cele mai puternice modele din această selecție",
+        "Bluetooth 5.3, cea mai nouă versiune din comparație"
+      ],
+      "cons": [
+        "Preț probabil mai ridicat, proporțional cu pachetul de funcții premium",
+        "Fără boxe surround spate separate, deci efectul e susținut de difuzoarele up-firing, nu de unități dedicate în spate"
+      ],
+      "review": "Sony BRAVIA Theatre Bar 6 urcă ștacheta față de restul gamei Sony din această listă, cu configurație 3.1.2, 350W și boxe up-firing dedicate pentru Dolby Atmos și DTS:X. Pe hârtie, boxele orientate în sus ar trebui să dea o senzație mai reală de sunet venit de deasupra, spre deosebire de simularea pur digitală a modelelor fără astfel de difuzoare. Bluetooth 5.3 e cea mai recentă versiune din comparație, un detaliu util dacă ții la conexiuni stabile cu telefonul sau alte surse wireless. Pentru cine caută pe specificații cel mai complet pachet Sony din segment, fără să treacă la un sistem cu boxe surround separate, HT-B600 se remarcă prin combinația de putere și tehnologie up-firing. Rămâne, evident, o variantă mai scumpă decât soundbarele Sony de bază din aceeași familie.",
+      "emagUrl": "https://www.emag.ro/soundbar-sony-bravia-theatre-bar-6-ht-b600-3-1-2ch-350w-dolby-atmos-dts-x-ai-voice-zoom-3-boxe-up-firing-bluetooth-5-3-negru-htb600-cel/pd/DGC3K23BM/",
+      "image": "/img/products/dgc3k23bm.jpg"
+    },
+    {
+      "id": "p49",
+      "rank": 49,
+      "name": "Soundbar Philips TAB8905/10, 3.1.2, 360W, Subwoofer Wireless, Dolby Atmos, AirPlay, Negru",
+      "tag": "AirPlay și Atmos",
+      "score": 7.8,
+      "feedId": "D05GNDMBM",
+      "features": [
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 3.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "360W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Construcție"
+        },
+        {
+          "value": "AirPlay",
+          "label": "Conectivitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 81
+        },
+        {
+          "label": "Bas",
+          "pct": 77
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 83
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "AirPlay, util dacă ai un ecosistem Apple în casă",
+        "Subwoofer wireless, deci mai puține cabluri prin cameră",
+        "Configurație cu Dolby Atmos pentru filme"
+      ],
+      "cons": [
+        "AirPlay nu ajută cu nimic dacă folosești doar dispozitive Android",
+        "Nu are boxe surround spate dedicate"
+      ],
+      "review": "Philips TAB8905 vine cu o configurație 3.1.2 și 360W, plus suport pentru Dolby Atmos și subwoofer wireless, ceea ce îl plasează printre variantele mai complete din gama Philips. Diferența notabilă pe specificații e AirPlay, o funcție care simplifică streamingul audio pentru cine folosește dispozitive Apple prin casă, fără să mai depindă doar de Bluetooth. Subwooferul wireless înseamnă un cablu în minus prin living, un detaliu practic la instalare. Pentru cine caută pe hârtie un soundbar cu Atmos și conectivitate modernă, fără să sară la un sistem cu mai multe canale fizice, TAB8905 se remarcă prin echilibrul dintre putere și funcții. Lipsa boxelor surround dedicate rămâne un compromis așteptat la acest tip de configurație, dar AirPlay și subwooferul wireless compensează la capitolul confort de utilizare.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-3-1-2-360w-subwoofer-wireless-dolby-atmos-airplay-negru-tab8905-10/pd/D05GNDMBM/",
+      "image": "/img/products/d05gndmbm.jpg"
+    },
+    {
+      "id": "p50",
+      "rank": 50,
+      "name": "Soundbar Philips TAB6305/10, 2.1, 140W, Subwoofer Wireless, Dolby Audio, Negru",
+      "tag": "Compact & buget",
+      "score": 7.3,
+      "image": "/img/products/dn5gndmbm.jpg",
+      "feedId": "DN5GNDMBM",
+      "features": [
+        "ch21",
+        "philips"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "140W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Construcție"
+        },
+        {
+          "value": "Dolby Audio",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 72
+        },
+        {
+          "label": "Bas",
+          "pct": 70
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 64
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 68
+        }
+      ],
+      "pros": [
+        "Subwoofer wireless inclus chiar și la acest nivel de preț",
+        "Format compact 2.1, ușor de integrat sub televizor"
+      ],
+      "cons": [
+        "Fără Dolby Atmos, deci nu oferă sunet spațial complet",
+        "140W e printre cele mai mici puteri din listă, potrivit doar pentru camere mici"
+      ],
+      "review": "Philips TAB6305 e varianta de intrare din gama Philips prezentă aici, cu un sistem 2.1 simplu, 140W și subwoofer wireless, dar fără Dolby Atmos. Pe hârtie, e gândit pentru cine vrea doar un pas peste boxele televizorului, fără pretenții de sunet cinematic complex. Subwooferul wireless rămâne un plus chiar și la acest nivel de preț, aducând mai mult bas decât ar putea o bară singură. Pentru cine caută pe specificații un soundbar compact, ușor de instalat și fără cabluri suplimentare pentru subwoofer, TAB6305 se remarcă prin simplitate. Puterea de 140W e cea mai mică din comparație, deci rămâne potrivit mai degrabă pentru camere mici sau dormitoare, nu pentru saloane mari unde un sistem mai puternic ar face diferența.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-140w-subwoofer-wireless-dolby-audio-negru-tab6305-10/pd/DN5GNDMBM/"
+    },
+    {
+      "id": "p51",
+      "rank": 51,
+      "name": "Soundbar Philips TAB8405/10, 2.1, 240W, Subwoofer Wireless, Dolby Atmos, Negru",
+      "tag": "Atmos la preț bun",
+      "score": 7.6,
+      "feedId": "DNDJBDMBM",
+      "features": [
+        "ch21",
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "240W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Construcție"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 76
+        },
+        {
+          "label": "Bas",
+          "pct": 74
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 80
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 72
+        }
+      ],
+      "pros": [
+        "Dolby Atmos într-un format compact 2.1",
+        "Subwoofer wireless și 240W, echilibru bun între putere și preț"
+      ],
+      "cons": [
+        "Fără boxe surround fizice, Atmos rămâne simulat prin procesare",
+        "Nu specifică HDMI eARC, verifică compatibilitatea cu televizorul tău"
+      ],
+      "review": "Philips TAB8405 păstrează formatul 2.1 cu subwoofer wireless, dar adaugă Dolby Atmos față de variantele mai simple din gamă, la 240W. Pe hârtie, combinația dintre puterea decentă și suportul Atmos îl face un compromis rezonabil pentru cine vrea sunet spațial fără să treacă la un sistem cu boxe surround fizice. Subwooferul wireless rămâne un avantaj practic la instalare, eliminând un cablu prin cameră. Pentru cine caută pe specificații un soundbar Philips cu Atmos la un preț de mijloc, TAB8405 se remarcă prin acest echilibru între funcții și cost. Lipsa boxelor surround dedicate înseamnă că efectul spațial e procesat digital, nu reprodus prin difuzoare separate în spatele camerei, un aspect de luat în calcul dacă ai deja experiență cu sisteme complete.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-240w-subwoofer-wireless-dolby-atmos-negru-tab8405-10/pd/DNDJBDMBM/",
+      "image": "/img/products/dndjbdmbm.jpg"
+    },
+    {
+      "id": "p52",
+      "rank": 52,
+      "name": "Soundbar Philips TAB5309/10 2.1, 240W, Subwoofer Wireless, Dolby Digital PLUS, HDMI ARC, Negru",
+      "tag": "HDMI ARC simplu",
+      "score": 7.5,
+      "image": "/img/products/dy5d0xybm.jpg",
+      "feedId": "DY5D0XYBM",
+      "features": [
+        "ch21",
+        "philips"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "240W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI ARC",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Digital Plus",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 75
+        },
+        {
+          "label": "Bas",
+          "pct": 73
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 66
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "HDMI ARC pentru conectare simplă la televizor, cu o singură telecomandă",
+        "Subwoofer wireless inclus la 240W"
+      ],
+      "cons": [
+        "Fără Dolby Atmos, deci sunetul rămâne pe orizontală",
+        "Dolby Digital Plus e un pas sub Atmos ca imersiune"
+      ],
+      "review": "Philips TAB5309 mizează pe un format 2.1 clasic, 240W și Dolby Digital Plus, fără Dolby Atmos, dar cu HDMI ARC pentru conectare directă la televizor printr-un singur cablu. Pe hârtie, lipsa Atmos îl plasează sub alte modele Philips din listă la capitolul imersiune, însă HDMI ARC simplifică instalarea și controlul volumului direct de la telecomanda televizorului. Subwooferul wireless completează pachetul, aducând mai mult bas decât o bară singură. Pentru cine caută pe specificații un soundbar direct, fără prea multe formate audio de configurat, TAB5309 se remarcă prin simplitate și conectare ușoară. Rămâne o alegere potrivită pentru cine vrea doar un upgrade de sunet la televizor, fără să caute neapărat sunet cinematic complet cu Atmos.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-240w-subwoofer-wireless-dolby-digital-plus-hdmi-arc-negru-tab5309-10/pd/DY5D0XYBM/"
+    },
+    {
+      "id": "p53",
+      "rank": 53,
+      "name": "Soundbar Philips B95/10, 5.1.2, 410W, Subwoofer Wireless, Dolby Atmos, Negru",
+      "tag": "Bas puternic, multicanal",
+      "score": 8.4,
+      "image": "/img/products/dddjbdmbm.jpg",
+      "feedId": "DDDJBDMBM",
+      "features": [
+        "ch51",
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 5.1.2",
+          "label": "Canale"
+        },
+        {
+          "value": "410W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Construcție"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 88
+        },
+        {
+          "label": "Bas",
+          "pct": 90
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 91
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Cel mai complet sistem de canale din această comparație",
+        "410W, cea mai mare putere totală din selecție",
+        "Dolby Atmos susținut de o configurație multicanal reală, nu doar simulat"
+      ],
+      "cons": [
+        "Preț probabil mai mare, proporțional cu numărul de boxe incluse",
+        "Necesită mai mult spațiu pentru boxele surround"
+      ],
+      "review": "Philips B95 e cel mai complet sistem din gama Philips prezentă aici, cu configurație 5.1.2, 410W și Dolby Atmos susținut de un număr mai mare de canale, nu doar simulat digital. Pe hârtie, cele 410W și cele cinci canale plus cele două de sus înseamnă o experiență mai apropiată de un sistem home cinema real, cu subwoofer wireless pentru bas separat de bara principală. Pentru cine caută pe specificații cel mai puternic și mai complet soundbar Philips din comparație, B95 se remarcă prin numărul de canale și puterea totală. Compromisul e spațiul necesar pentru boxele surround suplimentare și, probabil, un preț mai ridicat proporțional cu tot ce oferă. Rămâne alegerea logică pentru cine vrea sunet cinematic amplu, nu doar un soundbar simplu sub televizor.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-5-1-2-410w-subwoofer-wireless-dolby-atmos-negru-b95-10/pd/DDDJBDMBM/"
+    },
+    {
+      "id": "p54",
+      "rank": 54,
+      "name": "Soundbar Philips TAB8200/10, 2.1, 320W, Bluetooth, Subwoofer Wireless, Dolby Atmos, Gri",
+      "tag": "Design gri, Atmos",
+      "score": 7.7,
+      "feedId": "D5LDXZ3BM",
+      "features": [
+        "ch21",
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "320W",
+          "label": "Putere"
+        },
+        {
+          "value": "Subwoofer wireless",
+          "label": "Construcție"
+        },
+        {
+          "value": "Dolby Atmos",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 78
+        },
+        {
+          "label": "Bas",
+          "pct": 76
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 81
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 77
+        }
+      ],
+      "pros": [
+        "320W și Dolby Atmos într-un format 2.1 compact",
+        "Bluetooth pentru streaming direct de pe telefon",
+        "Variantă de culoare gri, dacă vrei altceva decât negru"
+      ],
+      "cons": [
+        "Fără boxe surround spate dedicate",
+        "Varianta gri poate fi mai greu de găsit sau mai scumpă decât cea neagră"
+      ],
+      "review": "Philips TAB8200 combină un format 2.1 cu 320W, Bluetooth și Dolby Atmos, într-o variantă de culoare gri care iese din tiparul negru obișnuit al segmentului. Pe hârtie, puterea de 320W e peste multe alte modele 2.1 din listă, iar Atmos aduce un plus de imersiune la filme, chiar fără boxe surround fizice. Subwooferul wireless rămâne un avantaj practic, eliminând un cablu prin living. Pentru cine caută pe specificații un soundbar Philips cu Atmos, putere bună și o culoare diferită de negru, TAB8200 se remarcă prin acest mix. Bluetooth-ul acoperă streamingul de bază de pe telefon sau laptop, fără funcții wireless avansate suplimentare menționate. Rămâne o opțiune de mijloc, potrivită pentru cine vrea sunet spațial fără să sară la un sistem multicanal complet.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-320w-bluetooth-subwoofer-wireless-dolby-atmos-gri-tab8200-10/pd/D5LDXZ3BM/",
+      "image": "/img/products/d5ldxz3bm.jpg"
+    },
+    {
+      "id": "p55",
+      "rank": 55,
+      "name": "Soundbar Philips TAB6100/10, 2.1, 400W, Subwoofer Wireless, Bluetooth 5.4, Dolby Atmos, Dolby MAT, Dolby Digital plus, DTS:X, DTS Virtual:X HDMI eARC, Negru",
+      "tag": "Cinema complet, DTS:X",
+      "score": 8.2,
+      "image": "/img/products/dd692n3bm.jpg",
+      "feedId": "DD692N3BM",
+      "features": [
+        "ch21",
+        "philips",
+        "atmos"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "400W",
+          "label": "Putere"
+        },
+        {
+          "value": "HDMI eARC",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Dolby Atmos, DTS:X",
+          "label": "Format audio"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 84
+        },
+        {
+          "label": "Bas",
+          "pct": 82
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 88
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "Cea mai bogată listă de formate audio din selecție: Atmos, DTS:X, DTS Virtual:X",
+        "HDMI eARC pentru conectare modernă la televizor",
+        "400W, putere generoasă pentru un sistem 2.1"
+      ],
+      "cons": [
+        "Fără boxe surround fizice, efectele spațiale sunt procesate digital",
+        "Numărul mare de formate suportate poate fi confuz dacă nu știi exact ce acceptă televizorul tău"
+      ],
+      "review": "Philips TAB6100 adună cea mai lungă listă de formate audio din această selecție Philips, Dolby Atmos, Dolby MAT, Dolby Digital Plus, DTS:X și DTS Virtual:X, toate într-un format 2.1 cu 400W și subwoofer wireless. Pe hârtie, atâtea formate suportate înseamnă compatibilitate largă cu majoritatea surselor, de la streaming la console sau televizor, prin HDMI eARC. Bluetooth 5.4 e cea mai recentă versiune din comparație, un detaliu util pentru conexiuni stabile. Pentru cine caută pe specificații un soundbar 2.1 cu cea mai completă listă de tehnologii audio, fără să treacă la un sistem cu mai multe boxe fizice, TAB6100 se remarcă prin versatilitate. Lipsa boxelor surround dedicate rămâne compromisul obișnuit la acest tip de configurație, dar numărul de formate suportate compensează la capitolul flexibilitate.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-2-1-400w-subwoofer-wireless-bluetooth-5-4-dolby-atmos-dolby-mat-dolby-digital-plus-dts-x-dts-virtual-x-hdmi-earc-negru-tab6100-10/pd/DD692N3BM/"
+    },
+    {
+      "id": "p56",
+      "rank": 56,
+      "name": "Soundbar Philips Tab5109, 2 canale, 120W, Bluetooth, gri închis",
+      "tag": "Minimalist, doar Bluetooth",
+      "score": 6.9,
+      "image": "/img/products/dn63xr3bm.jpg",
+      "feedId": "DN63XR3BM",
+      "features": [
+        "philips"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.0",
+          "label": "Canale"
+        },
+        {
+          "value": "120W",
+          "label": "Putere"
+        },
+        {
+          "value": "Bluetooth",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Gri închis",
+          "label": "Culoare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 66
+        },
+        {
+          "label": "Bas",
+          "pct": 60
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 60
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 65
+        }
+      ],
+      "pros": [
+        "Preț și dimensiuni reduse, ideal pentru un birou sau o cameră mică",
+        "Bluetooth pentru conectare rapidă fără cabluri"
+      ],
+      "cons": [
+        "Fără subwoofer, deci basul rămâne modest",
+        "Fără Dolby Atmos sau alt format surround, doar sunet stereo îmbunătățit"
+      ],
+      "review": "Philips Tab5109 e cea mai simplă variantă din gama Philips prezentă aici, cu doar 2 canale, 120W și Bluetooth, fără subwoofer separat și fără Dolby Atmos. Pe hârtie, e gândit strict pentru cine vrea un upgrade minimal față de boxele televizorului, într-un format compact în gri închis, ușor de așezat sub orice ecran. Bluetooth-ul acoperă conectarea rapidă de pe telefon pentru muzică, fără pretenții de sunet cinematic. Pentru cine caută pe specificații cel mai accesibil și mai simplu soundbar din comparație, Tab5109 se remarcă prin preț și dimensiuni reduse. Lipsa subwooferului înseamnă bas modest, iar absența Atmos exclude orice ambiție de sunet spațial, dar rămâne o opțiune rezonabilă pentru un birou, un dormitor sau o cameră secundară.",
+      "emagUrl": "https://www.emag.ro/soundbar-philips-tab5109-2-canale-120w-bluetooth-gri-inchis-hailife-22929/pd/DN63XR3BM/"
+    },
+    {
+      "id": "p57",
+      "rank": 57,
+      "name": "Soundbar profesional Philips cu Asistent Google, Conectivitate Bluetooth, Subwoofer wireless 2.1 CH, Dolby Digital, 15 W x 4 plus 60 W, Telecomanda, Negru",
+      "tag": "Google Assistant încorporat",
+      "score": 7.2,
+      "image": "/img/products/d711knmbm.jpg",
+      "feedId": "D711KNMBM",
+      "features": [
+        "ch21",
+        "philips"
+      ],
+      "specs": [
+        {
+          "value": "Sistem 2.1",
+          "label": "Canale"
+        },
+        {
+          "value": "15Wx4+60W",
+          "label": "Putere"
+        },
+        {
+          "value": "Asistent Google",
+          "label": "Conectivitate"
+        },
+        {
+          "value": "Telecomandă inclusă",
+          "label": "Dotare"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Sunet",
+          "pct": 70
+        },
+        {
+          "label": "Bas",
+          "pct": 68
+        },
+        {
+          "label": "Cinema/Atmos",
+          "pct": 62
+        },
+        {
+          "label": "Conectivitate",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Asistent Google integrat, util pentru comenzi vocale",
+        "Subwoofer wireless inclus în format 2.1",
+        "Vine cu telecomandă dedicată"
+      ],
+      "cons": [
+        "Fără Dolby Atmos, doar Dolby Digital standard",
+        "Denumirea „profesional” sugerează mai degrabă un produs de nișă decât un soundbar de streaming media mainstream"
+      ],
+      "review": "Acest soundbar Philips se remarcă prin Asistentul Google integrat, o funcție rară în restul comparației, alături de un format 2.1 cu subwoofer wireless și putere totală împărțită între patru difuzoare de 15W și un subwoofer de 60W. Pe hârtie, Dolby Digital acoperă nevoile de bază pentru filme și seriale, fără pretenții de Atmos sau formate audio avansate. Telecomanda inclusă și comenzile vocale prin Google Assistant simplifică utilizarea zilnică, mai ales pentru cine vrea control fără aplicații suplimentare. Pentru cine caută pe specificații un soundbar cu integrare smart home, nu neapărat cel mai puternic sau cel mai complet la capitolul formate audio, acest model Philips se remarcă prin practicitate. Denumirea „profesional” ține mai degrabă de segmentul de distribuție decât de o clasă de performanță superioară.",
+      "emagUrl": "https://www.emag.ro/soundbar-profesional-philips-cu-asistent-google-conectivitate-bluetooth-subwoofer-wireless-2-1-ch-dolby-digital-15-w-x-4-plus-60-w-telecomanda-negru-phcelsa244107/pd/D711KNMBM/"
+    }
+  ]
+}
