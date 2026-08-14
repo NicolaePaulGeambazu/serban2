@@ -11,6 +11,7 @@ import { site } from '../../../data/site';
 import { deeplink, AFFILIATE_REL } from '../../../data/affiliate';
 import { getAuthor } from '../../../data/authors';
 import { CATEGORY_SEGMENTS, productMatchesSegment } from '../../../data/subcategories';
+import { SEGMENT_CONTENT } from '../../../data/segment-content';
 
 const cleanCat = (h1) => h1.replace('Cele mai bune ', '').replace('Cei mai buni ', '').replace(/ în 2026$/, '');
 
@@ -51,8 +52,16 @@ const d = cat.data;
 const winner = products[0];
 const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
 
+// Per-segment editorial overrides. Each field falls back to the parent category
+// so every subpage stays rich; where a segment defines its own copy, that unique
+// text replaces the shared one (keeps sibling subpages from being near-duplicates).
+const sc = SEGMENT_CONTENT[`${cat.id}/${Astro.params.seg}`] ?? {};
+const guide = sc.guide ?? d.guide;
+const comparison = 'comparison' in sc ? sc.comparison : d.comparison;
+const faq = sc.faq ?? d.faq;
+
 const h1 = `Cele mai bune ${catName} ${segLabel} în 2026`;
-const intro = `Cauți ${catName} ${segLabel}? Am filtrat topul nostru și ți-am lăsat doar aceste modele, ordonate pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model, cu verdictul nostru și link direct către eMAG.`;
+const intro = sc.intro ?? `Cauți ${catName} ${segLabel}? Am filtrat topul nostru și ți-am lăsat doar aceste modele, ordonate pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model, cu verdictul nostru și link direct către eMAG.`;
 
 const itemList = {
   '@context': 'https://schema.org',
@@ -72,6 +81,15 @@ const itemList = {
         author: { '@type': 'Person', name: getAuthor(d.author).name },
       },
     },
+  })),
+};
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
   })),
 };
 ---
@@ -115,6 +133,63 @@ const itemList = {
     </section>
   )}
 
+  <!-- GUIDE -->
+  {guide.length > 0 && (
+    <section class="article" id="ghid">
+      <div class="wrap prose">
+        <span class="eyebrow">Ghid de cumpărare</span>
+        <h2>Ce contează când alegi {catName} {segLabel.toLowerCase()}</h2>
+        {guide.map((g) => (
+          <>
+            <h3>{g.h3}</h3>
+            <p>{g.body}</p>
+            {g.callout && <div class="callout"><b>Pe scurt:</b> {g.callout}</div>}
+          </>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- COMPARISON TABLE -->
+  {comparison && (
+    <section class="article" style="padding-top:0" id="comparatie">
+      <div class="wrap prose">
+        <span class="eyebrow">Comparație</span>
+        <h2>{comparison.title}</h2>
+        {comparison.intro && <p>{comparison.intro}</p>}
+        <div class="cmp-wrap">
+          <table class="cmp">
+            <thead>
+              <tr><th>Criteriu</th><th>{comparison.aLabel}</th><th>{comparison.bLabel}</th></tr>
+            </thead>
+            <tbody>
+              {comparison.rows.map((r) => (
+                <tr><td class="cmp-crit">{r.criteriu}</td><td>{r.a}</td><td>{r.b}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        {comparison.verdict && <div class="callout"><b>Verdict:</b> {comparison.verdict}</div>}
+      </div>
+    </section>
+  )}
+
+  <!-- FAQ -->
+  {faq.length > 0 && (
+    <section style="padding-top:0">
+      <div class="wrap prose">
+        <span class="eyebrow">Întrebări frecvente</span>
+        <h2 style="margin-top:10px;margin-bottom:6px">Ce ne întreabă cititorii</h2>
+        {faq.map((f) => (
+          <details class="q">
+            <summary>{f.q}<span class="ic"><Icon name="plus" /></span></summary>
+            <div class="a">{f.a}</div>
+          </details>
+        ))}
+      </div>
+    </section>
+  )}
+
   <section class="method method-soft">
     <div class="wrap">
       <span class="eyebrow">Cum lucrăm</span>
@@ -152,4 +227,5 @@ const itemList = {
   </div>
 
   <Jsonld schema={itemList} />
+  {faq.length > 0 && <Jsonld schema={faqSchema} />}
 </Base>
