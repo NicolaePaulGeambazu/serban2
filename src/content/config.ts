@@ -14,6 +14,9 @@ const product = z.object({
   feedId: z.string().optional(),   // eMAG product id, used by scripts/sync-products.mjs to auto-update price/image/stock
   inStock: z.boolean().optional(), // updated by the feed sync (true/false)
   features: z.array(z.string()).default([]), // e.g. ["mop","autogolire","silentios"]
+  // Explicit sub-ranking membership (segment slugs from src/data/subcategories.ts).
+  // When present it overrides keyword matching, so a segment lists exactly these products.
+  segments: z.array(z.string()).optional(),
   specs: z.array(z.object({ value: z.string(), label: z.string() })).default([]),
   scores: z.array(z.object({ label: z.string(), pct: z.number() })).default([]),
   pros: z.array(z.string()).default([]),

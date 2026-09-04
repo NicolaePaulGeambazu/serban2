@@ -1,0 +1,1936 @@
+{
+  "title": "Cele mai bune routere Wi-Fi în 2026",
+  "h1": "Cele mai bune routere Wi-Fi în 2026",
+  "parent": "Electronice",
+  "icon": "router",
+  "order": 47,
+  "intro": "Routerul primit de la furnizor e aproape mereu prima limită a internetului din casă: acoperă greu mai mult de două camere, se împiedică la douăzeci de dispozitive conectate și, dacă ai porturi doar Gigabit, gâtuie un abonament de fibră rapid înainte să ajungă la Wi-Fi. Am ales și am comparat cele mai căutate routere și sisteme mesh din 2026 după standardul suportat (Wi-Fi 6, 6E sau 7), viteza pe benzi, porturile rapide de 2.5G și 10G și software-ul de administrare, de la modele de apartament până la kituri mesh pentru case pe mai multe niveluri.",
+  "author": "ana-popescu",
+  "updated": "2026-09-04",
+  "productsCount": 28,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai bun pentru gaming",
+      "productId": "p3"
+    },
+    {
+      "label": "Cel mai bun raport preț/calitate",
+      "productId": "p2"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "wifi7",
+      "label": "Wi-Fi 7"
+    },
+    {
+      "key": "wifi6",
+      "label": "Wi-Fi 6 / 6E"
+    },
+    {
+      "key": "mesh",
+      "label": "Sistem mesh"
+    },
+    {
+      "key": "port25",
+      "label": "Port 2.5G+"
+    },
+    {
+      "key": "gaming",
+      "label": "Gaming"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Wi-Fi 6, 6E sau 7: ce diferență faci în practică",
+      "body": "Wi-Fi 6 folosește benzile de 2.4 și 5 GHz și acoperă bine nevoile obișnuite. Wi-Fi 6E adaugă banda de 6 GHz, un spectru aproape gol în blocuri, deci mult mai puține interferențe de la vecini. Wi-Fi 7 păstrează cele trei benzi și adaugă MLO, care lasă un dispozitiv să folosească două benzi simultan, pentru o legătură mai stabilă. Câștigul apare doar dacă telefonul sau laptopul suportă standardul; un router Wi-Fi 7 nu face un telefon vechi mai rapid.",
+      "callout": "Dacă îți schimbi telefonul o dată la 2–3 ani, ia direct Wi-Fi 7. Dacă nu, un Wi-Fi 6 bun cu port 2.5G e mai rentabil."
+    },
+    {
+      "h3": "Porturile contează la fel de mult ca Wi-Fi-ul",
+      "body": "Un router cu porturi doar Gigabit limitează internetul la aproximativ 1 Gbps, indiferent cât de rapid e abonamentul sau cât promite Wi-Fi-ul. Dacă ai fibră de 1 Gbps sau mai mult, ai nevoie de cel puțin un port de 2.5G pe partea de WAN. Porturile de 2.5G sau 10G pe LAN sunt utile doar dacă ai NAS, PC de gaming sau consolă legate pe cablu."
+    },
+    {
+      "h3": "Router singur sau sistem mesh",
+      "body": "Un router bun acoperă un apartament de 2–4 camere pe același nivel. Din momentul în care apar etaje, pereți de beton sau o cameră mereu fără semnal, un sistem mesh cu două sau trei unități rezolvă problema mai bine, pentru că telefonul comută automat pe unitatea cea mai apropiată. Atenție la kiturile dual-band ieftine: legătura dintre unități împarte banda cu dispozitivele, deci viteza scade pe unitățile îndepărtate. Un mesh tri-band poate rezerva o bandă doar pentru legătura dintre unități.",
+      "callout": "Regula simplă: un nivel și până la 4 camere, router singur. Etaje sau peste 100 m², mesh."
+    },
+    {
+      "h3": "Software-ul face diferența pe termen lung",
+      "body": "Diferența dintre un router ieftin și unul scump cu specificații similare stă aproape mereu în firmware. Control parental cu profiluri pe fiecare membru al familiei, QoS care prioritizează jocurile sau apelurile video, rețele separate pentru dispozitivele smart și actualizări de securitate primite ani de zile — asta plătești la TP-Link HomeShield sau ASUS AiProtection. Brandurile de buget dau hardware bun, dar interfețe minimale."
+    }
+  ],
+  "comparison": {
+    "title": "Router singur vs. sistem mesh: ce alegi?",
+    "intro": "Cea mai frecventă decizie când schimbi rețeaua din casă, pe criteriile care contează în practică.",
+    "aLabel": "Router singur",
+    "bLabel": "Sistem mesh",
+    "rows": [
+      {
+        "criteriu": "Locuință potrivită",
+        "a": "Apartament, un nivel, până la 4 camere",
+        "b": "Casă, etaje, peste 100 m²"
+      },
+      {
+        "criteriu": "Viteză de vârf",
+        "a": "Mai mare pe același preț",
+        "b": "Împărțită între unități la modelele dual-band"
+      },
+      {
+        "criteriu": "Acoperire",
+        "a": "Scade rapid după 2 pereți groși",
+        "b": "Uniformă, cu roaming automat"
+      },
+      {
+        "criteriu": "Cost",
+        "a": "Mai mic pentru aceleași specificații",
+        "b": "Mai mare, plătești 2–3 unități"
+      },
+      {
+        "criteriu": "Instalare",
+        "a": "Un dispozitiv, o rețea",
+        "b": "Din aplicație, dar cere plasare gândită"
+      }
+    ],
+    "verdict": "Dacă locuiești pe un nivel și problema e viteza, un router singur bun cu port 2.5G îți dă mai mult pe același buget. Dacă problema e o cameră fără semnal sau un etaj întreg slab acoperit, niciun router singur nu rezolvă asta — trece direct la mesh."
+  },
+  "faq": [
+    {
+      "q": "Merită să iau un router Wi-Fi 7 în 2026?",
+      "a": "Merită dacă îți schimbi telefonul și laptopul relativ des, pentru că MLO și benzile suplimentare sunt folosite doar de dispozitive compatibile. Dacă majoritatea dispozitivelor din casă sunt Wi-Fi 5 sau 6, un router Wi-Fi 6 bun cu port de 2.5G îți dă un câștig practic mai mare pe leu, iar Wi-Fi 7 rămâne o investiție pentru viitor."
+    },
+    {
+      "q": "Am fibră de 1 Gbps. De ce nu ajung la viteza din abonament?",
+      "a": "Cel mai des din cauza porturilor. Un port Gigabit se saturează în jurul a 940 Mbps reali, deci un abonament de 1 Gbps e limitat exact la margine, iar unul mai rapid nu poate fi folosit deloc. Ai nevoie de un router cu port WAN de 2.5G. A doua cauză e Wi-Fi-ul: pe 2.4 GHz nu vei vedea niciodată 1 Gbps, indiferent de router."
+    },
+    {
+      "q": "Câte unități mesh îmi trebuie?",
+      "a": "Pentru un apartament mare pe un nivel, două unități sunt de obicei suficiente. Pentru o casă pe două niveluri, trei unități — una pe fiecare etaj plus una lângă zona cea mai folosită. Mai multe unități nu înseamnă automat mai bine: dacă sunt plasate prea departe una de alta, legătura dintre ele devine punctul slab."
+    },
+    {
+      "q": "Ce este MLO și de ce apare la fiecare router Wi-Fi 7?",
+      "a": "MLO (Multi-Link Operation) lasă un dispozitiv să folosească simultan două benzi, de exemplu 5 și 6 GHz, în loc să aleagă una. Practic, dacă o bandă e aglomerată sau semnalul scade, legătura nu se întrerupe, pentru că traficul continuă pe cealaltă. E util mai ales în blocuri, unde sunt multe rețele vecine, și pe legătura dintre unitățile unui sistem mesh."
+    },
+    {
+      "q": "Pot păstra routerul de la furnizor?",
+      "a": "Da, în majoritatea cazurilor. Îl setezi în mod bridge sau îți conectezi routerul nou la unul dintre porturile lui LAN și dezactivezi Wi-Fi-ul de pe el, ca să nu ai două rețele care se suprapun. Dacă furnizorul îl folosește și pentru televiziune sau telefonie, verifică întâi ce funcții pierzi în mod bridge."
+    },
+    {
+      "q": "Un router mai scump îmi mărește viteza abonamentului?",
+      "a": "Nu. Viteza maximă e cea din abonament; routerul poate doar să nu o limiteze. Ce câștigi de la un router mai bun e acoperire mai bună, stabilitate cu multe dispozitive conectate, latență mai constantă în jocuri și funcții de control și securitate. Dacă abonamentul tău e de 300 Mbps, un router de vârf nu îl va face mai rapid."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți oameni, un router Wi-Fi 7 de gamă medie cu cel puțin un port de 2.5G, precum Archer BE550, e alegerea echilibrată: acoperă un apartament, nu gâtuie fibra rapidă și rămâne relevant câțiva ani. Dacă problema ta e acoperirea, nu viteza, banii sunt mai bine investiți într-un sistem mesh cu două sau trei unități decât într-un router singur scump. Iar dacă te interesează latența în jocuri, un model cu firmware bogat de prioritizare a traficului face mai mult decât cifra de viteză de pe cutie.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Router Wireless TP-Link Archer BE550, BE9300, Tri-Band, Wi-Fi 7, OFMA, Beamforming, HomeShield Security, MLO, Compatibil cu EasyMesh, port 2.5G",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9.4,
+      "image": "/img/products/dsjxqxybm.jpg",
+      "feedId": "DSJXQXYBM",
+      "features": [
+        "wifi7",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE9300 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5G",
+          "label": "Port rapid"
+        },
+        {
+          "value": "MLO, EasyMesh",
+          "label": "Tehnologii"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 95
+        },
+        {
+          "label": "Acoperire",
+          "pct": 90
+        },
+        {
+          "label": "Porturi",
+          "pct": 88
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Tri-band Wi-Fi 7 cu MLO, care combină benzile pentru o legătură mai stabilă",
+        "Port 2.5G pentru abonamente de internet peste 1 Gbps",
+        "HomeShield acoperă control parental și protecție de bază pentru rețea"
+      ],
+      "cons": [
+        "Un singur port 2.5G, restul rămân Gigabit",
+        "Wi-Fi 7 se simte doar cu telefoane și laptopuri recente"
+      ],
+      "review": "Archer BE550 e routerul cu care recomandăm să începi dacă vrei Wi-Fi 7 fără să plătești cât un flagship. Are trei benzi și MLO, funcția care lasă dispozitivul să folosească două benzi simultan pentru o legătură mai stabilă în apartamentele aglomerate de rețele vecine. Portul de 2.5G contează concret: dacă ai abonament de 1 Gbps sau mai mult, un router doar cu porturi Gigabit îți limitează viteza chiar înainte de Wi-Fi. Pe partea de software, HomeShield acoperă control parental și filtrare de bază, iar compatibilitatea EasyMesh înseamnă că poți adăuga mai târziu o a doua unitate pentru acoperire, fără să schimbi routerul. Pentru un apartament de 2–4 camere sau o casă mică, e echilibrul cel mai bun între preț, viteză și opțiuni de extindere din tot acest top.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-be9300-tri-band-wi-fi-7-ofma-beamforming-homeshield-security-mlo-compatibil-cu-easymesh-port-2-5g-archer-be550/pd/DSJXQXYBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Router Wireless TP-Link Archer AX72, AX5400, Dual-Band, Wi-Fi 6, Dual-Core CPU, OFMA, Beamforming, HomeShield Security, Ultra-Low Latency, OneMesh™",
+      "tag": "Raport preț/calitate",
+      "score": 9,
+      "image": "/img/products/dmvvlpmbm.jpg",
+      "feedId": "DMVVLPMBM",
+      "features": [
+        "wifi6",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX5400 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        },
+        {
+          "value": "Dual-Core CPU",
+          "label": "Procesor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 86
+        },
+        {
+          "label": "Acoperire",
+          "pct": 87
+        },
+        {
+          "label": "Porturi",
+          "pct": 72
+        },
+        {
+          "label": "Software",
+          "pct": 90
+        }
+      ],
+      "pros": [
+        "AX5400 e suficient pentru streaming 4K pe mai multe ecrane simultan",
+        "Procesor dual-core care ține bine la multe dispozitive conectate",
+        "Preț mult sub modelele Wi-Fi 7, cu dotări software identice"
+      ],
+      "cons": [
+        "Doar porturi Gigabit, deci nu profită de abonamente peste 1 Gbps",
+        "Fără Wi-Fi 7, deci fără MLO"
+      ],
+      "review": "Archer AX72 e alegerea pragmatică: renunți la Wi-Fi 7 și primești în schimb cel mai bun preț pe viteză din acest top. AX5400 înseamnă bandă suficientă pentru câteva televizoare 4K, laptopuri de lucru și consolă în același timp, iar procesorul dual-core se descurcă atunci când numărul de dispozitive conectate crește peste douăzeci. Software-ul e același HomeShield din modelele mai scumpe, cu control parental și filtrare, plus OneMesh dacă vrei să adaugi un extender compatibil. Limitarea reală e la porturi: toate sunt Gigabit, așa că un abonament de 1 Gbps îl saturează exact la limită, iar unul mai rapid nu are cum să fie folosit. Dacă internetul tău e de 500–1000 Mbps și nu ai încă dispozitive Wi-Fi 7, e greu de argumentat de ce ai plăti dublu.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-ax5400-dual-band-wi-fi-6-dual-core-cpu-ofma-beamforming-homeshield-security-ultra-low-latency-onemeshtm-archer-ax72/pd/DMVVLPMBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Router Gaming Wireless ASUS RT-BE92U, BE9700, Tri-Band, Quad-Core 2.0GHz CPU, 256MB/1GB Flash/RAM, 4K-QAM, MLO, 10G WAN/LAN port, AiProtection Pro, Adaptive QoS, VPN Fusion, Instant Guard, IPTV, OFDMA, MU-MIMO, UTF-8 SSID, Port forwarding, AiMesh",
+      "tag": "Cel mai bun pentru gaming",
+      "score": 9.3,
+      "image": "/img/products/dyshhw3bm.jpg",
+      "feedId": "DYSHHW3BM",
+      "features": [
+        "wifi7",
+        "gaming",
+        "port25",
+        "asus"
+      ],
+      "segments": [],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE9700 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 10G WAN/LAN",
+          "label": "Port rapid"
+        },
+        {
+          "value": "AiProtection Pro",
+          "label": "Securitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 94
+        },
+        {
+          "label": "Acoperire",
+          "pct": 91
+        },
+        {
+          "label": "Porturi",
+          "pct": 95
+        },
+        {
+          "label": "Software",
+          "pct": 96
+        }
+      ],
+      "pros": [
+        "Port 10G configurabil ca WAN sau LAN, rar la acest nivel de preț",
+        "Adaptive QoS și Game Boost prioritizează traficul de joc",
+        "VPN Fusion și Instant Guard pentru conexiuni securizate din exterior"
+      ],
+      "cons": [
+        "Firmware-ul ASUS are multe setări, deci o curbă de învățare mai abruptă",
+        "Preț peste routerele Wi-Fi 7 de bază"
+      ],
+      "review": "RT-BE92U e routerul pentru cine se uită la latență, nu doar la viteza maximă. Portul de 10G poate fi folosit fie ca WAN, dacă ai un abonament foarte rapid, fie ca LAN spre un NAS sau un PC, iar tri-band-ul cu MLO lasă jocurile pe o bandă mai puțin aglomerată. Adaptive QoS și Game Boost din firmware-ul ASUS prioritizează pachetele de joc peste descărcări și streaming, exact scenariul care strică o seară de multiplayer când altcineva din casă începe un update. În plus, VPN Fusion îți permite să rutezi doar anumite dispozitive prin VPN, iar Instant Guard creează un tunel către casă când ești pe Wi-Fi public. Interfața are mai multe setări decât ai nevoie la început, dar tocmai asta o face potrivită pentru cine vrea control fin. AiMesh rămâne disponibil dacă adaugi ulterior o a doua unitate.",
+      "emagUrl": "https://www.emag.ro/router-gaming-wireless-asus-be9700-tri-band-quad-core-2-0ghz-cpu-256mb-1gb-flash-ram-4k-qam-mlo-10g-wan-lan-port-aiprotection-pro-adaptive-qos-vpn-fusion-instant-guard-iptv-ofdma-mu-mimo-utf-8-ssid-po/pd/DYSHHW3BM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Sistem Wi-Fi Mesh TP-Link Deco BE25(2-pack), BE3600, Wi-Fi 7, Dual-Band, porturi : 2 x 2.5 Gbps, compatibil Alexa si Google Assistant, HomeShield - control parental",
+      "tag": "Cel mai bun mesh accesibil",
+      "score": 9.1,
+      "image": "/img/products/dlkqmwybm.jpg",
+      "feedId": "DLKQMWYBM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE3600, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "2 x 2.5 Gbps",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 85
+        },
+        {
+          "label": "Acoperire",
+          "pct": 93
+        },
+        {
+          "label": "Porturi",
+          "pct": 84
+        },
+        {
+          "label": "Software",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Două unități care acoperă un apartament mare sau o casă pe două niveluri",
+        "Porturi de 2.5 Gbps pe fiecare unitate, nu doar Gigabit",
+        "Se configurează din aplicația Deco în câteva minute"
+      ],
+      "cons": [
+        "Dual-band, deci fără bandă dedicată pentru legătura dintre unități",
+        "BE3600 e la baza gamei Wi-Fi 7, nu pentru viteze extreme"
+      ],
+      "review": "Deco BE25 e cea mai simplă cale către un Wi-Fi care merge la fel de bine în fiecare cameră. Pachetul are două unități care formează o singură rețea, cu roaming automat între ele, așa că telefonul nu mai rămâne agățat de un semnal slab când treci dintr-o cameră în alta. Fiecare unitate are porturi de 2.5 Gbps, un detaliu care lipsește la multe kituri mesh ieftine și care contează dacă ai abonament peste 1 Gbps. Wi-Fi 7 aduce MLO, util mai ales pe legătura dintre unități. Fiind un sistem dual-band, unitățile împart benzile cu dispozitivele, deci într-o casă foarte mare și aglomerată un tri-band ar fi mai potrivit. Pentru un apartament de 3–4 camere sau o casă mică pe două etaje, acoperă exact nevoia, iar aplicația Deco face instalarea banală.",
+      "emagUrl": "https://www.emag.ro/sistem-wi-fi-mesh-tp-link-be3600-wi-fi-7-dual-band-porturi-2-x-2-5-gbps-compatibil-alexa-si-google-assistant-homeshield-control-parental-deco-be25-2-pack/pd/DLKQMWYBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Router Wireless Mercusys MR47BE, BE9300, Tri-Band, Wi-Fi 7, MLO, 4 porturi 2.5Gbps, compatibil EasyMesh",
+      "tag": "Wi-Fi 7 la preț mic",
+      "score": 8.9,
+      "image": "/img/products/db57ccybm.jpg",
+      "feedId": "DB57CCYBM",
+      "features": [
+        "wifi7",
+        "port25",
+        "mercusys"
+      ],
+      "segments": [],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE9300 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "4 x 2.5 Gbps",
+          "label": "Porturi"
+        },
+        {
+          "value": "MLO, EasyMesh",
+          "label": "Tehnologii"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 92
+        },
+        {
+          "label": "Acoperire",
+          "pct": 87
+        },
+        {
+          "label": "Porturi",
+          "pct": 93
+        },
+        {
+          "label": "Software",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Patru porturi de 2.5 Gbps, cel mai generos din segmentul său de preț",
+        "Tri-band BE9300 cu MLO, la un preț de router Wi-Fi 6",
+        "Compatibil EasyMesh, deci se poate extinde cu unități de la alți producători"
+      ],
+      "cons": [
+        "Software mai sărac decât la TP-Link sau ASUS",
+        "Fără funcții avansate de securitate sau QoS fin"
+      ],
+      "review": "Mercusys MR47BE face un lucru foarte clar: îți dă hardware de Wi-Fi 7 tri-band cu patru porturi de 2.5 Gbps la un preț la care alții încă vând Wi-Fi 6. Pe hârtie, BE9300 și MLO sunt aceleași specificații ca la modele mult mai scumpe, iar cele patru porturi rapide sunt utile dacă ai NAS, PC de gaming și consolă pe cablu. Compromisul e software-ul: interfața e simplă și îi lipsesc controlul parental avansat, QoS-ul fin și pachetele de securitate din ecosistemele TP-Link HomeShield sau ASUS AiProtection. Dacă îți configurezi rețeaua o dată și apoi o lași în pace, compromisul e ușor de acceptat. Dacă vrei să reglezi priorități, profiluri pe dispozitiv și rapoarte de trafic, merită să plătești mai mult. Compatibilitatea EasyMesh înseamnă că îl poți combina ulterior cu alte unități compatibile pentru acoperire.",
+      "emagUrl": "https://www.emag.ro/router-wireless-mercusys-be9300-tri-band-wi-fi-7-mlo-4-porturi-2-5gbps-compatibil-easymesh-mr47be/pd/DB57CCYBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Router Wireless ASUS RT-AX59U, AX4200, Dual-Band, Quad-Core 2.0GHz CPU, 128MB/512MB Flash/RAM, Gigabit, AiProtection Pro, Adaptive QoS, Instant Guard, VPN Fusion, IPTV, OFDMA, MU-MIMO, Beamforming, Port forwarding, AiMesh, suport montare pe perete",
+      "tag": "Software bogat",
+      "score": 8.7,
+      "image": "/img/products/dskbs5mbm.jpg",
+      "feedId": "DSKBS5MBM",
+      "features": [
+        "wifi6",
+        "asus"
+      ],
+      "segments": [
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX4200 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        },
+        {
+          "value": "AiProtection Pro",
+          "label": "Securitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 83
+        },
+        {
+          "label": "Acoperire",
+          "pct": 88
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 95
+        }
+      ],
+      "pros": [
+        "Firmware ASUS complet: Adaptive QoS, VPN Fusion, Instant Guard, IPTV",
+        "Procesor quad-core la 2.0 GHz, generos pentru un router Wi-Fi 6",
+        "Suport de montare pe perete inclus, util în holuri înguste"
+      ],
+      "cons": [
+        "Toate porturile sunt Gigabit",
+        "Dual-band, fără bandă suplimentară pentru dispozitivele rapide"
+      ],
+      "review": "RT-AX59U e routerul pe care îl alegi pentru software, nu pentru cifra de viteză. AX4200 e suficient pentru un apartament obișnuit, dar diferența față de modelele mai ieftine se vede în firmware: Adaptive QoS îți lasă să prioritizezi jocuri, streaming sau apeluri video, AiProtection Pro filtrează site-uri și dispozitive infectate, iar VPN Fusion rutează selectiv doar anumite dispozitive prin VPN. Procesorul quad-core la 2.0 GHz e neobișnuit de puternic pentru clasă și se simte când ai zeci de dispozitive smart conectate simultan. Limitarea e la porturi: toate sunt Gigabit, deci un abonament de peste 1 Gbps nu poate fi exploatat. Suportul de montare pe perete e un detaliu practic, mai ales dacă vrei să scoți routerul din raftul plin de cabluri. AiMesh rămâne varianta de extindere dacă ai nevoie mai târziu de acoperire în plus.",
+      "emagUrl": "https://www.emag.ro/router-wireless-asus-ax4200-dual-band-quad-core-2-0ghz-cpu-128mb-512mb-flash-ram-gigabit-aiprotection-pro-adaptive-qos-instant-guard-vpn-fusion-iptv-ofdma-mu-mimo-beamforming-port-forwarding-aimesh-su/pd/DSKBS5MBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Sistem Wi-Fi 7 Mesh HUAWEI X3 Pro Suite, 2 pack, 3.6Gbps dual-band, antena cross-floor, porturi 2.5GE, amplificare semnal, roaming seamless, diagnosticare vizualizata, setup facil",
+      "tag": "Acoperire pe mai multe etaje",
+      "score": 8.8,
+      "image": "/img/products/dmycbw3bm.jpg",
+      "feedId": "DMYCBW3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "huawei"
+      ],
+      "segments": [
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "3.6 Gbps, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "2.5GE",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 84
+        },
+        {
+          "label": "Acoperire",
+          "pct": 94
+        },
+        {
+          "label": "Porturi",
+          "pct": 83
+        },
+        {
+          "label": "Software",
+          "pct": 82
+        }
+      ],
+      "pros": [
+        "Antene cross-floor, gândite pentru semnal între etaje",
+        "Roaming seamless între unități, fără întreruperi la trecerea dintr-o cameră în alta",
+        "Instalare ghidată și diagnosticare vizuală în aplicație"
+      ],
+      "cons": [
+        "Dual-band, deci banda de legătură e împărțită cu dispozitivele",
+        "Ecosistem Huawei, mai puțin flexibil la extindere cu alte mărci"
+      ],
+      "review": "Huawei X3 Pro Suite pariază pe acoperire verticală, nu pe cifre de viteză. Antenele cross-floor sunt orientate pentru a trece prin plafon, ceea ce ajută concret în casele pe două sau trei niveluri, unde un router singur lasă mereu un etaj cu o bară de semnal. Pachetul de două unități formează o rețea unică, cu roaming automat, iar aplicația arată vizual unde semnalul e slab, ceea ce face plasarea unităților mult mai puțin ghicită. E un sistem dual-band, deci legătura dintre unități împarte banda cu dispozitivele conectate; într-o casă foarte încărcată, un tri-band ar avea mai mult cap de tabel. În schimb, setup-ul e printre cele mai simple, iar Wi-Fi 7 aduce MLO pentru o legătură mai stabilă. Extinderea se face cel mai bine cu unități Huawei, deci merită să te gândești din start la câte camere ai de acoperit.",
+      "emagUrl": "https://www.emag.ro/sistem-wi-fi-7-mesh-huawei-x3-pro-suite-2-pack-3-6gbps-dual-band-antena-cross-floor-porturi-2-5ge-amplificare-semnal-roaming-seamless-diagnosticare-vizualizata-setup-facil-53030eay/pd/DMYCBW3BM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Router Wireless Cudy WR11000, BE11000, Tri-Band, Wi-Fi 7, Quad-Core 1.5GHz, 128MB/512MB Flash/RAM, 4 Porturi 2.5G, MLO, Cudy Mesh",
+      "tag": "Cele mai multe porturi 2.5G",
+      "score": 8.8,
+      "image": "/img/products/dq8n133bm.jpg",
+      "feedId": "DQ8N133BM",
+      "features": [
+        "wifi7",
+        "port25",
+        "cudy"
+      ],
+      "segments": [],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE11000 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "4 x 2.5G",
+          "label": "Porturi"
+        },
+        {
+          "value": "Quad-Core 1.5GHz",
+          "label": "Procesor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 93
+        },
+        {
+          "label": "Acoperire",
+          "pct": 88
+        },
+        {
+          "label": "Porturi",
+          "pct": 94
+        },
+        {
+          "label": "Software",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "BE11000 tri-band, cu bandă generoasă pentru multe dispozitive rapide",
+        "Patru porturi de 2.5G, utile pentru NAS, PC și consolă pe cablu",
+        "Suportă Cudy Mesh pentru extindere cu o a doua unitate"
+      ],
+      "cons": [
+        "Brand mai puțin cunoscut, cu comunitate și suport mai mici",
+        "Interfața nu are rafinamentul celor de la TP-Link sau ASUS"
+      ],
+      "review": "Cudy WR11000 e propunerea pentru cine se uită strict la raportul dintre specificații și preț. BE11000 tri-band cu MLO și patru porturi de 2.5G e o combinație pe care marile branduri o cer mult mai scump, iar procesorul quad-core la 1.5 GHz ține pasul cu o casă plină de dispozitive. Cele patru porturi rapide schimbă lucrurile dacă ai NAS, PC de gaming și consolă legate pe cablu, pentru că nu mai ești limitat la 1 Gbps pe fiecare. Compromisurile sunt de ecosistem: Cudy e un brand mai mic, cu mai puțină documentație în română, mai puține tutoriale și o interfață mai austeră. Funcția Cudy Mesh acoperă nevoia de extindere, dar te leagă de aceeași marcă. Pentru cineva care își configurează rețeaua singur și nu are nevoie de asistență, e una dintre cele mai bune afaceri din acest top.",
+      "emagUrl": "https://www.emag.ro/router-wireless-cudy-be11000-tri-band-wi-fi-7-quad-core-1-5ghz-128mb-512mb-flash-ram-4-porturi-2-5g-mlo-cudy-mesh-wr11000/pd/DQ8N133BM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Router Wireless ASUS RT-BE58U, BE3600, Dual-Band, Quad-Core 2.0GHz CPU, 256MB/1GB Flash/RAM, 4K-QAM, 2.5G port, AiProtection Pro, NAT Passthrough , VPN, multiple SSIDs, IPTV, Beamforming, 4G LTE/5G Mobile Tethering, AiMesh",
+      "tag": "Wi-Fi 7 cu backup pe mobil",
+      "score": 8.6,
+      "image": "/img/products/dkb1ycybm.jpg",
+      "feedId": "DKB1YCYBM",
+      "features": [
+        "wifi7",
+        "port25",
+        "asus"
+      ],
+      "segments": [],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE3600 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5G",
+          "label": "Port rapid"
+        },
+        {
+          "value": "4G/5G tethering",
+          "label": "Backup"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 82
+        },
+        {
+          "label": "Acoperire",
+          "pct": 86
+        },
+        {
+          "label": "Porturi",
+          "pct": 80
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Poate folosi un modem 4G/5G pe USB ca internet de rezervă",
+        "Port 2.5G și 4K-QAM, la un preț de intrare în Wi-Fi 7",
+        "AiProtection Pro și mai multe SSID-uri pentru rețele separate"
+      ],
+      "cons": [
+        "Dual-band BE3600, deci fără a treia bandă",
+        "Viteza maximă e modestă pentru un router Wi-Fi 7"
+      ],
+      "review": "RT-BE58U e cel mai accesibil ASUS cu Wi-Fi 7 din acest top și are un atu practic pe care rar îl găsești: tethering pe 4G/5G. Dacă îți pică internetul fix, poți lega un modem mobil sau un telefon și rețeaua din casă continuă să funcționeze, ceea ce face diferența dacă lucrezi de acasă. Portul de 2.5G îl scoate din categoria routerelor limitate la Gigabit, iar 4K-QAM ajută la eficiența transmisiei către dispozitivele compatibile. Fiind dual-band BE3600, viteza maximă e modestă pentru standardul Wi-Fi 7, deci nu îl lua pentru cifre; îl iei pentru firmware-ul ASUS, cu AiProtection Pro, SSID-uri multiple pentru a separa dispozitivele smart de laptopuri și IPTV configurabil. AiMesh rămâne calea de extindere, cu o a doua unitate ASUS, atunci când apartamentul se transformă în casă.",
+      "emagUrl": "https://www.emag.ro/router-wireless-asus-be3600-dual-band-quad-core-2-0ghz-cpu-256mb-1gb-flash-ram-4k-qam-2-5g-port-aiprotection-pro-nat-passthrough-vpn-multiple-ssids-iptv-beamforming-4g-lte-5g-mobile-tethering-aimesh-r/pd/DKB1YCYBM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Router Wireless Mercusys MR90X, AX6000, Wi-Fi 6, Port 2.5 Gbps",
+      "tag": "Cel mai ieftin cu port 2.5G",
+      "score": 8.5,
+      "image": "/img/products/d4z7s5mbm.jpg",
+      "feedId": "D4Z7S5MBM",
+      "features": [
+        "wifi6",
+        "port25",
+        "mercusys"
+      ],
+      "segments": [
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX6000 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5 Gbps",
+          "label": "Port rapid"
+        },
+        {
+          "value": "Dual-band",
+          "label": "Benzi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 85
+        },
+        {
+          "label": "Acoperire",
+          "pct": 84
+        },
+        {
+          "label": "Porturi",
+          "pct": 81
+        },
+        {
+          "label": "Software",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "AX6000 și port 2.5 Gbps la un preț de router de intrare",
+        "Suficient de rapid pentru abonamente de peste 1 Gbps",
+        "Configurare simplă, fără setări care să te încurce"
+      ],
+      "cons": [
+        "Software minimalist, fără control parental avansat",
+        "Fără Wi-Fi 7 și fără MLO"
+      ],
+      "review": "Mercusys MR90X rezolvă o problemă specifică: ai abonament de peste 1 Gbps și nu vrei să plătești mult pentru un router care să îl poată folosi. AX6000 cu un port de 2.5 Gbps e exact combinația de care ai nevoie, iar restul e simplu și funcțional. Interfața e minimalistă, fără profiluri pe dispozitiv, rapoarte de trafic sau pachete de securitate, deci dacă vrei control parental serios va trebui să te uiți în altă parte. Nu are Wi-Fi 7, deci nici MLO, dar pentru majoritatea telefoanelor și laptopurilor aflate acum în casele oamenilor diferența practică e mică. Ca acoperire, e un router single potrivit pentru apartament; pentru o casă pe două niveluri, un sistem mesh e alegerea mai bună. La acest preț, e greu de găsit ceva care să dea mai multă viteză utilă pe leu.",
+      "emagUrl": "https://www.emag.ro/router-wireless-mercusys-ax6000-wi-fi-6-port-2-5-gbps-mr90x/pd/D4Z7S5MBM/"
+    },
+    {
+      "id": "p11",
+      "rank": 11,
+      "name": "Router Wireless TP-Link Archer BE900, BE24000, Quad-Band, Wi-Fi 7, MLO, 1 port 10G, 1 port SFP+ 10G, 4 porturi 2.5G, 2 porturi USB, Easy Mesh, HomeShield, Touchscreen and LED Screen",
+      "tag": "Flagship quad-band",
+      "score": 9.2,
+      "image": "/img/products/dd1k133bm.jpg",
+      "feedId": "DD1K133BM",
+      "features": [
+        "wifi7",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE24000 quad-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "10G + SFP+ 10G",
+          "label": "Porturi rapide"
+        },
+        {
+          "value": "Touchscreen",
+          "label": "Interfață"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 99
+        },
+        {
+          "label": "Acoperire",
+          "pct": 94
+        },
+        {
+          "label": "Porturi",
+          "pct": 99
+        },
+        {
+          "label": "Software",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Quad-band BE24000, cea mai mare capacitate din acest top",
+        "Port 10G plus SFP+ 10G și patru porturi de 2.5G",
+        "Ecran touchscreen pentru stare și setări rapide, fără aplicație"
+      ],
+      "cons": [
+        "Preț de câteva ori mai mare decât al unui router Wi-Fi 7 obișnuit",
+        "Foarte mare fizic, greu de ascuns într-un raft"
+      ],
+      "review": "Archer BE900 e vârful gamei TP-Link și se comportă ca așa ceva. Quad-band BE24000 înseamnă o bandă suplimentară de 6 GHz dedicată, deci capacitate reală pentru o casă cu zeci de dispozitive rapide simultan. Setul de porturi e neobișnuit acasă: un port 10G electric, un SFP+ 10G pentru fibră directă și patru porturi de 2.5G, plus două USB pentru stocare partajată. Ecranul touchscreen frontal arată stare, trafic și setări rapide fără să deschizi aplicația, iar ecranul LED e o chestiune de gust. Costul e principala barieră: plătești de câteva ori mai mult decât pentru un Wi-Fi 7 de bază, iar diferența se simte doar dacă ai internet foarte rapid, echipamente 10G sau foarte multe dispozitive. E un router pentru cine vrea capul de tabel și are cu ce să îl folosească.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-archer-be900-be24000-quad-band-wi-fi-7-mlo-1-port-10g-1-port-sfp-10g-4-porturi-2-5g-2-porturi-usb-easy-mesh-homeshield-touchscreen-and-led-screen-archer-be900/pd/DD1K133BM/"
+    },
+    {
+      "id": "p12",
+      "rank": 12,
+      "name": "Sistem Mesh Wi-Fi TP-Link Deco BE65 Pro(3-pack), BE9300, Tri-Band, Wi-Fi 7, MLO, HomeShield, 2 porturi 5Gbps si 1 port 2.5Gbps, cu acoperire pentru intreaga casa",
+      "tag": "Mesh premium",
+      "score": 9.2,
+      "image": "/img/products/d6rhgs3bm.jpg",
+      "feedId": "D6RHGS3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE9300, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "2 x 5G + 1 x 2.5G",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 94
+        },
+        {
+          "label": "Acoperire",
+          "pct": 97
+        },
+        {
+          "label": "Porturi",
+          "pct": 95
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Trei unități tri-band pentru case mari, pe mai multe niveluri",
+        "Porturi de 5 Gbps, rare chiar și la sisteme mesh premium",
+        "Bandă tri-band, deci legătura dintre unități nu fură din viteza dispozitivelor"
+      ],
+      "cons": [
+        "Cel mai scump sistem mesh din acest top",
+        "Supradimensionat pentru un apartament de două camere"
+      ],
+      "review": "Deco BE65 Pro e sistemul pe care îl alegi când ai o casă mare și nu vrei compromisuri. Trei unități tri-band Wi-Fi 7 acoperă confortabil mai multe niveluri, iar faptul că sunt tri-band contează concret: legătura dintre unități poate folosi o bandă separată, așa că nu se taie din viteza dispozitivelor conectate, cum se întâmplă la kiturile dual-band. Porturile de 5 Gbps sunt neobișnuite chiar și în segmentul premium și îți lasă loc de creștere dacă abonamentul se schimbă. HomeShield acoperă control parental și securitate, iar aplicația Deco face administrarea simplă în ciuda hardware-ului serios. Singurul argument împotrivă e prețul, care îl scoate din discuție pentru apartamente mici, unde un singur router bun face aceeași treabă. Dacă însă ai etaje, pereți groși și mulți utilizatori, e cea mai completă soluție de aici.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-tp-link-be9300-tri-band-wi-fi-7-mlo-homeshield-2-porturi-5gbps-si-1-port-2-5gbps-cu-acoperire-pentru-intreaga-casa-deco-be65-pro-3-pack/pd/D6RHGS3BM/"
+    },
+    {
+      "id": "p13",
+      "rank": 13,
+      "name": "Sistem Mesh Wi-Fi TP-Link Deco BE65(3-pack), BE9300, Tri-Band, Wi-Fi 7, MLO, HomeShield, 4 porturi 2.5G, cu acoperire pentru intreaga casa",
+      "tag": "Mesh Wi-Fi 7 tri-band",
+      "score": 9,
+      "image": "/img/products/d5bvvfybm.jpg",
+      "feedId": "D5BVVFYBM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE9300, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "4 x 2.5G",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 92
+        },
+        {
+          "label": "Acoperire",
+          "pct": 96
+        },
+        {
+          "label": "Porturi",
+          "pct": 91
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Trei unități tri-band cu MLO, pentru acoperire completă",
+        "Patru porturi de 2.5G pe unitatea principală",
+        "Aplicația Deco și HomeShield, printre cele mai bune de administrat"
+      ],
+      "cons": [
+        "Preț ridicat față de kiturile mesh dual-band",
+        "Trei unități sunt prea multe pentru un apartament mic"
+      ],
+      "review": "Deco BE65 e varianta ceva mai accesibilă a sistemului premium și păstrează partea care contează: tri-band. A treia bandă poate fi rezervată legăturii dintre unități, deci acoperirea nu se plătește cu jumătate din viteză, problema clasică a kiturilor dual-band ieftine. Pachetul de trei unități e gândit pentru case, nu apartamente, iar cele patru porturi de 2.5G de pe unitatea principală acoperă un NAS și un PC pe cablu fără să limitezi nimic la 1 Gbps. MLO din Wi-Fi 7 ajută la stabilitate în zonele cu multe rețele vecine. Administrarea prin aplicația Deco rămâne cel mai simplu mod de a gestiona un mesh, cu control parental, profiluri și rapoarte. Dacă ai o casă pe două niveluri și vrei să nu te mai gândești la semnal timp de câțiva ani, e o alegere solidă.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-tp-link-deco-be65-3-pack-be9300-tri-band-wi-fi-7-mlo-homeshield-4-porturi-2-5g-cu-acoperire-pentru-intreaga-casa-deco-be65-3-pack/pd/D5BVVFYBM/"
+    },
+    {
+      "id": "p14",
+      "rank": 14,
+      "name": "Router Wireless TP-Link Archer BE450, BE7200, Dual-Band, Wi-Fi 7, MLO, Port 10G, Port 2.5G, port USB 3.0, HomeShield, EasyMesh",
+      "tag": "Cel mai ieftin cu port 10G",
+      "score": 8.9,
+      "image": "/img/products/dtww7k3bm.jpg",
+      "feedId": "DTWW7K3BM",
+      "features": [
+        "wifi7",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE7200 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "10G + 2.5G",
+          "label": "Porturi rapide"
+        },
+        {
+          "value": "USB 3.0",
+          "label": "Extra"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 89
+        },
+        {
+          "label": "Acoperire",
+          "pct": 87
+        },
+        {
+          "label": "Porturi",
+          "pct": 93
+        },
+        {
+          "label": "Software",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Port 10G plus port 2.5G, la un preț de router de gamă medie",
+        "USB 3.0 pentru stocare partajată în rețea",
+        "Wi-Fi 7 cu MLO și compatibilitate EasyMesh"
+      ],
+      "cons": [
+        "Dual-band, deci fără bandă de 6 GHz dedicată",
+        "BE7200 e sub tri-band-urile din vârful topului"
+      ],
+      "review": "Archer BE450 e o alegere neobișnuit de bună dacă te interesează porturile. Un port 10G la acest preț e rar, iar împreună cu portul de 2.5G îți dă spațiu de manevră fie pentru un abonament foarte rapid, fie pentru un NAS legat direct la 10 gigabiți. Wi-Fi 7 e prezent, cu MLO, dar în variantă dual-band, deci fără banda de 6 GHz pe care o au tri-band-urile din vârf; pentru majoritatea locuințelor diferența e mică, pentru case foarte încărcate contează. Portul USB 3.0 permite partajarea unui stick sau hard disk în rețea, o funcție simplă care rezolvă nevoia de bază de stocare comună. HomeShield acoperă control parental și securitate, iar EasyMesh lasă poarta deschisă pentru extindere. Pentru cineva cu echipamente pe cablu și internet rapid, e cel mai mult port pe leu de aici.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-be7200-dual-band-wi-fi-7-mlo-port-10g-port-2-5g-port-usb-3-0-homeshield-easymesh-archer-be450/pd/DTWW7K3BM/"
+    },
+    {
+      "id": "p15",
+      "rank": 15,
+      "name": "Router Wireless TP-Link Archer AX80, AX6000, Dual-Band Wi-Fi 6, Port 2.5G, USB 3.0, OFMA, Beamforming, HomeShield Security, TP-Link OneMesh™",
+      "tag": "AX6000 cu port 2.5G",
+      "score": 8.7,
+      "image": "/img/products/dh6fz5mbm.jpg",
+      "feedId": "DH6FZ5MBM",
+      "features": [
+        "wifi6",
+        "port25",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX6000 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5G",
+          "label": "Port rapid"
+        },
+        {
+          "value": "USB 3.0",
+          "label": "Extra"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 87
+        },
+        {
+          "label": "Acoperire",
+          "pct": 88
+        },
+        {
+          "label": "Porturi",
+          "pct": 82
+        },
+        {
+          "label": "Software",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "AX6000, aproape de limita practică a Wi-Fi 6",
+        "Port 2.5G pentru abonamente peste 1 Gbps",
+        "USB 3.0 și HomeShield, dotări complete pentru un router Wi-Fi 6"
+      ],
+      "cons": [
+        "Fără Wi-Fi 7, deci fără MLO",
+        "Un singur port rapid, restul Gigabit"
+      ],
+      "review": "Archer AX80 e ce arată Wi-Fi 6 când e dus la capăt. AX6000 e aproape de limita practică a standardului, iar portul de 2.5G îl face compatibil cu abonamentele de peste 1 Gbps, ceea ce lipsește la majoritatea routerelor Wi-Fi 6 mai vechi. Pentru o casă cu multe dispozitive care nu sunt încă Wi-Fi 7, e o alegere foarte rezonabilă: primești banda și porturile fără să plătești pentru un standard pe care telefoanele tale actuale nu îl folosesc. USB 3.0 acoperă partajarea unui hard disk în rețea, iar HomeShield aduce control parental și filtrare. Ce nu ai e MLO, funcția din Wi-Fi 7 care combină benzile pentru o legătură mai stabilă în medii aglomerate. Dacă îți schimbi telefonul și laptopul des, merită să treci direct la Wi-Fi 7; dacă nu, AX80 rămâne o cumpărătură matură.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-ax6000-dual-band-wi-fi-6-port-2-5g-usb-3-0-ofma-beamforming-homeshield-security-tp-link-onemeshtm-archer-ax80/pd/DH6FZ5MBM/"
+    },
+    {
+      "id": "p16",
+      "rank": 16,
+      "name": "Router Wireless TP-Link Archer AXE75, AX5400, Wi-Fi 6E, Tri-Band, Gigabit, Tehnologie OneMesh™, Beamforming, Port USB 3.0",
+      "tag": "Cel mai bun Wi-Fi 6E",
+      "score": 8.6,
+      "image": "/img/products/dn0bwzmbm.jpg",
+      "feedId": "DN0BWZMBM",
+      "features": [
+        "wifi6",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6E",
+          "label": "Standard"
+        },
+        {
+          "value": "AX5400 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        },
+        {
+          "value": "USB 3.0",
+          "label": "Extra"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 86
+        },
+        {
+          "label": "Acoperire",
+          "pct": 87
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "Bandă de 6 GHz liberă, fără interferențe de la rețelele vecine",
+        "Tri-band, deci dispozitivele rapide pot fi separate de restul",
+        "USB 3.0 și OneMesh pentru extindere"
+      ],
+      "cons": [
+        "Toate porturile sunt Gigabit",
+        "Banda de 6 GHz e folosită doar de dispozitive recente"
+      ],
+      "review": "Archer AXE75 aduce banda de 6 GHz, marele avantaj al Wi-Fi 6E: e un spectru practic gol în blocurile aglomerate, unde 2.4 și 5 GHz sunt sufocate de zeci de rețele vecine. Dacă ai un telefon sau un laptop compatibil, diferența de stabilitate se simte mai mult decât cifra de viteză. Fiind tri-band, poți lăsa dispozitivele smart pe 2.4 GHz, laptopurile pe 5 GHz și cele mai noi pe 6 GHz, ceea ce descarcă fiecare bandă. Limitarea clară e la porturi: toate sunt Gigabit, deci nu îl lua dacă ai abonament de peste 1 Gbps. OneMesh și HomeShield acoperă extinderea și controlul parental. E o alegere bună pentru apartamente în clădiri cu multe rețele, unde problema nu e viteza abonamentului, ci aglomerația din eter.",
+      "emagUrl": "https://www.emag.ro/router-wireless-tp-link-ax5400-wi-fi-6e-tri-band-gigabit-tehnologie-onemeshtm-beamforming-port-usb-3-0-archer-axe75/pd/DN0BWZMBM/"
+    },
+    {
+      "id": "p17",
+      "rank": 17,
+      "name": "Router Gaming Wireless ASUS RT-AXE7800, AXE7800, Tri-Band, Quad-Core 1.7GHz CPU, 256MB/512MB Flash/RAM, 2.5G port, AiProtection Pro, Adaptive QoS, VPN Fusion, Instant Guard, IPTV, OFDMA, MU-MIMO, Beamforming, Link Aggregation, Port forwarding, AiMesh",
+      "tag": "Gaming tri-band 6E",
+      "score": 8.8,
+      "image": "/img/products/dbdl2qmbm.jpg",
+      "feedId": "DBDL2QMBM",
+      "features": [
+        "wifi6",
+        "gaming",
+        "port25",
+        "asus"
+      ],
+      "segments": [
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6E",
+          "label": "Standard"
+        },
+        {
+          "value": "AXE7800 tri-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5G",
+          "label": "Port rapid"
+        },
+        {
+          "value": "Adaptive QoS",
+          "label": "Gaming"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 90
+        },
+        {
+          "label": "Acoperire",
+          "pct": 89
+        },
+        {
+          "label": "Porturi",
+          "pct": 83
+        },
+        {
+          "label": "Software",
+          "pct": 96
+        }
+      ],
+      "pros": [
+        "Tri-band cu bandă de 6 GHz, ideală pentru jocuri fără interferențe",
+        "Adaptive QoS, VPN Fusion și Link Aggregation în firmware",
+        "Port 2.5G pentru abonamente rapide"
+      ],
+      "cons": [
+        "Fără Wi-Fi 7, deci fără MLO",
+        "Firmware-ul cere răbdare la prima configurare"
+      ],
+      "review": "RT-AXE7800 e alegerea de gaming pentru cine nu vrea să plătească pentru Wi-Fi 7. Banda de 6 GHz din Wi-Fi 6E e cel mai curat spectru disponibil acum într-un bloc, iar dacă îți muți PC-ul sau consola acolo, latența devine mult mai constantă. Firmware-ul ASUS face restul: Adaptive QoS prioritizează traficul de joc peste descărcări, Link Aggregation combină două porturi pentru un NAS mai rapid, iar VPN Fusion rutează selectiv doar ce vrei tu prin VPN. Portul de 2.5G înseamnă că abonamentele peste 1 Gbps nu sunt gâtuite. Ce nu are e MLO, funcția Wi-Fi 7 care combină benzile pentru stabilitate; în schimb, tri-band-ul îți dă control manual pe separarea dispozitivelor, ceea ce în practică rezolvă aceeași problemă. Prima configurare cere puțină răbdare, dar apoi ai cel mai bogat set de setări din segment.",
+      "emagUrl": "https://www.emag.ro/router-gaming-wireless-asus-axe7800-tri-band-quad-core-1-7ghz-cpu-256mb-512mb-flash-ram-2-5g-port-aiprotection-pro-adaptive-qos-vpn-fusion-instant-guard-iptv-ofdma-mu-mimo-beamforming-link-aggregation/pd/DBDL2QMBM/"
+    },
+    {
+      "id": "p18",
+      "rank": 18,
+      "name": "Router Gaming Wireless ASUS TUF Gaming AX3000 V2, AX3000, Dual-Band, Quad-Core 1.7GHz CPU, 256MB/512MB Flash/RAM, 2.5G port, AiProtection Pro, Adaptive QoS, VPN Fusion, IPTV, OFDMA, Beamforming, Link Aggregation, Port forwarding, Game Boost, AiMesh",
+      "tag": "Gaming accesibil",
+      "score": 8.5,
+      "image": "/img/products/dqxvncmbm.jpg",
+      "feedId": "DQXVNCMBM",
+      "features": [
+        "wifi6",
+        "gaming",
+        "port25",
+        "asus"
+      ],
+      "segments": [
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "1 x 2.5G",
+          "label": "Port rapid"
+        },
+        {
+          "value": "Game Boost",
+          "label": "Gaming"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 80
+        },
+        {
+          "label": "Acoperire",
+          "pct": 85
+        },
+        {
+          "label": "Porturi",
+          "pct": 82
+        },
+        {
+          "label": "Software",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Game Boost și Adaptive QoS la cel mai mic preț dintre routerele ASUS de gaming",
+        "Port 2.5G, neobișnuit pentru un AX3000",
+        "Link Aggregation pentru NAS și AiProtection Pro inclus"
+      ],
+      "cons": [
+        "AX3000 e viteza cea mai modestă din top",
+        "Dual-band, fără bandă de 6 GHz"
+      ],
+      "review": "TUF Gaming AX3000 V2 e cea mai ieftină cale către firmware-ul de gaming ASUS. AX3000 nu impresionează pe hârtie, dar pentru un PC și o consolă care oricum nu saturează banda, ce contează e prioritizarea: Game Boost și Adaptive QoS pun pachetele de joc înaintea descărcărilor din casă, exact scenariul care produce lag. Portul de 2.5G e neașteptat la acest nivel de viteză și îl face compatibil cu abonamentele peste 1 Gbps, iar Link Aggregation permite legarea a două porturi spre un NAS. AiProtection Pro adaugă filtrare și control parental fără abonament separat. Limitările sunt clare: dual-band, deci fără banda curată de 6 GHz, și o viteză maximă modestă dacă ai mulți utilizatori simultan. Pentru un gamer cu buget strâns care vrea totuși control fin pe trafic, e cel mai rezonabil punct de intrare.",
+      "emagUrl": "https://www.emag.ro/router-gaming-wireless-asus-tuf-gaming-ax3000-v2-ax3000-dual-band-quad-core-1-7ghz-cpu-256mb-512mb-flash-ram-2-5g-port-aiprotection-pro-adaptive-qos-vpn-fusion-iptv-ofdma-beamforming-link-aggregation-/pd/DQXVNCMBM/"
+    },
+    {
+      "id": "p19",
+      "rank": 19,
+      "name": "Router Wireless Wi-Fi 6 TP-Link Archer AX73, Dual-Band, Gigabit, AX5400, Beamforming, OFDMA, MU-MIMO, HomeShield, OneMesh™, 6 antene Wi-Fi",
+      "tag": "Acoperire cu 6 antene",
+      "score": 8.5,
+      "image": "/img/products/d9wgtdmbm.jpg",
+      "feedId": "D9WGTDMBM",
+      "features": [
+        "wifi6",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "wi-fi-6"
+      ],
+      "specs": [
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX5400 dual-band",
+          "label": "Viteză"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        },
+        {
+          "value": "6 antene",
+          "label": "Acoperire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 85
+        },
+        {
+          "label": "Acoperire",
+          "pct": 90
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 91
+        }
+      ],
+      "pros": [
+        "Șase antene externe pentru acoperire mai bună prin pereți",
+        "AX5400 suficient pentru streaming 4K pe mai multe ecrane",
+        "HomeShield și OneMesh incluse"
+      ],
+      "cons": [
+        "Doar porturi Gigabit",
+        "Antenele mari îl fac vizibil, greu de ascuns"
+      ],
+      "review": "Archer AX73 e routerul de acoperire din gama Wi-Fi 6 a TP-Link. Cele șase antene externe nu sunt marketing gol: într-un apartament cu pereți de beton, un router cu antene mari și beamforming ține semnalul mai bine în camerele îndepărtate decât un model compact cu antene interne. AX5400 acoperă confortabil câteva televizoare 4K, laptopuri de lucru și telefoane, iar HomeShield adaugă control parental și filtrare de bază. Punctul slab e setul de porturi, toate Gigabit, deci abonamentele de peste 1 Gbps nu pot fi folosite complet. Estetic, e un router care se vede: cele șase antene cer un loc deschis, ceea ce e de fapt bine pentru semnal, dar mai puțin bine pentru raftul din living. OneMesh permite adăugarea unui extender compatibil dacă mai rămâne o cameră descoperită.",
+      "emagUrl": "https://www.emag.ro/router-wireless-wi-fi-6-tp-link-dual-band-gigabit-ax5400-beamforming-ofdma-mu-mimo-homeshield-onemeshtm-6-antene-wi-fi-archer-ax73/pd/D9WGTDMBM/"
+    },
+    {
+      "id": "p20",
+      "rank": 20,
+      "name": "Sistem Mesh Wi-Fi TP-Link Deco BE22(3-pack), BE3600, Dual-Band, Wi-Fi 7, MLO, HomeShield, cu acoperire pentru intreaga casa",
+      "tag": "Mesh Wi-Fi 7 cu 3 unități",
+      "score": 8.7,
+      "image": "/img/products/d35hgs3bm.jpg",
+      "feedId": "D35HGS3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE3600, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 82
+        },
+        {
+          "label": "Acoperire",
+          "pct": 95
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Trei unități, cea mai mare acoperire dintre kiturile accesibile",
+        "Wi-Fi 7 cu MLO pentru o legătură mai stabilă între unități",
+        "HomeShield și aplicația Deco, simple de administrat"
+      ],
+      "cons": [
+        "Porturi Gigabit, fără port 2.5G",
+        "Dual-band, deci legătura dintre unități împarte banda"
+      ],
+      "review": "Deco BE22 e răspunsul pentru case mari cu buget rezonabil: primești trei unități Wi-Fi 7 la prețul la care alții vând două. Acoperirea e principalul argument, iar pentru o casă pe două niveluri cu pereți groși, trei puncte de acces rezolvă mai multe probleme decât un singur router puternic. MLO din Wi-Fi 7 ajută la stabilitatea legăturii dintre unități, care la sistemele dual-band e partea cea mai fragilă. Compromisurile sunt vizibile: toate porturile sunt Gigabit, deci un abonament de peste 1 Gbps nu poate fi exploatat, iar dual-band-ul înseamnă că traficul dintre unități împarte banda cu dispozitivele. Dacă internetul tău e de până la 1 Gbps și problema ta e acoperirea, nu viteza de vârf, e alegerea logică. Dacă ai fibră mai rapidă, urcă la un kit cu porturi de 2.5G.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-tp-link-be3600-dual-band-wi-fi-7-mlo-homeshield-cu-acoperire-pentru-intreaga-casa-deco-be22-3-pack/pd/D35HGS3BM/"
+    },
+    {
+      "id": "p21",
+      "rank": 21,
+      "name": "Sistem Mesh Wi-Fi Mercusys Halo H37BE(2-pack), BE6500, Dual-Band, Wi-Fi 7, MLO, 2 x 2.5 Gbps port + 1 x 1 Gbps port, cu acoperire completa pentru casa",
+      "tag": "Mesh cu porturi rapide",
+      "score": 8.6,
+      "image": "/img/products/dwrhgs3bm.jpg",
+      "feedId": "DWRHGS3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "mercusys"
+      ],
+      "segments": [
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE6500, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "2 x 2.5 Gbps",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 87
+        },
+        {
+          "label": "Acoperire",
+          "pct": 90
+        },
+        {
+          "label": "Porturi",
+          "pct": 88
+        },
+        {
+          "label": "Software",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "BE6500, mai multă bandă decât kiturile mesh de intrare",
+        "Două porturi de 2.5 Gbps, pentru abonamente rapide",
+        "Preț mic pentru un mesh Wi-Fi 7 cu porturi rapide"
+      ],
+      "cons": [
+        "Software simplu, fără control parental avansat",
+        "Doar două unități, deci acoperire limitată în case foarte mari"
+      ],
+      "review": "Halo H37BE e kitul mesh pe care îl alegi când ai internet rapid și buget mic. BE6500 e peste ce oferă majoritatea sistemelor mesh de intrare, iar cele două porturi de 2.5 Gbps rezolvă exact problema care apare la kiturile ieftine: un abonament de 1 Gbps sau mai mult, gâtuit de porturi Gigabit. Wi-Fi 7 aduce MLO, util mai ales pe legătura dintre cele două unități. Ce plătești mai puțin se vede în software: interfața Mercusys e simplă, fără profiluri fine pe dispozitiv, rapoarte de trafic detaliate sau pachete de securitate. Dacă vrei control parental serios, TP-Link Deco e mai potrivit. Cu două unități acoperi bine un apartament mare sau o casă mică; pentru case pe trei niveluri, un kit cu trei unități e mai sigur. Ca hardware pe leu, e printre cele mai bune de aici.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-mercusys-be6500-dual-band-wi-fi-7-mlo-2-x-2-5-gbps-port-1-x-1-gbps-port-cu-acoperire-completa-pentru-casa-halo-h37be-2-pack/pd/DWRHGS3BM/"
+    },
+    {
+      "id": "p22",
+      "rank": 22,
+      "name": "Sistem Mesh Wi-Fi Mercusys Halo H27BE(3-pack), BE3600, Dual-Band, Wi-Fi 7, MLO, 1 x 2.5 Gbps port + 2 x 1 Gbps port, cu acoperire completa pentru casa",
+      "tag": "Mesh cu 3 unități, buget mic",
+      "score": 8.4,
+      "image": "/img/products/db5hgs3bm.jpg",
+      "feedId": "DB5HGS3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "port25",
+        "mercusys"
+      ],
+      "segments": [
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE3600, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "1 x 2.5 Gbps",
+          "label": "Port rapid"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 80
+        },
+        {
+          "label": "Acoperire",
+          "pct": 94
+        },
+        {
+          "label": "Porturi",
+          "pct": 80
+        },
+        {
+          "label": "Software",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Trei unități Wi-Fi 7 la un preț foarte mic",
+        "Un port de 2.5 Gbps pe unitatea principală",
+        "Acoperire bună pentru case pe două niveluri"
+      ],
+      "cons": [
+        "BE3600 dual-band, deci viteză de vârf modestă",
+        "Interfață simplă, fără funcții avansate"
+      ],
+      "review": "Halo H27BE atacă un scenariu foarte concret: casă cu mai multe camere, buget mic, internet decent. Trei unități Wi-Fi 7 la acest preț e o propunere greu de egalat, iar portul de 2.5 Gbps de pe unitatea principală arată că nu s-a tăiat chiar de la toate. Ce se taie e viteza de vârf: BE3600 dual-band e la baza gamei Wi-Fi 7, deci nu îl lua dacă ai mulți utilizatori care trag simultan de bandă. MLO ajută la stabilitatea legăturii dintre unități, partea sensibilă a oricărui mesh dual-band. Software-ul e simplu și funcțional, fără profiluri detaliate sau rapoarte, ceea ce e în regulă dacă îl configurezi o dată și îl uiți. Pentru acoperire pe suprafață mare cu bani puțini, e cea mai directă soluție din acest top.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-mercusys-be3600-dual-band-wi-fi-7-mlo-1-x-2-5-gbps-port-2-x-1-gbps-port-cu-acoperire-completa-pentru-casa-halo-h27be-3-pack/pd/DB5HGS3BM/"
+    },
+    {
+      "id": "p23",
+      "rank": 23,
+      "name": "Sistem Mesh Wi-Fi Mercusys Halo H25BE(2-pack), BE3600, Dual-Band, Wi-Fi 7, MLO, 3 x 1 Gbps port, cu acoperire completa pentru casa",
+      "tag": "Cel mai ieftin mesh Wi-Fi 7",
+      "score": 8.3,
+      "image": "/img/products/dr3yml3bm.jpg",
+      "feedId": "DR3YML3BM",
+      "features": [
+        "wifi7",
+        "mesh",
+        "mercusys"
+      ],
+      "segments": [
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 7",
+          "label": "Standard"
+        },
+        {
+          "value": "BE3600, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "3 x 1 Gbps",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 79
+        },
+        {
+          "label": "Acoperire",
+          "pct": 88
+        },
+        {
+          "label": "Porturi",
+          "pct": 68
+        },
+        {
+          "label": "Software",
+          "pct": 76
+        }
+      ],
+      "pros": [
+        "Cel mai mic preț de intrare într-un sistem mesh Wi-Fi 7",
+        "Două unități suficiente pentru un apartament mare",
+        "MLO pentru o legătură mai stabilă între unități"
+      ],
+      "cons": [
+        "Doar porturi Gigabit, fără port 2.5G",
+        "BE3600 dual-band, cu viteză de vârf modestă"
+      ],
+      "review": "Halo H25BE e punctul de intrare în mesh Wi-Fi 7 și își asumă asta onest. Pentru un apartament mare unde routerul de la furnizor lasă o cameră fără semnal, două unități care formează o rețea unică rezolvă problema mult mai elegant decât un extender. MLO din Wi-Fi 7 ajută la stabilitatea legăturii dintre unități, iar roaming-ul automat înseamnă că telefonul comută singur pe unitatea mai apropiată. Compromisurile sunt clare: toate porturile sunt Gigabit, deci un abonament de peste 1 Gbps rămâne nefolosit complet, iar BE3600 dual-band e la baza gamei, cu viteză de vârf modestă când mai mulți utilizatori trag simultan. Software-ul e minimal. Dacă internetul tău e de până la 1 Gbps și problema reală e acoperirea, e cea mai ieftină cale corectă. Dacă ai fibră mai rapidă, urcă un nivel.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-mercusys-be3600-dual-band-wi-fi-7-mlo-3-x-1-gbps-port-cu-acoperire-completa-pentru-casa-halo-h25be-2-pack/pd/DR3YML3BM/"
+    },
+    {
+      "id": "p24",
+      "rank": 24,
+      "name": "Sistem Mesh Wi-Fi TP-Link Deco X50(3-pack), Dual-Band, Gigabit, AX3000, cu acoperire completa pentru casa, Seamless Roaming, Antivirus, Control Parental si Control Vocal",
+      "tag": "Mesh Wi-Fi 6 clasic",
+      "score": 8.4,
+      "image": "/img/products/d8g8hfmbm.jpg",
+      "feedId": "D8G8HFMBM",
+      "features": [
+        "wifi6",
+        "mesh",
+        "tplink"
+      ],
+      "segments": [
+        "tp-link",
+        "wi-fi-6",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 78
+        },
+        {
+          "label": "Acoperire",
+          "pct": 93
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 93
+        }
+      ],
+      "pros": [
+        "Trei unități, model matur, cu multă documentație și suport",
+        "Antivirus, control parental și control vocal incluse",
+        "Aplicația Deco face instalarea foarte simplă"
+      ],
+      "cons": [
+        "Wi-Fi 6, fără MLO",
+        "Porturi Gigabit și dual-band"
+      ],
+      "review": "Deco X50 e sistemul mesh cel mai bine rodat din acest top. Nu are Wi-Fi 7 și nici porturi rapide, dar are trei unități, un software matur și o cantitate mare de documentație și tutoriale, ceea ce contează dacă e primul mesh pe care îl configurezi. AX3000 e suficient pentru streaming, apeluri video și lucru de acasă în paralel, iar pachetul HomeShield aduce antivirus, control parental cu profiluri pe fiecare membru al familiei și control vocal prin Alexa sau Google. Limitările vin din generație: fără MLO, cu porturi Gigabit și dual-band, deci nici abonamentele peste 1 Gbps, nici o casă foarte încărcată nu sunt terenul lui. Pentru o familie cu nevoi obișnuite și o casă de dimensiune medie, e o alegere sigură care se instalează în cincisprezece minute și nu mai cere atenție.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-tp-link-dual-band-gigabit-ax3000-cu-acoperire-completa-pentru-casa-seamless-roaming-antivirus-control-parental-si-control-vocal-deco-x50-3-pack/pd/D8G8HFMBM/"
+    },
+    {
+      "id": "p25",
+      "rank": 25,
+      "name": "Sistem Mesh Wi-FI Xiaomi DVB4287GL (2-pack), AX3000, Dual-Band, OFDMA, Beamforming, cu acoperire pentru intreaga casa",
+      "tag": "Mesh simplu, 2 unități",
+      "score": 8.2,
+      "image": "/img/products/d7l7nfmbm.jpg",
+      "feedId": "D7L7NFMBM",
+      "features": [
+        "wifi6",
+        "mesh",
+        "xiaomi"
+      ],
+      "segments": [
+        "wi-fi-6",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 78
+        },
+        {
+          "label": "Acoperire",
+          "pct": 87
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Configurare rapidă din aplicația Mi Home",
+        "Design discret, se integrează ușor în living",
+        "AX3000 suficient pentru streaming și lucru de acasă"
+      ],
+      "cons": [
+        "Doar porturi Gigabit",
+        "Software mai simplu decât la TP-Link sau ASUS"
+      ],
+      "review": "Sistemul mesh Xiaomi AX3000 e alegerea pentru cine are deja alte dispozitive Xiaomi în casă și vrea totul în aceeași aplicație. Două unități acoperă un apartament mare sau o casă mică, cu roaming automat între ele, iar instalarea din Mi Home e printre cele mai rapide. AX3000 acoperă streaming 4K, apeluri video și lucru de acasă fără probleme, atât timp cât nu ai mulți utilizatori care trag simultan de bandă. Designul discret e un avantaj real când unitatea a doua trebuie pusă pe un raft în living. Compromisurile sunt la porturi, toate Gigabit, și la software, mai simplu decât la TP-Link sau ASUS, fără profiluri detaliate de control parental sau QoS fin. Pentru o rețea de zi cu zi care trebuie doar să funcționeze, fără reglaje, e o opțiune corectă la un preț bun.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-xiaomi-2-pack-ax3000-dual-band-ofdma-beamforming-cu-acoperire-pentru-intreaga-casa-dvb4287gl/pd/D7L7NFMBM/"
+    },
+    {
+      "id": "p26",
+      "rank": 26,
+      "name": "Sistem Wi-Fi 6 Mesh HUAWEI Mesh (3pack), AX3000 dual-band, acoperire casa completa, peste 250 dispozitive, penetrare pereti, fara DSL, culoare alba, pachet complet",
+      "tag": "3 unități la preț mic",
+      "score": 8.2,
+      "image": "/img/products/dbycbw3bm.jpg",
+      "feedId": "DBYCBW3BM",
+      "features": [
+        "wifi6",
+        "mesh",
+        "huawei"
+      ],
+      "segments": [
+        "wi-fi-6",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "250+ dispozitive",
+          "label": "Capacitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 77
+        },
+        {
+          "label": "Acoperire",
+          "pct": 92
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Trei unități la un preț la care alții vând două",
+        "Anunțat pentru peste 250 de dispozitive conectate",
+        "Instalare simplă, fără nevoie de linie DSL"
+      ],
+      "cons": [
+        "Porturi Gigabit și dual-band",
+        "Ecosistem Huawei, extindere doar cu unități compatibile"
+      ],
+      "review": "Huawei Mesh 3-pack rezolvă problema acoperirii cu cel mai mic cost pe unitate din acest top. Trei puncte de acces AX3000 acoperă o casă pe două niveluri sau un apartament foarte întins, iar producătorul anunță suport pentru peste 250 de dispozitive conectate, ceea ce e relevant într-o casă plină de becuri, senzori și prize smart. Instalarea nu cere linie DSL și se face din aplicație, cu pași ghidați. Compromisurile sunt cele previzibile la acest preț: porturi Gigabit, dual-band și un software mai simplu decât la TP-Link. Extinderea se face cel mai bine cu unități Huawei, deci merită să te decizi din start câte camere ai de acoperit. Dacă bugetul e strâns și ai multă suprafață de acoperit, e una dintre cele mai eficiente variante, atât timp cât abonamentul tău nu depășește 1 Gbps.",
+      "emagUrl": "https://www.emag.ro/sistem-wi-fi-6-mesh-huawei-mesh-3pack-ax3000-dual-band-acoperire-casa-completa-peste-250-dispozitive-penetrare-pereti-fara-dsl-culoare-alba-pachet-complet-53030drh/pd/DBYCBW3BM/"
+    },
+    {
+      "id": "p27",
+      "rank": 27,
+      "name": "Sistem Mesh Wi-Fi Mercusys Halo H80X(3-pack), AX3000, Wi-Fi 6, Dual Band Gigabit, Acoperire pentru întreaga casă, Seamless Roaming, Control Parental",
+      "tag": "Acoperire mare, buget mic",
+      "score": 8.1,
+      "image": "/img/products/d5w8dcmbm.jpg",
+      "feedId": "D5W8DCMBM",
+      "features": [
+        "wifi6",
+        "mesh",
+        "mercusys"
+      ],
+      "segments": [
+        "wi-fi-6",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000, 3 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 77
+        },
+        {
+          "label": "Acoperire",
+          "pct": 91
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Trei unități la cel mai mic preț din top",
+        "Roaming automat și control parental de bază",
+        "Instalare simplă din aplicație"
+      ],
+      "cons": [
+        "Software minimalist",
+        "Porturi Gigabit, dual-band, fără Wi-Fi 7"
+      ],
+      "review": "Halo H80X 3-pack e opțiunea de acoperire maximă cu bani minimi. Trei unități AX3000 acoperă o suprafață mare, cu roaming automat între ele, iar instalarea din aplicație e directă. Pentru o casă în care problema e că routerul de la furnizor nu ajunge la etaj sau în bucătărie, e cea mai ieftină soluție corectă, mai bună decât două extendere puse la nimereală. Ce nu primești e rafinament: software minimalist, fără profiluri detaliate sau rapoarte de trafic, porturi Gigabit și dual-band, deci nici abonamentele rapide, nici casele foarte încărcate nu sunt terenul lui. Nici Wi-Fi 7 nu apare aici, deci fără MLO. Dacă internetul e de până la 1 Gbps, ai suprafață mare și buget mic, îți face treaba. Dacă vrei control parental serios sau porturi rapide, urcă la un Deco.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-mercusys-ax3000-wi-fi-6-dual-band-gigabit-acoperire-pentru-intreaga-casa-seamless-roaming-control-parental-halo-h80x-3-pack/pd/D5W8DCMBM/"
+    },
+    {
+      "id": "p28",
+      "rank": 28,
+      "name": "Sistem Mesh Wi-Fi Mercusys Halo H80X(2-pack), AX3000, Dual-Band, Wi-Fi 6, cu acoperire completa pentru casa, Seamless Roaming, Control Parental",
+      "tag": "Buget, pentru apartament",
+      "score": 8,
+      "image": "/img/products/d5cm2qmbm.jpg",
+      "feedId": "D5CM2QMBM",
+      "features": [
+        "wifi6",
+        "mesh",
+        "mercusys"
+      ],
+      "segments": [
+        "wi-fi-6",
+        "mesh"
+      ],
+      "specs": [
+        {
+          "value": "Sistem mesh",
+          "label": "Tip"
+        },
+        {
+          "value": "Wi-Fi 6",
+          "label": "Standard"
+        },
+        {
+          "value": "AX3000, 2 unități",
+          "label": "Configurație"
+        },
+        {
+          "value": "Gigabit",
+          "label": "Porturi"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Viteză",
+          "pct": 77
+        },
+        {
+          "label": "Acoperire",
+          "pct": 85
+        },
+        {
+          "label": "Porturi",
+          "pct": 70
+        },
+        {
+          "label": "Software",
+          "pct": 74
+        }
+      ],
+      "pros": [
+        "Cel mai mic preț de intrare în mesh din acest top",
+        "Două unități suficiente pentru un apartament de 3 camere",
+        "Roaming automat, fără rețele separate pe fiecare unitate"
+      ],
+      "cons": [
+        "Software minimalist",
+        "Porturi Gigabit, dual-band, fără Wi-Fi 7"
+      ],
+      "review": "Halo H80X 2-pack e cea mai ieftină cale de a înlocui un router plus extender cu o rețea mesh adevărată. Diferența practică e roaming-ul: telefonul comută singur pe unitatea mai apropiată, în loc să rămână agățat de un semnal slab cu numele altei rețele. Două unități AX3000 acoperă confortabil un apartament de trei camere, iar instalarea din aplicație durează câteva minute. Dincolo de asta, e un produs de buget asumat: software minimalist, fără profiluri fine de control parental sau rapoarte, porturi Gigabit și dual-band, fără Wi-Fi 7 și fără MLO. Nu îl lua dacă ai fibră de peste 1 Gbps sau o casă pe două niveluri, unde ar fi nevoie de o a treia unitate. Pentru un apartament obișnuit și un abonament obișnuit, rezolvă problema semnalului slab la cel mai mic cost.",
+      "emagUrl": "https://www.emag.ro/sistem-mesh-wi-fi-mercusys-ax3000-dual-band-wi-fi-6-cu-acoperire-completa-pentru-casa-seamless-roaming-control-parental-halo-h80x-2-pack/pd/D5CM2QMBM/"
+    }
+  ]
+}

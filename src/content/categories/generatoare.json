@@ -1,0 +1,739 @@
+{
+  "title": "Cele mai bune generatoare de curent în 2026",
+  "h1": "Cele mai bune generatoare de curent în 2026",
+  "parent": "Unelte & grădină",
+  "icon": "generator",
+  "order": 48,
+  "intro": "Un generator de curent nu se cumpără pentru confort, ci pentru momentul în care centrala se oprește în plină iarnă sau frigiderul stă o zi întreagă fără alimentare. Am ales și am comparat cele mai căutate modele din 2026 după puterea reală disponibilă, autonomia anunțată, prezența stabilizatorului de tensiune AVR și modul de pornire — de la generatoare clasice pe benzină pentru casă, până la modele inverter insonorizate și variante dual fuel care merg și pe GPL.",
+  "author": "mihai-radu",
+  "updated": "2026-09-04",
+  "productsCount": 10,
+  "reviewsRead": 0,
+  "quickPicks": [
+    {
+      "label": "★ Cea mai bună alegere",
+      "productId": "p1",
+      "win": true
+    },
+    {
+      "label": "Cel mai silențios",
+      "productId": "p7"
+    },
+    {
+      "label": "Cea mai mare putere",
+      "productId": "p2"
+    }
+  ],
+  "featureFilters": [
+    {
+      "key": "avr",
+      "label": "Stabilizator AVR"
+    },
+    {
+      "key": "pornire-electrica",
+      "label": "Pornire electrică"
+    },
+    {
+      "key": "inverter",
+      "label": "Inverter"
+    },
+    {
+      "key": "gpl",
+      "label": "GPL / dual fuel"
+    },
+    {
+      "key": "insonorizat",
+      "label": "Insonorizat"
+    }
+  ],
+  "guide": [
+    {
+      "h3": "Cât de mare trebuie să fie puterea",
+      "body": "Adună consumul aparatelor pe care vrei să le ții pornite simultan, apoi lasă o marjă. Un frigider consumă 150–300 W în regim normal, pompa unei centrale 50–150 W, iluminatul LED al unei case sub 100 W, iar un router și câteva încărcătoare, câțiva wați. Problema apare la vârfurile de pornire: un motor electric — frigider, pompă, mașină de spălat — poate cere de 2–3 ori consumul nominal în prima secundă. De aceea 3 kW e minimul rezonabil pentru o casă, chiar dacă suma consumurilor pare mult mai mică.",
+      "callout": "Pentru centrală, frigider și iluminat, 3 kW sunt suficienți. Pentru pompă de puț sau scule electrice, urcă la 4–5.5 kW."
+    },
+    {
+      "h3": "AVR și inverter: de ce contează pentru electronice",
+      "body": "Un generator fără stabilizator poate livra tensiune care variază la fiecare schimbare de sarcină, iar asta afectează electronica sensibilă. AVR (Automatic Voltage Regulator) menține tensiunea în limite acceptabile și e minimul pe care ar trebui să îl ceri dacă alimentezi o centrală sau un televizor. Un generator inverter merge mai departe: produce curent cu formă de undă curată, comparabilă cu cea din priză, deci e sigur pentru laptopuri și echipamente medicale. În schimb, invertoarele au puteri mai mici și costă mai mult pe kilowatt."
+    },
+    {
+      "h3": "Pornire manuală, electrică sau automatizată",
+      "body": "Pornirea la sfoară e cea mai simplă și nu depinde de o baterie, dar cere efort, mai ales la un motor rece de iarnă. Pornirea electrică la cheie rezolvă asta, cu condiția să ții bateria încărcată — un generator care stă nefolosit șase luni are aproape sigur bateria descărcată. Modelele compatibile cu automatizare merg mai departe: cu un kit și un tablou de comutare montate de electrician, generatorul pornește singur la căderea rețelei și se oprește când revine curentul.",
+      "callout": "Dacă generatorul stă nefolosit luni de zile, ține bateria pe un menținător sau încarcă-o la fiecare 2–3 luni."
+    },
+    {
+      "h3": "Autonomie, consum și unde îl amplasezi",
+      "body": "Autonomia anunțată se calculează la sarcină parțială, de obicei 50–75%, deci la sarcină mare va fi mai scurtă. Un rezervor de 15 litri și un consum echilibrat dau 10–13 ore reale, suficient pentru o noapte. Amplasarea nu e negociabilă: un generator pe benzină produce monoxid de carbon și trebuie să funcționeze doar în exterior, la distanță de ferestre și de guri de aerisire, niciodată în garaj, pivniță sau pe balcon închis.",
+      "callout": "Niciodată în interior, în garaj sau pe balcon închis. Monoxidul de carbon nu se vede și nu se simte."
+    }
+  ],
+  "comparison": {
+    "title": "Generator clasic vs. inverter: ce alegi?",
+    "intro": "Cele două tipuri rezolvă probleme diferite, iar diferența de preț pe kilowatt e semnificativă.",
+    "aLabel": "Generator clasic",
+    "bLabel": "Generator inverter",
+    "rows": [
+      {
+        "criteriu": "Putere disponibilă",
+        "a": "2.5–5.5 kW, pentru o casă",
+        "b": "Tipic 1–2.5 kW"
+      },
+      {
+        "criteriu": "Calitatea curentului",
+        "a": "Acceptabilă cu AVR",
+        "b": "Undă curată, sigură pentru laptopuri"
+      },
+      {
+        "criteriu": "Zgomot",
+        "a": "Se aude clar în curte",
+        "b": "Mult mai discret, insonorizat"
+      },
+      {
+        "criteriu": "Consum la sarcină mică",
+        "a": "Turație constantă, consum constant",
+        "b": "Mod economic, consum redus"
+      },
+      {
+        "criteriu": "Cost pe kilowatt",
+        "a": "Mai mic",
+        "b": "Semnificativ mai mare"
+      }
+    ],
+    "verdict": "Pentru alimentarea unei case în timpul unei pene, un generator clasic de 3 kW cu AVR îți dă cea mai multă putere utilă pe leu. Un inverter îl alegi pentru camping, rulotă, terasă sau ca sursă discretă în oraș, unde zgomotul și curentul curat contează mai mult decât kilowații."
+  },
+  "faq": [
+    {
+      "q": "Ce putere de generator îmi trebuie pentru o casă?",
+      "a": "Pentru scenariul obișnuit — centrală, frigider, iluminat, router și câteva prize — 3 kW acoperă confortabil, cu marjă pentru vârfurile de pornire ale motoarelor electrice. Dacă ai și pompă de puț, hidrofor sau vrei să folosești scule electrice, urcă la 4–5.5 kW. Nu aduna doar consumurile nominale: un frigider sau o pompă cere de 2–3 ori mai mult în prima secundă de pornire."
+    },
+    {
+      "q": "Pot alimenta centrala termică de la generator?",
+      "a": "Da, dar doar de la un generator cu stabilizator de tensiune AVR sau de la unul inverter. Centralele moderne au electronică sensibilă la variații de tensiune și la faza greșită, iar unele cer și împământare corectă pentru a porni. Racordarea la instalația casei se face prin tablou de comutare montat de un electrician, niciodată prin prelungitor băgat într-o priză."
+    },
+    {
+      "q": "Care e diferența dintre puterea nominală și cea maximă?",
+      "a": "Puterea nominală e cea pe care generatorul o poate livra continuu, iar cea maximă e un vârf pe care îl susține doar câteva secunde, la pornirea unui motor. Dimensionează întotdeauna după puterea nominală. Un generator ținut permanent la maximum se încălzește, consumă mult și se uzează rapid."
+    },
+    {
+      "q": "Un generator pe GPL e mai bun decât unul pe benzină?",
+      "a": "Are două avantaje reale: GPL-ul nu se degradează în butelie, deci generatorul stă pregătit ani de zile fără grija combustibilului stricat, și arde mai curat, cu mai puține depuneri în motor. Dezavantajele sunt o putere disponibilă ușor mai mică decât pe benzină și nevoia de a depozita o butelie. Modelele dual fuel îți lasă ambele opțiuni."
+    },
+    {
+      "q": "Unde pot folosi generatorul în siguranță?",
+      "a": "Doar în exterior, la distanță de ferestre, uși și guri de aerisire. Un generator pe benzină produce monoxid de carbon, un gaz care nu se vede și nu se simte, iar concentrațiile letale se acumulează rapid în spații închise. Nu îl porni niciodată în garaj, pivniță, magazie sau pe balcon închis, nici măcar cu ușa deschisă."
+    },
+    {
+      "q": "Cât de des trebuie pornit un generator care stă nefolosit?",
+      "a": "Ideal, o dată la 1–3 luni, pentru 10–15 minute sub o sarcină mică. Asta menține bateria încărcată la modelele cu pornire electrică, lubrifiază motorul și îți confirmă că pornește. La modelele pe benzină, folosește un stabilizator de combustibil sau golește rezervorul dacă îl depozitezi peste iarnă, pentru că benzina veche înfundă carburatorul."
+    }
+  ],
+  "conclusion": "Pentru cei mai mulți oameni, un generator clasic de aproximativ 3 kW cu stabilizator AVR, precum Steinhaus PRO-GEN3150, acoperă exact ce trebuie într-o pană de curent: centrală, frigider, iluminat și câteva prize, cu marjă pentru vârfurile de pornire. Dacă ai consumatori mari sau scule electrice, urcă la 4–5.5 kW și acceptă consumul mai mare. Dacă îți trebuie curent curat și liniște — camping, rulotă, terasă, laptop — un inverter insonorizat e alegerea corectă, chiar dacă plătești mai mult pe kilowatt. Indiferent de model, contează două lucruri pe care nu le vezi în specificații: montajul prin tablou de comutare făcut de un electrician și amplasarea exclusiv în exterior.",
+  "products": [
+    {
+      "id": "p1",
+      "rank": 1,
+      "name": "Generator curent electric Steinhaus PRO-GEN3150, 3150 W cu stabilizator de tensiune, benzina, autonomie 9.8 h",
+      "tag": "★ Cea mai bună alegere",
+      "win": true,
+      "score": 9,
+      "image": "/img/products/dfl09qbbm.jpg",
+      "feedId": "DFL09QBBM",
+      "features": [
+        "avr",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3150 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină",
+          "label": "Combustibil"
+        },
+        {
+          "value": "9.8 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "AVR",
+          "label": "Stabilizator"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 84
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "3150 W acoperă frigider, centrală, iluminat și câteva prize în același timp",
+        "Stabilizator de tensiune AVR, obligatoriu pentru electronice sensibile",
+        "Aproape 10 ore de autonomie, suficient pentru o pană lungă"
+      ],
+      "cons": [
+        "Pornire manuală, la sfoară",
+        "Nu e insonorizat, deci se aude clar în curte"
+      ],
+      "review": "Steinhaus PRO-GEN3150 se așază în fruntea acestui top pentru că nimerește exact puterea de care are nevoie o casă în timpul unei pene: 3150 W acoperă simultan frigiderul, pompa centralei, iluminatul și câteva prize, fără să plătești pentru kilowați pe care nu îi folosești. Stabilizatorul de tensiune AVR e detaliul care contează cel mai mult, pentru că fără el un generator poate trimite variații care strică electronica sensibilă; cu el, poți alimenta liniștit centrala și un router. Autonomia anunțată de aproape 10 ore înseamnă că poți trece o noapte întreagă fără să realimentezi. Compromisurile sunt cele obișnuite la această clasă: pornirea se face manual, la sfoară, iar carcasa nu e insonorizată, deci se aude. Pentru o casă care are nevoie de curent de rezervă la iarnă, e cea mai echilibrată alegere de aici.",
+      "emagUrl": "https://www.emag.ro/generator-curent-electric-steinhaus-pro-gen3150-3150-w-cu-stabilizator-de-tensiune-benzina-autonomie-9-8-h-6426228114116/pd/DFL09QBBM/"
+    },
+    {
+      "id": "p2",
+      "rank": 2,
+      "name": "Generator curent electric Steinhaus PRO-GEN5500, 5500 W cu stabilizator de tensiune, benzina, autonomie 11 h",
+      "tag": "Cea mai mare putere",
+      "score": 8.9,
+      "image": "/img/products/d9l09qbbm.jpg",
+      "feedId": "D9L09QBBM",
+      "features": [
+        "avr",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "5500 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină",
+          "label": "Combustibil"
+        },
+        {
+          "value": "11 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "AVR",
+          "label": "Stabilizator"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 96
+        },
+        {
+          "label": "Autonomie",
+          "pct": 90
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 78
+        },
+        {
+          "label": "Dotări",
+          "pct": 86
+        }
+      ],
+      "pros": [
+        "5500 W acoperă și consumatori mari, inclusiv scule electrice",
+        "11 ore de autonomie, cea mai mare din acest top",
+        "AVR inclus, pentru alimentarea electronicelor"
+      ],
+      "cons": [
+        "Consum mai mare de combustibil la aceeași sarcină",
+        "Mai greu și mai voluminos, greu de mutat singur"
+      ],
+      "review": "Steinhaus PRO-GEN5500 e varianta pentru cine nu vrea să calculeze la limită. Cei 5500 W lasă loc pentru consumatori care pornesc greu, cum sunt pompele, compresoarele sau sculele electrice de șantier, unde vârful de pornire poate fi de câteva ori mai mare decât consumul nominal. Autonomia de 11 ore e cea mai bună din acest top, ceea ce înseamnă mai puține opriri pentru realimentare. AVR-ul e prezent, deci poți alimenta și electronice sensibile. Costul acestei puteri e dublu: consumă mai mult combustibil pentru aceeași sarcină decât un model de 3 kW și e semnificativ mai greu, deci mutatul singur devine o problemă reală dacă nu are roți. Îl iei dacă alimentezi o casă mare, un atelier sau un șantier; pentru o pană de curent într-un apartament sau o casă mică, e supradimensionat.",
+      "emagUrl": "https://www.emag.ro/generator-curent-electric-steinhaus-pro-gen5500-5500-w-cu-stabilizator-de-tensiune-benzina-autonomie-11-h-6426228115144/pd/D9L09QBBM/"
+    },
+    {
+      "id": "p3",
+      "rank": 3,
+      "name": "Generator curent electric Senci SC-3500E Lite, 3100 W, 230 V, 208 CC, stabilizator de tensiune (AVR), demaraj la cheie, 12.5 h autonomie, 15 l, benzina",
+      "tag": "Raport preț/calitate",
+      "score": 8.8,
+      "image": "/img/products/dm9ys6bbm.jpg",
+      "feedId": "DM9YS6BBM",
+      "features": [
+        "avr",
+        "pornire-electrica",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3100 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină, 15 l",
+          "label": "Combustibil"
+        },
+        {
+          "value": "12.5 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "Pornire la cheie",
+          "label": "Demaraj"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 83
+        },
+        {
+          "label": "Autonomie",
+          "pct": 92
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 90
+        },
+        {
+          "label": "Dotări",
+          "pct": 85
+        }
+      ],
+      "pros": [
+        "Pornire electrică la cheie, fără sfoară",
+        "12.5 ore de autonomie cu rezervor de 15 litri",
+        "Motor de 208 cc cu AVR, la un preț competitiv"
+      ],
+      "cons": [
+        "Bateria de pornire cere întreținere dacă generatorul stă mult nefolosit",
+        "Nu e insonorizat"
+      ],
+      "review": "Senci SC-3500E Lite adaugă exact lucrul pe care îl apreciezi cel mai mult la 3 dimineața: pornirea la cheie. Diferența față de un model cu sfoară nu e de confort, ci de siguranță că pornește când e frig și motorul e rece. Cu 3100 W acoperi frigider, centrală, iluminat și câteva prize, iar rezervorul de 15 litri dă o autonomie anunțată de 12.5 ore, printre cele mai bune de aici. AVR-ul protejează electronicele sensibile, iar motorul de 208 cc e o bază cunoscută, cu piese ușor de găsit. Trebuie să ții cont de baterie: la un generator care stă nefolosit luni de zile, bateria se descarcă, deci merită încărcată periodic sau ținută pe un menținător. Nu e insonorizat, deci se aude. Ca raport între dotări și preț, e cel mai bun din acest top.",
+      "emagUrl": "https://www.emag.ro/generator-curent-electric-senci-sc-3500e-lite-3100-w-230-v-208-cc-stabilizator-de-tensiune-avr-demaraj-la-cheie-12-5-h-autonomie-15-l-benzina-sc1008051/pd/DM9YS6BBM/"
+    },
+    {
+      "id": "p4",
+      "rank": 4,
+      "name": "Generator curent Stager FD 3600ER, putere 3 kW, 230V, benzina, pornire electrica, AVR, permite automatizarea",
+      "tag": "Pentru automatizare",
+      "score": 8.7,
+      "image": "/img/products/d0c5s8mbm.png",
+      "feedId": "D0C5S8MBM",
+      "features": [
+        "avr",
+        "pornire-electrica",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3 kW",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină",
+          "label": "Combustibil"
+        },
+        {
+          "value": "Pornire electrică",
+          "label": "Demaraj"
+        },
+        {
+          "value": "Automatizare",
+          "label": "Compatibilitate"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 94
+        },
+        {
+          "label": "Dotări",
+          "pct": 88
+        }
+      ],
+      "pros": [
+        "Permite montarea unui kit de automatizare, care pornește generatorul singur la pană",
+        "Pornire electrică din serie",
+        "AVR pentru alimentarea electronicelor sensibile"
+      ],
+      "cons": [
+        "Kitul de automatizare se cumpără separat",
+        "Autonomia e mai modestă decât la modelele cu rezervor mare"
+      ],
+      "review": "Stager FD 3600ER e alegerea pentru cine vrea curent de rezervă fără să iasă în curte. Compatibilitatea cu un kit de automatizare înseamnă că, montat corect, generatorul detectează căderea rețelei, pornește singur și comută alimentarea, apoi se oprește când revine curentul — exact ce îți trebuie dacă ai centrală pe gaz care nu poate rămâne fără electricitate iarna, sau dacă lipsești des de acasă. Cei 3 kW acoperă centrala, frigiderul și iluminatul, iar AVR-ul protejează electronica. Pornirea electrică e din serie. Două lucruri de știut: kitul de automatizare și tabloul de comutare se cumpără separat și trebuie montate de un electrician, iar autonomia e mai modestă decât la modelele cu rezervor de 15 litri. Ca bază pentru un sistem de rezervă automatizat, e cel mai potrivit model de aici.",
+      "emagUrl": "https://www.emag.ro/generator-curent-stager-fd-3600er-putere-3-kw-230v-benzina-pornire-electrica-avr-permite-automatizarea-5160013600/pd/D0C5S8MBM/"
+    },
+    {
+      "id": "p5",
+      "rank": 5,
+      "name": "Generator curent Könner & Söhnen KS 3000G, 3.0 kW, GPL /benzina, autonomie 15h, regulator tensiune AVR, Easy Start, protectie nivel scazut ulei, protectie suprasarcina, LED-display, prize 2x16A/230V; 1x12V DC, bobinaj 100% cupru",
+      "tag": "Dual fuel: GPL și benzină",
+      "score": 8.7,
+      "image": "/img/products/dt159zbbm.jpg",
+      "feedId": "DT159ZBBM",
+      "features": [
+        "avr",
+        "gpl",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3.0 kW",
+          "label": "Putere"
+        },
+        {
+          "value": "GPL / benzină",
+          "label": "Combustibil"
+        },
+        {
+          "value": "15 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "LED display",
+          "label": "Afișaj"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 82
+        },
+        {
+          "label": "Autonomie",
+          "pct": 93
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 84
+        },
+        {
+          "label": "Dotări",
+          "pct": 92
+        }
+      ],
+      "pros": [
+        "Funcționează pe GPL sau benzină, util când una lipsește",
+        "Pe GPL arde mai curat, cu depuneri mai mici în motor",
+        "Autonomie anunțată de 15 h și afișaj LED pentru tensiune"
+      ],
+      "cons": [
+        "Butelia de GPL se cumpără separat și ocupă spațiu",
+        "Pornire manuală, la sfoară"
+      ],
+      "review": "Könner & Söhnen KS 3000G rezolvă o problemă la care te gândești abia după prima pană lungă: unde găsești benzină când nu funcționează pompele. Fiind dual fuel, merge și pe GPL, deci poți ține o butelie în garaj la nesfârșit, fără grija combustibilului care se degradează în rezervor, cum se întâmplă cu benzina după câteva luni. Pe GPL arderea e mai curată, cu mai puține depuneri în motor și mai puțin miros, deși puterea disponibilă e ușor mai mică decât pe benzină. Autonomia anunțată de 15 ore, afișajul LED pentru tensiune, protecțiile la suprasarcină și la nivel scăzut de ulei și bobinajul integral din cupru completează un pachet serios. Pornirea se face manual, la sfoară, iar butelia ocupă spațiu. Pentru cine vrea un generator care stă pregătit ani de zile, e alegerea cea mai practică.",
+      "emagUrl": "https://www.emag.ro/generator-curent-konner-sohnen-ks-3000g-3-0-kw-gpl-benzina-autonomie-15h-regulator-tensiune-avr-easy-start-protectie-nivel-scazut-ulei-protectie-suprasarcina-led-display-prize-2x16a-230v-1x12v-dc-bobi/pd/DT159ZBBM/"
+    },
+    {
+      "id": "p6",
+      "rank": 6,
+      "name": "Generator de curent Senci SC-4000 TOP, 3800 W, 230 V, stabilizator de tensiune (AVR), 15 l benzina, 13.5 h autonimie maxima",
+      "tag": "Autonomie mare",
+      "score": 8.6,
+      "image": "/img/products/d810gbbbm.jpg",
+      "feedId": "D810GBBBM",
+      "features": [
+        "avr",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3800 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină, 15 l",
+          "label": "Combustibil"
+        },
+        {
+          "value": "13.5 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "AVR",
+          "label": "Stabilizator"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 89
+        },
+        {
+          "label": "Autonomie",
+          "pct": 94
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 76
+        },
+        {
+          "label": "Dotări",
+          "pct": 84
+        }
+      ],
+      "pros": [
+        "3800 W, cu rezervă pentru consumatori care pornesc greu",
+        "13.5 ore de autonomie cu rezervor de 15 litri",
+        "AVR pentru electronice sensibile"
+      ],
+      "cons": [
+        "Pornire manuală",
+        "Mai greu decât modelele de 3 kW"
+      ],
+      "review": "Senci SC-4000 TOP e pasul logic peste modelele de 3 kW, pentru cine are consumatori care pornesc greu. Cei 3800 W dau marja necesară unei pompe de puț sau unei mașini de spălat care trage un vârf mare la porniri, situație în care un generator de 3 kW s-ar duce în protecție. Rezervorul de 15 litri și consumul echilibrat dau o autonomie anunțată de 13.5 ore, deci poate acoperi o noapte întreagă și o bună parte din zi. AVR-ul e prezent, deci poți alimenta centrala și electronica din casă. Compromisurile sunt greutatea, mai mare decât la modelele de 3 kW, și pornirea manuală la sfoară, care la un motor rece de iarnă cere putere în braț. Dacă nu ai nevoie de pornire electrică și vrei cea mai multă putere utilă cu autonomie lungă, e o alegere foarte solidă.",
+      "emagUrl": "https://www.emag.ro/generator-de-curent-senci-sc-4000-top-3800-w-230-v-stabilizator-de-tensiune-avr-15-l-benzina-13-5-h-autonimie-maxima-sc4000-ii/pd/D810GBBBM/"
+    },
+    {
+      "id": "p7",
+      "rank": 7,
+      "name": "Generator curent digital insonorizat Könner&Söhnen KS 2000i S, benzina, 2.0 kW, inverter, protectie suprasarcina, protectie nivel scazut ulei, indicator tensiune, mod economic, bobinaj 100% cupru",
+      "tag": "Cel mai silențios",
+      "score": 8.6,
+      "image": "/img/products/djdrv1bbm.jpg",
+      "feedId": "DJDRV1BBM",
+      "features": [
+        "inverter",
+        "insonorizat",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "2.0 kW",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină",
+          "label": "Combustibil"
+        },
+        {
+          "value": "Inverter",
+          "label": "Tehnologie"
+        },
+        {
+          "value": "Insonorizat",
+          "label": "Carcasă"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 68
+        },
+        {
+          "label": "Autonomie",
+          "pct": 78
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 82
+        },
+        {
+          "label": "Dotări",
+          "pct": 94
+        }
+      ],
+      "pros": [
+        "Tehnologie inverter, cu curent curat pentru laptopuri și televizoare",
+        "Carcasă insonorizată, mult mai discret decât un generator clasic",
+        "Mod economic, care reduce consumul la sarcină mică"
+      ],
+      "cons": [
+        "2.0 kW, prea puțin pentru consumatori mari sau scule electrice",
+        "Preț pe kilowatt mai mare decât la generatoarele clasice"
+      ],
+      "review": "Könner & Söhnen KS 2000i S e singurul generator din acest top pe care îl poți folosi lângă oameni fără să strigi ca să te auzi. Carcasa insonorizată și tehnologia inverter fac diferența: inverterul produce curent stabil, cu formă de undă curată, ceea ce înseamnă că poți alimenta liniștit laptopuri, televizoare și echipamente sensibile pe care un generator clasic fără AVR bun le-ar putea afecta. Modul economic reduce turația când sarcina e mică, deci consumă puțin și se aude și mai puțin. Limitarea e puterea: 2.0 kW acoperă iluminat, frigider, laptop, router și încărcătoare, dar nu o centrală plus toate prizele și în niciun caz scule electrice. Prețul pe kilowatt e mai mare decât la un generator clasic. Îl iei pentru camping, rulotă, terasă sau ca sursă de rezervă discretă în oraș, nu pentru alimentarea unei case întregi.",
+      "emagUrl": "https://www.emag.ro/generator-curent-digital-insonorizat-konner-sohnen-ks-2000i-s-benzina-2-0-kw-inverter-protectie-suprasarcina-protectie-nivel-scazut-ulei-indicator-tensiune-mod-economic-bobinaj-100-cupru-ks2000is/pd/DJDRV1BBM/"
+    },
+    {
+      "id": "p8",
+      "rank": 8,
+      "name": "Generator curent pe benzina Einhell TC_PG_35_E5, 208 CC, 4 timpi, 2600 W, 15 l, benzina, 10.7 h autonomie maxima",
+      "tag": "Simplu și fiabil",
+      "score": 8.3,
+      "image": "/img/products/d3lncbmbm.jpg",
+      "feedId": "D3LNCBMBM",
+      "features": [
+        "avr",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "2600 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină, 15 l",
+          "label": "Combustibil"
+        },
+        {
+          "value": "10.7 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "208 cc, 4 timpi",
+          "label": "Motor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 76
+        },
+        {
+          "label": "Autonomie",
+          "pct": 88
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 74
+        },
+        {
+          "label": "Dotări",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "Brand cunoscut, cu rețea de service și piese ușor de găsit",
+        "Motor de 208 cc în 4 timpi, construcție simplă",
+        "10.7 ore de autonomie cu rezervor de 15 litri"
+      ],
+      "cons": [
+        "2600 W, cea mai mică putere dintre modelele clasice de aici",
+        "Pornire manuală, fără demaraj electric"
+      ],
+      "review": "Einhell TC-PG 35 E5 e generatorul fără surprize. Nu are pornire electrică, nu are inverter și nu are cea mai mare putere, dar are un motor de 208 cc în 4 timpi cu o construcție simplă și, mai important, un brand cu rețea de service în România și piese de schimb ușor de găsit — lucruri care contează la un aparat care stă nefolosit lunar și trebuie să pornească exact când ai nevoie. Cei 2600 W acoperă iluminat, frigider, centrală și câteva prize, dar nu lasă marjă pentru consumatori care pornesc greu. Rezervorul de 15 litri dă o autonomie anunțată de 10.7 ore. Pornirea se face manual. Dacă vrei cea mai puțină complicație posibilă și un producător la care poți duce aparatul la reparat, e o alegere rezonabilă, cu condiția să nu ai nevoie de mai mult de 2.6 kW.",
+      "emagUrl": "https://www.emag.ro/generator-curent-pe-benzina-einhell-tc-pg-35-e5-208-cc-4-timpi-2600-w-15-l-benzina-10-7-h-autonomie-maxima-4152551/pd/D3LNCBMBM/"
+    },
+    {
+      "id": "p9",
+      "rank": 9,
+      "name": "Generator curent electric Ruris R-POWER GE2800RC, 2500W, 7CP, AVR, pornire electrica, telecomanda, rezervor 15L",
+      "tag": "Cu telecomandă",
+      "score": 8.2,
+      "image": "/img/products/dx6g4z3bm.jpg",
+      "feedId": "DX6G4Z3BM",
+      "features": [
+        "avr",
+        "pornire-electrica",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "2500 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină, 15 l",
+          "label": "Combustibil"
+        },
+        {
+          "value": "7 CP",
+          "label": "Motor"
+        },
+        {
+          "value": "Telecomandă",
+          "label": "Pornire"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 74
+        },
+        {
+          "label": "Autonomie",
+          "pct": 86
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 92
+        },
+        {
+          "label": "Dotări",
+          "pct": 80
+        }
+      ],
+      "pros": [
+        "Pornire cu telecomandă, fără să ieși în curte",
+        "Pornire electrică și AVR incluse",
+        "Rezervor de 15 litri pentru autonomie lungă"
+      ],
+      "cons": [
+        "2500 W, cea mai mică putere dintre modelele clasice",
+        "Bateria de pornire cere întreținere periodică"
+      ],
+      "review": "Ruris R-POWER GE2800RC mizează pe confortul de pornire. Telecomanda pare un moft până când e ploaie, întuneric și generatorul e la capătul curții: apeși un buton din casă și pornește. Are și pornire electrică la cheie ca variantă de rezervă, plus AVR pentru protecția electronicelor. Motorul de 7 CP și rezervorul de 15 litri dau o autonomie bună, suficientă pentru o noapte. Puterea de 2500 W e însă cea mai mică dintre modelele clasice din acest top: acoperă centrală, frigider, iluminat și câteva prize, dar nu lasă marjă pentru pompe sau scule electrice care cer un vârf mare la pornire. Bateria de pornire trebuie ținută încărcată, altfel telecomanda și demarajul electric devin inutile exact când ai nevoie de ele. Pentru o casă cu consum modest și acces incomod la generator, e o alegere logică.",
+      "emagUrl": "https://www.emag.ro/generator-curent-electric-ruris-r-power-ge2800rc-2500w-7cp-avr-pornire-electrica-telecomanda-rezervor-15l-28000grc25a/pd/DX6G4Z3BM/"
+    },
+    {
+      "id": "p10",
+      "rank": 10,
+      "name": "Generator curent electric Stanley SG3100-1, 3100 W, 230 V, 6.5 CP, 4 timp, stabilizator de tensiune (AVR), 15 l benzina, 8.2 h autonomie maxima",
+      "tag": "Brand cunoscut",
+      "score": 8.2,
+      "image": "/img/products/dkhhvvbbm.jpg",
+      "feedId": "DKHHVVBBM",
+      "features": [
+        "avr",
+        "benzina"
+      ],
+      "specs": [
+        {
+          "value": "3100 W",
+          "label": "Putere"
+        },
+        {
+          "value": "Benzină, 15 l",
+          "label": "Combustibil"
+        },
+        {
+          "value": "8.2 h",
+          "label": "Autonomie"
+        },
+        {
+          "value": "6.5 CP, 4 timpi",
+          "label": "Motor"
+        }
+      ],
+      "scores": [
+        {
+          "label": "Putere",
+          "pct": 83
+        },
+        {
+          "label": "Autonomie",
+          "pct": 80
+        },
+        {
+          "label": "Pornire & control",
+          "pct": 74
+        },
+        {
+          "label": "Dotări",
+          "pct": 78
+        }
+      ],
+      "pros": [
+        "3100 W, suficient pentru nevoile de bază ale unei case",
+        "Brand cunoscut, cu service și piese accesibile",
+        "AVR inclus pentru alimentarea electronicelor"
+      ],
+      "cons": [
+        "8.2 ore de autonomie, cea mai scurtă dintre modelele cu rezervor de 15 litri",
+        "Pornire manuală, la sfoară"
+      ],
+      "review": "Stanley SG3100-1 e alegerea de încredere pentru cine pune brandul și disponibilitatea pieselor înaintea specificațiilor. Cei 3100 W acoperă nevoile de bază ale unei case în timpul unei pene — centrală, frigider, iluminat, câteva prize — iar AVR-ul protejează electronica sensibilă. Motorul de 6.5 CP în 4 timpi e o construcție clasică, ușor de întreținut. Diferența față de modelele de pe podium se vede la autonomie: 8.2 ore anunțate cu același rezervor de 15 litri înseamnă un consum mai mare pe oră decât la Senci sau Steinhaus, deci mai multe realimentări într-o pană lungă. Pornirea se face manual, la sfoară, iar carcasa nu e insonorizată. Dacă îți contează să ai un nume cunoscut și un service la care poți ajunge, e o opțiune corectă; dacă îți contează autonomia, sunt variante mai bune în acest top.",
+      "emagUrl": "https://www.emag.ro/generator-curent-electric-stanley-3100-w-230-v-6-5-cp-4-timp-stabilizator-de-tensiune-avr-15-l-benzina-8-2-h-autonomie-maxima-sg3100-1/pd/DKHHVVBBM/"
+    }
+  ]
+}

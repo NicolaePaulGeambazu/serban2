@@ -27,6 +27,158 @@ export type SegmentContent = {
 };
 
 export const SEGMENT_CONTENT: Record<string, SegmentContent> = {
+  // ─────────────────────────── ROUTERE WI-FI ───────────────────────────
+  'routere-wifi/tp-link': {
+    intro:
+      'TP-Link acoperă cel mai larg interval din piața de routere: de la Archer AX72 sub 500 de lei până la Archer BE900 quad-band cu porturi de 10G, plus toată gama Deco de sisteme mesh. Am filtrat topul doar la modelele TP-Link și le-am ordonat după standardul suportat, viteza pe benzi și porturile rapide, ca să vezi într-un singur loc unde se face saltul de la Wi-Fi 6 la Wi-Fi 7 și de la porturi Gigabit la 2.5G și 10G.',
+    guide: [
+      {
+        h3: 'Archer sau Deco: care serie ți se potrivește',
+        body: 'Archer e seria de routere singure, Deco e seria de sisteme mesh. Un Archer îți dă mai multă viteză și mai multe porturi pe același buget, deci e alegerea pentru un apartament pe un nivel. Un Deco îți dă acoperire uniformă cu roaming automat între unități, deci e alegerea din momentul în care apar etaje sau o cameră mereu fără semnal.',
+        callout: 'Apartament până la 4 camere: Archer. Casă pe două niveluri sau peste 100 m²: Deco.',
+      },
+      {
+        h3: 'Ce face HomeShield și ce e gratuit',
+        body: 'HomeShield e pachetul de securitate și control parental prezent pe toate modelele din această listă. Varianta de bază, inclusă, acoperă blocarea site-urilor pe categorii, profiluri simple pe dispozitiv, timp de utilizare și un raport de rețea. Funcțiile avansate — protecție împotriva intruziunilor, rapoarte detaliate, control parental fin pe fiecare copil — intră în abonamentul HomeShield Pro, plătit separat.',
+      },
+      {
+        h3: 'OneMesh și EasyMesh: cum extinzi mai târziu',
+        body: 'Modelele Archer mai vechi folosesc OneMesh, care se extinde doar cu extendere TP-Link compatibile. Cele noi, cu Wi-Fi 7, suportă EasyMesh, un standard deschis, deci poți combina unități de la producători diferiți. Verifică ce suportă modelul înainte să cumperi un extender, pentru că un extender necompatibil creează o a doua rețea separată, nu un mesh adevărat.',
+        callout: 'Vrei libertate la extindere? Alege un model cu EasyMesh, nu doar OneMesh.',
+      },
+    ],
+    comparison: {
+      title: 'Archer BE550 vs. Archer AX72: merită saltul la Wi-Fi 7?',
+      intro: 'Cele două modele TP-Link cele mai căutate, la capete diferite de preț.',
+      aLabel: 'Archer AX72 (Wi-Fi 6)',
+      bLabel: 'Archer BE550 (Wi-Fi 7)',
+      rows: [
+        { criteriu: 'Standard', a: 'Wi-Fi 6, dual-band', b: 'Wi-Fi 7, tri-band cu MLO' },
+        { criteriu: 'Viteză anunțată', a: 'AX5400', b: 'BE9300' },
+        { criteriu: 'Port rapid', a: 'Doar Gigabit', b: '1 x 2.5G' },
+        { criteriu: 'Abonament peste 1 Gbps', a: 'Gâtuit de porturi', b: 'Folosit complet' },
+        { criteriu: 'Extindere', a: 'OneMesh', b: 'EasyMesh' },
+      ],
+      verdict:
+        'Dacă abonamentul tău e de până la 1 Gbps și dispozitivele din casă sunt Wi-Fi 5 sau 6, AX72 îți dă aproape tot ce ai nevoie la jumătate de preț. BE550 se justifică din momentul în care ai fibră mai rapidă, pentru portul de 2.5G, sau dispozitive Wi-Fi 7 care pot folosi MLO.',
+    },
+    faq: [
+      {
+        q: 'Care e diferența dintre Archer și Deco?',
+        a: 'Archer e un router singur, Deco e un sistem mesh format din două sau trei unități care creează o singură rețea, cu roaming automat între ele. Pe același buget, un Archer are specificații mai bune, dar acoperă o suprafață mai mică. Un Deco împarte bugetul pe mai multe unități, deci acoperă uniform o casă, cu viteză de vârf mai mică.',
+      },
+      {
+        q: 'Pot combina un router Archer cu unități Deco?',
+        a: 'Nu în același sistem mesh. Deco formează rețeaua proprie doar între unități Deco, iar Archer se extinde cu extendere OneMesh sau, la modelele noi, cu unități EasyMesh. Dacă ai deja un Archer și vrei acoperire în plus, caută un extender compatibil cu standardul lui, nu un Deco.',
+      },
+      {
+        q: 'Trebuie să plătesc abonament HomeShield?',
+        a: 'Nu, varianta de bază e inclusă și acoperă blocarea site-urilor pe categorii, profiluri de dispozitiv, limite de timp și un raport de rețea. Abonamentul HomeShield Pro adaugă protecție împotriva intruziunilor, rapoarte detaliate și control parental mai fin. Pentru majoritatea familiilor, varianta gratuită e suficientă.',
+      },
+    ],
+  },
+  'routere-wifi/wi-fi-6': {
+    intro:
+      'Wi-Fi 6 și Wi-Fi 6E rămân cea mai rentabilă cumpărătură din 2026, pentru simplul motiv că majoritatea telefoanelor și laptopurilor din casele oamenilor nu sunt încă Wi-Fi 7 și nu pot folosi MLO. Am filtrat topul doar la modelele Wi-Fi 6 și 6E, de la routere singure până la sisteme mesh, și le-am ordonat după viteza pe benzi, prezența unui port de 2.5G și cât de bogat e software-ul de administrare.',
+    guide: [
+      {
+        h3: 'Wi-Fi 6 vs. Wi-Fi 6E: unde e diferența',
+        body: 'Wi-Fi 6 folosește benzile clasice de 2.4 și 5 GHz. Wi-Fi 6E adaugă banda de 6 GHz, un spectru mult mai puțin aglomerat, ceea ce contează enorm într-un bloc cu zeci de rețele vecine. Câștigul nu e atât în viteza maximă, cât în stabilitate: pe 6 GHz nu te mai bați cu routerele vecinilor. Condiția e ca telefonul sau laptopul să suporte 6E, altfel banda rămâne nefolosită.',
+        callout: 'Stai la bloc și Wi-Fi-ul e instabil seara? Un model 6E cu bandă de 6 GHz ajută mai mult decât o viteză mai mare.',
+      },
+      {
+        h3: 'AX3000, AX5400, AX6000: ce înseamnă cifrele',
+        body: 'Cifra e suma teoretică a vitezelor pe toate benzile, nu viteza pe care o va vedea un dispozitiv. Un AX3000 dă în practică câteva sute de Mbps pe un telefon, suficient pentru streaming 4K și lucru de acasă. Diferența dintre AX3000 și AX6000 se simte mai ales când ai mulți utilizatori simultan, nu când ai unul singur care descarcă.',
+      },
+      {
+        h3: 'Portul de 2.5G e mai important decât cifra de viteză',
+        body: 'Un router Wi-Fi 6 cu porturi doar Gigabit limitează internetul la aproximativ 940 Mbps reali, indiferent cât promite Wi-Fi-ul. Dacă ai fibră de 1 Gbps sau mai mult, un model cu port WAN de 2.5G — precum Archer AX80 sau Mercusys MR90X — schimbă mai mult în viteza pe care o măsori decât saltul de la AX3000 la AX6000.',
+        callout: 'Fibră de peste 1 Gbps? Caută explicit "port 2.5G" în specificații, nu doar o cifră AX mare.',
+      },
+    ],
+    comparison: {
+      title: 'Wi-Fi 6 vs. Wi-Fi 7: ce alegi în 2026?',
+      intro: 'Decizia care determină dacă plătești dublu sau nu, pe criteriile care se simt în practică.',
+      aLabel: 'Wi-Fi 6 / 6E',
+      bLabel: 'Wi-Fi 7',
+      rows: [
+        { criteriu: 'Preț pentru specificații similare', a: 'Semnificativ mai mic', b: 'De la 1.5x în sus' },
+        { criteriu: 'MLO (două benzi simultan)', a: 'Nu', b: 'Da' },
+        { criteriu: 'Câștig cu dispozitive actuale', a: 'Folosit integral', b: 'Doar cu telefoane și laptopuri noi' },
+        { criteriu: 'Porturi rapide', a: 'Doar pe modelele de top', b: 'Frecvent, chiar la gama medie' },
+        { criteriu: 'Relevanță în 3–4 ani', a: 'Suficientă', b: 'Mai bună' },
+      ],
+      verdict:
+        'Dacă nu îți schimbi telefonul des și abonamentul e de până la 1 Gbps, un Wi-Fi 6 bun îți dă practic tot, la un preț mult mai mic. Treci la Wi-Fi 7 dacă ai fibră mai rapidă și vrei portul de 2.5G, sau dacă dispozitivele tale sunt deja noi și pot folosi MLO.',
+    },
+    faq: [
+      {
+        q: 'Un router Wi-Fi 6 mai merită cumpărat în 2026?',
+        a: 'Da, pentru majoritatea oamenilor. Wi-Fi 6 e folosit integral de telefoanele și laptopurile din ultimii câțiva ani, iar diferența de preț față de Wi-Fi 7 e mare. Un model Wi-Fi 6 cu port de 2.5G îți dă în practică aceeași viteză măsurată ca un Wi-Fi 7 de gamă medie, atât timp cât nu ai dispozitive care folosesc MLO.',
+      },
+      {
+        q: 'Telefonul meu e Wi-Fi 5. Câștig ceva de la un router Wi-Fi 6?',
+        a: 'Da, dar indirect. Telefonul va merge tot pe Wi-Fi 5, însă un router Wi-Fi 6 gestionează mai eficient multe dispozitive simultan, prin OFDMA și MU-MIMO, deci rețeaua în ansamblu devine mai stabilă. În plus, primești un router mai nou, cu actualizări de securitate pe termen mai lung.',
+      },
+      {
+        q: 'Merită banda de 6 GHz de la Wi-Fi 6E?',
+        a: 'Merită dacă ai cel puțin un dispozitiv compatibil și stai într-o zonă aglomerată, cum e un bloc cu multe rețele. Banda de 6 GHz e aproape goală, deci conexiunea e mult mai stabilă. Dezavantajul e că trece mai greu prin pereți decât 5 GHz, deci e utilă mai ales în camera unde stă routerul.',
+      },
+    ],
+  },
+  'routere-wifi/mesh': {
+    intro:
+      'Un sistem mesh rezolvă o problemă pe care niciun router singur nu o rezolvă: o cameră sau un etaj întreg care rămâne mereu fără semnal. Două sau trei unități formează o singură rețea, cu același nume și aceeași parolă, iar telefonul comută automat pe unitatea cea mai apropiată. Am filtrat topul doar la sistemele mesh și le-am ordonat după numărul de unități, dacă sunt dual sau tri-band și ce porturi rapide au.',
+    guide: [
+      {
+        h3: 'Dual-band vs. tri-band: cea mai importantă decizie',
+        body: 'Într-un sistem dual-band, legătura wireless dintre unități folosește aceleași benzi ca dispozitivele, deci împarte banda cu ele — de aici scăderea de viteză pe unitățile îndepărtate. Un sistem tri-band poate rezerva a treia bandă exclusiv pentru legătura dintre unități, așa că viteza rămâne aproape constantă în toată casa. Diferența de preț e reală, dar și diferența practică într-o casă aglomerată.',
+        callout: 'Casă mare cu mulți utilizatori: tri-band. Apartament cu 3–4 camere și abonament până la 1 Gbps: dual-band e suficient.',
+      },
+      {
+        h3: 'Câte unități îți trebuie și unde le pui',
+        body: 'Pentru un apartament mare pe un nivel, două unități sunt de obicei suficiente. Pentru o casă pe două niveluri, trei unități — una pe fiecare etaj, plus una lângă zona cea mai folosită. Regula de plasare: unitatea secundară trebuie să prindă semnal bun de la prima, nu să fie pusă exact în colțul mort. Dacă legătura dintre unități e slabă, tot sistemul devine slab.',
+      },
+      {
+        h3: 'Legătura pe cablu schimbă totul',
+        body: 'Dacă poți trage un cablu de rețea între unități, fă-o. Un mesh cu legătură pe cablu, numită backhaul cablat, nu mai pierde nimic din bandă pe legătura wireless, deci fiecare unitate livrează viteza completă. Într-o casă cu prize de rețea în pereți, un kit dual-band ieftin cu backhaul cablat bate un kit tri-band scump conectat wireless.',
+        callout: 'Ai prize de rețea în pereți? Un kit dual-band cablat e mai bun și mai ieftin decât un tri-band wireless.',
+      },
+    ],
+    comparison: {
+      title: 'Sistem mesh vs. extender de semnal',
+      intro: 'Cele două soluții pentru o cameră fără semnal, care nu sunt deloc echivalente.',
+      aLabel: 'Extender de semnal',
+      bLabel: 'Sistem mesh',
+      rows: [
+        { criteriu: 'Nume de rețea', a: 'Adesea o a doua rețea separată', b: 'Una singură, în toată casa' },
+        { criteriu: 'Comutare între puncte', a: 'Manuală, telefonul rămâne agățat', b: 'Automată, prin roaming' },
+        { criteriu: 'Pierdere de viteză', a: 'Mare, se înjumătățește frecvent', b: 'Mică la tri-band, moderată la dual-band' },
+        { criteriu: 'Administrare', a: 'Separată de router', b: 'O singură aplicație' },
+        { criteriu: 'Cost', a: 'Mic', b: 'Mai mare, 2–3 unități' },
+      ],
+      verdict:
+        'Un extender e o cârpeală ieftină pentru un singur colț de casă. Dacă problema se repetă în mai multe camere sau pe alt etaj, banii sunt mai bine investiți într-un sistem mesh, unde rețeaua rămâne una singură și comutarea se face fără să o observi.',
+    },
+    faq: [
+      {
+        q: 'Câte unități mesh îmi trebuie?',
+        a: 'Pentru un apartament mare pe un nivel, două unități. Pentru o casă pe două niveluri, trei — una pe fiecare etaj plus una lângă zona cea mai folosită. Mai multe unități nu înseamnă automat mai bine: dacă sunt plasate prea departe una de alta, legătura dintre ele devine punctul slab al întregii rețele.',
+      },
+      {
+        q: 'Pot păstra routerul de la furnizor și să adaug un mesh?',
+        a: 'Da. Cel mai curat e să setezi routerul furnizorului în mod bridge și să lași unitatea principală mesh să gestioneze rețeaua. Dacă nu se poate, conectezi unitatea principală la un port LAN al routerului existent și dezactivezi Wi-Fi-ul de pe el, ca să nu ai două rețele care se suprapun.',
+      },
+      {
+        q: 'De ce scade viteza pe unitatea a doua?',
+        a: 'Pentru că la sistemele dual-band legătura wireless dintre unități folosește aceeași bandă ca dispozitivele, deci se împarte. Soluțiile sunt un sistem tri-band, care rezervă o bandă doar pentru legătura dintre unități, sau o legătură pe cablu între ele, care elimină complet problema.',
+      },
+      {
+        q: 'Merită un mesh Wi-Fi 7 sau rămân la Wi-Fi 6?',
+        a: 'La sisteme mesh, Wi-Fi 7 aduce un avantaj în plus față de routerele singure: MLO face legătura dintre unități mai stabilă. Dacă alegi un kit dual-band, un model Wi-Fi 7 e o alegere mai bună decât un Wi-Fi 6 la același preț. Dacă poți trage cablu între unități, generația contează mult mai puțin.',
+      },
+    ],
+  },
   // ─────────────────────────── GRĂTARE ───────────────────────────
   'gratare/gaz': {
     intro:

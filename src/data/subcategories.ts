@@ -7,7 +7,7 @@
 // (12.000 BTU, 20.000 mAh, 9 kg, 60 cm, …). A segment only becomes a page/card
 // when at least one product matches it, so empty segments are skipped.
 
-type Product = { name: string; specs?: { value: string; label: string }[] };
+type Product = { name: string; specs?: { value: string; label: string }[]; segments?: string[] };
 
 // Normalise: lowercase, strip diacritics and separators so "24.000 mAh" and
 // "12000 BTU" match cleanly by substring.
@@ -23,7 +23,10 @@ function hay(p: Product): string {
 
 // `group` lets one category expose several segment dimensions at once (e.g. TVs by
 // brand AND by size). When set, it overrides `navLabel` for that segment's display.
-export type SegmentDef = { slug: string; label: string; keywords: string[]; group?: string };
+// `h1Suffix` overrides `label` inside the segment page's
+// "Cele mai bune <categorie> <suffix> în 2026" heading, for the cases where the
+// chip label would duplicate a word already in the category name (routere Wi-Fi + Wi-Fi 6).
+export type SegmentDef = { slug: string; label: string; keywords: string[]; group?: string; h1Suffix?: string };
 export type CategoryConfig = { kind: 'brand' | 'spec'; navLabel: string; segments: SegmentDef[] };
 
 export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
@@ -167,9 +170,23 @@ export const CATEGORY_SEGMENTS: Record<string, CategoryConfig> = {
       { slug: 'philips', label: 'Philips', keywords: ['philips'], group: 'Pe brand' },
     ],
   },
+  'routere-wifi': {
+    kind: 'brand', navLabel: 'Filtrează',
+    // Membership is declared per product via `segments` in routere-wifi.json — the
+    // keywords below are only a fallback, because "EasyMesh"/"AiMesh"/"OneMesh" appear
+    // in the names of single routers and would drag them into the mesh segment.
+    segments: [
+      { slug: 'tp-link', label: 'TP-Link', keywords: ['tp-link'], group: 'Pe brand' },
+      { slug: 'wi-fi-6', label: 'Wi-Fi 6 / 6E', keywords: ['wi-fi 6'], group: 'Pe standard', h1Suffix: '6 și 6E' },
+      { slug: 'mesh', label: 'Sistem mesh', keywords: ['Sistem mesh'], group: 'Pe tip', h1Suffix: 'mesh' },
+    ],
+  },
 };
 
 export function productMatchesSegment(p: Product, seg: SegmentDef): boolean {
+  // A product may state its segments itself (routere-wifi), which beats keyword
+  // guessing when brand/spec words also appear inside model names (EasyMesh, AiMesh…).
+  if (p.segments) return p.segments.includes(seg.slug);
   const h = hay(p);
   return seg.keywords.some((k) => h.includes(norm(k)));
 }

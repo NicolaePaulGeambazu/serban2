@@ -39,7 +39,7 @@ export async function getStaticPaths() {
         params: { cat: catId, seg: seg.slug },
         props: {
           cat, kind: cfg.kind, navLabel: segNav,
-          segLabel: seg.label, catName: clean(cat.data.h1), products, others,
+          segLabel: seg.label, segH1: seg.h1Suffix ?? seg.label, catName: clean(cat.data.h1), products, others,
         },
       });
     }
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { cat, kind, navLabel, segLabel, catName, products, others } = Astro.props;
+const { cat, kind, navLabel, segLabel, segH1, catName, products, others } = Astro.props;
 const d = cat.data;
 const winner = products[0];
 const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -60,7 +60,7 @@ const guide = sc.guide ?? d.guide;
 const comparison = 'comparison' in sc ? sc.comparison : d.comparison;
 const faq = sc.faq ?? d.faq;
 
-const h1 = `Cele mai bune ${catName} ${segLabel} în 2026`;
+const h1 = `Cele mai bune ${catName} ${segH1} în 2026`;
 const intro = sc.intro ?? `Cauți ${catName} ${segLabel}? Am filtrat topul nostru și ți-am lăsat doar aceste modele, ordonate pe baza specificațiilor, a dotărilor și a recenziilor. Mai jos ai fiecare model, cu verdictul nostru și link direct către eMAG.`;
 
 const itemList = {
