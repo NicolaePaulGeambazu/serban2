@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { site } from '../data/site';
+import { segmentsWithProducts } from '../data/subcategories';
 
 export const GET: APIRoute = async () => {
   const base = site.url.replace(/\/$/, '');
@@ -41,7 +42,14 @@ export const GET: APIRoute = async () => {
   staticPaths.forEach((p) =>
     urls.push({ loc: base + p, lastmod: aggregatorPaths.has(p) ? siteLastmod : undefined })
   );
-  cats.forEach((c) => urls.push({ loc: `${base}/clasament/${c.id}/`, lastmod: c.data.updated }));
+  cats.forEach((c) => {
+    urls.push({ loc: `${base}/clasament/${c.id}/`, lastmod: c.data.updated });
+    // Sub-ranking pages are real, indexable pages generated from the same data,
+    // so they belong here too — same lastmod as the category they come from.
+    for (const seg of segmentsWithProducts(c.id, c.data.products)) {
+      urls.push({ loc: `${base}/clasament/${c.id}/${seg.slug}/`, lastmod: c.data.updated });
+    }
+  });
   guides.forEach((g) =>
     urls.push({ loc: `${base}/ghiduri/${g.id.replace(/\.md$/, '')}/`, lastmod: g.data.updated })
   );
