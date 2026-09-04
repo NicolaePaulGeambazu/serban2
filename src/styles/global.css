@@ -347,7 +347,7 @@ a.chip:hover{border-color:var(--emerald);color:var(--emerald)}
   .am-row{grid-template-columns:28px 44px 1fr auto;row-gap:8px;padding:12px}
   .am-shot{width:44px;height:44px}
   .am-cta{grid-column:3 / -1;justify-self:start}
-
+}
 .prod-card{background:var(--paper-2);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:grid;grid-template-columns:210px 1fr 250px;scroll-margin-top:132px}
 .prod-card.win{border-color:var(--gold);box-shadow:0 0 0 3px var(--gold-soft),var(--shadow)}
 .prod-card.flash{animation:flash 2.4s ease}
