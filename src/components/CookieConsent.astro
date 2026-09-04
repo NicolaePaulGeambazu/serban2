@@ -10,7 +10,6 @@ const gtmId = site.googleTagManagerId;
     <p><b>Ne ajuți cu un accept? 😊</b> Cu el vedem ce topuri îți plac, ca să ți le facem mai bune, iar partenerii știu că ai venit de la noi — așa rămânem gratuiți și independenți. Nu vindem date personale, promis. <button class="ck-link" id="ckPolicy1">Politica de cookie-uri</button></p>
     <div class="ck-btns">
       <button class="ck-ok" id="ckAll">Accept</button>
-      <button class="ck-alt" id="ckReject">Doar necesare</button>
       <button class="ck-link" id="ckOpen">Setări</button>
     </div>
   </div>
@@ -119,7 +118,6 @@ const gtmId = site.googleTagManagerId;
     function acceptAll() { save({ necessary: true, analytics: true, marketing: true }); }
     document.getElementById('ckAll').addEventListener('click', acceptAll);
     document.getElementById('ckAll2').addEventListener('click', acceptAll);
-    document.getElementById('ckReject').addEventListener('click', function () { save({ necessary: true, analytics: false, marketing: false }); });
     document.getElementById('ckSave').addEventListener('click', function () { save({ necessary: true, analytics: cbA.checked, marketing: cbM.checked }); });
     document.getElementById('ckOpen').addEventListener('click', openModal);
     document.getElementById('ckPolicy1').addEventListener('click', openModal);
