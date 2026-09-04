@@ -5,8 +5,11 @@ name: Verify Google Ads access
 # consent screen is in "Testing" mode, which breaks BOTH the webhook and the cron.
 # A failed scheduled run notifies the repo (GitHub emails watchers) so it's caught early.
 on:
-  schedule:
-    - cron: '0 6 * * *' # daily 06:00 UTC
+  # PAUSED: the OAuth refresh token returns invalid_grant, so every scheduled run
+  # fails and mails the repo. Re-enable after minting a new refresh token with the
+  # datamanager scope (and publishing the OAuth consent screen so it stops expiring).
+  # schedule:
+  # - cron: '0 6 * * *' # daily 06:00 UTC
   workflow_dispatch: {}
 
 jobs:

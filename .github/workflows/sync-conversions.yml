@@ -12,8 +12,11 @@ name: Sync affiliate conversions to Google Ads
 #   (optional) GOOGLE_ADS_LOGIN_CUSTOMER_ID
 
 on:
-  schedule:
-    - cron: '0 */4 * * *' # every 4 hours (UTC) — safety net; the webhook is the primary path
+  # PAUSED: the OAuth refresh token returns invalid_grant, so every scheduled run
+  # fails and mails the repo. Re-enable after minting a new refresh token with the
+  # datamanager scope (and publishing the OAuth consent screen so it stops expiring).
+  # schedule:
+  # - cron: '0 */4 * * *' # every 4 hours (UTC) — safety net; the webhook is the primary path
   workflow_dispatch: {}   # allow manual run from the Actions tab
 
 jobs:
