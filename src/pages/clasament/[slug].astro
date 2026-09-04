@@ -27,7 +27,8 @@ const updated = new Date(d.updated).toLocaleDateString('ro-RO', { day: 'numeric'
 // Main ranking shows the top 10; overflow stays reachable via the brand/spec
 // segment pages below. Segments + QuickPicks still use the full `d.products`.
 const MAX_RANK = 10;
-const ranked = [...d.products].sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0)).slice(0, MAX_RANK);
+const sortedAll = [...d.products].sort((a, b) => (a.rank ?? 0) - (b.rank ?? 0));
+const ranked = sortedAll.slice(0, MAX_RANK);
 
 const itemList = {
   '@context': 'https://schema.org',
@@ -110,6 +111,38 @@ const segGroups = [...new Set(_segs.map((s) => s.group ?? _navDefault))].map((g)
       <p class="empty" id="empty">Niciun model nu se potrivește cu filtrele alese. <button class="ck-link" id="clearF" style="color:var(--emerald)">Resetează filtrele</button></p>
     </div>
   </div>
+
+  {/* Full catalogue. The ranking above stays at 10 places on purpose, so this is
+      where every product in the category is actually reachable. */}
+  {sortedAll.length > MAX_RANK && (
+    <section class="all-models" id="toate">
+      <div class="wrap">
+        <div class="am-head">
+          <h2>Toate cele {sortedAll.length} de modele</h2>
+          <p>Primele {MAX_RANK} locuri sunt detaliate mai sus, cu verdict complet. Mai jos ai întreaga categorie, în ordinea clasamentului.</p>
+        </div>
+        <ol class="am-list">
+          {sortedAll.map((p) => (
+            <li class="am-row">
+              <span class="am-rank">{p.rank}</span>
+              {p.image
+                ? <img class="am-shot" src={p.image} alt={p.name} width="56" height="56" loading="lazy" decoding="async" />
+                : <span class="am-shot am-shot-ic"><Icon name={d.icon} /></span>}
+              <a class="am-name" href={`#${p.id}`}>{p.name}</a>
+              <span class="am-score">{p.score.toLocaleString('ro-RO')}</span>
+              <a
+                class="am-cta"
+                href={deeplink(p.affiliateUrl || p.emagUrl)}
+                rel={AFFILIATE_REL}
+                target="_blank"
+                aria-label={`Vezi ${p.name} pe eMAG`}
+              >Vezi pe eMAG</a>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+  )}
 
   <!-- GUIDE -->
   {d.guide.length > 0 && (

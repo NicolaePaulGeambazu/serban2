@@ -328,6 +328,26 @@ a.chip:hover{border-color:var(--emerald);color:var(--emerald)}
 .sortbox select{font-family:var(--sans);font-size:.85rem;border:1px solid var(--line);border-radius:9px;padding:8px 10px;background:var(--paper-2);color:var(--text);font-weight:600}
 
 .rank-list{display:flex;flex-direction:column;gap:18px;padding:30px 0}
+/* Full-catalogue list under the top-10 ranking (see clasament/[slug].astro) */
+.all-models{padding:8px 0 34px}
+.am-head h2{font-size:1.35rem;margin:0 0 6px}
+.am-head p{color:var(--muted);font-size:.92rem;margin:0 0 18px;max-width:64ch}
+.am-list{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--paper-2)}
+.am-row{display:grid;grid-template-columns:34px 56px 1fr auto auto;align-items:center;gap:12px;padding:10px 14px;border-top:1px solid var(--line)}
+.am-row:first-child{border-top:0}
+.am-rank{font-family:var(--mono);font-size:.82rem;font-weight:700;color:var(--muted);text-align:center}
+.am-shot{width:56px;height:56px;object-fit:contain;border-radius:8px;background:#fff}
+.am-shot-ic{display:grid;place-items:center;color:var(--muted)}
+.am-name{font-size:.92rem;font-weight:600;color:var(--text);text-decoration:none;line-height:1.35}
+.am-name:hover{text-decoration:underline}
+.am-score{font-family:var(--mono);font-size:.9rem;font-weight:700;color:var(--emerald)}
+.am-cta{font-family:var(--mono);font-size:.74rem;font-weight:700;white-space:nowrap;text-decoration:none;color:var(--text);border:1px solid var(--line);border-radius:999px;padding:7px 12px}
+.am-cta:hover{border-color:var(--emerald);color:var(--emerald)}
+@media (max-width:640px){
+  .am-row{grid-template-columns:28px 44px 1fr auto;row-gap:8px;padding:12px}
+  .am-shot{width:44px;height:44px}
+  .am-cta{grid-column:3 / -1;justify-self:start}
+
 .prod-card{background:var(--paper-2);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:grid;grid-template-columns:210px 1fr 250px;scroll-margin-top:132px}
 .prod-card.win{border-color:var(--gold);box-shadow:0 0 0 3px var(--gold-soft),var(--shadow)}
 .prod-card.flash{animation:flash 2.4s ease}
