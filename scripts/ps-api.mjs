@@ -16,14 +16,13 @@ const API_USER = process.env.PROFITSHARE_API_USER;
 const API_KEY = process.env.PROFITSHARE_API_KEY;
 const HOST = 'api.profitshare.ro';
 
-if (!API_USER || !API_KEY) {
-  console.error('Missing PROFITSHARE_API_USER / PROFITSHARE_API_KEY env vars.');
-  process.exit(1);
-}
+const MISSING = 'Missing PROFITSHARE_API_USER / PROFITSHARE_API_KEY env vars.';
 
 // Note: the `Date` header is a "forbidden header" in fetch/undici (silently dropped),
 // so we use the low-level https module to set it — the signature depends on it.
+// Importable from Vercel Functions too: no process.exit here, missing creds come back as an error result.
 export function psRequest(verb, methodPath, queryString = '', body = null) {
+  if (!API_USER || !API_KEY) return Promise.resolve({ status: 0, json: null, text: MISSING });
   const date = new Date().toUTCString(); // RFC1123 GMT
   // signature = VERB + methodPath + "?" + queryString + "/" + apiUser + date  (per API docs; body not signed)
   const signature = `${verb}${methodPath}?${queryString}/${API_USER}${date}`;
@@ -57,6 +56,7 @@ export function psRequest(verb, methodPath, queryString = '', body = null) {
 
 // ---- CLI (only when run directly) ----
 if (import.meta.url === `file://${process.argv[1]}`) {
+  if (!API_USER || !API_KEY) { console.error(MISSING); process.exit(1); }
   const [cmd, arg1, arg2] = process.argv.slice(2);
   if (cmd === 'advertisers') {
     const r = await psRequest('GET', 'affiliate-advertisers/', '');

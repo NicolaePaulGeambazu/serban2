@@ -1,0 +1,34 @@
+name: Sync eMAG campaigns
+
+# Daily: refresh src/data/campaigns.json from the Profitshare campaigns API and
+# commit it if anything changed (the push triggers a redeploy).
+# Uses the PROFITSHARE_API_USER / PROFITSHARE_API_KEY repository secrets.
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # 05:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Sync campaigns
+        env:
+          PROFITSHARE_API_USER: ${{ secrets.PROFITSHARE_API_USER }}
+          PROFITSHARE_API_KEY: ${{ secrets.PROFITSHARE_API_KEY }}
+        run: node scripts/sync-campaigns.mjs
+      - name: Commit if changed
+        run: |
+          git diff --quiet src/data/campaigns.json && exit 0
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+          git commit -am "chore(campanii): sincronizez campaniile eMAG"
+          git push
