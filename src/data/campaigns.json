@@ -1,12 +1,5 @@
 [
   {
-    "id": 21343,
-    "name": "Chillmas Deals",
-    "start": "2026-11-07",
-    "end": "2026-11-23",
-    "url": "https://l.profitshare.ro/l/17000423"
-  },
-  {
     "id": 21345,
     "name": "Cadouri pentru toti",
     "start": "2026-11-11",
@@ -19,5 +12,12 @@
     "start": "2026-11-16",
     "end": "2026-12-01",
     "url": "https://l.profitshare.ro/l/17218853"
+  },
+  {
+    "id": 21343,
+    "name": "Chillmas Deals",
+    "start": "2026-11-18",
+    "end": "2026-11-30",
+    "url": "https://l.profitshare.ro/l/17000423"
   }
 ]
